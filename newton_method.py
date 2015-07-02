@@ -1,5 +1,6 @@
 # import seaborn
 import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
 import numpy as np
 from numba import jit
 
@@ -15,6 +16,8 @@ def dfx(x):
     return 3*x**2
 
 
+# XXX: This method produces strange result, the blue just vanishes if I increase
+# the number of iteration, also the plot is not symmetric between the color
 @jit(nopython=True)
 def newton_method(x, N):
     for i in xrange(N):
@@ -24,10 +27,13 @@ def newton_method(x, N):
 
 @jit(nopython=True)
 def newton_method_close(x, N):
-    eps = 0.01
+    eps = 0.00000001
     f_x = fx(x)
-    while np.abs(f_x) > eps:
+    i = 0
+    while np.abs(f_x) > eps and i < N:
         x = x - f_x/dfx(x)
+        i = i + 1
+    f_x = fx(x)
     return x
 
 
@@ -40,8 +46,8 @@ def sol_num(x):
     # SOLS_list = [1, -0.5 + np.sqrt(3.0/2), -0.5 - np.sqrt(3.0/2)]
     SOLS = np.zeros(3, dtype=np.complex64)
     SOLS[0] = 1
-    SOLS[1] = -0.5 + np.sqrt(3.0/2)
-    SOLS[2] = -0.5 - np.sqrt(3.0/2)
+    SOLS[1] = -0.5 + np.sqrt(3.0/2)*1j
+    SOLS[2] = -0.5 - np.sqrt(3.0/2)*1j
 
     # for i in range(3):
     #     SOLS[i] = SOLS_list[i]
@@ -68,5 +74,5 @@ import sys
 RES = int(sys.argv[1])
 iter_num = int(sys.argv[2])
 plane = get_image(RES=RES, iter_num=iter_num)
-plt.imshow(plane)
-plt.savefig('newton_method_%s_%s.png' % (RES, iter_num))
+# plt.imshow(plane)
+mpimg.imsave('newton_method_%s_%s.png' % (RES, iter_num), plane)
