@@ -27,11 +27,13 @@ def get_selection_value(N, M):
     good_enough = filter(lambda x: x>8, vals)
     return sum(good_enough)
 
-runs = 100
+runs = 500
 N = 20
 for i in range(21):
-    print("good graders: %s, average graders: %s, average utitlity: %s" %
-            (i, N-i, sum([get_selection_value(N, i) for x in range(runs)])/runs))
+    pools = [get_selection_value(N, i) for x in range(runs)]
+    print("good graders: %s, average graders: %s" % (i, N-i))
+    print("mean utitlity: %.2f, median utility: %.2f, min utility: %.2f, max utility: %.2f"
+            % (np.mean(pools), np.median(pools), np.min(pools), np.max(pools)))
 
 # This is monotonic it is better to take just one group and leave the rest than
 # taking a combination
