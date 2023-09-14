@@ -1,0 +1,73 @@
+Fixie.aiHomeBlogGITHUBLoginThe platform for Conversational AIFixie is the world's leading platform for building conversational AIÂ Sidekicks that are designed to answer questions, take action, and live directly alongside your application.Thank you! Your submission has been received!Oops! Something went wrong while submitting the form.CREATEBuild powerful, customized SidekicksFrom no-code to full-code, build Sidekicks that are grounded, action-oriented, and customized to your needs.
+
+
+
+
+
+
+
+
+
+
+
+Grounded on your knowledgeWe use state-of-the-art techniques to accurately ground your Sidekick on your information, even if the model has never seen it before. No need to spin up a data science team. Just point us at your docs and we'll do the rest.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Action-orientedTeach your Sidekick to fetch real-time information, call APIs, and interact with the outside world. And don't worry, Sidekicks won't take any action without user consent first.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Multi-Modal with Generative UIWe love text, but real-world use cases demand more. Fixie is designed from the ground up to be multi-modal. This means it can handle images, video, and more.âFixie Sidekicks can also generate custom, dynamic UI on-demand. Render React components directly alongside standard model responses.MANAGEManage your SidekicksThe Fixie platform is designed to provide everything you need to start fast and scale quickly.HostedStart with no-code or deploy your own fully-customized Sidekicks with fixie deploy. We take care of the hard stuff so you don't have to worry about it.ObservableUnderstand what's happening across the entire lifecycle of your Sidekick. EmbeddableFixie Sidekicks are designed to be embedded right alongside your application. Drop in some Javascript and you're ready to go. When you're ready, go even deeper with a custom communication bridge between your application and your Fixie agent.AI.JSX â The open source coreHow it worksFixie is build on top of a powerful, open-source framework for building AI applications in Javascript. Some of its key features:âModel Support â Use OpenAI, Anthropic, Llama2, or BYOM. Seamlessly switch between model providers and LLM config.âComplete AI Toolbox â Built-in support for Tools, Document Question and Answering, and more.âGenerative UI â Seamlessly interweave LLM calls with standard UI components. LLM can dynamically render UI from a set of components you provide.Observability â Designed from the ground up to help you understand what's happening and when.CHECKÂ OUTÂ AI.JSX ONÂ GITHUB
+
+
+
+
+
+
+
+
+
+Why Fixie?
+
+
+
+
+
+ExpertiseWe've been at the forefront of LLMs since the inception of our company. We're one of the leading companies in the applied LLM space.
+
+
+
+
+
+ExtensibilityFixie makes it incredibly easy to get started building agents (no code necessary), but we've built the whole system to be extensible from the beginning.
+
+
+Open-sourceWith Fixie, there's no risk of lock-in. Our agents are built on top of an open-source framework, AI.JSX.
+
+
+HostedTurnkey and enterprise-ready. Fixie provides a fully-hosted, ready-to-scale, environment. Need on-prem? We've got you.Want to learn more?Request a demoWe'd love to chat about how we can bring Generative AI to your applications.Thank you! Your submission has been received!Oops! Something went wrong while submitting the form.Request a demoBuild natural language agents that connect to your data, talk to APIs, and solve complex problems.Thank you! Your submission has been received!Oops! Something went wrong while submitting the form.COMPANYCareersBlogCONTACThello@fixie.aiÂ© 2023 Fixie.ai, Inc. All Rights reserved

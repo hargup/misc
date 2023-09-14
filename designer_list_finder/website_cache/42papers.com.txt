@@ -1,0 +1,741 @@
+
+
+
+
+
+
+
+
+
+
+Top Trending AI Papers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+42Papers, Top Trending AI Papers & News
+      
+
+
+
+
+
+
+
+
+
+
+
+
+Mon May 15 2023
+
+
+
+
+
+
+
+
+
+Dr. LLaMA: Improving Small Language Models in Domain-Specific QA via Generative Data Augmentation
+
+
+  Machine Learning
+
+
+  Natural Language Processing
+
+  Artificial Intelligence
+
+
+  Medical question-answering tasks
+
+
+This paper introduces Dr. LLaMA, a method for improving SLMs through generative data augmentation using LLMs, focusing on medical question-answering tasks and the PubMedQA dataset. The findings indicate that LLMs effectively refine and diversify existing question-answer pairs, resulting in improved performance of a much smaller model on domain-specific QA datasets after fine-tuning. This study suggests potential research directions to create more efficient and capable models for specialized applications.
+
+
+
+
+Dr. LLaMA can be used to improve small language models in domain-specific question-answering tasks. By leveraging larger language models, Dr. LLaMA can refine and diversify existing question-answer pairs to improve performance. This can be valuable for businesses in the healthcare industry or other specialized fields that require domain-specific language models.
+
+
+
+
+
+
+https://arxiv.org/pdf/2305.07804.pdf
+
+
+
+
+https://arxiv.org/abs/2305.07804
+
+
+
+
+https://huggingface.co/papers/2305.07804
+
+
+
+
+https://twitter.com/_akhaliq/status/1658295908646154242/photo/1
+
+
+
+
+
+
+
+
+
+
+AutoRecon: Automated 3D Object Discovery and Reconstruction
+
+
+  Machine Learning
+
+
+  Computer Vision
+
+  Artificial Neural Networks
+
+
+  Digital content creation
+
+
+This paper proposes a novel framework named AutoRecon for the automated discovery and reconstruction of an object from multi-view images. AutoRecon can robustly locate and segment foreground objects from SfM point clouds by leveraging self-supervised 2D vision transformer features, then reconstruct decomposed neural scene representations with dense supervision provided by the decomposed point clouds, resulting in accurate object reconstruction and segmentation. Experiments on the DTU, BlendedMVS and CO3D-V2 datasets demonstrate the effectiveness and robustness of AutoRecon.
+
+
+
+
+AutoRecon can be used for automated object reconstruction and segmentation, which can save businesses time and resources on manual labeling and annotation tasks. This can be valuable for digital content creation companies or businesses that utilize 3D object models.
+
+
+
+
+
+
+https://arxiv.org/pdf/2305.08810.pdf
+
+
+
+
+https://arxiv.org/abs/2305.08810
+
+
+
+
+https://huggingface.co/papers/2305.08810
+
+
+
+
+https://zju3dv.github.io/autorecon/
+
+
+
+
+https://twitter.com/_akhaliq/status/1658336784122540033/photo/1
+
+
+
+
+
+
+
+
+
+
+DarkBERT: A Language Model for the Dark Side of the Internet
+
+
+  Machine Learning
+
+
+  Natural Language Processing
+
+  Artificial Intelligence
+
+
+  The Dark Web
+
+
+This paper introduces DarkBERT, a language model pretrained on Dark Web data. DarkBERT was trained to combat the extreme lexical and structural diversity of the Dark Web that may be detrimental to building a proper representation of the domain. The evaluations show that DarkBERT outperforms current language models and may serve as a valuable resource for future research on the Dark Web.
+
+
+
+
+DarkBERT can be used to analyze the language used in the Dark Web, providing valuable insights to researchers. This can be valuable for businesses that need to monitor and analyze the Dark Web for security or other reasons.
+
+
+
+
+
+
+https://arxiv.org/pdf/2305.08596.pdf
+
+
+
+
+https://arxiv.org/abs/2305.08596
+
+
+
+
+https://twitter.com/arankomatsuzaki/status/1658287329927364608/photo/1
+
+
+
+
+
+
+
+
+
+
+CodeT5+: Open Code Large Language Models for Code Understanding and Generation
+
+
+  Computer Science
+
+
+  Large Language Models
+
+  Code Intelligence
+
+
+  code generation and completion
+
+  math programming
+
+  text-to-code retrieval tasks
+
+
+CodeT5+ is a family of encoder-decoder LLMs for code that can be flexibly combined to suit a wide range of downstream code tasks. They propose a mixture of pretraining objectives to mitigate the pretrain-finetune discrepancy and explore instruction-tuning to align with natural language instructions. They observe state-of-the-art model performance on various code-related tasks.
+
+
+
+
+Implement CodeT5+ to improve code-related tasks and achieve state-of-the-art performance. Consider using a mixture of pretraining objectives to mitigate the pretrain-finetune discrepancy and instruction-tuning to align with natural language instructions.
+
+
+
+
+
+
+https://arxiv.org/pdf/2305.07922.pdf
+
+
+
+
+https://arxiv.org/abs/2305.07922
+
+
+
+
+https://twitter.com/arankomatsuzaki/status/1658291716825423873/photo/1
+
+
+
+
+
+
+
+
+
+
+Small Models are Valuable Plug-ins for Large Language Models
+
+
+  Computer Science
+
+
+  Large Language Models
+
+  Machine Learning
+
+
+  performance improvement on supervised tasks
+
+
+Super In-Context Learning (SuperICL) allows black-box LLMs to work with locally fine-tuned smaller models, resulting in superior performance on supervised tasks. SuperICL improves performance beyond state-of-the-art fine-tuned models while addressing the instability problem of in-context learning. Furthermore, SuperICL can enhance the capabilities of smaller models, such as multilinguality and interpretability.
+
+
+
+
+Consider using Super In-Context Learning (SuperICL) to improve performance on supervised tasks beyond traditional fine-tuning methods. SuperICL can also enhance the capabilities of smaller models, such as multilinguality and interpretability.
+
+
+
+
+
+
+https://arxiv.org/pdf/2305.08848.pdf
+
+
+
+
+https://arxiv.org/abs/2305.08848
+
+
+
+
+https://huggingface.co/papers/2305.08848
+
+
+
+
+https://twitter.com/_akhaliq/status/1658285734321704960/photo/1
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sun May 14 2023
+
+
+
+
+
+
+
+
+
+MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers
+
+
+  NLP
+
+
+  AI model architecture
+
+  Sequence modeling
+
+
+  Language modeling
+
+  Density estimation
+
+  Audio modeling
+
+
+The paper proposes Megabyte, a multi-scale decoder architecture that enables end-to-end differentiable modeling of sequences of over one million bytes. This allows byte-level models to perform competitively with subword models on long context language modeling, achieve state-of-the-art density estimation on ImageNet, and model audio from raw files.
+
+
+
+
+Implement Megabyte to improve language modeling, density estimation, and audio modeling.
+
+
+
+
+
+
+https://arxiv.org/pdf/2305.07185.pdf
+
+
+
+
+https://arxiv.org/abs/2305.07185
+
+
+
+
+https://huggingface.co/papers/2305.07185
+
+
+
+
+https://twitter.com/_akhaliq/status/1657919671092539394/photo/1
+
+
+
+
+
+
+
+
+
+
+HACK: Learning a Parametric Head and Neck Model for High-fidelity Animation
+
+
+  Computer graphics
+
+
+  Parametric modeling
+
+  Biomechanics
+
+
+  Animation
+
+
+HACK is a novel parametric model for constructing the head and cervical region of digital humans. The model seeks to disentangle the full spectrum of neck and larynx motions, facial expressions, and appearance variations. HACK provides personalized and anatomically consistent controls, particularly for the neck regions, offering more accurate and expressive controls. This approach has significant benefits for numerous applications and enables inter-correlation analysis between head and neck for fine-grained motion synthesis and transfer.
+
+
+
+
+Use HACK to create high-fidelity animations with anatomically consistent controls for the head and neck regions.
+
+
+
+
+
+
+https://arxiv.org/pdf/2305.04469.pdf
+
+
+
+
+https://arxiv.org/abs/2305.04469
+
+
+
+
+https://huggingface.co/papers/2305.04469
+
+
+
+
+https://twitter.com/_akhaliq/status/1657806182306676737/video/1
+
+
+
+
+
+
+
+
+
+
+ArtGPT-4: Artistic Vision-Language Understanding with Adapter-enhanced MiniGPT-4
+
+
+  Natural language processing
+
+
+  Multimodal learning
+
+  Vision-language understanding
+
+
+  Image generation
+
+  Web development
+
+
+ArtGPT-4 is a multimodal model trained on image-text pairs using a Tesla A100 device in just 2 hours, using only about 200 GB of data. The model can depict images with an artistic flair and generate visual code, including aesthetically pleasing HTML/CSS web pages. The article proposes novel benchmarks for evaluating the performance of vision-language models, and ArtGPT-4 scored higher than the current model and was only slightly worse than artists on the 6-point scale.
+
+
+
+
+Implement ArtGPT-4 to generate images with an artistic flair and visually pleasing web pages.
+
+
+
+
+
+
+https://arxiv.org/pdf/2305.07490.pdf
+
+
+
+
+https://arxiv.org/abs/2305.07490
+
+
+
+
+https://huggingface.co/papers/2305.07490
+
+
+
+
+https://huggingface.co/Tyrannosaurus/ArtGPT-4
+
+
+
+
+https://twitter.com/_akhaliq/status/1657917925456502784/photo/1
+
+
+
+
+
+
+
+
+
+
+Universal Source Separation with Weakly Labelled Data
+
+
+  Computational auditory scene analysis
+
+
+  Audio analysis
+
+  Sound processing
+
+
+  Music source separation
+
+  Sound event separation
+
+  Speech enhancement
+
+
+This paper proposes a universal audio source separation framework that uses weakly labeled audio data to separate arbitrary sound sources via a single model. The proposed system achieved significant improvements in separating a wide variety of sound classes, including sound event separation, music source separation, and speech enhancement.
+
+
+
+
+Implementing this framework can significantly improve audio analysis and processing in various industries, including music, entertainment, and security.
+
+
+
+
+
+
+https://arxiv.org/pdf/2305.07447.pdf
+
+
+
+
+https://arxiv.org/abs/2305.07447
+
+
+
+
+https://huggingface.co/papers/2305.07447
+
+
+
+
+https://github.com/bytedance/uss
+
+
+
+
+https://twitter.com/_akhaliq/status/1657952982598557696/photo/1
+
+
+
+
+
+
+
+
+
+
+Optimizing Memory Mapping Using Deep Reinforcement Learning
+
+
+  Reinforcement Learning
+
+
+  Resource scheduling
+
+  Memory mapping
+
+
+  Cloud computing
+
+  Machine learning acceleration
+
+
+This paper introduces a Reinforcement Learning (RL) agent, mallocMuZero, to solve the memory mapping problem that occurs during compilation of machine learning programs. The proposed system outperformed the default solver used by the Accelerated Linear Algebra (XLA) compiler on a benchmark of realistic ML workloads and improved the execution time of the recently published AlphaTensor matrix multiplication model.
+
+
+
+
+Implementing this approach can significantly improve the resource scheduling and allocation in various industries, including cloud computing and machine learning acceleration.
+
+
+
+
+
+
+https://arxiv.org/pdf/2305.07440.pdf
+
+
+
+
+https://arxiv.org/abs/2305.07440
+
+
+
+
+https://huggingface.co/papers/2305.07440
+
+
+
+
+https://twitter.com/_akhaliq/status/1657992287002017793/photo/1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thu May 11 2023
+
+
+
+
+
+
+Wed May 10 2023
+
+
+
+
+
+
+Tue May 09 2023
+
+
+
+
+
+
+Mon May 08 2023
+
+
+
+
+
+
+Sun May 07 2023
+
+
+
+
+
+
+Thu May 04 2023
+
+
+
+
+
+
+Thu May 04 2023
+
+
+
+
+
+
+Wed May 03 2023
+
+
+
+
+
+
+Wed May 03 2023
+
+
+
+
+
+
+Tue May 02 2023
+
+
+
+
+
+
+Tue May 02 2023
+
+
+
+
+
+
+Mon May 01 2023
+
+
+
+
+
+
+Sun Apr 30 2023
+
+
+
+
+
+
+Thu Apr 27 2023
+
+
+
+
+
+
+Wed Apr 26 2023
+
+
+
+
+
+
+Tue Apr 25 2023
+
+
+
+
+
+
+Mon Apr 24 2023
+
+
+
+
+
+
+Sun Apr 23 2023
+
+
+
+
+
+
+
+      42Papers Inc.
+    

@@ -1,0 +1,28 @@
+Cerebrium - Serverless infrastructure for ML
+
+
+
+
+
+
+
+
+
+DocsPricingBlogExamplesBountiesLogindrag_handlecloseServerless infrastructure for MLA machine learning platform that makes it easier to train, deploy and monitor machine learning models with just a few lines of code.Start a projectDocumentation$10 free credit - no credit card required
+
+Trusted & Backed By Our Users01Â· DeployServerless GPU Model DeploymentDeploy all major MLÂ frameworks such as Pytorch, Onnx or models from HuggingFace etc with 1 line of code. Don't have your own models? Deploy our prebuilt models that have been optimised to run with sub-second latency.One Click Deploymentsnavigate_nextDeploy models from our optimised library such as Flan-T5, Stable Diffusion with one clickSupport all major frameworksnavigate_nextWe support custom model deployments of all major frameworks such as Pytorch, Tensorflow, XGBoost etcEnsemble Modelsnavigate_nextChain together LLM's and custom models to create unique functionality - all in one line
+
+
+
+
+
+Pre/Post processing functionsAdd logic before and after models in order to get it into the right format.Automatic VersioningEvery time you deploy a model, we version it so you can rollback with the click of a button.Cold starts < 1sWe have put a lot of work into our architecture that cold starts even for LLMs like Flan-T5 and GPT Neox are < 1 second.Powerful serverless GPU'sWe run a combination of Nvidia T4's, A10's and A100's and only charge you for your inference time.02Â· TrainingEffortless fine-tuning BetaFine-tune smaller models on particular tasks in order to decrease costs and latency while increasing performance. It takes just a few lines of code and don't worry about infrastructure, we got it.GPT- NEOnavigate_nextEleutherAI' open-source models - a great alternative to GPT3Stable Diffusionnavigate_nextStability AI latent text-to-image model capable of generating imagesLLaManavigate_nextLarge language model from Meta AI with 7B to 65B parameters1from cerebrium import trainer23hyperparameters = {4"num_train_epochs": 30,5"num_warmup_steps": 100,6"batch_size": 15,7"weight_decay": 0.018}910run_id = trainer("gpt-neox-20b", "train_dataset.jsonl",11hyperparameters)1213Training job started! Est time: 2h32m14run_id = b5440db1-f739-47f9-9fd5-083753643019151from cerebrium import trainer23hyperparameters = {4"num_train_epochs": 30,5"num_warmup_steps": 100,6"resolution": 512,7"learning_rate": 1.0E-58}910run_id = trainer("runwayml/stable-diffusion-v1-5", "train_dataset.jsonl",11hyperparameters)1213Training job started! Est time: 52m14run_id = b5440db1-f739-47f9-9fd5-083753643019151from cerebrium import trainer23hyperparameters = {4"num_train_epochs": 30,5"num_warmup_steps": 100,6"batch_size": 15,7"weight_decay": 0.018}910run_id = trainer("decapoda-research/llama-7b-hf", "train_dataset.jsonl",11hyperparameters)1213Training job started! Est time: 2h32m14run_id = b5440db1-f739-47f9-9fd5-0837536430191503Â· MonitoringMonitoring made simpleIntegrate with top ML observability platforms in order to be alerted about feature or prediction drift, compare model versions and resolve issues quickly.Arizenavigate_nextIntegrate with Arize. Used by the likes of Uber, Instacart etc.Censiusnavigate_nextIntegrate with Censius, a AIÂ observability platformAWS S3 or GCPÂ bucketnavigate_nextWorking with sensitive data? We can store the logs in your AWS or GCPÂ account
+
+
+
+
+
+Setup Monitors and alertsCreate thresholds so your team can be alerted about issues with your models.Monitor Feature and Prediction DriftDiscover the root causes for prediction and feature drift to resolve degraded model performance.Compare models versionsCompare different version of models and compare them to your baseline model.ExplanabilityUnderstand which features are contributing most to the performance of your model.Loved by engineers everywhereI have been looking for something like this - its just amazing!TeodorMachine learning engineerInference for Flan-T5 is consistently 500ms - I never get cold startsOndrejMachine learning engineerSample size is very small, but performance is lovely so far!FarouqSoftware EngineerJust discovered @cerebriumai and my life is never going to be the same!AndrewEntrepreneurGet started with your new MLÂ project todayStart a projectDocumentationÂ© Cerebrium, Inc.Privacy PolicyTerms of Service
+
+
+

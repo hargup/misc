@@ -1,0 +1,141 @@
+
+
+
+
+
+
+Stanford CRFM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+                
+
+
+
+
+
+
+
+
+
+People
+
+
+Report
+
+
+Research
+
+
+Blog
+
+
+Courses
+
+
+HELM
+
+
+Ecosystem graphs
+
+
+Code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Developing and understanding responsible foundation models.
+                
+
+
+
+
+
+
+
+What is a foundation model? 
+ In recent years, a new successful paradigm for building AI systems has emerged: Train one model on a huge amount of data and adapt it to many applications. We call such a model a foundation model.
+WHY DO WE CARE?
+ Foundation models (e.g., GPT-3) have demonstrated impressive behavior, but can fail unexpectedly, harbor biases, and are poorly understood. Nonetheless, they are being deployed at scale.
+
+
+Our Mission
+The Center for Research on Foundation Models (CRFM) is an interdisciplinary initiative born out of the Stanford Institute for Human-Centered Artificial Intelligence (HAI) that aims to make fundamental advances in the study, development, and deployment of foundation models.
+We are an interdisciplinary group of faculty, students, post-docs, and researchers spanning 10+ departments who have a shared interest in studying and building responsible foundation models.
+
+
+CRFM has the following thrusts:
+
+Research. We will conduct interdisciplinary research that lays the groundwork of how foundation models should be built to make them more efficient, robust, interpretable, multimodal, and ethically sound.
+Artifacts. We will train and release foundation models, code, tools, and also ensure that the full training pipeline is reproducible and scientifically rigorous.
+Community. We will invite universities, companies, and non-profits to convene and work together to develop a set of professional norms for how to responsibly train and deploy foundation models.
+
+
+
+
+
+
+
+
+
+
+
+
+Sign up to get email updates on the Center for Research on Foundation Models (CRFM)
+                or email us at contact-crfm@stanford.edu.
+            
+
+
+
+                CRFM is grateful to our supporters.
+            
+
+
+
+                © 2021. Stanford Center for Research on Foundation Models.
+                
+Designed by Joon Sung Park.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

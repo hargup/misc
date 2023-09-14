@@ -1,0 +1,338 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coding in Paradise
+Brad Neuberg
+
+About Brad Neuberg
+Selected Projects
+Blog
+Twitter
+Other
+
+
+
+About Brad Neuberg
+
+My research interests are machines that see, hear, and plan in order to augment people & society’s capabilities. I am a machine learning software engineer, with a focus on deep learning.
+I am currently a Staff Machine Learning Engineer with Planet, applying machine and deep learning to remote sensing imagery of Earth's surface. Planet images the entirety of the Earth daily to monitor changes and pinpoint trends. The ultimate goal is to enable a Queryable Earth, indexing physical change on Earth and making it searchable for all.
+I have a decade and a half experience as a software engineer across such companies as Google & Dropbox, startups, and the open source world. I also have a Machine Learning Research Scientist affiliation with the SETI Institute and NASA’s Frontier Development Lab, applying deep learning to space science and space exploration. Before the SETI Institute I was a Machine Learning Engineer at Dropbox, doing industrial R&D to ship deep learning-powered products to millions of users and across billions of files.
+I've worn many hats in my career, whether as a tech lead, a product engineer, a startup founder, or a full stack software engineer. I have a long tradition of untraditional, cross-disciplinary innovation across fields. Earlier work includes having started Coworking, which grew into an international grassroots movement to establish a new kind of workspace for the self-employed, with more than 15,000 coworking spaces now open globally. At a startup named Inkling I founded Inkling Habitat, re-imagining interactive digital textbooks for higher education and how they are published by adopting ideas from computer science — Inkling Habitat turned into a multi-million dollar business that was adopted by the world’s major educational publishers, including Pearson & Elsevier. At Google I helped the web blossom into a true application deployment platform through efforts like HTML5. Finally, I worked with Douglas Engelbart, the inventor of the computer mouse & hypertext, on the National Science Foundation-funded HyperScope project to use advanced hypertext to support collaborative teams.
+
+Selected Projects
+
+
+
+
+
+
+Using Deep Learning to Create High-Fidelity Virtual Observations of the Solar Corona
+2019
+
+At NASA's Frontier Development Lab & the SETI Institute I've applied deep learning to solar data to create a high-fidelity virtual telescope that generates synthetic observations of the solar corona by image translation. Read moreWe achieved this via an encoder-decoder with skip connections (U-Net) that reconstructs the Sun's image of one instrument channel given temporally aligned images in three other channels. This work was accepted to the NeurIPS 2019 Machine Learning & the Physical Sciences Workshop.  Learn More
+
+
+
+
+
+
+
+
+Auto-Calibrating Deep Space Solar Missions Using Deep Learning
+2019
+
+I've applied deep learning to auto-calibrate solar missions in deep space at NASA's Frontier Development Lab & the SETI Institute. Read moreWe developed a Convolutional Neural Network that auto-calibrates solar observatory channels and corrects sensitivity degradation by exploiting spatial patterns in multi-wavelength observations to arrive at a self-calibration of Ultraviolet (UV) and Extreme UV imaging instruments. Our results removed a major impediment to developing future solar missions in deep space. This work was accepted to the NeurIPS 2019 Machine Learning & the Physical Sciences Workshop. Learn More
+
+
+
+
+
+
+
+
+Using Machine Learning to Index Text From Billions of Images
+2018
+
+I was the tech lead for the Dropbox AutoOCR project, which seamlessly runs many advanced computer vision models using deep learning to extract text from photographs to make them searchable. Read moreAutoOCR has to work across billions of files daily in support of millions of users. The project involved a large amount of performance optimization & analysis of deep neural networks to feasibly and affordably run at scale, as well as engineering machine learning distributed systems (event processing, distributed queues, etc.). AutoOCR had a large, positive impact on Dropbox's search recall. Learn More
+
+
+
+
+
+
+
+
+Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning
+2017
+
+At Dropbox I created an industry leading OCR deep learning network that combined approaches from speech recognition (bi-directional LSTMs/CTC) and computer vision (CNNs) deep learning networks, using TensorFlow, Numpy, and Python. Read moreI used large-scale data augmentation to efficiently do supervised training, generating tens of millions of synthetic training samples vs. only needing about ten thousand real training images. As a team I took the project from its initial scrappy prototyping & research stage, to software engineering development with robust architecture and testing, to a full scale large release to millions of users. Learn More
+
+
+
+
+
+
+
+
+Coworking: A Global Workspace Movement
+2005 - Present
+
+I started coworking in 2005 as a way to combine the freedom and independence of working for oneself with the structure and community of a traditional job. Read moreCoworking spaces are coffee-shop like spaces with an emphasis on community and work. I ran coworking like an open source project, using tools such as wikis and email lists to allow a bottom-up movement to flourish and giving people permission to take coworking and remix it. There are now 14,000 coworking spaces internationally. Learn More
+
+
+
+
+
+
+
+
+Cloudless: Open Source Deep Learning Pipeline for Orbital Satellite Data
+2016
+
+Cloudless is an open source deep learning pipeline for satellite data, producing masks for clouds, powered by images from Planet Labs. Read morePlanet Labs is a startup that has launched fleets of shoebox-sized nanosats to image the earth daily. Cloudless has three parts: annotation tools for satellite data to generate ground truth bounding boxes; a training pipeline using Amazon EC2 GPUs to train a neural network model using Caffe; and a bounding box system using Selective Search to draw bounding boxes. Learn More
+
+
+
+
+
+
+
+
+Personal Photos Model Using Deep Learning, Siamese Networks, & Transfer Learning
+2015
+
+Personal Photos Model was an open source project to do facial recognition on a user's personal photos collection to cluster faces together. Read moreThis problem is characterized by not having much training data for a user's particular photo collection, so I leveraged the Labelled Faces in the Wild (LFW) dataset to train a Siamese neural network to learn a distance embedding function, then used transfer learning on the trained model for the much smaller set of a user's personal photos for clustering people. Learn More
+
+
+
+
+
+
+
+
+Inkling Habitat: Treating Books as Software
+2010 - 2014
+
+I was the founding engineer & tech lead of Inkling Habitat, which re-imagined interactive digital textbooks. An interactive medical textbook might include 3D models of the heart, HD videos, quizes, etc. Read moreSome of these textbooks were incredibly large, making their conversion to HTML5 and interactivity challenging; to solve this problem we adopted ideas from computer science, treating books as software. While running the team I architected and built a very advanced browser-based application while also guiding a 20 person team. In addition, I created a strong engineering culture focused on full test coverage, mentorship, etc. Inkling Habitat grew into a business worth millions and was adopted by all the major educational publishers (Pearson, Elsevier, etc.). Learn More
+
+
+
+
+
+
+
+
+HyperScope: Collaborative Hypertext With Douglas Engelbart
+2006 - 2007
+
+HyperScope was an NSF funded project with Douglas Engelbart. Engelbart invented the mouse, hypertext, and more with the NLS/Augment system, which formed the basis of the Personal Computer, unleashed on the world in 1968 at the famous Mother of All Demos. Read moreOur scope was to both re-create parts of NLS/Augment on the contemporary web as well as explore future ways to support collaborative groups using hypertext. As part of this role I essentially got a masters in Engelbart's ideas: I used the original NLS/Augment, learned how to use a chording keyset, interviewed original NLS team members, did ethnography on how Doug used NLS, etc.. Finally, I architected and built a large-scale browser-application in JavaScript, Java, and XSLT. Learn More
+
+
+
+
+
+
+
+
+HTML5: Evolving the Web From Documents to Applications
+2005 - 2010
+
+In the open source community and while at Google I helped the web blossom into a true application deployment platform. Read moreI had some of the first libraries for Ajax history management (Really Simple History), client-side storage (Ajax Massive Storage System & Dojo Storage), and offline web applications (Dojo Offline) all of which fed into the creation of HTML5. After the browser wars settled the web was stagnating; the libraries I created used clever tricks to polyfill browsers to provide new functionality, allowing the web to move forward again and act not just as a document-system but as a true application-platform. As HTML5, Ajax, and browsers began to evolve again, early work I did folded into HTML5 and I moved to evangelizing HTML5 through efforts like Google Gears, open web initiatives, and more.
+
+
+
+
+
+
+
+
+SVGWeb: Taming Internet Explorer for Open Web Vector Graphics
+2009
+
+I helped open web vector graphics flourish by removing its last impediment, Internet Explorer (IE) support. Read moreIn 2009, all major browsers except IE, which dominated the web, supported the open web vector graphics standard SVG (Scalable Vector Graphics). I discovered that 95%+ of IE installations also had Flash installed. By combining two proprietary technologies (Flash & Microsoft Behaviors), I was able to create a no-install SVG renderer that effectively "tricked" IE into transparently supporting SVG via standard JavaScript. I added SVG support to Wikipedia, using SVGWeb for IE, and hosted a major SVG conference at Google. These actions have been credited with forcing the Microsoft IE team into natively implementing support for SVG, unblocking the Open Web. Learn More
+
+
+
+
+
+
+
+
+StretchText.js: Stop Simulating Dead Paper
+2014
+
+Traditional paper forces writing to be static and fixed — it doesn't allow you to create tangents that can be 'stretched open' to provide contextual depth. In 1967 the co-inventor of hypertext Ted Nelson proposed StretchText, arguing that we stop mindlessly simulating dead paper on our living computer screens. Read moreStretchText.js is a JavaScript library I created that allows for a new kind of StretchText hyperlink on the contemporary web, allowing sections of a web page to accordian open and closed and change their shape depending on the needs of the reader. Learn More
+
+
+
+
+
+
+
+
+Internet Archive: Building an Open Digital Library
+2005
+
+I helped with the initial launch of the Internet Archive's Open Library, an open source initiative to create a digital book scanning pipeline and a web-based system to view and fully search these books. Read moreThe goal was to have an open approach to compete with Google's closed Google Books initiative. I was brought in to finish the web-based book viewer under very tight deadlines, with a unique reading and searching experience that pushed the abilities of the web at that time. Learn More
+
+
+
+
+
+
+
+
+Paper Airplane: A Radical Vision for a Decentralized Web
+2001 - 2004
+
+Paper Airplane was an R&D project I ran focusing on a new vision of web browsers that deeply embed collaboration & decentralization. I started Paper Airplane in the "dark ages" of the web, after Microsoft had destroyed other browsers and before Firefox and Chrome appeared. Read morePaper Airplane integrated a P2P network into the browser that ran the web, while also supporting a two-way web through wiki-like editing. Many of the ideas in Paper Airplane were ahead of capabilities at the time, but today with modern P2P techniques like distributed ledgers and IPFS a Paper Airplane-like system might be possible to scale out. Learn More
+
+
+
+
+
+
+
+
+Rojo: Organizing News With Reputation
+2004 - 2006
+
+I helped create not only one of the first web-based RSS aggregators but a news aggregator that was based on tracking the "reputation" of news sources to automatically organize them. Read moreOrganizing based on reputation was important for dealing with the huge explosion in blogs, wikis, and news that was appearing. Filtering blogs and news based on reputation is still an ongoing & important issue. Learn More
+
+
+
+
+
+
+
+
+
+Using Deep Learning to Create High-Fidelity Virtual Observations of the Solar Corona
+
+
+
+
+
+Auto-Calibrating Deep Space Solar Missions Using Deep Learning
+
+
+
+
+
+Using Machine Learning to Index Text From Billions of Images
+
+
+
+
+
+Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning
+
+
+
+
+
+Coworking: A Global Workspace Movement
+
+
+
+
+
+Cloudless: Open Source Deep Learning Pipeline for Orbital Satellite Data
+
+
+
+
+
+Personal Photos Model Using Deep Learning, Siamese Networks, & Transfer Learning
+
+
+
+
+
+Inkling Habitat: Treating Books as Software
+
+
+
+
+
+HyperScope: Collaborative Hypertext With Douglas Engelbart
+
+
+
+
+
+HTML5: Evolving the Web From Documents to Applications
+
+
+
+
+
+SVGWeb: Taming Internet Explorer for Open Web Vector Graphics
+
+
+
+
+
+StretchText.js: Stop Simulating Dead Paper
+
+
+
+
+
+Internet Archive: Building an Open Digital Library
+
+
+
+
+
+Paper Airplane: A Radical Vision for a Decentralized Web
+
+
+
+
+
+Rojo: Organizing News With Reputation
+
+
+
+Recent Blog Posts (Full Blog)
+
+
+View RSS feed
+
+
+Recent Tweets (@bradneuberg)
+
+
+
+Other
+
+
+
+
+LinkedIn Profile & Resume
+Resume as PDF
+GitHub Projects
+
+
+

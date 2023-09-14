@@ -1,0 +1,88 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stable Sort
+The personal blog of Andrew Quinn.
+Consulting available under the business name Siilikuin. For inquiries please email my first name at siilikuin.com.
+
+My Finnish language learning setup: September 2023
+2023.09.10
+    
+    I continue to slowly, leisurely study Finnish on my own time, when I manage to find it after my day job and family life. I already live in Finland, but I currently work here as a software team lead, which is a famously English-dominant industry. So I donât feel any particular urgency â but Iâve already started down this path, and Iâd like to be able to talk fluently with my relatives and in-laws one day, and itâs good productive fun besides.
+
+
+Thoughts on 29
+2023.08.15
+    
+    I turned 29 today, in this, the year of Our Lord 2023.
+I don’t have any particularly profound thoughts on 29. It’s a liminal year - next year I’ll be 30, hopefully with a kid in tow, I mostly see this year as continued preparatory work for when I finally have a family to call my own. But even though they’re prosaic, I do have a lot of things I’m quite proud of either doing or continuing this year, which I would like to share here, in roughly descending order.
+
+
+Working Effectively With the Modern Shell
+2023.05.05
+    
+    These slides live at https://andrew-quinn.me/modern-shell-slidy.html A more normal HTML version @ https://andrew-quinn.me/modern-shell/ What I hope you leave with Use fzf Use zsh (minimum) Learn (some) vi tldr »= gpt »= man who am i hey i’m andrew https://andrew-quinn.me/modern-shell/ https://twitter.com/zephyr_on_call https://staging.bsky.app/profile/sonder.bsky.social https://www.linkedin.com/in/heiandrewquinn/ ðªðºð±ð· => ð®ðªðºð¸ -> ð«ð® northwestern grad 2020 - bs in ee + minor in math devops by day fullstack+ai by night (best w/ django/htmx) why the shell? composability complexity speed on speed 0.
+
+
+AI bounties revisited
+2023.03.24
+    
+    The recent news of ChatGPT plugins has me waxing nostalgic about the days when I lived in the United States, studying electrical engineering and equal parts furious and depressed that AGI might well destory the world before I ever get myself properly settled in it. Ah, the glory days…
+Well, I’m doing a lot better now, both psychologically and emotionally. Having a beautiful wife and a full time job does wonders for the soul!
+
+
+Hugo :: Netlify -> Azure
+2023.03.23
+    
+    Recently my fzf post went really, really viral on Hacker News! This touched off a virtuous cycle where I was also featured in the TL;DR Newsletter, which I’m pretty sure is AI-generated? I digress. This was an exciting thing to see, except for the fact that Netlify is now banging on my door asking me for $110 in surprise bandwidth costs.
+Yeah, yeah, I know. Nobody expects the SaaS Inquisition. I humbly submit tht, as an ops guy, I should know better than anyone to keep things as braindead as possible - and Netlify is an absolutely, delightfully braindead option for me.
+
+
+Copilot in the shell with Ctrl+X, Ctrl+E
+2023.03.22
+    
+    A tiny convenience I recently discovered: Hitting Ctrl+X, Ctrl+E in a terminal window will put your command into your text editor so you can massage your commands.
+I often have long ansible or kubectl commands I want to either run, or insert slashes into to put into my company’s internal documentation. I do it here with vi (badly!), but there’s nothing stopping you from customizing things so you can do it with whatever floats your boat by setting the $EDITOR flag in your .
+
+
+So you've installed `fzf`. Now what?
+2023.03.21
+    
+    Software engineers are, if not unique, then darn near unique in the ease with which we can create tools to improve our own professional lives; this however can come at a steep cost over time for people who constantly flit back and forth between different tools without investing the time to learn their own kit in depth. As someone with a healthy respect for the tacit knowledge of people better than me, I think a great 80/20 heuristic is “Learn the oldies first”: venerable Unix tools like cat, ls, cd, grep, and cut.
+
+
+How I Learn Things
+2023.03.13
+    
+    The TL;DR’s TL;DR Read books. Not too fast. Use Anki. TL;DR Pick something to learn from the learning queue. Is it useful, given my current ambitions? If no, delay. Is it easy, given what I already know? If no, delay. Is it cool, given what I currently find cool? If no, delay. Read a book on it. Take Anki card notes, chapter by chapter. While actively reading: Review 10 new Anki cards, per book chapter, per day.
+
+
+    This blog's cloc:
+  -------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Markdown                        17            143              0            825
+HTML                             6             11             11             72
+CSS                              1             13             20             65
+TOML                             2             24             34             56
+YAML                             1              3              3             39
+Bourne Shell                     1              3              2              6
+-------------------------------------------------------------------------------
+SUM:                            28            197             70           1063
+-------------------------------------------------------------------------------
+
+
+

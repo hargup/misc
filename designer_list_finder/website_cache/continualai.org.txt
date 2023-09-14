@@ -1,0 +1,21 @@
+
+
+
+
+
+
+ContinualAI - ContinualAI
+
+
+
+
+
+
+
+
+
+
+ContinualAIAvalancheCourseWikiForumSearch⌃KLinksContinualAIActivities💡2023 Seminar Series📰News & Events🔍Research⚗LabAbout Us🫂Supporters🧑🤝🧑People & Governance🎯Join Us!📧ContactsExternal LinksAvalancheWikiContinual Learning CourseOpen World Lifelong Learning CourseForumNewsletterMailing-listPowered By GitBookContinualAIA Non-profit Research Organization and Open Community on Continual Learning for AIHumans have the extraordinary ability to learn continually from experience. Not only can we apply previously learned knowledge and skills to novel situations, but we can also use these as the foundation for later learning. One of the grand goals of AI is to build artificial “continual learning” agents that construct a sophisticated understanding of the world from their own experience through the incremental development of increasingly complex knowledge and skills.ContinualAI is an official non-profit research organization and the largest open community on Continual Learning for AI. Our core mission is to fuel continual learning research by connecting researchers in the field and offering a platform to share, discuss, and produce original research on a topic we consider fundamental for the future of AI.We plan to fulfill our mission by:Organizing and sponsoring events and editorial publications on Continual Learning across the world such as workshops at major AI conferences, industrial panels, webinars, and special issues.Improving our aggregation and communication platforms: Slack, social media, mailing-list, newsletter, forum, etc.Establishing a distributed, collaborative team, ContinualAI Lab to support the development of open source projects and tools that can make the life of continual learning researchers easier.Establishing a research consortium, ContinualAI Research, to support coordination and collaboration among continual learning labs across the world.However, ContinualAI is also a striving effort to make research in continual learning and AI more open, collaborative and inclusive. This is why we would love to have you on-board! We are always happy to add new members and get some help with our projects or simply discuss about CL - So join us today on Slack and become a member!Do you want to learn more about ContinualAI and its history? Take a look at our introductory blog post or YouTube video below 👇Introducing ContinualAI!ContactsFeel free to email us at [email protected] for any inquiry about our organization. You can also check out our additional communication platforms listed below:​Open Mailing-List | Newsletter | Medium | GitHub​ | Facebook | Twitter | Instagram | Linkedin | YouTube​ | Slack Next - Activities2023 Seminar SeriesLast modified 1yr ago
+
+
+

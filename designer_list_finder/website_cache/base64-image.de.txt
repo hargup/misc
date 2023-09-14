@@ -1,0 +1,356 @@
+
+
+
+
+
+  
+
+
+
+Base64 Image Encoder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Home
+    
+
+
+
+        Tutorial
+    
+
+
+
+        FAQ
+    
+
+
+
+        Imprint
+    
+
+
+
+
+
+
+
+
+
+
+
+        Home
+    
+
+
+
+        Tutorial
+    
+
+
+
+        FAQ
+    
+
+
+
+        Imprint
+    
+
+
+
+
+
+
+
+
+
+
+
+                Convert your images
+                to base64
+            
+
+
+
+
+
+
+
+
+                    Drag & drop images anywhere
+                
+
+                    or click here
+                
+
+
+
+
+
+
+
+
+
+Select a file ...
+
+
+encode image
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select a file ...
+
+
+
+
+                        encode
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Encoding
+            
+
+
+
+
+
+
+
+
+
+
+
+ show code
+            opens a modal with image preview, usage
+            examples, image width & height, ...
+        
+
+ copy image
+            copies this base64 code to your clipboard:
+            data:image/jpeg;base64,/9j/4AA...
+        
+
+ copy css
+            copies this base64 code to your clipboard:
+            url('data:image/jpeg;base64,/9j/4AA...
+        
+
+
+filename
+
+size
+
+progress
+
+converted
+
+ 
+
+
+
+
+
+
+
+
+File Formats
+
+                You can upload up to 20 images (max. 1.00 MB each) as JPG, PNG, GIF, WebP, SVG or BMP.
+
+                Please note that Internet Explorer 8 has a limit of 32 KB for data URI.
+                Versions below have no support.
+            
+
+
+
+
+
+Image optimization
+
+                We can optimize your JPEG & PNG images, using jpegoptim and
+                optipng. This will reduce the file without any visible impact
+                (in most cases).
+            
+
+                Optimization status:
+            
+
+
+disabled
+enabled
+
+
+
+
+
+
+
+Browser Support
+
+                The encoded results are compatible with all of the following browsers and versions. Please send me a note if there are issues.
+            
+
+
+Chrome 4+
+
+Safari 3.1+
+
+Firefox 2+
+
+Opera 9+
+
+Edge
+                
+
+IE 8+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    toggle background
+                
+
+
+
+
+Filename:
+
+
+
+Filesize:
+
+
+
+Encoded:
+
+
+
+Width:
+
+
+
+Height:
+
+
+
+
+
+
+
+                For use in <img> elements:
+                
+
+ select all
+                    
+
+ copy to clipboard
+                    
+
+
+
+
+
+
+
+
+                For use as CSS background:
+                
+
+ select all
+                    
+
+ copy to clipboard
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    © 2023 Awesome Bonn UG
+      -  
+    Privacy
+      -  
+    Terms of Use
+
+
+    By using this site you accept the terms of use.
+
+
+
+
+
+
+
+

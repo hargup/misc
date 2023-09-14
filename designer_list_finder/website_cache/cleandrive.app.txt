@@ -1,0 +1,1749 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Brett Batie, Author at Filerev for Google Drive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FEATURESOrganize Your GoogleDrive StorageFind and RemoveDuplicate FilesBulk Delete FilesFind Old Files Find Hidden FilesOrganize Shared DrivesView Shared FilesView Files by File TypeFind Duplicate PhotosClean Temporary FilesEmpty Files & FoldersStorage Space ExplorerPRICINGABOUTSUPPORTBLOGSIGN IN >
+
+
+
+
+
+
+
+Author: Brett Batie
+
+
+
+Brett is a Software Engineer turned Entrepreneur that builds creative solutions, like Filerev. After nearly 20 years in corporate America, Brett traveled the U.S. with his four children in an RV. He has since moved to beautiful NW Michigan. On any given day, you will find him writing code, discussing business or playing with his family outdoors. He is also on LinkedIn and Twitter.
+
+
+
+
+
+
+
+Posted
+September 12, 2023
+
+
+
+A Guide to Backup Solutions for Google Workspace (G Suite)
+
+Category:
+Organize
+Many people and businesses around the world use Google Drive, Google Workspace, G Suite, and the assorted storage options Google… 
+
+ Read Article: A Guide to Backup Solutions for Google Workspace (G Suite)
+
+
+
+
+
+Posted
+September 5, 2023
+
+
+
+Google Drive is Starting to Throttle and Limit Multi-Terabyte Users
+
+Category:
+Organize
+For almost as long as Google Drive has existed, they have offered unlimited storage plans if you pay enough money on a… 
+
+ Read Article: Google Drive is Starting to Throttle and Limit Multi-Terabyte Users
+
+
+
+
+
+Posted
+September 1, 2023
+
+
+
+Quick Guide: Convert PDFs to Word on Google Drive
+
+Category:
+Organize
+Office workers, remote workers, and pretty much anyone employed in any job that needs to deal with paperwork today will… 
+
+ Read Article: Quick Guide: Convert PDFs to Word on Google Drive
+
+
+
+
+
+Posted
+August 28, 2023
+
+
+
+14 of The Best Google Chrome Extensions for Google Drive
+
+Category:
+Organize
+Google Drive is a fantastic tool for cloud storage and collaboration, but it has a few drawbacks that can sometimes… 
+
+ Read Article: 14 of The Best Google Chrome Extensions for Google Drive
+
+
+
+
+
+Posted
+August 25, 2023
+
+
+
+Differences Between Google Drive Web and Desktop Versions
+
+Category:
+Organize
+Google Drive is Google Drive, right? Surely, it works the same no matter where you access it. Well, that’s mostly true,… 
+
+ Read Article: Differences Between Google Drive Web and Desktop Versions
+
+
+
+
+
+Posted
+August 22, 2023
+
+
+
+Google Drive Video Compression: Quality, Options, and File Size
+
+Category:
+Organize
+A fact of modern digital life is that, as computing power increases across the board, optimization suffers. After all, when… 
+
+ Read Article: Google Drive Video Compression: Quality, Options, and File Size
+
+
+
+
+
+Posted
+August 17, 2023
+
+
+
+How to Backup Photos on Google Drive and Google Photos
+
+Category:
+Organize
+Google has a variety of different interlocking services that seem like they should be a lot more connected than they… 
+
+ Read Article: How to Backup Photos on Google Drive and Google Photos
+
+
+
+
+
+Posted
+August 15, 2023
+
+
+
+[Guide] How to Migrate Your File Server to Google Drive
+
+Category:
+Organize
+File servers are just computers with large amounts of storage space that are connected to a network or the internet,… 
+
+ Read Article: [Guide] How to Migrate Your File Server to Google Drive
+
+
+
+
+
+Posted
+August 11, 2023
+
+
+
+5 Ways to Scan Documents Directly to Your Google Drive
+
+Category:
+Organize
+There are many different ways to use Google Drive. While the standard use case is to upload files to Google… 
+
+ Read Article: 5 Ways to Scan Documents Directly to Your Google Drive
+
+
+
+
+
+Posted
+August 7, 2023
+
+
+
+How to Copy ‘Shared With Me’ Files Between Google Drives
+
+Category:
+Organize
+One of the most convenient features of Google Drive is the ability to share files and folders with another user.… 
+
+ Read Article: How to Copy ‘Shared With Me’ Files Between Google Drives
+
+
+
+
+
+Posted
+July 25, 2023
+
+
+
+If I Share a Google Drive Folder, Can They See My Other Files?
+
+Category:
+Organize
+While Google Drive is used as a collaborative tool and means of storing and sharing files with other users, many… 
+
+ Read Article: If I Share a Google Drive Folder, Can They See My Other Files?
+
+
+
+
+
+Posted
+July 21, 2023
+
+
+
+[Guide] How to Store Movies and Video Files on Google Drive
+
+Category:
+Organize
+Google Drive’s cloud storage is an excellent tool for storing files and sharing them with others without relying on your… 
+
+ Read Article: [Guide] How to Store Movies and Video Files on Google Drive
+
+
+
+
+
+Posted
+July 12, 2023
+
+
+
+Your Google Drive Hit a File Limit: What Do You Do Next?
+
+Category:
+Organize
+The world of Google Drive and Workspace users has been aflutter recently with distressing news coming from Google HQ. While… 
+
+ Read Article: Your Google Drive Hit a File Limit: What Do You Do Next?
+
+
+
+
+
+Posted
+July 7, 2023
+
+
+
+Clean Drive is Now Filerev: A New Chapter in Google Drive Organization
+
+Category:
+Organize
+The time has come for a thrilling announcement, a development that’s been brewing behind the scenes for some time -… 
+
+ Read Article: Clean Drive is Now Filerev: A New Chapter in Google Drive Organization
+
+
+
+
+
+Posted
+July 6, 2023
+
+
+
+The Ultimate Guide to Using Google Drive on a Tablet or iPad
+
+Category:
+Organize
+Google Drive is easy to use on a PC by opening up a browser window or installing Google Drive on… 
+
+ Read Article: The Ultimate Guide to Using Google Drive on a Tablet or iPad
+
+
+
+
+
+Posted
+July 2, 2023
+
+
+
+[Guide] How to Share a Public Google Drive Link With No Sign-In
+
+Category:
+Organize
+Google may be an omnipresent tech mega-giant with fingers in every possible pie, but there are, believe it or not,… 
+
+ Read Article: [Guide] How to Share a Public Google Drive Link With No Sign-In
+
+
+
+
+
+Posted
+June 25, 2023
+
+
+
+The Step-by-Step Guide to Back Up Google Drive in 2023
+
+Category:
+Organize
+Many individuals and organizations use Google Drive as a place for backing up their data, but the truth is, synced… 
+
+ Read Article: The Step-by-Step Guide to Back Up Google Drive in 2023
+
+
+
+
+
+Posted
+June 11, 2023
+
+
+
+How to Share an Entire Google Drive Account with Another User
+
+Category:
+Organize
+Google Drive is great for sharing individual files and folders with other people, but what happens if you need total… 
+
+ Read Article: How to Share an Entire Google Drive Account with Another User
+
+
+
+
+
+Posted
+May 25, 2023
+
+
+
+Drive for Education: Storage Charges, Removing Alumni & More
+
+Category:
+Organize
+Google Drive for Education, or rather, Google Workspace for Education, is Google’s offering of their productivity suite for schools and… 
+
+ Read Article: Drive for Education: Storage Charges, Removing Alumni & More
+
+
+
+
+
+Posted
+May 18, 2023
+
+
+
+Why Doesn’t My Google Storage Change After Deleting Files?
+
+Category:
+Organize
+Google Drive gives every Google account holder 15 GB of storage space for free, just for having a Google account.… 
+
+ Read Article: Why Doesn’t My Google Storage Change After Deleting Files?
+
+
+
+
+
+Posted
+May 11, 2023
+
+
+
+The Ultimate Guide to Using Google Drive for a College
+
+Category:
+Organize
+Google Drive is one of the leading cloud storage solutions for enterprises, including large businesses, non-profit organizations, and educational institutions.… 
+
+ Read Article: The Ultimate Guide to Using Google Drive for a College
+
+
+
+
+
+Posted
+April 28, 2023
+
+
+
+The 10 Tools in a G Suite Administrator’s Toolbox (Updated)
+
+Category:
+Organize
+Anyone working to manage a large Google workspace environment as an administrator knows how many different things can go wrong… 
+
+ Read Article: The 10 Tools in a G Suite Administrator’s Toolbox (Updated)
+
+
+
+
+
+Posted
+April 27, 2023
+
+
+
+How to Fix the Google Drive “Some Files Are Too Small” Error
+
+Category:
+Organize
+Google Drive is a fantastic app for storing and syncing files across multiple devices and backing up data to the… 
+
+ Read Article: How to Fix the Google Drive “Some Files Are Too Small” Error
+
+
+
+
+
+Posted
+April 20, 2023
+
+
+
+The Ultimate Guide to Google Drive Data Retention Policies
+
+Category:
+Organize
+Serious companies, companies in regulated industries, and companies dealing with sensitive information often must manage their data carefully. Data that… 
+
+ Read Article: The Ultimate Guide to Google Drive Data Retention Policies
+
+
+
+
+
+Posted
+March 31, 2023
+
+
+
+What Are The Roles and Responsibilities of a G Suite Admin?
+
+Category:
+Organize
+Whenever you’re using a software service as an organization, different people within your organization will have different roles. Sometimes these… 
+
+ Read Article: What Are The Roles and Responsibilities of a G Suite Admin?
+
+
+
+
+
+Posted
+March 28, 2023
+
+
+
+How to Clear Your Google Drive Cache in 2023 (With Tips)
+
+Category:
+Organize
+Caching is an essential part of many different kinds of programs and apps. By building and maintaining a cache, your… 
+
+ Read Article: How to Clear Your Google Drive Cache in 2023 (With Tips)
+
+
+
+
+
+Posted
+March 23, 2023
+
+
+
+FAQ: Which File Types Are Supported on Google Drive?
+
+Category:
+Organize
+As a cloud storage platform, Google Drive can ostensibly host any file. However, anyone who has tried to use it… 
+
+ Read Article: FAQ: Which File Types Are Supported on Google Drive?
+
+
+
+
+
+Posted
+March 20, 2023
+
+
+
+How to Manage Your Android Phone Google Drive Backups
+
+Category:
+Organize
+Google makes the Android operating system and Google Drive, the cloud storage platform. They also have cloud storage associated with… 
+
+ Read Article: How to Manage Your Android Phone Google Drive Backups
+
+
+
+
+
+Posted
+February 25, 2023
+
+
+
+How to Fix “We’re Still Processing This Video” on Google Drive
+
+Category:
+Organize
+Google Drive is an excellent platform for data storage, sharing, and collaboration, but sometimes you’ll find that particular files have… 
+
+ Read Article: How to Fix “We’re Still Processing This Video” on Google Drive
+
+
+
+
+
+Posted
+February 22, 2023
+
+
+
+5 Ways to Get More Storage on Google Drive for Free
+
+Category:
+Organize
+By default, when you create a new Google account, you are given 15 GB of storage space for free.  This… 
+
+ Read Article: 5 Ways to Get More Storage on Google Drive for Free
+
+
+
+
+
+Posted
+February 10, 2023
+
+
+
+[Guide] How to Make a Google Drive File or Doc Public
+
+Category:
+Organize
+Google Drive is a fantastic tool for collaboration, both within an organization and with the general public. It’s also an… 
+
+ Read Article: [Guide] How to Make a Google Drive File or Doc Public
+
+
+
+
+
+Posted
+February 7, 2023
+
+
+
+How to Encrypt Files and Folders on Your Google Drive Account
+
+Category:
+Organize
+Google Drive is generally a secure way to store data on the cloud, but as with any cloud service provider,… 
+
+ Read Article: How to Encrypt Files and Folders on Your Google Drive Account
+
+
+
+
+
+Posted
+February 6, 2023
+
+
+
+How to Delete Your .DS_Store & ._ Files from Google Drive
+
+Category:
+Organize
+If you’re a Mac user, you may be familiar with the DS_Store file. Hidden DS_Store and ._ files are the… 
+
+ Read Article: How to Delete Your .DS_Store & ._ Files from Google Drive
+
+
+
+
+
+Posted
+January 30, 2023
+
+
+
+Google Drive Flagged Your Files for Copyright – What Next?
+
+Category:
+Organize
+While ostensibly, your files on Google Drive are private and solely your own, Google does pay attention to what is… 
+
+ Read Article: Google Drive Flagged Your Files for Copyright – What Next?
+
+
+
+
+
+Posted
+January 25, 2023
+
+
+
+How to Find and Resolve Conflicted Files in Google Drive
+
+Category:
+Organize
+One of the most significant benefits of a cloud-based file storage system is the ability to share and collaborate on… 
+
+ Read Article: How to Find and Resolve Conflicted Files in Google Drive
+
+
+
+
+
+Posted
+January 10, 2023
+
+
+
+How to Check Which Devices Are Synced with Google Drive
+
+Category:
+Organize
+With Google Drive, you can store files on the cloud, allowing access to them from any device you can use… 
+
+ Read Article: How to Check Which Devices Are Synced with Google Drive
+
+
+
+
+
+Posted
+January 6, 2023
+
+
+
+Quota Exceeded: How to Fix The “Gmail is Out of Space” Issue
+
+Category:
+Organize
+Google has been pushing to unify many of its services over the years. This change has been displayed in various… 
+
+ Read Article: Quota Exceeded: How to Fix The “Gmail is Out of Space” Issue
+
+
+
+
+
+Posted
+December 16, 2022
+
+
+
+Why The Google Drive App is Eating Your Hard Drive Space
+
+Category:
+Organize
+Google Drive is an excellent way of storing files in the cloud, but there are many different ways it can… 
+
+ Read Article: Why The Google Drive App is Eating Your Hard Drive Space
+
+
+
+
+
+Posted
+December 9, 2022
+
+
+
+Why Does Google Drive Duplicate Docs When I Make Changes?
+
+Category:
+Organize
+Google Drive is an incredible piece of convenient engineering, but it can also be highly frustrating, especially when it’s doing… 
+
+ Read Article: Why Does Google Drive Duplicate Docs When I Make Changes?
+
+
+
+
+
+Posted
+December 2, 2022
+
+
+
+How to Find Who Uses the Most Space on Google Workspace
+
+Category:
+Organize
+Google Workspace is an essential tool for thousands of businesses worldwide, ranging from accounts with just a few users to… 
+
+ Read Article: How to Find Who Uses the Most Space on Google Workspace
+
+
+
+
+
+Posted
+November 27, 2022
+
+
+
+Step by Step: How to Download an Entire Google Drive Account
+
+Category:
+Organize
+Google Drive is an excellent cloud storage system, and you can use it in many different ways. Some people use… 
+
+ Read Article: Step by Step: How to Download an Entire Google Drive Account
+
+
+
+
+
+Posted
+November 18, 2022
+
+
+
+How to Fix The “Failed-Forbidden” Error on Google Drive
+
+Category:
+Organize
+Google Drive has a ton of utility, but sometimes it has just as many ways for downloads to fail as… 
+
+ Read Article: How to Fix The “Failed-Forbidden” Error on Google Drive
+
+
+
+
+
+Posted
+November 14, 2022
+
+
+
+File Size Limits: What is The Max Upload Size on Google Drive?
+
+Category:
+Organize
+Google Drive is an excellent platform for cloud storage and collaboration, but it’s not unlimited.  While Google used to promise… 
+
+ Read Article: File Size Limits: What is The Max Upload Size on Google Drive?
+
+
+
+
+
+Posted
+November 11, 2022
+
+
+
+How to Create File and Folder Shortcuts in Google Drive
+
+Category:
+Organize
+Shortcuts are a powerful tool for organization, navigation, and managing the clutter of your Google Drive.  They’re easy to create,… 
+
+ Read Article: How to Create File and Folder Shortcuts in Google Drive
+
+
+
+
+
+Posted
+November 9, 2022
+
+
+
+FAQ: What Happens When Your Google Drive Storage is Full?
+
+Category:
+Organize
+Google gives everyone with a Google account 15 GB of storage by default. You can expand this limitation through various means and… 
+
+ Read Article: FAQ: What Happens When Your Google Drive Storage is Full?
+
+
+
+
+
+Posted
+October 29, 2022
+
+
+
+[Guide] What Are Files “Not Owned By Me” in Google Drive?
+
+Category:
+Organize
+Google Drive is a fantastic tool for file storage and collaboration. One of the best features is the ability to… 
+
+ Read Article: [Guide] What Are Files “Not Owned By Me” in Google Drive?
+
+
+
+
+
+Posted
+October 13, 2022
+
+
+
+Google Workspace Pricing: Is It Worth It to Upgrade in 2023?
+
+Category:
+Organize
+Google is notorious for making changes to systems, splitting them and merging them, keeping legacy versions around, and changing their… 
+
+ Read Article: Google Workspace Pricing: Is It Worth It to Upgrade in 2023?
+
+
+
+
+
+Posted
+October 6, 2022
+
+
+
+Google Drive Trash Tutorial: How to Delete and Recover Files
+
+Category:
+Organize
+Did you know that before the mid-1980s, when you deleted a file, it was gone for good? There was no… 
+
+ Read Article: Google Drive Trash Tutorial: How to Delete and Recover Files
+
+
+
+
+
+Posted
+September 30, 2022
+
+
+
+How Do You Copy Files from One Google Drive to Another?
+
+Category:
+Organize
+Google Drive is an excellent application for storing, transferring, and managing files in both a personal and a business setting.… 
+
+ Read Article: How Do You Copy Files from One Google Drive to Another?
+
+
+
+
+
+Posted
+September 22, 2022
+
+
+
+Google Drive vs Google Photos: Which Is Best for Photo Storage?
+
+Category:
+Organize
+Google Drive and Google Photos are both excellent options to store and sync photos between devices in a central account.… 
+
+ Read Article: Google Drive vs Google Photos: Which Is Best for Photo Storage?
+
+
+
+
+
+Posted
+September 19, 2022
+
+
+
+[Guide] How to Compress or Zip Files and Folders in Google Drive
+
+Category:
+Organize
+Sometimes, it seems like cloud storage is infinite. With millions of servers and exabytes of storage space between them, any… 
+
+ Read Article: [Guide] How to Compress or Zip Files and Folders in Google Drive
+
+
+
+
+
+Posted
+September 9, 2022
+
+
+
+How to Share with Multiple Users for Business on Google Drive
+
+Category:
+Organize
+One of the best use cases for Google Drive is using it as a single collaborative storage location for a… 
+
+ Read Article: How to Share with Multiple Users for Business on Google Drive
+
+
+
+
+
+Posted
+September 1, 2022
+
+
+
+[Guide] How to Quickly Download Large Files from Google Drive
+
+Category:
+Organize
+Google Drive is a fantastic way to leverage the cloud to store your files, from small text documents to photos… 
+
+ Read Article: [Guide] How to Quickly Download Large Files from Google Drive
+
+
+
+
+
+Posted
+August 26, 2022
+
+
+
+The Ultimate Guide to Adding Google Drive to Finder in macOS
+
+Category:
+Organize
+Apple is often regarded as an isolated ecosystem of apps, with minimal cross-over with PC programs. The reason is due,… 
+
+ Read Article: The Ultimate Guide to Adding Google Drive to Finder in macOS
+
+
+
+
+
+Posted
+August 18, 2022
+
+
+
+Organizing Google Drive: 16 Tips to Clean and Audit Your Files
+
+Category:
+Organize
+While it may not seem like it, there’s technically limited storage space available to internet users.  There are only so… 
+
+ Read Article: Organizing Google Drive: 16 Tips to Clean and Audit Your Files
+
+
+
+
+
+Posted
+August 12, 2022
+
+
+
+[Guide] Is It Possible to Get Unlimited Storage on Google Drive?
+
+Category:
+Organize
+Google Drive is one of the most helpful cloud storage systems available, but it has one significant limitation: it limits… 
+
+ Read Article: [Guide] Is It Possible to Get Unlimited Storage on Google Drive?
+
+
+
+
+
+Posted
+July 25, 2022
+
+
+
+How to Sort Google Drive by Size for Files & Folders
+
+Category:
+Organize
+This article shows multiple ways to view your files & folders by size in Google Drive. It also covers how to see specific types of files by size and sort them. 
+
+ Read Article: How to Sort Google Drive by Size for Files & Folders
+
+
+
+
+
+Posted
+July 20, 2022
+
+
+
+How to Create Folders on Google Drive & Google Docs Like a Pro
+
+Category:
+Organize
+This article shows multiple ways to create folders in Google Drive and provides shortcuts and tips to have you creating and organizing folders like a pro. 
+
+ Read Article: How to Create Folders on Google Drive & Google Docs Like a Pro
+
+
+
+
+
+Posted
+July 18, 2022
+
+
+
+11 Google Drive Apps to Increase Efficiency (2023)
+
+Category:
+Organize
+This post showcases Google Drive apps that will extend Google Drive’s functionality and increase your efficiency in Google Drive. 
+
+ Read Article: 11 Google Drive Apps to Increase Efficiency (2023)
+
+
+
+
+
+Posted
+January 10, 2022
+
+
+
+Exciting New Features in Filerev for Google Drive 2022
+
+Category:
+New Features
+Lists the new features added to Filerev for Google Drive. You can view folders by size, empty folders and file types that live in Google Drive. 
+
+ Read Article: Exciting New Features in Filerev for Google Drive 2022
+
+
+
+
+
+Posted
+January 1, 2022
+
+
+
+How to Delete Empty Folders in Google Drive
+
+Category:
+Organize
+It is now easy to find and remove empty folders in Google Drive. 
+
+ Read Article: How to Delete Empty Folders in Google Drive
+
+
+
+
+
+Posted
+January 1, 2022
+
+
+
+Powerful Tool to See Your Google Drive Folder Size
+
+Category:
+Organize
+How to view your Google Drive Folder Size with a simple online tool. View the size of your largest folders, empty folders or browse your folders by size. 
+
+ Read Article: Powerful Tool to See Your Google Drive Folder Size
+
+
+
+
+
+Posted
+December 14, 2021
+
+
+
+How Will Google Drive Replace Duplicate Files With Shortcuts?
+
+Category:
+Organize
+Is Google going to automatically replace files in multiple locations with shortcuts? I go into detail explaining what this really means. 
+
+ Read Article: How Will Google Drive Replace Duplicate Files With Shortcuts?
+
+
+
+
+
+Posted
+June 28, 2021
+
+
+
+Filerev News 2021 – Bulk Delete in Google Drive
+
+Category:
+New Features
+You can now bulk delete files in Google Drive among other app improvements that were added to the Filerev app for Google Drive. 
+
+ Read Article: Filerev News 2021 – Bulk Delete in Google Drive
+
+
+
+
+
+Posted
+November 30, 2020
+
+
+
+How to Reduce Google Drive Storage and Organize Your Files
+
+Category:
+Organize
+This article discusses multiple tactics to reduce your Google Drive storage usage. Find what is taking up space in Google Drive and eliminate the cruft. 
+
+ Read Article: How to Reduce Google Drive Storage and Organize Your Files
+
+
+
+
+
+Posted
+November 1, 2020
+
+
+
+Filerev: Thumbnail Preview, File Owner & Speed Optimizations
+
+Category:
+New Features
+New Features added to Filerev for Google Drive. You can see a thumbnail preview, owner visibility, speed optimizations & more with your Google Files. 
+
+ Read Article: Filerev: Thumbnail Preview, File Owner & Speed Optimizations
+
+
+
+
+
+Posted
+October 1, 2020
+
+
+
+New – Organize Google Shared Drives with Filerev
+
+Category:
+New Features
+Filerev for Google Drive can now scan shared drives. This new features makes it easier to organize your shared drive files. 
+
+ Read Article: New – Organize Google Shared Drives with Filerev
+
+
+
+
+
+Posted
+October 1, 2020
+
+
+
+Android App, Bulk File Deletion, Auto Select Duplicates & Folder Paths
+
+Category:
+New Features
+New Features in Filerev: Mobile App, Bulk File Deletion, Folder Paths displayed, storage summary includes Gmail & Google Photos more 
+
+ Read Article: Android App, Bulk File Deletion, Auto Select Duplicates & Folder Paths
+
+
+
+FEATURESOrganize Your GoogleDrive StorageFind and RemoveDuplicate FilesBulk Delete FilesFind Old Files Find Hidden FilesOrganize Shared DrivesView Shared FilesView Files by File TypeFind Duplicate PhotosClean Temporary FilesEmpty Files & FoldersStorage Space ExplorerPRICINGABOUTSUPPORTBLOGSIGN IN >
+Search
+
+
+
+
+Filerev, Inc.2632 Crossing Cir #1071Traverse City, MI 49684Contact Us
+
+
+Privacy PolicyTerms of ServiceReturn & Refund PolicyCookie Settings
+
+
+Filerev for Google Drive © 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome to Filerev!
+Formerly known as Clean Drive, we're the same service you trust, now with a new name. All your links and bookmarks will work as usual. Want to learn more about the change? Check out our latest blog post for the full story.
+Thank you for being part of our journey!
+
+
+
+
+
+
+
+
+
+
+
+
+Waitlist: Duplicate Proprietary Google Files
+
+Feature Request: Proprietary Google Doc SupportΔEmail Notify Me When Available 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Say goodbye to digital clutter in Google Drive.
+
+Get your free scan!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Simple & Free to Get Started
+
+Login
+Select what to scan
+View and optionally remove the clutter from Google Drive
+
+All While:
+
+Keeping your data private and secure
+Giving you full control over what is scanned
+Nothing is modified without your consent
+
+
+
+Sign in with GoogleSigned in with Google
+By signing up, you confirm to have read Filerev's privacy policy and agree to the terms of service.
+Filerev will help eliminate the clutter by revealing:
+
+
+
+
+Duplicate Files
+
+
+
+Large Files & Folders
+
+
+
+Temporary Files
+
+
+
+
+
+Hidden Files
+
+
+
+Empty Files & Folders
+
+
+
+Files Owned by Others
+
+
+
+
+
+Many more features that will help organize Google Drive.
+
+
+
+
+
+
+
+
+
+
+What's Hogging Your Storage in Your Google Drive?
+
+
+
+
+
+
+
+Duplicates
+381 GB
+
+
+
+
+
+
+
+Hidden
+93 MB
+
+
+
+
+
+
+
+Empty
+101 Files
+
+
+
+
+
+
+
+Over 100 MB
+37 files
+
+
+
+
+
+
+
+
+
+Trash
+381 MB
+
+
+
+
+
+
+
+Shared
+77 MB
+
+
+
+
+
+
+
+Temporary
+27 Files
+
+
+
+
+
+
+
+> 1 Year Old
+53 files
+
+
+
+
+
+
+
+
+Sign in with GoogleSigned in with Google
+
+Most Scans are completed in less than 60 seconds
+
+
+
+
+
+
+
+
+
+
+
+"It Helped me reduce my storage costs by finding large files that I did not need to store anymore."
+
+
+
+
+
+
+
+
+
+
+
+
+“Wow! I found files that I didn’t know existed.”
+
+
+
+
+
+
+
+
+
+
+
+
+“I finally found an app that adds the features that I have always needed in Google Drive.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's Hogging Your Storage in Your Google Drive?
+
+
+
+
+
+
+
+Duplicates
+381 GB
+
+
+
+
+
+
+
+Hidden
+93 MB
+
+
+
+
+
+
+
+Empty
+101 Files
+
+
+
+
+
+
+
+Over 100 MB
+37 files
+
+
+
+
+
+
+
+
+
+Trash
+381 MB
+
+
+
+
+
+
+
+Shared
+77 MB
+
+
+
+
+
+
+
+Temporary
+27 Files
+
+
+
+
+
+
+
+> 1 Year Old
+53 files
+
+
+
+
+
+
+
+
+Sign in with GoogleSigned in with Google
+
+Most Scans are completed in less than 60 seconds
+
+
+
+
+
+
+
+
+
+
+
+"It Helped me reduce my storage costs by finding large files that I did not need to store anymore."
+
+
+
+
+
+
+
+
+
+
+
+
+“Wow! I found files that I didn’t know existed.”
+
+
+
+
+
+
+
+
+
+
+
+
+“I finally found an app that adds the features that I have always needed in Google Drive.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

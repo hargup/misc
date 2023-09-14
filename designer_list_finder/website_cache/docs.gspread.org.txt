@@ -1,0 +1,310 @@
+
+
+
+  
+
+
+
+
+gspread — gspread 5.10.0 documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ gspread
+          
+
+          
+          
+
+                v5.10.0
+              
+
+
+
+
+
+
+
+
+
+
+Authentication
+
+
+Examples of gspread Usage
+
+
+Advanced Usage
+
+
+API Reference
+
+
+
+
+
+
+
+gspread
+
+
+
+
+
+Docs »
+gspread
+
+ Edit on GitHub
+
+
+
+
+
+
+
+gspread¶
+gspread is a Python API for Google Sheets.
+Features:
+
+Google Sheets API v4.
+Open a spreadsheet by title, key or url.
+Read, write, and format cell ranges.
+Sharing and access control.
+Batching updates.
+
+
+Installation¶
+pip install gspread
+
+
+Requirements: Python 3+.
+
+
+Quick Example¶
+import gspread
+
+gc = gspread.service_account()
+
+# Open a sheet from a spreadsheet in one go
+wks = gc.open("Where is the money Lebowski?").sheet1
+
+# Update a range of cells using the top left corner address
+wks.update('A1', [[1, 2], [3, 4]])
+
+# Or update a single cell
+wks.update('B42', "it's down there somewhere, let me take another look.")
+
+# Format the header
+wks.format('A1:B1', {'textFormat': {'bold': True}})
+
+
+
+
+Getting Started¶
+
+
+Authentication
+Enable API Access for a Project
+For Bots: Using Service Account
+For End Users: Using OAuth Client ID
+
+
+
+
+
+
+Usage¶
+
+
+Examples of gspread Usage
+Opening a Spreadsheet
+Creating a Spreadsheet
+Sharing a Spreadsheet
+Selecting a Worksheet
+Creating a Worksheet
+Deleting a Worksheet
+Updating a Worksheet’s name and color
+Getting a Cell Value
+Getting All Values From a Row or a Column
+Getting All Values From a Worksheet as a List of Lists
+Getting All Values From a Worksheet as a List of Dictionaries
+Finding a Cell
+Finding All Matched Cells
+Clear A Worksheet
+Cell Object
+Updating Cells
+Formatting
+Using gspread with pandas
+Using gspread with NumPy
+
+
+
+
+
+
+Advanced¶
+
+
+Advanced Usage
+Custom Authentication
+
+
+
+
+
+
+API Documentation¶
+
+
+API Reference
+Top level
+Auth
+Client
+Models
+Utils
+Exceptions
+
+
+
+
+
+
+How to Contribute¶
+Please make sure to take a moment and read the Code of Conduct.
+
+Ask Questions¶
+The best way to get an answer to a question is to ask on Stack Overflow
+with a gspread tag.
+
+
+Report Issues¶
+Please report bugs and suggest features via the GitHub Issues.
+Before opening an issue, search the tracker for possible duplicates. If
+you find a duplicate, please add a comment saying that you encountered
+the problem as well.
+
+
+Contribute code¶
+Please make sure to read the Contributing Guide before making a pull
+request.
+
+
+
+
+Indices and tables¶
+
+Index
+Module Index
+Search Page
+
+
+
+
+
+
+Next 
+
+
+
+
+        © Copyright 2023, Anton Burnashev
+      
+        
+          Revision 4de0e4e0.
+        
+
+
+  Built with Sphinx using a theme provided by Read the Docs. 
+
+
+
+
+
+
+
+
+ Read the Docs
+      v: v5.10.0
+      
+
+
+
+Versions
+master
+latest
+v5.10.0
+v5.9.0
+v5.8.1
+v5.8.0
+v5.7.2
+v5.7.1
+v5.7.0
+v5.6.2
+v5.6.1
+v5.6.0
+v5.5.0
+v5.4.0
+v5.3.2
+v5.3.1
+v5.3.0
+v5.2.0
+v5.1.1
+v5.1.0
+v5.0.0
+v4.0.1
+v4.0.0
+v3.7.0
+
+
+Downloads
+
+
+On Read the Docs
+
+Project Home
+
+
+Builds
+
+
+
+      Free document hosting provided by Read the Docs.
+
+    
+
+
+
+

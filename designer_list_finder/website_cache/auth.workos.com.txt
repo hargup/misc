@@ -1,0 +1,1 @@
+{"message":"Welcome to the WorkOS API! Check out our docs  to get started."}

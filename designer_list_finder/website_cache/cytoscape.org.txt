@@ -1,0 +1,419 @@
+
+
+
+
+Cytoscape: An Open Source Platform for Complex Network Analysis and Visualization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Cytoscape
+                        
+Network Data Integration, Analysis, and Visualization in a Box
+
+
+
+                                Introduction
+                            
+
+
+
+                                Download
+                            
+
+
+
+
+
+
+
+
+
+
+Analyze Your Genes With NDEx iQuery
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+                        Cytoscape is an open source software platform for visualizing complex networks and integrating these with any type of attribute data. A lot of Apps are
+                        available for various kinds of problem domains, including bioinformatics, social network analysis, and semantic web. Learn more...
+
+
+
+
+                    Release Notes
+                
+
+                    Sample Visualizations
+                
+
+
+
+
+
+
+
+
+
+
+                       Cytoscape Tutorials
+                    
+
+
+
+
+
+                        App Developers Docs
+                    
+
+
+
+
+
+
+
+
+
+NRNB and Cytoscape
+
+
+
+
+
+Introduction to the National Resource for Network Biology
+
+How to Cite Cytoscape
+
+Cytoscape project needs your support!
+                        Please cite the original Cytoscape paper when you use Cytoscape. This is critical to sustaining our federal funding.
+                    
+
+
+                            Shannon P, Markiel A, Ozier O, Baliga NS, Wang JT, Ramage D, Amin N, Schwikowski B, Ideker T.
+                        
+Cytoscape: a software environment for integrated models of biomolecular interaction networks
+
+                            Genome Research 2003 Nov; 13(11):2498-504
+                        
+
+ [Abstract] 
+ [PDF] 
+ [PubMed entry] 
+
+
+
+                        For automation usage and implementation leveraging CyREST, Commands or our R and Python libraries, please cite:
+                         Otasek, et al., Cytoscape Automation: empowering workflow-based network analysis Genome Biology, 20:185 (2019)
+ [Abstract] 
+ [PDF] 
+ [PubMed entry] 
+
+
+                        Other articles and papers about Cytoscape are available here.
+                    
+How to Donate to Cytoscape
+
+
+
+
+
+
+This is a tax deductible donation to a 501(c)(3) nonprofit organization, The Cytoscape Consoritum, Tax ID: 20-4909879.
+
+
+
+
+Tweets by @cytoscape
+
+
+
+What Can You Do With Cytoscape?
+
+
+
+
+
+                    Biology
+                
+
+
+
+
+
+                                        Cytoscape supports many use cases in molecular and systems biology, genomics, and proteomics:
+                                    
+
+
+                                            Load molecular and genetic interaction data
+                        sets in many standards
+                        formats
+
+
+                                            Project and integrate global datasets and functional annotations
+                                        
+
+                                            Establish powerful visual mappings across these data
+                                        
+
+                                            Perform advanced analysis and modeling using Cytoscape Apps
+
+
+                                            Visualize and analyze human-curated pathway datasets such as
+                                            WikiPathways,
+                                            Reactome, and KEGG.
+                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Social Science
+                
+
+
+
+
+                                    Cytoscape is used by social scientists to:
+                                    
+
+                                            Visualize and analyze large social networks of interpersonal relationships
+                                        
+
+                                            Assemble social networks from tables and forms
+                                        
+
+                                            Gather social interactions from the web by variety of
+                                            
+                            web service APIs
+                         with scripting languages and save it in standard data file formats.
+                                            
+                            Cytoscape supports most of the standard file formats
+                        .
+                                        
+
+                                            Calculate network statistics using Apps
+                                        
+
+                                            Use with other tools, such as R with sna/
+                        igraph package or NetworkX, for more advanced analysis
+                                        
+
+
+
+
+
+
+
+
+
+
+
+
+                    General Complex Network Analysis
+                
+
+
+
+
+                                    Cytoscape is domain-independent and therefore is a powerful tool for complex network analysis in general.
+                                    
+
+                                            Calculate statistics for networks by Apps such as NetworkAnalyzer or CentiScaPe
+
+
+                                            Find shortest path
+                                        
+
+Find clusters by various
+                            kinds of algorithms
+
+
+                                            Use with other tools for more advanced analysis
+                                        
+
+                                            Perform advanced network analysis in popular tools, including igraph, Pajek, or GraphViz                                            and import it to Cytoscape as standard file formats like
+                                            GraphML
+
+
+
+
+
+
+
+
+
+
+
+                    App Development
+                
+
+
+
+
+                                    Cytoscape is expandable and extensible. Cytoscape has a vibrant App developer community and over a hundred Apps developed by third parties.
+
+                                    
+
+                                            Source code is available on GitHub
+
+
+                                            Running on OSGi framework
+
+
+                                            Develop simple and complex Apps in
+                                            Java
+
+
+                                            Clean, Rich Cytoscape Application Programming Interface (
+                                            API)
+                                        
+
+Active developer community
+
+
+                                            Automate Cytoscape with any scripting language, see automation docs.
+                                        
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+                                Featured Video Demos
+                                
+
+
+
+
+
+
+
+
+
+
+                                Publications using Cytoscape
+                            
+Browse published figures referencing Cytoscape at PubMed Central.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cytoscape Consortium
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cytoscape project is supported by:
+
+
+
+
+
+
+                        National Resource for Network Biology
+                    
+
+
+
+National Institute of General Medical Sciences of the National Institutes of Health
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1057 @@
+
+
+
+
+
+
+
+
+
+
+URL Shortener, Custom Short URLs & Free Link Shortener | Cuttly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL Shortener
+Available features
+Preview mode
+CUTT URL button
+Check url
+API
+Integrations
+Support
+
+Log in
+Sign up
+
+Abuse report
+
+
+
+
+
+Pricing
+
+
+Log in
+
+
+Sign up
+
+
+EN
+
+EN | English
+PL | Polski
+AR | عربى
+DE | Deutsch
+ES | Español
+FR | Français
+HI | हिन्दी
+IT | Italiano
+JA | 日本語
+KO | 한국어
+NL | Nederlands
+PT | Português
+RU | Русский
+TR | Türkçe
+UK | Українська
+ZH | 中文
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL Shortener
+Experience full control over your short links
+The complete URL Shortener platform, Link Management, Link Analytics, Deep links, QR Codes Generator, and Link in Bio. Shorten, brand, manage, track, and share your links effortlessly.
+ Sign up Pricing 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shorten
+
+
+
+
+URL Shortener → By using our service you accept the Terms of service and Privacy Policy.
+
+
+
+
+
+
+
+
+
+What is Cuttly?
+Cuttly is an all-in-one Link Management Platform for all your links and needs. It is an advanced URL Shortener with extensive Link Analytics. Cuttly offers solutions that will allow you to manage your links, thanks to which you can develop your business while having your links under control. Cuttly is also a platform for creating your own Link in bio microsites and generating QR Codes, so you can combine offline and online solutions.
+
+
+
+
+
+
+
+URL Shortener
+
+Cuttly is a URL Shortener and Link Management Platform. It offers a lot of features that will help you handle all your links in an intuitive way and reveal the potential of your links.
+
+
+
+
+
+
+Link analytics
+
+Cuttly is an advanced Link Analytics platform that tracks clicks on short links and provides extensive statistics to help you measure the effectiveness of your short links.
+
+
+
+
+
+
+Link in bio
+
+Cuttly lets you create your own link-in-bio microsites so you can better reach your audience, measure click-through rates, and grow your audience with customizable link-in-bios.
+
+
+
+
+
+
+QR Codes
+
+With Cuttly, you can easily generate and customize QR codes to match your brand and track their performance. Use QR codes to grow your business and measure their impact on your marketing efforts.
+
+
+
+
+
+Sign up
+Pricing
+
+
+
+
+
+
+
+
+Professional Link Management Solutions.
+Cuttly is more than just an URL Shortener - it's a complete Link Management Platform that lets you create branded short links with your own custom domain. Whether you're a blogger, marketer, affiliate, or a small or large company. Cuttly gives you complete control over all your links. With an advanced Link Analytics system, the ability to create Link in bio microsites, and generate customizable QR codes. Cuttly has everything you need to maximize the potential of your links and grow your online presence.
+
+
+Solutions for small and large
+No matter if you are a novice affiliate, marketer or blogger, small, medium, large company or corporation. You'll spread your wings with Cuttly.
+
+
+Subscription plans to fit every wallet
+We have competitively priced and tailored subscription plans that can be upgraded at any time - so that you can effectively manage your needs and costs.
+
+
+Advanced features and fast support
+Cuttly has a number of advanced and useful features that will allow you to effectively manage short links and track clicks. All this is supported by efficient help.
+
+
+Cuttly - All features
+
+
+
+
+
+
+
+
+
+URL Shortener
+Discover the possibilities of managing short links.
+Cuttly is a Link Management Platform and URL shortener that was created out of passion to support your brand and your needs. Cuttly has many features for managing short links, including changing the back-half of the link, adding UTM codes for campaign tracking, links with A/B/C testing, pixel retargeting, mobile redirects due to the operating system of mobile devices, changing of target URL, changing destination URL redirects after reaching short link clicks indicated or by date, tracking of unique clicks and much more.
+
+
+
+
+
+
+
+
+2023-09-14
+Cuttly | URL Shortener, Branded URLs, Link Management, API 
+https://cutt.ly/resources/support/short-link-features/ 
+Cuttly short link: cutt.ly/URL-Shortener-Features 
+Branded short link: yourbrnd.link/URL-Shortener-Features 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Link Analytics →
+
+
+
+259clicks
+
+
+
+By checking short links in your dashboard, you can perform additional actions for them, such as: creating a link in bio from selected short links, hiding links, adding them to your favourites list or merging links into one bulk link.
+
+
+
+
+
+
+
+
+  
+
+Link analytics
+Measure the performance and click-through rate of your links.
+Anyone who cares about link optimization knows that without good link analytics, it's hard to improve anything. Cuttly offers extensive statistics and analysis of link clicks to help you grow. 
+See it in action ↓
+
+See link analytics page
+
+
+
+
+
+
+
+
+Link in bio
+Create beautiful and modern Link in bio pages.
+Express yourself and the things important to you on a fully customizable microsite by showing your links and tracking their clicks. Share your link in bio on social platforms and using a dedicated and customizable QR code.
+See our Link in bio
+
+
+Your own link in bio page in no time
+Create your own micro pages with links important to you and customize template to your needs, add profile picture, title, description, video and links.
+
+
+Choose the domain in which to create the link in bio page
+
+In cuttly, you can create your own link in bio pages in 3 ways:
+1. Cutt.ly domain → cutt.ly/bio/your-back-half
+2. Own custom domain → yourbrnd.link/bio/your-back-half
+3. Cutt.bio domain → cutt.bio/your-back-half
+
+
+
+Track your link in bio click statistics and click-through rate
+For each link in bio, you can measure the statistics of clicks on the same link in bio subpage and the links included in a given link in bio subpage. You can also check the click-through rate.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+QR Codes
+Create stylish and branded  QR codes to grow your business.
+For each short link and link in bio, you can generate a QR code and style it in your own way so that it looks simply nice and matches the design of the elements you want to place or print it on. Cuttly has the option of generating and editing QR codes. You can adjust shapes, colors, dot density and add your logo to increase the engagement of your audience, track click-through rates and grow in a modern and smart way.
+
+
+See it in action ↓
+
+
+
+
+
+
+
+Pricing for individuals, businesses, and companies of all sizes.
+Engage your target audience with customized short links, QR Codes, and link in bio that capture their attention, while benefiting from advanced click statistics.
+
+
+
+
+Pay monthlyPay yearly - save one month
+
+
+
+
+
+Free
+$0
+
+
+Plan for beginners
+
+
+Short links 30/months
+Link clicks Unlimited
+Branded short links ✓
+Branded domains 1
+Link Analytics last 30 days
+Click reports PDF —
+API limit 3/60 sec.
+API for branded domains —
+API link editing —
+Team API —
+Analytics of unique redirects —
+Aggregated Link Analytics —
+Team features —
+QR Codes one style
+Link-in-bio basic
+Short link features
+Custom back-half 3/month
+UTM generator ✓
+Editable redirection —
+Password short link —
+Mobile redirects —
+Deep Links —
+Editable link title in dashboard —
+Link redirect expiration —
+Embed retargeting pixels —
+Link rotation —
+Social media sharing button —
+
+Sign up
+
+
+
+
+Starter
+$12 / monthly
+$132 / yearly
+
+
+Extended plan for beginners
+
+
+Short links 300/months
+Link clicks Unlimited
+Branded short links ✓
+Branded domains 1
+Link Analytics last 30 days
+Click reports PDF —
+API limit 6/60 sec.
+API branded domains 30/m.
+API link editing —
+Team API —
+Analytics of unique redirects —
+Aggregated Link Analytics —
+Team features —
+QR Codes one style
+Link-in-bio more features
+Short link features
+Custom back-half 30/month
+UTM generator ✓
+Editable redirection same domain
+Password short link —
+Mobile redirects —
+Deep Links —
+Editable link title in dashboard ✓
+Link redirect expiration —
+Embed retargeting pixels —
+Link rotation —
+Social media sharing button —
+
+Sign up
+
+
+
+
+Single
+Popular
+$25 / monthly
+$275 / yearly
+
+
+for freelancers, bloggers, marketers
+
+
+Short links unlimited
+Link clicks Unlimited
+Branded short links ✓
+Branded domains 5
+Link Analytics 1 year
+Click reports PDF 30 days, clicks
+API limit 60/60 sec.
+API branded domains 1000/m.
+API link editing ✓
+Team API —
+Analytics of unique redirects ✓
+Aggregated Link Analytics ✓
+Team features —
+QR Codes colors/shapes/logos
+Link-in-bio fully customizable
+Short link features
+Custom back-half unlimited
+UTM generator ✓
+Editable redirection same domain
+Password short link ✓
+Mobile redirects ✓
+Deep Links —
+Editable link title in dashboard✓
+Link redirect expiration ✓
+Embed retargeting pixels ✓
+Link rotation (50/50) A/B test
+Social media sharing button ✓
+
+Sign up
+
+
+
+
+Team
+Best value
+$99 / monthly
+$1089 / yearly
+
+
+for agencies, teams, companies
+
+
+Short links unlimited
+Link clicks Unlimited
+Branded short links ✓
+Branded domains 10
+Link Analytics 2 years
+Click reports PDF all data
+API limit 180/60 sec.
+API branded domains unlimited
+API link editing ✓
+Team API ✓
+Analytics of unique redirects ✓
+Aggregated Link Analytics ✓
+Team features 3 teams/5
+QR Codes colors/shapes/logos
+Link-in-bio fully customizable
+Short link features
+Custom back-half unlimited
+UTM generator ✓
+Editable redirection any URL
+Password short link ✓
+Mobile redirects ✓
+Deep Links ✓
+Editable link title in dashboard ✓
+Link redirect expiration ✓
+Embed retargeting pixels ✓
+Link rotation (%) A/B test
+Social media sharing button ✓
+
+Sign up
+
+
+
+
+Team Enterprise
+$149 / monthly
+$1639 / yearly
+
+
+for large agencies, teams, companies
+
+
+Short links unlimited
+Link clicks Unlimited
+Branded short links ✓
+Branded domains 99
+Link Analytics 2 years
+Click reports PDF all data
+API limit 360/60 sec.
+API branded domains unlimited
+API link editing ✓
+Team API ✓
+Analytics of unique redirects ✓
+Aggregated Link Analytics ✓
+Team features 10 teams/20
+QR Codes colors/shapes/logos
+Link-in-bio fully customizable
+Short link features
+Custom back-half unlimited
+UTM generator ✓
+Editable redirection any URL
+Password short link ✓
+Mobile redirects ✓
+Deep Links ✓
+Editable link title in dashboard ✓
+Link redirect expiration ✓
+Embed retargeting pixels ✓
+Link rotation (%) A/B/C test
+Social media sharing button ✓
+Sign up
+
+
+
+
+Cuttly Features
+
+
+
+
+
+
+
+
+Link shortener that supports your brand
+Create your own branded short links with Cuttly.
+Make your links generate more clicks and support your brand. Learn more about your link's click-through rates in extensive click analytics. Check who clicks your links and how, on what devices and from what locations. A short link in your own domain. Unleash the potential of your links. Make your audience receive links that are friendly and readable. Keep your links short, but convey much more content so your customers can see you better.
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+ Link management  
+  
+
+
+
+ Link analytics  
+  
+
+
+
+ Custom domains  
+  
+
+
+
+ Team features  
+  
+
+
+
+ API  
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Link Management Platform
+The new standard in link management
+Managing links is even easier using the features available in the dashboard after logging in, as well as using the API. Cutt.ly makes link management easier than ever, and advanced analytics allow you to understand what is happening with your links - so you know what you can improve and get the highest click-through rate.
+Cuttly offers: link shortening, Llnk analytics, branded links and own domains, advanced dashboard, building own teams, API, unique link click-through rate measurement
+See features and pricing 
+
+  
+
+
+
+
+
+
+
+ Link Analytics Platform
+Cutt.ly - track and analyze links to increase conversion
+Cutt.ly allows you to measure the click-through rates of your links, so you can find out what is happening with your links. Thanks to this, you can learn about the habits and preferences of your users and customers. This allows you to improve and increase the click-through rate of your links to get the highest possible click-through and visit rates for your website or store, and this will increase your sales. In addition, thanks to the ability to independently set uniqueness in the link click-through analysis, you have one of the most advanced link management platforms at your disposal.
+See features and pricing 
+
+  
+
+
+
+
+
+
+
+ Custom Branded Domains
+Shorten links using your own branded domain while increasing the click-through rate
+Do you need a tool that will allow you to shorten links, track their click-through rates, but also preserve and represent your brand? Cutt.ly gives you this opportunity. You can shorten and analyze link click rates under your own brand - you can add multiple custom domains and replace cutt.ly with yourowndomain.com
+See features and pricing 
+
+  
+
+
+
+
+
+
+
+ Cutt.ly Team features
+Manage links in teams by inviting members and assigning roles to team members
+Create your own teams and invite members to join them. Organize your work in a better and more efficient way. Shorten, manage and analyze links by supporting your brand with your own teams.
+Each team can add and manage their own links, invite their own team members, add and use their own domains and use their own API dedicated to each team.
+See features and pricing 
+
+  
+
+
+
+
+
+
+
+ Cutt.ly for developers - API
+Use one of the available APIs to increase and organize your link management in a more efficient way
+Start using the API to add, edit links as well as download click statistics. The API also allows you to add and edit links in your own domain. On our website, you can use several APIs depending on your subscription. Each team you create has its own API key, so link management can be organized in your own way.
+See features and pricing 
+
+  
+
+
+
+
+
+
+
+
+
+
+
+FAQ
+Frequently Asked Questions
+
+
+
+What is a URL shortener?
+
+A URL shortener, sometimes called a Link shortener, is a tool that shortens a long URL into a shorter link that redirects to the target URL.
+
+URL shorteners enable users to create branded short links using either the service's domain or their own custom domain. Moreover, they allow customization of the back-half of a short link, making it more readable for the audience and potentially generating more clicks compared to a standard URL.
+
+If you operate online, using a URL shortener can be highly beneficial. Platforms like Cutt.ly provide a convenient solution for creating, managing, and tracking short links and their click statistics, making your marketing efforts more effective.
+
+
+
+What are the benefits of using short links?
+
+There are several advantages to using short links, making them an essential tool for online marketing and communication:
+1. Improved readability and aesthetics: Short links look cleaner and are easier to share in social media, emails, and other online platforms. They make your content appear more organized and professional.
+2. Increased click-through rate (CTR): Short, branded links are more enticing to click on, as they appear more trustworthy and relevant to the user.
+3. Enhanced tracking and analytics: Short links often come with built-in tracking features that allow you to monitor clicks, geographic data, and other engagement metrics, helping you optimize your marketing efforts.
+4. Customization and branding: Short links can include your brand name or a custom alias, making them easily recognizable and memorable, which strengthens your brand identity.
+5. Space-saving: Short links save space in character-limited platforms, such as Twitter, allowing you to convey more information within the allowed character count.
+6. Better management: By using a URL shortener, you can better manage and organize your links, making it easier to update or modify them as needed.
+By including short links in your marketing and communication strategies, you can enjoy these benefits and improve your online visibility.
+
+
+
+
+Is Cuttly free URL shortener?
+Yes, Cuttly is a free URL shortener that allows users to create short, customized, and trackable URLs. Although there are certain limitations in place, these are designed to ensure optimal performance and user experience for everyone.
+
+Cuttly offers its free service by implementing a tiered structure, including a basic free plan alongside premium plans. The free plan provides users with essential URL shortening features, such as custom aliases, URL tracking, and QR code generation. While free users do encounter certain restrictions, like a limited number of shortened URLs or alias / back-half of short links limitations, these limitations help maintain the sustainability of the platform.
+
+All available options and pricing for URL Shortener - Cuttly: See features & pricing
+
+
+
+What is a short link?
+A short link is a condensed version of a long web address (URL) that is generated by a URL shortening service. These tiny URLs are designed to be more visually appealing, easily shareable, and suitable for platforms with character limitations, such as social media, text messages, and email. Short links are especially helpful when sharing content in situations where space is limited or where a clean, uncluttered appearance is desired.
+
+Cuttly is a widely used URL shortening tool that specializes in creating short links. By utilizing Cuttly, you can transform long, cumbersome web addresses into brief, memorable alternatives that are more user-friendly and easier to share. In addition to generating short links, Cuttly offers valuable features, such as custom aliases, analytics, and much more. These additional functionalities enable you to track user engagement, monitor the performance of your short links.
+
+A short link is a concise version of a URL, created to improve shareability and aesthetics. Cuttly is a popular tool for generating these short links, offering users additional features to enhance their online sharing experience.
+
+
+
+What is a branded short link?
+A branded short link is a customized, shortened URL that incorporates a custom branded domain and standard or custom-back-half. These tailored short links not only maintain the benefits of traditional short links, such as shareability and space-saving, but also help enhance brand recognition, trust, and consistency across various online channels.
+
+Cuttly, a popular URL shortening service, offers the ability to create branded short links easily. With Cuttly, you can replace generic short link with your brand domain and a custom alias, making your links more memorable and recognizable to your audience. This customization helps reinforce your brand identity and can lead to increased user engagement and click-through rates.
+
+In summary, branded short links are customized, shortened URLs that incorporate a brand name or identifier, promoting brand awareness and trust. Cuttly provides an easy-to-use platform for creating these branded short links, helping businesses establish a consistent online presence.
+
+
+
+Do short links created with Cuttly expire, and how long do they last?
+Short links generated using Cuttly do not have an expiration date. They are designed to last indefinitely, providing a reliable and consistent way to share your content. However, if you wish to remove a short link, Cuttly allows you to manually delete it at any time, giving you full control over the availability of your short URLs.
+
+
+
+Can I use my own custom or branded domains with Cuttly for URL shortening?
+Absolutely! Cuttly is a versatile URL shortener that allows you to incorporate your own custom or branded domains for URL shortening purposes. This feature enables you to maintain a consistent brand image while using short links.
+
+You have the option to add multiple custom domains to your Cuttly account, enhancing the flexibility of your URL shortening strategy.
+
+Details on quantities are available here: cutt.ly/pro-pricing
+
+
+
+What kind of data can be tracked when using Cuttly for short links?
+Cuttly is a sophisticated URL shortener and Link Analytics platform that enables you to track various data points related to clicks on your short links. The collected analytical data includes:
+
+Number of clicks;
+Source of clicks, including redirects from other sources or social media platforms;
+Referrals, or specific sources of redirects;
+Devices used to access the link (e.g., tablet, phablet, mobile phone, TV, desktop computer, console);
+Operating systems and their versions;
+Browsers and their versions;
+Device brands and their versions;
+Languages set on the device when clicking the short link;
+Geographic locations, countries from which the link was accessed;
+Bots (these do not count towards the total number of clicks, but bot-related data is available from the Single subscription plan).
+
+By providing such comprehensive insights, Cuttly helps you better understand your audience, optimize your marketing efforts, and enhance your online presence.
+
+
+
+What is a QR code and how is it used?
+A QR code, or Quick Response code, is a two-dimensional, square-shaped matrix barcode that stores information in an easily scannable format. These codes can be quickly and accurately decoded using smartphone cameras or dedicated QR code scanning apps.
+
+QR codes have become widely popular due to their convenience and versatility. They are commonly found on printed materials, such as product packaging, posters, billboards, and banners. However, their applications extend beyond just print media, as they are also used in digital marketing, event ticketing, and contactless payment systems, among other use cases.
+
+
+
+Can I create and customize QR codes for short links or link-in-bio using Cuttly?
+Absolutely! Cuttly enables you to generate QR codes for all short links, including link-in-bio, and customize them to suit your brand's style. You can modify colors, shapes, and even add your own logo to make your QR codes more visually appealing and aligned with your brand identity.
+
+If you find the traditional black and white QR codes too monotonous, Cuttly's customization options help you create engaging, on-brand QR codes that effectively capture your audience's attention.
+
+
+
+What is a link-in-bio, and how does Cuttly help create one?
+A link-in-bio refers to the single clickable URL placed in the bio section of your social media profiles. Social media platforms often limit the number of clickable links you can include in your profile, making the link-in-bio a valuable asset for directing visitors to important content about you or your brand.
+
+Cuttly helps you create a customizable and engaging link-in-bio by generating a visually appealing micro-page. This micro-page can host multiple links, a profile picture, a title, a description, and even multimedia content like videos. By using Cuttly to create your link-in-bio, you can efficiently manage and showcase essential information or resources, enhancing your online presence and user experience.
+
+
+What makes Cuttly stand out from other URL shorteners, and why should I choose it?
+Cuttly sets itself apart from other URL shorteners by offering a comprehensive all-in-one Link Management Platform designed to support your brand's growth and help generate more clicks on your short links. It is more than just a generic URL shortener, providing a wide range of features and services, including:
+
+Custom and branded URL shortening
+Link Management and Analytics
+QR code generation and customization
+Link-in-bio micro-page creation
+
+Cuttly is continuously evolving and expanding its offerings to provide even better services that support your online activities and strengthen your brand's presence. By choosing Cuttly, you gain access to a versatile, powerful tool that caters to all your link management needs, helping you optimize your marketing efforts and drive user engagement.
+
+Details on all features nd subscription plans are available here: cutt.ly/pro-pricing
+
+
+
+
+
+
+
+
+
+
+
+
+URL Shortener
+Cuttly serves as a user-friendly URL shortener that simplifies the process of managing and shortening links, including branded ones. Enhance your brand's growth and business potential by utilizing short, memorable, and engaging links with Cuttly's versatile platform.
+
+Sign up
+Pricing
+
+
+
+
+
+
+
+
+Cuttly URL Shortener awards.
+Cuttly is a comprehensive, ever-evolving platform for link shortening that combines innovation and user-friendliness to deliver a seamless experience in managing URLs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+URL Shortener, Custom Short URLs & Free Link Shortener | Cuttly
+
+
+
+
+
+
+
+
+
+
+
+
+URL Shortener
+
+URL Shortener
+Available features
+
+
+
+
+
+
+
+Link Management
+
+API
+Check url
+CUTT URL button
+Preview mode
+Unsubscribe newsletter
+
+
+
+
+
+
+
+Cuttly
+
+Support
+Integrations
+Status
+Terms of service
+Privacy Policy
+Cookies
+Abuse report
+Contact
+
+
+
+
+
+
+
+
+
+
+
+© 2023 cutt.ly | Made by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

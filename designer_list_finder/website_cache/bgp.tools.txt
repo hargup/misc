@@ -1,0 +1,1 @@
+Requests from default user agents are not allowed, please set a descriptive user-agent. Example: 'acmeco bgp.tools - contact@acme.co'

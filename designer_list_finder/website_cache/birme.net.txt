@@ -1,0 +1,332 @@
+
+
+
+BIRME - Bulk Image Resizing Made Easy 2.0 (Online & Free) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Birme
+
+
+About Birme
+
+
+FAQs
+
+
+Feedback
+
+
+Blog
+
+
+
+
+
+
+
+
+
+Bulk Image Resizing Made Easy 2.0
+BIRME - Bulk Image Resizing Made Easy 2.0
+
+          BIRME is a flexible and easy to use bulk image resizer. It can resize your images to any specific dimension and crop them
+          proportionately if necessary. It's an online tool and you don't need to download or install on your computer. BIRME is absolutely
+          free to use.
+        
+
+Drop your images here
+- OR -
+
+
+Browse from your computer
+
+(Looking for version 1?)
+
+
+
+
+Add more files
+
+
+
+
+
+
+
+Resize / Crop
+
+
+
+
+Width
+ px
+        
+ Auto Width
+
+
+
+Height
+ px
+        
+ Auto height
+
+
+
+Ratio
+ :
+          
+
+
+
+
+Auto detect image focal point
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Set image focal point
+
+ Do not resize
+
+
+
+
+
+Watermark
+Border
+
+
+
+
+          Color:
+          
+
+
+          Thickness:
+          
+
+
+
+
+
+Image Format & Quality
+
+
+
+
+Same as original images
+
+
+
+
+
+JPEG
+
+Quality %
+
+
+
+
+WEBP
+
+Quality %
+
+Need Help?
+
+
+
+
+Rename
+
+      File name pattern e.g. image-xxx or ORIGINAL-NAME_400x400
+      
+
+
+      File name starting number
+      
+
+
+
+
+
+        Save as zip
+      
+
+
+Save files
+
+
+
+Remove All
+Reset Settings
+
+
+
+
+About Birme
+New features in version 2
+
+NEW* Added support for WebP format
+Now you can adjust the focal point of each photo individualy
+Auto load previous settings you used
+Auto focal point detection
+Renaming file names in bulk
+Save resized images as files in bulk 
+Coming up: customize watermark for photos. This would be very helpful for photographers.
+
+A bit of history
+Almost 10 years ago, we handed over a beautifully themed Wordpress website to a client. After a while, we found out the website started to look like a disaster because all the images uploaded by the client were distorted. The person in charge of uploading photos didn't have the right software to crop the images.
+Spending thousands of dollars to buy a copy of Photoshop to resize images in bulk was not a wise choice. However, we couldn't find any decent software to crop and resize the images in batch properly. They either produced pixelated images or distorted the image into the dimension without cropping. To this date, I still wonder why anyone needs a squashed image to fit into a desired dimension.
+Even you have Photoshop, it is not so bad to record one batch action to resize the images. However, if you want to change a different dimension, you need to record a different batch action. Eventually, you will end up with have many batch actions in your Photoshop. You'll have the same problem if you use Automator in Mac.
+Another problem is that all these software options needed to be installed and some companies' security policies are very strict and installing a software would need layers of management approval.
+I wanted to solve this problem. In the beginning, I tried to create an app which did not require installation. However, I soon hit a major problem of supporting multiple operating systems. All the versions of Windows and Mac required different executable files and I didn't have the time nor means to test it on all systems.
+Until one day the idea of making a website to solve this problem came to my mind. For sure a website wouldn't be as powerful as a software, but it could do a decent job.
+The first version of BIRME was first built in 2012 with HTML, Javascript and a little bit of help from Flash (do you still remember there was Flash?). In 2015, BIRME removed the Flash component which was used to generate a zip file and prompt the browser for download.
+The design of BIRME 2.0 was done in 2016. Slowly the code has been refreshed and it is now finally close to what we once envisioned.
+
+ - Special thanks to Tony Sarg for helping on the write up -
+
+
+ 
+
+FAQs
+
+
+Is it safe to use BIRME?
+
+BIRME uses Javascript to resize and crop your photos within your browser. All codes are executed within your computer without uploading any photo to a server.
+Because of the natural of Javascript, all codes can be reviewed by another programmer easily and there is no way we can hide any malicious codes in BIRME.
+					
+
+
+
+What is "auto focal" detection? 
+
+When an image is cropped to meet your desired dimension or aspect ratio, some parts of the image will be cropped out. The tricky part is to know which part to crop off and which part to retain. Auto focal detection helps to identify which part of the image is important.
+Auto focal detection uses a brilliant Javascript library called "smartcrop". Generally, the important part of an image has more lines and curves than the background. From data science point of view, the "messy" region contains more data/information. BIRME uses smartcrop to analyse your photo and guesses which part is "messy" and retain that part and crop out the quieter surroundings.
+
+
+
+The "save files" button only saves one photo. Where are the rest?
+
+By default, the browser doesn't allow a web page to save multiple files. The first time BIRME tries to save multiple files the browser will alert you. If you accidentally disallowed it, you can change this in your browser's settings page. Alternatively, you can use the save as zip file function.
+
+						You can easily find out how to reset your browser by searching keywords like "allow chrome download multiple files" or "allow firefox download multiple files"
+					
+
+
+
+How to use "rename" function?
+
+
+						BIRME looks for xxxx's in the name and replace them with numbers. For example, my-photo-xxx will rename photos into my-photo-001, my-photo-002, my-photo-003 etc. You can put as many x's as you like. 
+					
+
+
+
+What is the recommend image quality for JPG photos?
+
+Generally I recommend people to use 80%. You should never use more than 90% unless you have a good reason.
+I assume the images resized are meant for online use. To improve the loading time and save bandwidth for mobile phone users, you should try to keep your images as small as possible. Of cause the photos shouldn't be so pixelated and they affect the aesthetic of your website. You can try out different qualities and find the optimal number. 
+
+
+
+Why my photos are pixelated?
+
+Pixelation happends when you up-size your image and there isn't a good way to avoid this.
+
+
+
+ - Special thanks to Tony Sarg for helping on the write up - 
+
+
+
+ 
+
+Feedback
+
+birme
+
+
+
+
+
+
+
+
+
+
+    Processing...
+  
+
+
+
+
+
+
+
+
+
+Watermark text
+
+
+
+Font
+
+Arial/Helvetica
+Times New Roman
+Cursive/Script
+
+
+
+Font Size
+
+
+
+ Or 
+
+
+
+Upload a watermark image
+
+
+
+
+
+
+
+
+
+
+
+
+
+

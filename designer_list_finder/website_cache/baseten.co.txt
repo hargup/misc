@@ -1,0 +1,41 @@
+Baseten | Machine learning infrastructureModel libraryDocumentationCustomersPricingBlogSign inSign upModel libraryDocumentationCustomersPricingBlogSign inSign upMachine learning infrastructure that just worksBaseten provides all the infrastructure you need to deploy and serve ML models performantly, scalably, and cost-efficiently.Get startedTrusted by top engineering and machine learning teamsGet started in minutes. Avoid getting tangled in complex deployment processes. Deploy best-in-class open-source models and take advantage of optimized serving for your own models.Learn more about model deploymentbaseten.coPromptGenerate image$truss init -- example stable-diffusion-2-1-base ./my-sd-truss$cd ./my-sd-truss$export BASETEN_API_KEY=MdNmOCXc.YBtEZD0WFOYKso2A6NEQkRqTe$truss pushINFOSerializing Stable Diffusion 2.1 truss.INFOMaking contact with Baseten 👋 👽INFO🚀 Uploading model to Baseten 🚀Upload progress: 100% | ▉ ▉ ▉ ▉ ▉ ▉ ▉ ▉ ▉ ▉ ▉ ▉ | 2.39G/2.39GOpen-source model packaging. Meet Truss, a seamless bridge from model development to model delivery. Truss presents an open-source standard for packaging models built in any framework for sharing and deployment in any environment, local or production.Llama 2 70BWhisperBarkStable Diffusion XL1from transformers import GenerationConfig, LlamaForCausalLM, LlamaTokenizer, TextIteratorStreamer
+2from threading import Thread
+3import torch
+4  
+5class Model:
+6    def __init__(self, **kwargs):
+7        self._secrets = kwargs["secrets"]
+8        self._model = None
+9        self._tokenizer = None
+10
+11    def load(self):
+12        self._model = LlamaForCausalLM.from_pretrained(
+13            "meta-llama/Llama-2-70b-chat-hf", 
+14            use_auth_token=self._secrets["hf_access_token"], 
+15            device_map="auto",
+16            torch_dtype=torch.float16,
+17        )
+18        self._tokenizer = LlamaTokenizer.from_pretrained(
+19            "meta-llama/Llama-2-70b-chat-hf", 
+20            use_auth_token=self._secrets["hf_access_token"],
+21            torch_dtype=torch.float16,
+22        )
+23        
+24    def predict(self, model_input):
+25        prompt = model_input.pop("prompt")
+26        stream = model_input.pop("stream", False)
+27        return self.forward(prompt, stream, **request)$ truss init -- example stable-diffusion-2-1-base .my/sd
+$ cd ./my-sd-truss
+$ export BASETEN_API_KEY=MdNmOCXc.YBtEZD0WFOYKso2A6NEQk
+$ truss push
+INFO Serializing Stable Diffusion 2.1 truss.
+INFO Making contact with Baseten 👋 👽Production#6wgzg4qActive on 2xA10GLast deployed 2 days agoReplicas2 of 4 activeScale down delay--Inference (last hour)233callsResponse time (median)832msConfigure auto-scalingView metricsbaseten
+baseten.login(“”)
+model = baseten.deployed_model_id() output = model.predict({: })
+(output)import print'1234abcd'“prompt”“some prompt”API_KEY_HERE1
+2
+3
+4
+5
+6
+7Invoke Llama 2Highly performant infra that scales with you. We've built Baseten as a horizontally scalable service that takes you from prototype to production. As your traffic increases, our infrastructure automatically scales to keep up with it; there's no extra configuration required.Learn more about autoscalingInference volume302requests per minute200455xx67Response time51ms on averagep501msp900.2msp950.3msp990.1msCost$23.02Production deploymentLoading ...Faster and betterWe've optimized every step of the pipeline — building images, starting containers and caching models, provisioning resources, and fetching weights — to ensure models scale-up from zero to ready for inference as quickly as possible.RUNNING SDXL 1.0 ON NVIDIA A10GWITHOUT BASETEN05:00WITH BASETEN00:09Logs and health metrics. We've built Baseten to serve production-grade traffic to real users. We provide reliable logging and monitoring for every model deployed to ensure there's visibility into what's happening under the hood at every step.Learn more about logs and metricsSearch model logsSep 18 8:33:08amBuild was successful. Deploy task is starting.Sep 18 8:33:08amConfiguring Resources to match user provided valuesSep 18 8:33:08amRequesting 7400 millicpusSep 18 8:33:08amRequesting 28300 MiB of memorySep 18 8:33:08amRequesting 1 GPUsSep 18 8:33:09amCreating the Baseten Inference Service.Sep 18 8:33:09amWaiting for model service to spin up. This might take a minute.Sep 18 8:33:13amstarting uvicorn with 1 workersSep 18 8:33:13amExecuting model.load()...Sep 18 8:33:13amApplication startup complete.Sep 18 8:33:14amCreated a temporary directory at /tmp/tmpfjq60a0eSep 18 8:33:14amWriting /tmp/tmpfjq60a0e/_remote_module_non_scriptable.pySep 18 8:33:16amFetching 17 files:  12%|██████████| 2/17 [00:00<00:01, 7.81it/s]Sep 18 8:33:16amDownloading (…)tokenizer/merges.txt: 525kB [00:00, 8.44MB/s]Sep 18 8:33:16amFetching 17 files:  41%|██████████| 7/17 [00:00<00:00, 19.08it/s]Sep 18 8:33:16amDownloading (…)kenizer_2/merges.txt: 525kB [00:00, 7.19MB/s]Sep 18 8:33:16amFetching 17 files: 100%|██████████| 17/17 [00:00<00:00, 25.90it/s]Sep 18 8:33:17am[Coldboost] starting uvicorn with 1 workersSep 18 8:33:19am[Coldboost] Writing /tmp/tmp4lra5yau/_remote_module_non_scriptable.pySep 18 8:33:21amFetching 9 files: 0%|██████████| 0/9 [00:00<?, ?it/s]Sep 18 8:33:21amDownloading (…)kenizer_2/merges.txt: 525kB [00:00, 7.85MB/s]Sep 18 8:33:21amFetching 9 files: 100%|██████████| 9/9 [00:00<00:00, 27.66it/s]Sep 18 8:33:22amLoading pipeline components...: 100%|██████████| 5/5 [00:00<00:00, 8.07it/s]Sep 18 8:33:23amCompleted model.load() execution in 10167 msSep 18 8:33:26am[Coldboost] Fetching 17 files:  12%|██████████| 2/17 [00:00<00:01, 13.25it/s]Sep 18 8:33:26am[Coldboost] Downloading (…)tokenizer/merges.txt: 525kB [00:00, 23.3MB/s]Sep 18 8:33:26am[Coldboost] Fetching 17 files:  41%|██████████| 7/17 [00:00<00:00, 20.70it/s]Sep 18 8:33:27am[Coldboost] Downloading (…)kenizer_2/merges.txt: 525kB [00:00, 17.4MB/s]Sep 18 8:33:27am[Coldboost] Fetching 17 files: 100%|██████████| 17/17 [00:00<00:00, 31.14it/s]Sep 18 8:33:27amDeploy was a success.Listening for new logs...Resource management. Customize the infrastructure running your model. We provide access to latest and greatest infrastructure to run your models on. It's easy to configure and pricing is transparent.Learn more about customizationSelect an instance typeGPU instancesCPU instancesT4x4x161 T4 GPU, 16 GiB VM, 4 vCPUs, 16 GiB$0.01052/minT4x16x641 T4 GPU, 16 GiB VM, 16 vCPUs, 64 GiB$0.02408/minA10Gx4x161 A10s GPU, 24 GiB VM, 4 vCPUs, 16 GiB$0.02012/minA10Gx16x641 A10 GPU, 24 GiB VM, 16 vCPUs, 64 GiB$0.03248/minA10G:2x24x962 A10 GPU, 48 GiB VM, 24 vCPUs, 96 GiB$0.05672/minA100x12x1441 A100 GPU, 80 GiB VM, 12 vCPUs, 144 GiB$0.10240/min1x21 vCPU, 2GiB RAM$0.00058/min1x41 vCPU, 4GiB RAM$0.0008/min2x82 vCPUs, 8GiB RAM$0.00173/min4x164 vCPUs, 16GiB RAM$0.00346/min8x328 vCPUs, 32GiB RAM$0.00691/min16x6416 vCPUs, 64GiB RAM$0.01382/minDeploy on your own infrastructure or use AWS or GCP creditsCOMING SOONUse your AWS or GCP credits on BasetenAre you a startup with AWS and GCP credits? Use them on Baseten.Get in touchFOR ENTERPRISEDeploy on your own infrastructureAre you an enterprise that wants to self-host Baseten, or utilize compute across multiple clouds? Baseten is easily deployable inside any modern cloud. Your models and data don't need to leave your VPC.Talk with salesCase studyPatreon saves nearly $600k/year in ML resources with BasetenWith Baseten, Patreon deployed and scaled the open-source foundation model Whisper at record speed without hiring an in-house ML infra team.Read case studyCase studyLaurel ships ML models 9+ months faster using BasetenTo automatically categorize hundreds of thousands of time entries every day, Laurel leverages sophisticated ML models and Baseten’s product suite.Read case studyPopular modelsStable DiffusionFalcon 7BLlama-2-chat 7BMPT-7B BaseWhisperBarkProductPricingCustomer StoriesTerms of ServicePrivacy PolicyDevelopersChangelogStatusDocsCompanyAboutBlogCareers We’re hiring

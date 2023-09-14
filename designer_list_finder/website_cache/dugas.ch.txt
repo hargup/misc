@@ -1,0 +1,337 @@
+
+
+
+
+
+
+Dugas.ch
+
+
+
+
+
+
+
+
+
+ROBOTICS & MACHINE LEARNING
+Daniel Dugas
+
+
+About me
+Contact
+Blog
+
+
+
+
+
+
+
+
+
+
+      I did my PhD in Machine Learning and Robotics from 2018 to 2022 at the ETH Zürich, under Prof. Siegwart.
+    
+
+      I'm interested in embodied AI - How can robotics help us better understand the ingredients of intelligence?
+      My main research question during the PhD was how algorithms can create powerful, predictive models of the world from unlabeled data, and use them in decision making.
+      I'm willing to bet that big breakthroughs will result from 1) better understanding of large fundamental models 2) research on integrating high-level reasoning (for example large multi-modal models) into low level systems (Perception, SLAM, Controls).
+    
+
+
+
+
+
+      I now work at mesh.ch, where I apply robotics and ML research to help make construction less material and labor intensive.
+    
+
+
+
+
+
+
+
+
+
+Publications
+
+
+
+
+
+
+
+
+
+
+
+
+        PhD Thesis: Do Androids Dream of Interactive Navigation?
+      
+
+        Daniel Dugas
+      
+
+        ETH Zürich Research Collection
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NavDreams: Towards Camera-Only RL Navigation Among Humans
+      
+
+        Daniel Dugas, Olov Andersson, Roland Siegwart, and Jen Jen Chung
+      
+
+        IEEE International Conference on Intelligent Robots and Systems (IROS), 2022
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+        NavRep: Unsupervised Representations for Reinforcement Learning of Robot Navigation in Dynamic Human Environments
+      
+
+        Daniel Dugas, Juan Nieto, Roland Siegwart, Jen Jen Chung
+      
+
+      IEEE International Conference on Robotics and Automation (ICRA), 2021
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+        IAN: Multi-Behavior Navigation Planning for Robots in Real, Crowded Environments
+      
+
+        Daniel Dugas, Juan Nieto, Roland Siegwart, Jen Jen Chung
+      
+
+        IEEE International Conference on Intelligent Robots and Systems (IROS), 2020
+      
+
+
+
+
+
+
+
+
+
+
+
+
+(co-author) SegMap: Segment-based mapping and localization using data-driven descriptors
+      
+
+        R. Dubé, A. Cramariuc, D. Dugas, H. Sommer, M. Dymczyk, J. Nieto, R. Siegwart, and C. Cadena
+      
+
+        The International Journal of Robotics Research (IJRR), 2019
+      
+
+
+
+More publications...
+
+
+
+
+Projects
+
+
+AI
+
+
+
+
+
+
+
+
+
+
+
+          The GPT-3 Architecture, Explained
+          
+
+
+          (featured on  hacker news )
+          
+
+
+
+
+
+
+
+
+
+
+          Transformer World-Models
+          
+
+
+
+
+
+ROBOTICS & VR
+
+
+
+
+
+
+
+
+          Robot VR Piloting
+          
+
+
+
+
+
+
+
+
+
+
+
+          Synchronized CUBLI Choreography
+          
+
+
+
+
+
+COMPUTER VISION, PLANNING & SLAM
+
+
+
+
+
+
+
+
+          SEGMAP: AI-Augmented LiDAR SLAM
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Robot Path Planning
+          
+
+
+
+
+
+SIMULATION, COMPUTER GRAPHICS
+
+
+
+
+
+
+
+
+
+          High-fidelity Simulation for RL
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+          CUDA for Realtime Raytracing
+          
+
+
+
+
+
+
+
+
+
+
+
+
+          Lattice-Boltmann Fluid Simulation
+          
+
+
+
+
+
+
+
+CONTACT ME
+
+
+
+
+
+
+
+
+
+
+Powered by bees
+
+
+
+

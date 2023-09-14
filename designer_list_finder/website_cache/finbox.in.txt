@@ -1,0 +1,53 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FinBox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your CompanyOpen main menuYour CompanySolutionsAccount AggregatorUse the power of FinBox analytics to enable lending, personal finance and moreDigital LendingLaunch or scale a digital credit product with full-stack APIs and journeysEmbedded FinancePartner with lenders or anchors to launch in-context credit productsPartnership LendingExpand your credit ecosystem and build borrower pools with synergetic partnershipsUnderwritingFrom onboarding to decisioning to collections, harness the most advanced data analytics engine for digital lendingProductsRisk IntelligenceBankConnect + AAAutomated bank statement analyzer integrated with Account AggregatorDeviceConnectMobile data-based risk engine for high-precision underwritingCollectXEarly warning system for delinquencies and improving collection efficiencyMarketXCross-sell and upsell intelligence to improve revenue per userBureauConnectMulti-bureau policy engine that helps underwrite users 3X fasterCredit InfrastructureLoan Origination Stack Smooth and scalable journey orchestration for modern credit productsSentinel - BRE Most advanced rule engine with no-code workflowsEmbedded Credit LinksLaunch digital credit products with custom journeysDSA ManagementOne-stop solution for channel management with seamless trackingBanking API Middleware Scalable and custom APIs for digital lending integrationsResourcesBlogAccess the largest library of original FinTech insightsNewsletter : The Big PictureThe best of FinTech insights from our CEOâs penNewsletter : The PatternEverything you need to know, without the sales pitchCase StudiesDeep dive into the world of lending with our researchGuides and ReportsExplore our ambitions, ideas and scaleWebinars/PodcastsExperience, experts and experiments in FinTechFrom the blogHow Indiaâs reseller-led social commerce can turn the corner with B2B creditHow Indiaâs reseller-led social commerce can turn the corner with B2B creditThe digital-first guide: How NBFCs can launch and scale their digital offeringsThe digital-first guide: How NBFCs can launch and scale their digital offeringsView all posts âAbout usOur StoryOur ClientsCareersContact UsPrivacy policyThe FinTech Cloudfor modern enterprises Digital credit infrastructure and risk intelligence suite that helps you launch and scale new-age credit products. Without any heavy-lifting.Request DemoPowering digital credit for100+enterprisesRequest a CallCutting-edge credit offerings.Without the heavy-lifting.Credit Infrastructure End-to-end API infrastructure for offering tailored credit
+        products at scale and speed.No-code credit widgetsDSA management moduleSentinel - BRECredit Infrastructure End-to-end API infrastructure for offering tailored credit
+        products at scale and speed.Risk Intelligence Suite Cutting-edge risk and underwriting platforms that boost approvals, reduce-risk and enable cross-sell.BankConnect + AADeviceConnectCollectXMarketXBureauConnectRisk Intelligence Suite Cutting-edge risk and underwriting platforms that boost approvals, reduce-risk and enable cross-sell.No-code credit widgets End-to-end infrastructure for modern credit productsDSA management module Supercharge channel partners managementSentinel - BRE Policy engine for modern lending workflows
+Powerful and easy to use APIs and SDKsFinBox APIs are designed by engineers in collaboration with experts from financial institutions. Our focus on developer tools ensures that all the complexity is shielded from developers, enabling them to become productive quickly using our thoughtful abstractions.âFinBoxâs proven artificial intelligence and machine learning-powered underwriting capability enables us to extend credit even to MSMEs with thin-to-no credit history. We are launching multiple new-age credit products for the retailer and the MSME spaces through the FinBox Embedded Finance platform âSanjeev Srivastava, Chief Risk Officer, IIFLBuild in minutes, launch in weeks Build unique features using our suite of APIs, developer tools, and guides to launch in weeksUnderwrite at speed and scale With more than 1 million new originations a month, our risk engine powers lightning fast and precise underwriting across all segments of borrowers.Access the largest lender and anchor network More than 50+ lenders and anchor platforms work with FinBox to build and scale credit offerings. Access this network with just one easy integration.The 3-1-0 magic Our 3-1-0 credit workflow ensures that any application is completed in less than 3 minutes, the disbursal takes just 1 tap from the borrower, and the entire process works with zero human intervention.
+SolutionsAccount AggregatorUse the power of FinBox analytics to enable lending, personal finance and moreDigital LendingLaunch or scale a digital credit product with full-stack APIs and journeysEmbedded FinancePartner with lenders or anchors to launch in-context credit productsPartnership LendingExpand your credit ecosystem and build borrower pools with synergetic partnershipsUnderwritingFrom onboarding to decisioning to collections, harness the most advanced data analytics engine for digital lendingProductsRisk IntelligenceBankConnect + AAAutomated bank statement analyzer integrated with Account AggregatorDeviceConnectMobile data-based risk engine for high-precision underwritingCollectXEarly warning system for delinquencies and improving collection efficiencyMarketXCross-sell and upsell intelligence to improve revenue per userBureauConnectMulti-bureau policy engine that helps underwrite users 3X fasterCredit InfrastructureLoan Origination Stack Smooth and scalable journey orchestration for modern credit productsSentinel - BRE Most advanced rule engine with no-code workflowsEmbedded Credit LinksLaunch digital credit products with custom journeysDSA ManagementOne-stop solution for channel management with seamless trackingBanking API Middleware Scalable and custom APIs for digital lending integrationsResourcesBlogAccess the largest library of original FinTech insightsNewsletter : The Big PictureThe best of FinTech insights from our CEOâs penNewsletter : The PatternEverything you need to know, without the sales pitchCase StudiesDeep dive into the world of lending with our researchGuides and ReportsExplore our ambitions, ideas and scaleWebinars/PodcastsExperience, experts and experiments in FinTechFrom the blogThe digital-first guide: How NBFCs can launch and scale their digital offeringsThe digital-first guide: How NBFCs can launch and scale their digital offeringsHow Indiaâs reseller-led social commerce can turn the corner with B2B creditHow Indiaâs reseller-led social commerce can turn the corner with B2B creditView all posts âAbout usOur StoryOur ClientsCareersContact UsPrivacy policySearchOpen menuFrom the blogBlogAccount Aggregator leverages âinformedâ consent to enable multiple use cases in digital lendingChitwan KaurChitwan Kaur7/12/2023Â·4 min readBlogHow to fine-tune your credit scoring model with FinBox Inclusion Score (FIS)Aparna ChandrashekarAparna Chandrashekar6/22/2023Â·4 min readBlogHow Sentinel solves lendersâ scalability problemsAnna CatherineAnna Catherine6/7/2023Â·4 min readView Blogs
+
+
+FooterSolutionsAccount AggregatorDigital LendingEmbedded FinancePartnership LendingUnderwritingRisk IntelligenceBankConnect + AADeviceConnectCollectXMarketXBureauConnectCredit InfrastructureLoan Origination StackSentinel-BREEmbedded Credit LinksDSA ManagementBanking API MiddlewareCredit InfrastructureLoan Origination StackSentinel-BREEmbedded Credit LinksDSA ManagementBanking API MiddlewareResourcesBlogNewsletterCase StudiesGuides and ReportsWebinarsCompanyAboutOur ClientsCareersPrivacyContact UsCompanyAboutOur ClientsCareersPrivacyContact UsLinkedInSubstackTwitterFacebookInstagramÂ© 2023 Moshpit Technologies, Inc. All rights reserved.
+
+
+
+

@@ -1,0 +1,356 @@
+
+
+
+
+
+
+
+asciinema - Record and share your terminal sessions, the simple way
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore
+
+
+
+              Record
+            
+
+
+Docs
+
+
+Blog
+
+
+About
+
+
+
+
+
+              Hire me!
+            
+
+
+
+              Log in
+
+                / Sign up
+
+            
+
+
+
+
+
+
+
+
+
+
+
+Record and share your terminal sessions, the simple way. 
+
+          Forget screen recording apps and blurry video.
+          Experience a lightweight, text-based approach to terminal recording.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+          asciinema [as-kee-nuh-muh] 
+          is a free and open source solution for recording terminal sessions and sharing them on the web. Read about how it works.
+        
+
+
+
+
+
+
+
+
+Easy recording
+Record right where you work - in a terminal.
+          To start just run asciinema rec, to finish hit Ctrl-D or type exit. 
+Get started »
+
+
+Copy & paste
+When viewing a recording just pause the player and copy-paste the content you want. It's just text after all!
+
+
+Embedding
+Easily embed asciinema player in your blog post, project documentation or in conference talk slides. 
+See docs on embedding »
+
+
+
+
+
+
+
+
+Example sessions recorded with asciinema
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                ╔════════════════════════════════════════════════════════════╗  ║                                                            ║  ║        ___ _           ___ _        _   _                  ║  ║       | _ \ |__ _ _  _/ __| |_ __ _| |_(_)___ _ _          ║  ║       |  _/ / _` | || \__ \  _/ _` |  _| / _ \ ' \         ║  ║       |_| |_\__,_|\_, |___/\__\__,_|\__|_\___/_||_|        ║  ║                   |__/                                     ║  ║                     Deals of the week                      ║  ║                                                            ║  ╚════════════════════════════════════════════════════════════╝                                                                  ❯ Essential Picks - B - TD - S26                                  Games Under 20 starts 03/15 - SIEA - TD                       
+
+
+
+
+
+PlayStation Store CLI
+featured
+00:26
+
+
+
+
+
+
+by darkwark 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                   /~~\                                                              |<><>|                                                             /_/\_\                   /""\                         ====    #   /\___/\                  ( o o                         o o |    \\//|[ ] \\                 _\ o/_                       _\- /_     \/ |[_] |\\               /"'--'"\                     /"'=='"\       |    |//              |  |  :: \                   |  | ::: |      |====#/               || |    |\\                  || |    ||     /|\  /I\          ---------------\()-------------------------------------------------
+
+
+
+
+
+Star Wars: Episode IV
+featured
+17:50
+
+
+
+
+
+
+by asciinema 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                        _                                                           _(.)-                                                         \__)                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+
+duckpond.sh
+featured
+00:07
+
+
+
+
+
+
+by gsobell 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                                                                                                          *stdi
+
+
+
+
+
+kakoune-typewriter demo
+featured
+00:42
+
+
+
+
+
+
+by Screwtapello 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           __                             ,\)  =<                                        ><_'>                          >=('>_/ \                          .:/              '                             '/\                           ,,///;,                                                                       o:::::::;;                                                                     >::::::::;;                                                                       ''\\\\\''                                                                          _   _                                                                          [ ]_[ ]                                                  (                      |_=_ )_                                                   )                      | _( =                                                  (                       |=  )]                    (                              )                      | =(                       )                            (                       |=( )]                    (                              )                      |- )_                      )                            (                       |_( )_
+
+
+
+
+
+asciiquarium
+featured
+01:16
+
+
+
+
+
+
+by fie 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      ███                  ███████         █▀▀▄ █    ▄▀▀▄ █  █ ▄▀▀▄                   ███  Shell Público   ██  ███         █▄▄▀ █    █▄▄█ ██ █ █  █                   ███  en Castellano   ██▀▀███         █    █▄▄▄ █  █ █ ▀█ ▀▄▄▀                   ███                  ██▄▄███            ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡                      ██▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀██                                                    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀              ► Terminales Remotas SSH         ████████████████████▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█                                     ██IBM███████████████ ═/═[--]══ │          █    ► Cartelera  Electrónica         ██▄▄▄███████████████ ───────── │───────── █                                     ███│││││││││││██████ ═/═[--]══ │ =====w== █    ► Gopher  -  WWW  -  FTP         ███│││││││││││██████           │ ·        █   ╔═══════════╕                     ███████████████████████████████████████████═══╢  oooooooo │                     ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀   ╙───────────╛                    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░         
+
+
+
+
+
+Sesión en texto-plano.xyz
+featured
+11:34
+
+
+
+
+
+
+by peron 
+
+
+
+
+
+Explore more
+
+
+
+
+
+
+
+
+
+
+
+Contributing
+Terms of Service
+Privacy Policy
+Contact
+
+
+
+
+          Hosted by 
+
+
+
+
+
+
+
+
+mastodon:
+
+              @asciinema@fosstodon.org
+            
+
+
+matrix:
+#asciinema:matrix.org
+
+
+irc:
+#asciinema on Libera.Chat
+
+
+forum:
+Github Discussions
+
+
+
+
+
+
+
+

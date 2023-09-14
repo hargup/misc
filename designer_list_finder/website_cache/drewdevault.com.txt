@@ -1,0 +1,1449 @@
+
+
+
+
+
+
+Drew DeVault's blog
+
+
+
+
+
+
+Drew DeVault's blog
+
+August 29, 2023
+AI crap
+
+
+August 9, 2023
+Hello from Ares!
+
+
+July 31, 2023
+The rc shell and its excellent handling of whitespace
+
+
+July 25, 2023
+Alpine Linux does not make the news
+
+
+July 4, 2023
+Seriously, don't sign a CLA
+
+
+June 30, 2023
+Social media and "parasocial media"
+
+
+June 29, 2023
+Burnout and the quiet failures of the hacker community
+
+
+June 19, 2023
+Reforming the free software message
+
+
+June 16, 2023
+Throwing in the towel on mobile Linux
+
+
+June 12, 2023
+How to go to war with your employer
+
+
+May 1, 2023
+Burnout
+
+
+April 24, 2023
+Who should lead us?
+
+
+April 18, 2023
+rc: a new shell for Unix
+
+
+April 11, 2023
+The Free Software Foundation is dying
+
+
+April 8, 2023
+Writing Helios drivers in the Mercury driver environment
+
+
+March 9, 2023
+When to comment that code
+
+
+February 20, 2023
+Porting Helios to aarch64 for my FOSDEM talk, part one
+
+
+January 30, 2023
+Should private platforms engage in censorship?
+
+
+January 24, 2023
+My plans at FOSDEM: SourceHut, Hare, and Helios
+
+
+January 22, 2023
+Setting a new focus for my blog
+
+
+December 1, 2022
+I shall toil at a reduced volume
+
+
+November 26, 2022
+Codegen in Hare v2
+
+
+November 12, 2022
+In praise of Plan 9
+
+
+October 27, 2022
+Notes from kernel hacking in Hare, part 3: serial driver
+
+
+October 18, 2022
+TOTP for 2FA is incredibly easy to implement. So what's your excuse?
+
+
+October 15, 2022
+Status update, October 2022
+
+
+October 12, 2022
+In praise of ffmpeg
+
+
+October 3, 2022
+Does Rust belong in the Linux kernel?
+
+
+October 2, 2022
+Notes from kernel hacking in Hare, part 2: multi-threading
+
+
+September 16, 2022
+The phrase "open source" (still) matters
+
+
+September 15, 2022
+Status update, September 2022
+
+
+September 7, 2022
+Notes from kernel hacking in Hare, part 1
+
+
+September 2, 2022
+In praise of qemu
+
+
+August 28, 2022
+powerctl: A small case study in Hare for systems programming
+
+
+August 25, 2022
+A review of postmarketOS on the Xiaomi Poco F1
+
+
+August 18, 2022
+PINE64 has let its community down
+
+
+August 16, 2022
+Status update, August 2022
+
+
+August 10, 2022
+How I wish I could organize my thoughts
+
+
+July 26, 2022
+Conciseness
+
+
+July 25, 2022
+Code review at the speed of email
+
+
+July 25, 2022
+The past and future of open hardware
+
+
+July 18, 2022
+Status update, July 2022
+
+
+July 9, 2022
+The Fediverse can be pretty toxic
+
+
+July 1, 2022
+Porting Doom to Helios
+
+
+June 23, 2022
+GitHub Copilot and open source laundering
+
+
+June 20, 2022
+Introducing the Himitsu keyring & password manager for Unix
+
+
+June 15, 2022
+Status update, June 2022
+
+
+June 13, 2022
+The Helios microkernel
+
+
+May 30, 2022
+bleh
+
+
+May 25, 2022
+Google has been DDoSing SourceHut for over a year
+
+
+May 16, 2022
+Status update, May 2022
+
+
+May 14, 2022
+A Hare code generator for finding ioctl numbers
+
+
+May 12, 2022
+When will we learn?
+
+
+May 9, 2022
+Implementing an SSH agent in Hare
+
+
+April 25, 2022
+Announcing the Hare programming language
+
+
+April 15, 2022
+Status update, April 2022
+
+
+April 1, 2022
+Announcing git snail-mail
+
+
+March 29, 2022
+It is important for free software to use free software infrastructure
+
+
+March 24, 2022
+The Netherlands so far
+
+
+March 15, 2022
+Status update, March 2022
+
+
+March 14, 2022
+It takes a village
+
+
+March 13, 2022
+Why am I building a programming language in private?
+
+
+March 1, 2022
+Open Source is defined by the OSI's Open Source Definition
+
+
+February 19, 2022
+Plaid is an evil nightmare product from Security Hell
+
+
+February 15, 2022
+Status update, February 2022
+
+
+February 13, 2022
+Framing accessibility in broader terms
+
+
+February 7, 2022
+Free software licenses explained: MIT
+
+
+January 28, 2022
+Implementing a MIME database in XXXX
+
+
+January 19, 2022
+Help Chile write free software values, privacy, and digital sovereignty into their constitution
+
+
+January 18, 2022
+Pine64 should re-evaluate their community priorities
+
+
+January 17, 2022
+Status update, January 2022
+
+
+January 15, 2022
+The RISC-V experience
+
+
+December 30, 2021
+Breaking down a small language design proposal
+
+
+December 28, 2021
+Please don't use Discord for FOSS projects
+
+
+December 25, 2021
+Please use me as a resource
+
+
+December 23, 2021
+Sustainable creativity in a world without copyright
+
+
+December 18, 2021
+On commercial forks of FOSS projects
+
+
+December 15, 2021
+Status update, December 2021
+
+
+December 14, 2021
+Impressions of Linux Mint & elementary OS
+
+
+December 5, 2021
+How new Linux users can increase their odds of success
+
+
+December 5, 2021
+What desktop Linux needs to succeed in the mainstream
+
+
+November 26, 2021
+postmarketOS revolutionizes smartphone hacking
+
+
+November 24, 2021
+My philosophy for productive instant messaging
+
+
+November 16, 2021
+I will pay you cash to delete your npm module
+
+
+November 16, 2021
+Python: Please stop screwing over Linux distros
+
+
+November 15, 2021
+Status update, November 2021
+
+
+November 5, 2021
+Breaking down Apollo Federation's anti-FOSS corporate gaslighting
+
+
+October 26, 2021
+GitHub stale bot considered harmful
+
+
+October 22, 2021
+How SmarterEveryDay's 4privacy can, and cannot, meet its goals
+
+
+October 17, 2021
+Software developers have stopped caring about reliability
+
+
+October 15, 2021
+Status update, October 2021
+
+
+October 5, 2021
+How reflection works in ****
+
+
+September 27, 2021
+Developers: Let distros do their job
+
+
+September 23, 2021
+Nitter and other Internet reclamation projects
+
+
+September 15, 2021
+Status update, September 2021
+
+
+September 11, 2021
+visurf, a web browser based on NetSurf
+
+
+August 15, 2021
+Status update, August 2021
+
+
+August 11, 2021
+Tips for debugging your new programming language
+
+
+August 10, 2021
+Police to begin regular, warrant-free searches of homes for child abuse material
+
+
+August 6, 2021
+proxy.golang.org allows many Go packages to be silently broken
+
+
+August 5, 2021
+In praise of PostgreSQL
+
+
+July 28, 2021
+My wish-list for the next YAML
+
+
+July 15, 2021
+Status update, July 2021
+
+
+July 4, 2021
+Is GitHub a derivative work of GPL'd software?
+
+
+July 3, 2021
+How does IRC's federation model compare to ActivityPub?
+
+
+June 27, 2021
+You can't capture the nuance of my form fields
+
+
+June 24, 2021
+A finger client
+
+
+June 15, 2021
+Status update, June 2021
+
+
+June 14, 2021
+Provided "as is", without warranty of any kind
+
+
+June 7, 2021
+I will be moving to the Netherlands
+
+
+May 30, 2021
+Build your project in our new language
+
+
+May 24, 2021
+Using io_uring to make a high-performance... finger server
+
+
+May 19, 2021
+How to write release notes
+
+
+May 17, 2021
+aerc, mbsync, and postfix for maximum comfy offline email
+
+
+May 16, 2021
+Status update, May 2021
+
+
+May 14, 2021
+Pinebook Pro review
+
+
+May 8, 2021
+I try not to make unlikable software (and features)
+
+
+May 7, 2021
+godocs.io six months later
+
+
+May 6, 2021
+In praise of Alpine Linux
+
+
+April 26, 2021
+Cryptocurrency is an abject disaster
+
+
+April 23, 2021
+Recommended read: Why Lichess will always be free
+
+
+April 22, 2021
+Parsers all the way down: writing a self-hosting parser
+
+
+April 15, 2021
+Status update, April 2021
+
+
+April 12, 2021
+The Developer Certificate of Origin is a great alternative to a CLA
+
+
+April 7, 2021
+What should the next chat app look like?
+
+
+April 2, 2021
+Go is a great programming language
+
+
+March 29, 2021
+The world's stupidest IRC bot
+
+
+March 23, 2021
+The complete guide for open sourcing video games
+
+
+March 19, 2021
+We are building a new systems programming language
+
+
+March 15, 2021
+Status update, March 2021
+
+
+March 6, 2021
+The corporate surveillance machine is killing people
+
+
+March 3, 2021
+To make money in FOSS, build a business first
+
+
+February 25, 2021
+Gmail is a huge source of spam
+
+
+February 21, 2021
+A great alternative is rarely fatter than what it aims to replace
+
+
+February 15, 2021
+Status update, February 2021
+
+
+February 9, 2021
+How to make your downstream users happy
+
+
+January 28, 2021
+Use open platforms — or else
+
+
+January 20, 2021
+Open source means surrendering your monopoly over commercial exploitation
+
+
+January 19, 2021
+Elasticsearch does not belong to Elastic
+
+
+January 19, 2021
+Spooky action at a distance
+
+
+January 15, 2021
+Status update, January 2021
+
+
+January 7, 2021
+History will not remember us fondly
+
+
+January 6, 2021
+Was $X invented, or discovered?
+
+
+January 4, 2021
+Fostering a culture that values stability and reliability
+
+
+January 1, 2021
+A megacorp is not your dream job
+
+
+December 25, 2020
+How to design a new programming language from scratch
+
+
+December 18, 2020
+godocs.io is now available
+
+
+December 15, 2020
+Status update, December 2020
+
+
+December 12, 2020
+Become shell literate
+
+
+December 4, 2020
+Web analytics should at least meet the standards of informed consent
+
+
+November 20, 2020
+A few ways to make money in FOSS
+
+
+November 17, 2020
+We can do better than DuckDuckGo
+
+
+November 15, 2020
+Status update, November 2020
+
+
+November 6, 2020
+Utility vs usability
+
+
+November 1, 2020
+What is this Gemini thing anyway, and why am I excited about it?
+
+
+October 23, 2020
+I'm handing over maintenance of wlroots and sway to Simon Ser
+
+
+October 22, 2020
+Firefox: The Jewel^WEmbarassment of Open Source
+
+
+October 15, 2020
+Status update, October 2020
+
+
+October 9, 2020
+Four principles of software engineering
+
+
+October 1, 2020
+Spamtoberfest
+
+
+September 25, 2020
+A tale of two libcs
+
+
+September 21, 2020
+TOFU recommendations for Gemini
+
+
+September 20, 2020
+The unrealized potential of federation
+
+
+September 15, 2020
+Status update, September 2020
+
+
+September 2, 2020
+Linux development is distributed - profoundly so
+
+
+August 27, 2020
+Embrace, extend, and finally extinguish - Microsoft plays their hand
+
+
+August 24, 2020
+Alice in Wonderland and the theft of the public domain
+
+
+August 17, 2020
+Software engineers solve problems
+
+
+August 16, 2020
+Status update, August 2020
+
+
+August 13, 2020
+Web browsers need to stop
+
+
+August 10, 2020
+I want to contribute to your project, how do I start?
+
+
+August 1, 2020
+pkg.go.dev is more concerned with Google's interests than good engineering
+
+
+July 27, 2020
+The falsehoods of anti-AGPL propaganda
+
+
+July 15, 2020
+Status update, July 2020
+
+
+July 14, 2020
+March 2nd, 1943
+
+
+June 26, 2020
+General-purpose OS, special-purpose OS, and now: vendor-purpose OS
+
+
+June 21, 2020
+Introducing the BARE message encoding
+
+
+June 19, 2020
+Email service provider recommendations
+
+
+June 15, 2020
+Status update, June 2020
+
+
+June 12, 2020
+Can we talk about client-side certificates?
+
+
+June 6, 2020
+Add a "contrib" directory to your projects
+
+
+May 15, 2020
+Status update, May 2020
+
+
+May 5, 2020
+We are complicit in our employer's deeds
+
+
+April 22, 2020
+How to store data forever
+
+
+April 20, 2020
+Configuring aerc for git via email
+
+
+April 15, 2020
+Status update, April 2020
+
+
+April 6, 2020
+My unorthodox, branchless git workflow
+
+
+March 25, 2020
+Designing and 3D printing a new part for my truck
+
+
+March 18, 2020
+The reckless, infinite scope of web browsers
+
+
+March 13, 2020
+GitHub's new notifications: a case of regressive design
+
+
+March 7, 2020
+An open letter to Senator Bob Casey on end-to-end encryption
+
+
+March 3, 2020
+The Abiopause
+
+
+February 21, 2020
+Thoughts on performance & optimization
+
+
+February 18, 2020
+Fucking laptops
+
+
+February 15, 2020
+Status update, February 2020
+
+
+February 6, 2020
+Dependencies and maintainers
+
+
+January 27, 2020
+KnightOS was an interesting operating system
+
+
+January 21, 2020
+The happinesses and stresses of full-time FOSS work
+
+
+January 17, 2020
+A philosophy of project governance
+
+
+January 15, 2020
+Status update, January 2020
+
+
+January 8, 2020
+Following up on "Hello world"
+
+
+January 4, 2020
+Hello world
+
+
+December 30, 2019
+Managing my dotfiles as a git repository
+
+
+December 18, 2019
+PinePhone review
+
+
+December 15, 2019
+Status update, December 2019
+
+
+December 9, 2019
+Developers shouldn't distribute their own software
+
+
+November 29, 2019
+Take action to save .org and prosecute those who sold out the internet
+
+
+November 26, 2019
+Software developers should avoid traumatic changes
+
+
+November 20, 2019
+China
+
+
+November 15, 2019
+Status update, November 2019
+
+
+October 30, 2019
+An old-school shell hack on a line printer
+
+
+October 15, 2019
+Status update, October 2019
+
+
+October 12, 2019
+How to fuck up software releases
+
+
+October 10, 2019
+RaptorCS's redemption: the POWER9 machine works
+
+
+October 7, 2019
+Why Collabora really added Digital Restrictions Management to Weston
+
+
+September 23, 2019
+RaptorCS POWER9 Blackbird PC review
+
+
+September 17, 2019
+Don't sacrifice the right ideas to win the right words
+
+
+September 15, 2019
+Status update, September 2019
+
+
+September 8, 2019
+How I decide between many programming languages
+
+
+September 2, 2019
+Building interactive SSH applications
+
+
+August 19, 2019
+Shell access for builds.sr.ht CI
+
+
+August 15, 2019
+Status update, August 2019
+
+
+August 9, 2019
+DRM leasing: VR for Wayland
+
+
+July 29, 2019
+FOSS contributor tracks
+
+
+July 15, 2019
+Status update, July 2019
+
+
+July 8, 2019
+Announcing code annotations for SourceHut
+
+
+July 1, 2019
+Absence of certain features in IRC considered a feature
+
+
+June 15, 2019
+Status update, June 2019
+
+
+June 13, 2019
+My personal journey from MIT to GPL
+
+
+June 3, 2019
+Initial pre-release of aerc: an email client for your terminal
+
+
+May 24, 2019
+What is a fork, really, and how GitHub changed its meaning
+
+
+May 15, 2019
+Status update, May 2019
+
+
+May 13, 2019
+Webcast: Reviewing git & mercurial patches with email
+
+
+May 6, 2019
+Calculating your donation's value following Patreon's fee changes
+
+
+May 1, 2019
+Announcing Wio: A clone of Plan 9's Rio for Wayland
+
+
+April 29, 2019
+The "shut up and get back to work" coding style guide
+
+
+April 23, 2019
+Using Cage for a seamless remote Wayland session
+
+
+April 19, 2019
+Choosing a VPN service is a serious decision
+
+
+April 15, 2019
+Announcing first-class Mercurial support on Sourcehut
+
+
+April 15, 2019
+Status update, April 2019
+
+
+April 2, 2019
+NewPipe represents the best of FOSS
+
+
+March 25, 2019
+Rust is not a good C replacement
+
+
+March 15, 2019
+Status update, March 2019
+
+
+March 11, 2019
+Announcing the release of sway 1.0
+
+
+March 4, 2019
+Sourcehut's spartan approach to web design
+
+
+February 25, 2019
+Tips for a disciplined git workflow
+
+
+February 18, 2019
+Generics aren't ready for Go
+
+
+February 10, 2019
+Wayland misconceptions debunked
+
+
+February 5, 2019
+My experiences at FOSDEM 2019
+
+
+January 30, 2019
+Why I chose Flask to build sr.ht's mini-services
+
+
+January 23, 2019
+Why I use old hardware
+
+
+January 15, 2019
+I'm going to work full-time on free software
+
+
+January 13, 2019
+Backups & redundancy at sr.ht
+
+
+January 1, 2019
+Patches welcome
+
+
+December 28, 2018
+Anatomy of a shell
+
+
+December 20, 2018
+Porting Alpine Linux to RISC-V
+
+
+December 4, 2018
+How to abandon a FLOSS project
+
+
+November 15, 2018
+sr.ht, the hacker's forge, now open for public alpha
+
+
+October 30, 2018
+It's not okay to pretend your software is open source
+
+
+October 29, 2018
+How does virtual memory work?
+
+
+October 20, 2018
+Sway 1.0-beta.1 release highlights
+
+
+October 8, 2018
+Go 1.11 got me to stop ignoring Go
+
+
+October 5, 2018
+Don't sign a CLA
+
+
+September 30, 2018
+Sway & wlroots at XDC 2018
+
+
+September 10, 2018
+Getting started with qemu
+
+
+September 4, 2018
+Conservative web development
+
+
+August 26, 2018
+How to make a self-hosted video livestream
+
+
+August 22, 2018
+The Commons Clause will destroy open source
+
+
+August 8, 2018
+I don't trust Signal
+
+
+August 5, 2018
+Setting up a local dev mail server
+
+
+July 29, 2018
+Writing a Wayland compositor with wlroots: shells
+
+
+July 23, 2018
+Git is already federated & decentralized
+
+
+July 17, 2018
+Input handling in wlroots
+
+
+July 9, 2018
+Simple, correct, fast: in that order
+
+
+July 2, 2018
+The advantages of an email-driven git workflow
+
+
+June 27, 2018
+A quick review of my Let's Encrypt setup
+
+
+June 5, 2018
+Should you move from GitHub to sr.ht
+
+
+June 1, 2018
+How I maintain FOSS projects
+
+
+May 29, 2018
+Embedding files in C programs with koio
+
+
+May 27, 2018
+Why did we replace wlc?
+
+
+May 13, 2018
+Introducing scdoc, a man page generator
+
+
+May 4, 2018
+Redirecting stderr of a running process
+
+
+May 3, 2018
+Google embraces, extends, and extinguishes
+
+
+April 28, 2018
+Sway reporting in from KDE's Berlin development sprint
+
+
+March 24, 2018
+Achtung! Decentralize, decentralize, decentralize!
+
+
+March 17, 2018
+Hack everything without fear
+
+
+March 10, 2018
+How to write an IRC bot
+
+
+February 28, 2018
+Writing a Wayland Compositor, Part 3: Rendering a window
+
+
+February 24, 2018
+The path to sustainably working on FOSS full-time
+
+
+February 22, 2018
+Writing a Wayland Compositor, Part 2: Rigging up the server
+
+
+February 17, 2018
+Writing a Wayland Compositor, Part 1: Hello wlroots
+
+
+February 13, 2018
+The last years
+
+
+February 5, 2018
+Introduction to POSIX shell
+
+
+January 27, 2018
+Sway and client side decorations
+
+
+January 16, 2018
+Fee breakdown for various donation platforms
+
+
+January 10, 2018
+Learn about your package manager
+
+
+January 2, 2018
+fork is not my favorite syscall
+
+
+December 28, 2017
+wlroots whitepaper available
+
+
+December 16, 2017
+Firefox is on a slippery slope
+
+
+December 2, 2017
+A history of emergent intelligence
+
+
+November 24, 2017
+On taking good care of your phone
+
+
+November 13, 2017
+Portability matters
+
+
+October 26, 2017
+Nvidia sucks and I'm sick of it
+
+
+October 9, 2017
+The future of Wayland, and sway's role in it
+
+
+September 13, 2017
+Analyzing HN moderation & censorship
+
+
+September 8, 2017
+Killing ants with nuclear weapons
+
+
+August 13, 2017
+When not to use a regex
+
+
+August 9, 2017
+State of Sway August 2017
+
+
+June 19, 2017
+Archive it or you will miss it
+
+
+June 10, 2017
+An introduction to Wayland
+
+
+June 5, 2017
+Limited "generics" in C without macros or UB
+
+
+May 11, 2017
+Rotating passwords in bulk in the wake of security events
+
+
+May 5, 2017
+Building a "real" Linux distro
+
+
+April 29, 2017
+State of Sway April 2017
+
+
+April 13, 2017
+MSG_PEEK is pretty common, CVE-2016-10229 is worse than you think
+
+
+March 15, 2017
+Principles for C programming
+
+
+February 22, 2017
+Compiler devnotes: Machine specs
+
+
+January 30, 2017
+Lessons to learn from C
+
+
+January 13, 2017
+The only problem with Python 3's str is that you don't grok it
+
+
+January 6, 2017
+Actually, you CAN do it
+
+
+December 27, 2016
+State of Sway December 2016 - secure your Wayland desktop, get paid to work on Sway
+
+
+December 6, 2016
+A broad intro to networking
+
+
+November 24, 2016
+Electron considered harmful
+
+
+November 16, 2016
+Getting on without Google
+
+
+November 5, 2016
+I'm losing faith in America
+
+
+September 17, 2016
+Using the right tool for the job
+
+
+September 9, 2016
+What motivates the authors of the software you use?
+
+
+August 18, 2016
+[VIDEO] Arch Linux with full disk encryption in (about) 15 minutes
+
+
+August 2, 2016
+Sway 0.9 & One year of Sway
+
+
+July 19, 2016
+Using -Wl,--wrap for mocking in C
+
+
+June 29, 2016
+Life, liberty, and the pursuit of privacy
+
+
+May 28, 2016
+Understanding pointers
+
+
+May 11, 2016
+In Memoriam - Mozilla
+
+
+April 20, 2016
+State of Sway - April 2016
+
+
+April 12, 2016
+How to write a better bloom filter in C
+
+
+April 11, 2016
+Please use text/plain for email
+
+
+March 22, 2016
+Integrating a VT220 into my life
+
+
+December 20, 2015
+State of Sway - December 2015
+
+
+November 11, 2015
+Bring more Tor into your life
+
+
+November 1, 2015
+Please don't use Slack for FOSS projects
+
+
+July 20, 2015
+A practical understanding of Flux
+
+
+June 14, 2015
+osu!web - WebGL & Web Audio
+
+
+April 19, 2015
+Hooks - running stuff on Github hooks
+
+
+November 30, 2014
+Porting an assembler, debugger, and more to WebAssembly
+
+
+October 10, 2014
+On the profitability of image hosting websites
+
+
+September 2, 2014
+Process scheduling and multitasking in KnightOS
+
+
+June 28, 2014
+Python's datetime sucks
+
+
+June 7, 2014
+Go's error handling doesn't sit right with me
+
+
+February 25, 2014
+Hacking on your TI calculator
+
+
+February 2, 2014
+The bug that hides from breakpoints
+
+
+August 24, 2013
+Custom Music Syncing on Android
+
+
+August 19, 2013
+You don't need jQuery
+
+
+
+
+
+rss
+      ·
+      misc
+
+
+email
+sir@cmpwn.com
+sourcehut
+~sircmpwn
+peertube
+spacepub.space
+pgp
+7BC79407090047CA
+
+
+      Before reaching out to me, be aware that I get many emails, and my typical
+      response time can be days or weeks. Please keep that in mind before
+      sending me a question that could be answered with a web search, reading a
+      man page, asking an on-topic IRC channel, etc. I do want to read your
+      email, though, so if in doubt, send it!
+    
+
+

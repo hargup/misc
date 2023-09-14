@@ -1,0 +1,328 @@
+
+
+
+
+
+
+
+
+Geoffrey Litt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Geoffrey Litt
+
+
+
+Projects
+
+
+Writing
+
+
+Inspirations
+
+
+
+Subscribe:
+
+
+
+
+Newsletter
+
+
+
+
+
+Twitter
+
+
+
+
+
+Mastodon
+
+
+
+
+
+RSS
+
+
+
+
+
+Contact
+
+
+
+
+Email me
+
+
+
+
+
+
+
+
+I'm researching ways to give people more agency in computing, so they can tweak or create their own tools, even if they don't have programming skills.
+I'm currently a CS PhD student at MIT, in the Software Design Group. I also regularly work with the industrial research lab Ink & Switch. Previously, I helped build the edtech startup Panorama Education (YC S13).
+These days, I'm thinking a lot about:
+AI + malleable software: How can LLMs help people make custom software?
+
+📜 essay: Malleable software in the age of LLMs
+🎥 talk/demo: Dynamic documents as personal software
+
+Reactive UI: how can we make UI dev feel more like a spreadsheet?
+
+📜 essay: Building data-centric apps with a reactive relational database
+
+If you'd like to hear about my future work, you can subscribe to occasional email updates. I'm also active on Twitter and Mastodon and have an RSS feed.
+
+
+
+Projects
+
+
+
+Riffle
+Building data-centric apps with a reactive relational database
+
+
+
+Potluck
+Dynamic text documents for creating personal software
+
+
+
+Peritext
+A CRDT for rich text, to enable asynchronous collaborative writing
+
+
+
+Wildcard
+Customize a web app with a spreadsheet! (Onward 2020)
+
+
+
+Cambria
+Better cross-app data compatibility using bidirectional lenses
+
+
+
+Margin Notes
+Automatic code docs w/ recorded examples from runtime (LIVE 2018)
+
+
+Experiments
+
+
+
+TodoMVC Vis
+Visualizing the internal behavior of TodoMVC in Redux
+
+
+
+JSON Sheets
+A reactive programming environment for building GUIs
+
+
+
+ladybug
+A Ruby debugger backend for the Chrome Dev Tools UI
+
+
+
+Experiments in Dynamicland
+Exploring in the dynamic medium
+
+
+
+
+Writing
+
+
+Codifying a ChatGPT workflow into a malleable GUI
+
+
+Malleable software in the age of LLMs
+
+
+ChatGPT as muse, not oracle
+
+
+Fuzzy API composition: querying NBA stats with GPT-3 + Statmuse + Langchain
+
+
+For your next side project, make a browser extension
+
+
+Dynamic documents // LLMs + end-user programming
+
+
+Bring Your Own Client
+
+
+How tweet threads cured my writer's block: Twitter as a medium for sketching
+
+
+Foam: Software as Curation
+
+
+Climate art, hacking Autodesk, and other funemployment projects
+
+
+Browser extensions are underrated: the promise of hackable software
+
+
+Adding tail call optimization to a Lisp interpreter in Ruby
+
+
+ENHANCE!: Upscaling images CSI-style with generative adversarial neural networks
+
+
+No Redis Needed: building a Postgres-backed recommendation engine for Rails
+
+
+The Virtual Cafe: a better way to hang out remotely
+
+
+Building Waze for the Boston subway: my first adventure in civic hacking
+
+
+2014: A year in review with iPhone pedometer data
+
+
+
+Contact me
+
+Please reach out if you're interested in chatting about ideas, or if I might be able to help you in some way. You can contact me via email or on Twitter.
+
+
+
+Subscribe
+I periodically write about programming tools, end-user programming, and software design. To get updates about new posts:
+
+
+
+
+Join my email newsletter
+
+
+
+Follow me on Twitter
+
+
+
+Subscribe via RSS
+
+
+
+
+📦 The Archive... (older work less relevant to my current interests)
+
+Conference Talks
+
+
+
+ENHANCE! (BangBangCon 2017)
+Explaining Generative Adversarial Neural Networks using CSI
+
+
+
+Ruby, A Family History (RailsConf 2018)
+Exploring how Ruby was influenced by Lisp, Smalltalk, and Perl
+
+
+
+Deep Learning: an Introduction (BostonRB)
+An introduction to deep learning techniques for Ruby developers
+
+
+Other software projects
+
+
+
+classroulette
+Making online course catalogs skimmable and serendipitous
+
+
+
+simple_recommender
+User recommendations for Rails apps, using Postgres
+
+
+
+Postgres BSON
+Extending PostgreSQL with faster JSON queries
+
+
+Data visualization / NLP
+
+
+
+Panorama Free Response Analytics
+Using NLP to help educators understand survey feedback
+
+
+
+News context sidebar
+Automatically providing background context about news articles
+
+
+
+Pedometer data analysis
+Analyzing a year of data from my smartphone step counter
+
+
+Hardware / Electrical Engineering
+
+
+
+Autonomous quadcopter
+A sonar-based obstacle avoidance system for a quadcopter
+
+
+
+Laser scanning
+An algorithm for efficiently determining object orientation with a cheap laser scanner
+
+
+
+Bulldogs Racing
+Embedded software for a gas-electric hybrid racecar
+
+
+
+
+
+
+
+
+
+
+

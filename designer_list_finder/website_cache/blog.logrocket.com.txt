@@ -1,0 +1,1333 @@
+
+
+
+
+
+
+
+
+
+
+
+
+LogRocket Blog - Resources to Help Product Teams Ship Amazing Digital Experiences
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blog
+
+DevProduct ManagementUX DesignPodcast
+FeaturesSolutions
+
+Solve User-Reported IssuesFind Issues FasterOptimize Conversion and Adoption
+ 
+
+
+
+
+
+
+
+Sign In
+
+
+Start monitoring for free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Featured Posts  
+
+More   
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Writing Rust bindings for Node.js with Neon
+Neon allows you to bring Rust's benefits into your Node.js project, such as its speed, efficiency, ecosystem, and more.
+
+
+
+
+ 
+
+
+
+Oduah Chigozie
+Sep 13, 2023
+
+5 min read
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Improving responsive data table UX with CSS
+We review several approaches for using CSS to further optimize responsive data table UX to enable users to better...
+
+
+
+
+ 
+
+
+
+Timonwa Akintokun
+Sep 6, 2023
+
+13 min read
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Best React Native in-app subscription libraries
+Compare the features of five of the top React Native in-app purchase libraries that support subscriptions in the App...
+
+
+
+
+ 
+
+
+
+Emmanuel John
+Aug 30, 2023
+
+10 min read
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+How to avoid CSS ch layout shifts
+CSS layout shifts refer to the unexpected movement (or shifting) of elements within the layout of a webpage during...
+
+
+
+
+ 
+
+
+
+Pascal Akunne
+Aug 23, 2023
+
+6 min read
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+How to implement a vector database for AI
+Vector databases are powerful tools for storing and manipulating large datasets for applications like AI. Learn how to implement...
+
+
+
+
+ 
+
+
+
+Ovie Okeh
+Aug 16, 2023
+
+14 min read
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Creating a reusable pop-up modal in React from scratch
+Adding a pop-up modal to your React app can be a useful way to engage with users. Let's create...
+
+
+
+
+ 
+
+
+
+Rahul Chhodde
+Aug 9, 2023
+
+14 min read
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+A guide to the 4 new Array.prototype methods in JavaScript
+Four new Array.prototype methods were recently approved as part of ECMAScript 2023. Read about how to use them in...
+
+
+
+
+ 
+
+
+
+Ohans Emmanuel
+Aug 2, 2023
+
+6 min read
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Best code editor components for React
+Explore the four top code editor components for React apps, including Monaco Editor React, React Ace, and more.
+
+
+
+
+ 
+
+
+
+Saleh Mubashar
+Jul 26, 2023
+
+4 min read
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Vue 3 for React developers: Side-by-side comparison with demos
+In this comprehensive guide to Vue for React developers, we teach you how to make the most of transferring...
+
+
+
+
+ 
+
+
+
+Sebastian Weber
+Jul 19, 2023
+
+27 min read
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+How to simplify form styles using CSS accent-color
+CSS accent-color is a property for customizing the accent colors on your website. Learn how to customize form controls...
+
+
+
+
+ 
+
+
+
+Shalitha Suranga
+Jul 12, 2023
+
+7 min read
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+5 AI tools for developers to help boost your productivity
+Advancements in AI can help developers save time and solve problems. Let's look at 5 AI-powered tools built for...
+
+
+
+
+ 
+
+
+
+Lewis Cianci
+Jul 5, 2023
+
+8 min read
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Understanding flatMap() and other TypeScript arrays
+We explore how the TypeScript flatmap() method can help to simplify code that involves mapping and flattening arrays. 
+
+
+
+
+ 
+
+
+
+Muhammed Ali
+Jun 28, 2023
+
+7 min read
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Filtering TypeScript value types
+Learn how TypeScript filters work, including array filters and value types, as well as how to use and avoid...
+
+
+
+
+ 
+
+
+
+Stanley Ulili
+Jun 21, 2023
+
+5 min read
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+How to create a web app in Rust with Rocket and Diesel
+Follow along with this full tutorial to learn how to create a web application with Rust, Rocket, and Diesel.
+
+
+
+
+ 
+
+
+
+Eze Sunday
+Jun 16, 2023
+
+12 min read
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Build a React Native drawing app with PencilKit
+With PencilKit, you can customize the appearance and behavior of the Apple Pencil, including the type of strokes recognized,...
+
+
+
+
+ 
+
+
+
+Rupesh Chaudhari
+Jun 14, 2023
+
+7 min read
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Guide to styling CSS scrollbars
+We explore a few different ways to style CSS scrollbars across different browsers, so you can customize the default...
+
+
+
+
+ 
+
+
+
+Taminoturoko Briggs
+Jun 7, 2023
+
+3 min read
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+All Stories
+
+
+
+
+
+
+ 
+
+Working with CSV files with react-papaparse
+We explore how to implement CSV functionality into a React app using react-papaparse, as well as handle errors and create downloadable...
+
+
+
+
+
+
+
+
+David Omotayo
+Sep 13, 2023
+
+14 min read
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+Implement React Native in-app purchases for Android apps
+Learn how to implement the react-native-iap package in an Android app in this detailed React Native tutorial with examples.
+
+
+
+
+
+
+
+
+Emmanuel John
+Sep 12, 2023
+
+8 min read
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+Using OpenNext to deploy a Next.js app to AWS Lambda
+OpenNext is an open source adapter for the Next.js framework that helps integrate your Next.js app smoothly with AWS services like...
+
+
+
+
+
+
+
+
+Nwani Victory
+Sep 12, 2023
+
+7 min read
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+Implementing function overloading in TypeScript
+We discuss function overloading in TypeScript and investigate how (and in what scenario) )we can most effectively implement it.
+
+
+
+
+
+
+
+
+Nelson Michael
+Sep 11, 2023
+
+5 min read
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+Adding comment functionality to your React Native app
+Learn to enable React Native comments by building an example app from the ground up using Firebase for data storage and...
+
+
+
+
+
+
+
+
+Onuorah Bonaventure
+Sep 11, 2023
+
+35 min read
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+Using Supabase’s vector database with PostgreSQL
+We explore how to manage vector data in a PostgreSQL database using Supabase and how to create embeddings with OpenAI.
+
+
+
+
+
+
+
+
+Vijit Ail
+Sep 8, 2023
+
+7 min read
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+Data fetching in Next.js with getServerSideProps and getStaticProps
+Compare the `getInitialProps`, `getServerSideProps`, and `getStaticProps` data fetching methods, and how they work for server-side rendering and static site generation.
+
+
+
+
+
+
+
+
+Yomi Eluwande
+Sep 8, 2023
+
+8 min read
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+CSS lobotomized owl selector: A modern guide
+A lot has changed about programming since the CSS lobotomized owl selector was introduced in 2014. Learn to use it in...
+
+
+
+
+
+
+
+
+Sebastian Weber
+Sep 7, 2023
+
+13 min read
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+Customizing environment variables in Next.js 13
+Next.js environment variables influence the way an application runs or behaves in different contexts and environments.
+
+
+
+
+
+
+
+
+Joseph Mawa
+Sep 7, 2023
+
+8 min read
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+How to send emails in Node.js using email APIs
+In a Node.js app, you can send emails using an email API to better automate and customize communications with your users.
+
+
+
+
+
+
+
+
+Taofiq Aiyelabegan
+Sep 6, 2023
+
+8 min read
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+Kanel tutorial: Generating TypeScript types from PostgreSQL
+Learn how to use Kanel to generate TypeScript types from PostgreSQL, then see it in action by building a to-do app.
+
+
+
+
+
+
+
+
+Agustinus Theodorus
+Sep 5, 2023
+
+8 min read
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+Next.js vs. Gatsby: Comparing React frameworks
+Compare the two React frameworks, Gatsby and Next.js, based on use cases and performance when building a variety of websites.
+
+
+
+
+
+
+
+
+Peter Ekene Eze
+Sep 5, 2023
+
+12 min read
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+First1234Last
+
+
+
+
+
+ Does something seem off? Email [email protected] 
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading Comments...
+
+
+
+ 
+
+
+Write a Comment...
+
+
+
+
+Email (Required)
+
+
+
+Name (Required)
+
+
+
+Website
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,243 @@
+
+
+
+
+Blog - Henri Bergius
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Henri Bergius
+Hacker and an occasional adventurer. Author of NoFlo, active c-baser and sailor. Decoupling software, one piece at a time. This blog tells the story of that.
+
+
+
+
+
+Flow-Based Programming, a way for AI and humans to develop together
+
+20 March 2023
+      
+      in Berlin, Germany.
+      
+      
+
+2 minute read.
+
+
+      I think by now everybody reading this will have seen how the new generation of Large Language Models like ChatGPT are able to produce somewhat useful code. Like any advance in software developmentâfrom IDEs to high-level languagesâthis has generated some discussion on the future employment prospects in our field.
+
+    
+
+
+
+Keeping a semi-automatic electronic ship's logbook
+
+06 March 2023
+      
+      in Berlin, Germany.
+      
+      
+
+6 minute read.
+
+
+      Maintaining a proper shipâs logbook is something that most boats should do, for practical, as well as legal and traditional reasons. The logbook can serve as a record of proper maintenance and operation of the vessel, which is potentially useful when selling the boat or handling an insurance claim. It can be a fun record of journeys made to look...
+    
+
+
+
+Shakedown cruise on the Baltic Sea
+
+07 April 2022
+      
+      in Berlin, Germany.
+      
+      
+
+1 minute read.
+
+
+      Just in time for a new cruising season to start, the story of our 2021 Baltic shakedown cruise is now online.
+
+    
+
+
+
+Cruising sailboat electronics setup with Signal K
+
+27 March 2020
+      
+      in Berlin, Germany.
+      
+      
+
+8 minute read.
+
+
+      I havenât mentioned this on the blog earlier, but in the end of 2018 we bought a small cruising sailboat. After some looking, we went with a Van de Stadt designed Oceaan 25, a Dutch pocket cruiser from the early 1980s. S/Y Curiosity is an affordable and comfortable boat for cruising with 2-4 people, but also needed major maintenance work....
+    
+
+
+
+Building c-base @ 35C3 with Flowhub
+
+05 January 2019
+      
+      in Berlin, Germany.
+      
+      
+
+5 minute read.
+
+
+      The 35th Chaos Communication Congress is now over, and it is time to write about how we built the software side of the c-base assembly there.
+
+    
+
+
+
+Managing a developer shell with Docker
+
+19 April 2018
+      
+      in Berlin, Germany.
+      
+      
+
+2 minute read.
+
+
+      When Iâm not in Flowhub-land, Iâm used to developing software in a quite customized command line based development environment. Like for many, the cornerstones of this for me are vim and tmux.
+
+    
+
+
+
+MicroFlo and IoT: measuring air quality
+
+26 February 2018
+      
+      in Berlin, Germany.
+      
+      
+
+4 minute read.
+
+
+      Fine particulate matter is a serious issue in many cities around the world. In Europe, it is estimated to cause 400.000 premature deaths per year. European Union has published standards on the matter, and warned several countries that havenât been able to reach the safe limits.
+
+    
+
+
+
+asComponent: turn any JavaScript function into a NoFlo component
+
+23 February 2018
+      
+      in Berlin, Germany.
+      
+      
+
+3 minute read.
+
+
+      Version 1.1 of NoFlo shipped this week with a new convenient way to write components. With the noflo.asComponent helper you can turn any JavaScript function into a well-behaved NoFlo component with minimal boilerplate.
+
+    
+
+
+
+Publish your data on the BIG IoT marketplace
+
+12 February 2018
+      
+      in Berlin, Germany.
+      
+      
+
+3 minute read.
+
+
+      When building IoT systems, it is often useful to have access to data from the outside world to amend the information your sensors give you. For example, indoor temperature and energy usage measurements will be a lot more useful if there is information on the outside weather to correlate with.
+
+    
+
+
+
+My blog, the 2017 edition
+
+14 December 2017
+      
+      in Berlin, Germany.
+      
+      
+
+4 minute read.
+
+
+      I guess every five years is a good cadence for blog redesigns. This yearâs edition started as a rewrite of the technical implementation, but I ended up also updating the visuals. Here Iâll go through the design goals, and how I met them.
+
+    
+
+
+
+
+RSS feed
+Archive
+Older →
+
+
+
+
+
+
+
+
+
+
+
+Henri Bergius is an occasional adventurer living in Berlin and working on decoupled software systems, visual programming tools, and free software.
+            
+
+            You can reach me by email. Besides writing on this blog, I'm also available on LinkedIn and on fediverse as @bergie@pixelfed.de. Most of my recent code can be found from GitHub. »
+
+
+
+
+
+Home
+About Henri
+Best Of
+Photos
+Colophon
+
+
+
+
+
+
+

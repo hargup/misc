@@ -1,0 +1,42 @@
+Artificial Intelligence in Plain EnglishOpen in appSign upSign InWriteSign upSign In6.2K FollowersFollowHomeAboutChatGPTWrite for usNewsletterCommunityPlainEnglish.ioCheeKean·8 hours agoRevolutionizing Topic Modeling with GPT-3: From Text Embedding to Contextual TitlesIntroduction In the ever-evolving landscape of natural language processing, the emergence of advanced models like LLama2 and GPT has revolutionized the way we approach topic modeling. …NLP8 min readNLP8 min readCherifa Soltani Bochra·11 hours agoRecognize Anything: A Strong Image Tagging ModelPrepare for a groundbreaking moment in the field of artificial intelligence as we introduce the Recognize Anything Model (RAM). RAM is a formidable addition to the world of large-scale computer vision models, and it comes with an astounding ability: zero-shot recognition of common categories with remarkable precision. …Deep Learning2 min readDeep Learning2 min readAnthony Alcaraz·21 hours agoMember-onlyHandling Complex Queries with Large Language Models and Retrieval AugmentationDealing with complex, multi-step questions poses a significant challenge for conversational AI systems. Users often ask lengthy questions containing multiple clauses, context dependencies, and even multiple sub-questions all tied together. Modern large language models offer powerful natural language generation capabilities but can still struggle when confronted with extremely long input…AI7 min readAI7 min readFakhreddine MESSAOUDI·23 hours agoMember-onlyBuilding & Talk to your AI Assistant with Python: TutorialThis is the funniest project I have ever created —  Hello, community! I am really excited to share my Python AI assistance app I will make sure to leave the GitHub repo so you can check it and share it with your friends. In this tutorial, I’ll guide you through the creation of your very own AI assistant using Python…AI4 min readAI4 min readNapSaga·1 day agoMember-onlyOpen Interpreter: The Ultimate Guide to Running ChatGPT Code LocallyIn the realm of Artificial Intelligence (AI), ChatGPT has been a monumental advancement. But what if we told you that you could take its capabilities to the next level with Open Interpreter? This open-source tool allows you to run ChatGPT code locally on your computer, offering unparalleled flexibility and control. How Open Interpreter Outperforms Code Interpreter …AI3 min readAI3 min readDr. D. Bernard·1 day agoMember-onlyNavigating Efficiency and Relevance: What is the Role of Job Application Forms in the Age of AI?Have you applied for a job recently? In an era of rapid technological advancements, artificial intelligence (AI) has reshaped numerous aspects of our lives, including the job application process. The traditional method of submitting a resume is still considered essential, but the persistence of job application forms has raised questions…Artificial Intelligence5 min readArtificial Intelligence5 min readOscar Martin Bahamonde Muñoz·1 day agoBuild your own ChatGPT Plugin with Python and FastAPI Framework (Part 1)Today we are gonna build a knowledge base plugin so you can feed ChatGPT on your own custom domain knowledge to get the best assistance. —  Setting up the Environment First let’s follow OpenAI guidelines and provide the .well-known/ai-plugin.json which is the manifest file they expect to get chatgpt read the features of our plugin. {
+ "schema_version": "v1",
+ "name_for_human": "Knowledge Plugin",
+ "name_for_model": "knowledge_plugin",
+ "description_for_human": "Enables chatgpt to retrieve messages from knowledge base on unknown topics.",
+ "description_for_model": "Retrieves results from knowledge…Python5 min readPython5 min readWittawat Rakchat·1 day agoMojo 🔥: The Future of AI Programming — Combining Python Usability with C PerformanceIn the rapidly evolving world of artificial intelligence (AI), developers are constantly seeking ways to balance usability with performance. Mojo, a groundbreaking programming language, promises to bridge this gap by combining the ease of Python with the power of C. …AI5 min readAI5 min readKevin Doherty·1 day agoMember-onlyThe Power of Prompts: Guiding Chat GPT to BrilliancePrompts are the key to unlocking the full potential of Chat GPT. They are your means of communication, the guiding lights that steer the AI model in the direction you desire. Crafting effective prompts is an art, and when done right, it can lead to engaging, informative, and creative interactions…Prompt8 min readPrompt8 min readAnthony Alcaraz·1 day agoMember-onlyDynamic Logic: How Large Language Models can use ‘Code’ to ReasonRecent advances in large language models (LLMs) demonstrate impressive capabilities for language tasks. However, their reasoning abilities remain limited compared to human cognition. An emerging viewpoint is that the way LLMs currently “think” through problems resembles following code — and this code analogy provides insights into advancing their reasoning capacities. …AI4 min readAI4 min readNew AI, ML and Data Science articles every day. Follow to join our 3.5M+ monthly readers.FollowConnect with Artificial Intelligence in Plain EnglishEditorsSunil SandhuFounder PlainEnglish.io | Twitter: twitter.com/sunilsandhu | LinkedIn: linkedin.com/in/sunilsandhuFollowSoumadri BanerjeeEditor @ PlainEnglish.ioFollowSohom DasEditor @ PlainEnglish.ioFollowHelpStatusWritersBlogCareersPrivacyTermsAboutText to speechTeams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

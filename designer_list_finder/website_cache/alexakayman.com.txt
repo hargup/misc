@@ -1,0 +1,1034 @@
+
+
+
+
+
+
+Alexa Kayman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bloom
+
+                      An investing and financial literacy app for teens. Backed
+                      by Y Combinator. $4.3 million seed.
+                    
+Head of Operations
+Sept 2021 - Present • 1 yr 9 mos
+
+operations, finance, HR, compliance
+
+                        curriculum design, education and writing for the
+                        "Learn & Earn"
+                      
+
+Marketing Director
+Jul 2021 - Sept 2021 • 3 mos
+
+organic growth, socials, seo
+strategic partnerships and community
+
+The Generation
+
+                      Connecting underserved high school students to
+                      scholarships, jobs, events and learning resources to
+                      cultivate passion and discover the future. $170k software
+                      funding. Backed by Hack+ and Rileys Way Foundation.
+
+Founder, CEO
+Jul 2020 - Feb 2022 • 1 yr 8 mos
+
+$3k in cash grants
+$170k in software funds
+led team of 8 directors and 20 volunteers
+designed & developed the product
+
+                        operations, planning, partnerships and all the other fun
+                        chaos running something requires : )
+                      
+
+Alect Political
+
+                      Redefining political strategy. 3 congressional, 2 senate
+                      and 2 stealth startup campaigns.
+                    
+Marketing Director, Board
+Nov 2020 - Jun 2021 • 8 mos
+
+
+                        Sourced and co-led projects for our largest retainer
+                        client to generate $20k+ avg. deal for campaigns
+                      
+led client-facing marketing projects
+Designed and developed Alect’s website
+rebranded from “CTF” to Alect
+built internal IT system, operations, planning
+
+
+See all experiences
+
+
+
+
+
+
+
+
+
+Chapter
+(1)
+
+
+
+
+
+
+
+
+
+
+
+                      The projects below are primarily NoCode. To see hardcore
+                      coded projects 😎 checkout my
+                      Github. I'm learning to build with TypeScript, Next.js and
+                      React.
+                    
+Projects
+
+thegeneration.net
+
+
+                      Democratizing opportunity. A database of jobs,
+                      scholarships, events and learning resources to help
+                      students cultivate passion and discover their future.
+                    
+
+Designed with Figma
+Built with Webflow
+Memberships and gated content via Memberstack
+Automation and light functionality with Zapier
+
+                        Full functionality with Jetboost, Finsweet code
+                        snippets, and Airtable
+                      
+Banking and fiscal 501(c)3 sponsorship with Hack+
+
+
+www.othea.org
+
+
+                      A super tool for schools to secure accessible &
+                      exceptional extracurriculars for all students.
+                    
+
+Designed with Figma
+Built with JavaScript
+Hosted on Vercel
+
+Websites
+alexakayman.com
+The portfolio site you're on right now.
+
+
+                        Inspired by and starter cloned from the amazing
+                        Tyler Hughey
+
+Designed with Figma
+Built with Webflow
+Hosted with GitHub pages
+
+alect.us
+Redefining political strategy (archived).
+
+Designed with Figma
+Built with Webflow
+Hosted with Webflow & Google.
+
+
+yipinstitute.org
+
+
+                      Client project: branding and website. Forward-thinking
+                      Institute equipping students with the skills and knowledge
+                      necessary to revitalize democracy.
+                    
+
+Designed in Figma
+Built in Webflow
+
+‍
+
+
+
+
+
+
+
+
+
+Chapter
+(2)
+
+
+
+
+
+
+
+
+
+Writing
+
+                      Formalized and more coherent writing below. If you're
+                      looking for more casual work, you can scroll through a
+                      chaotic word feed at my
+                      Twitter
+
+
+Currents
+
+
+
+
+
+
+                        My second corner of the internet where I explore
+                        innovation through research memos, reflections and
+                        "geek outs" on miscellaneous finds.
+                      
+
+‍
+
+Contrary Research
+
+
+
+
+
+
+                        Klarna: How Delayed Payments Maximize and Monetize
+                        Instant Gratification
+                      
+
+
+
+
+
+
+
+
+
+
+Chapter
+(4)
+
+
+
+
+
+
+
+
+
+Serendipity
+
+                      Always happy to chat with other young builders, latest
+                      tech tools.
+                    
+Socials
+
+
+                        ‍Twitter @AlexaKayman
+‍
+
+
+LinkedIn @AlexaKayman
+
+
+Communities
+
+
+Buildergroop
+
+
+Colossus
+
+
+Logistics
+📍 New York, NY 
+🪙 alexakayman.ens
+
+
+
+
+
+
+
+
+
+Chapter
+(5)
+
+
+
+
+
+
+
+
+
+Moments
+
+                      Moments frozen in time. Touching grass over the past
+                      couple of years.
+                    
+
+
+Mexico
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Misc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Verticals
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter
+(6)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  welcome to
+                
+
+                  my corner
+                
+
+                  of the internet
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alexa
+
+
+Kayman
+
+
+
+
+                      Chasing the rush of creation.
+                    
+
+                      I'm a 17 y/o from NYC who is passionate about
+                      innovation through software engineering, growth and the
+                      startup ecosystem.
+Home
+                      • Reading
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table of contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+roles
+
+
+
+                                work; the past & present
+                              
+
+
+
+Chapter 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+building
+
+
+
+                                projects small & large
+                              
+
+
+
+Chapter 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WRITING
+
+
+
+                                research memos & thoughts
+                              
+
+
+
+Chapter 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+serendipity
+
+
+contact
+
+
+
+Chapter 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOMENTS
+
+
+pHOTOS
+
+
+
+Chapter 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Video
+                      
+
+                        interviews
+                      
+(sources)
+
+                        having
+                      
+fun?
+
+
+                      We still have ( ) missing
+                      pieces of the ( )
+                      story. Hopefully these videos can fill in the ( ) gaps.
+                    
+
+
+word
+
+
+REEL
+
+
+
+
+
+
+
+
+
+
+
+                        How 1960s Counterculture Shaped the Foundations of
+                        Silicon Valley
+                      
+
+
+                          Tracing Whole Earth and altruistic beginnings to the
+                          tech behemoths they are today
+                        
+
+                          19 pages • 63 footnotes • 4,230 words • June 5, 2023
+                        
+
+
+
+
+
+
+                        Klarna: How delayed payments maximize & monetize
+                        instant gratification
+                      
+
+
+                          Contrary Research memo on Klarna, the first Buy Now,
+                          Pay Later company.
+                        
+Published June 15 2023.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        intercom: personalizing business through AI
+                        conversations
+                      
+
+
+                          Contrary Research memo on Intercom.
+                        
+
+                          Published July 21, 2023.
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pins
+
+
+                              Findings from the interwebs and beyond.
+
+
+
+
+
+
+
+
+
+                            Texts
+                          
+
+
+
+                            Sunsama
+                          
+
+
+
+                            Retro
+                          
+
+
+
+                            Arc
+                          
+
+
+
+                            Raycast
+                          
+
+
+
+                            Any Distance
+                          
+
+
+
+                            Superhuman
+                          
+
+
+
+                            Clay
+                          
+
+
+
+
+
+New York, NY
+
+
+
+Favorite resources:
+
+
+
+Atlas Fellowship's Public Literature
+                                Gallery
+
+
+
+
+Contrary Research
+
+
+
+
+Builderbook
+
+
+
+
+YC's Library
+
+
+
+
+
+Site credits:
+
+
+
+                              Inspired by and starter cloned from
+                              Tyler Hughey
+
+
+
+Built with Webflow
+
+
+Hosted with Vercel
+
+
+Last updated July 4th at 5:51pm EDT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(the motto)
+
+
+                        Narrow the ( ) FocusUp
+                        the ( )
+                        qualityIncrease the ( ) speed
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Win Board
+                          
+
+
+                              Taking a moment to appreciate the waves, people
+                              and changes over the past years.
+
+
+
+
+
+
+
+
+
+
+
+Bloom
+                              Featured under Apple's Best Apps for
+                              Investing
+                            
+
+                              May 19, 2023 •
+                              Source
+
+
+
+
+                                  150+ interactive investing, personal finance
+                                  and economics lessons
+                                
+
+
+3M+ quizzes taken by our Bloomers
+
+
+Impacting 800K young investors
+
+
+
+                                  4.7/5 star rating out of 12K App store reviews
+                                  as of July 2023
+                                
+
+
+
+                                  Fastest growing mobile fintech thanks to
+                                  @allan's killer growth strategy
+                                
+
+
+
+
+
+
+
+
+
+Bloom
+                              featured by Andrew Yang
+                            
+
+                              June 14, 2023 •
+                              Source
+
+
+
+
+
+
+
+
+
+                              Silicon Valley greets a new generation of teen
+                              founders
+                            
+
+                              March 16, 2023 •
+                              The Information
+                              reported by Margux MacColl
+                            
+
+
+
+
+
+
+
+
+
+                              Viral Launch Tease of the first iteration of Othea
+                            
+
+                              April 25, 2023 •
+                              Source
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

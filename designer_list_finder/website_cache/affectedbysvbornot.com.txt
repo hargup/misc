@@ -1,0 +1,65 @@
+
+affectedbysvbornot.com - Affected by the collapse of Silicon Valley Bank or not?
+
+
+
+affectedbysvbornot.com - Affected by the collapse of Silicon Valley Bank or not?
+An open-source database of companies who have been affected (or not) by the collapse of SVB.
+hey folks. I've created an open-source database of companies affected (or not) by the #SVBCollapse https://t.co/6M3yefx7ccContributions are welcome and encouraged. See citations/* for a listing of citations. Please attach a citation (either link or screenshot) when PRing— geoff (open to jobs)🦩 (@GeoffreyHuntley) March 12, 2023
+
+Contribute to the project via https://github.com/ghuntley/affectedbysvbornot.com.
+Companies affected
+Below you will find companies who have publically (or privately with citations) revealed that they have been affected by the collapse of SVB. There are tens of thousands to hundreds(?) of thousands of companies affected as revealed by this Google Dork.
+https://t.co/emOPKUnJaa
+
+The query pulls back documents containing an #SVB routing or swift number + an @SVB_Financial account number.
+The name of the business tied to the SVB account number is usually within 100 characters of the account number and typically labeled “beneficiary” or “for credit of” (or some close variation on those themes).
+In edge cases where a company name is not found near the account number, the account holder is often the source/author of the document, e.g.,
+
+http://bit.ly/svb-invoice-example.
+
+Google only returns 1000 results for any given query - so retrieving the entire results set would require narrowing each query’s scope and then iterating through the targets at a finer granularity.
+For example, the current query looks for account numbers matching 33**. Replacing that with 33NN**, where NN is 01-99  would let you iterate through ranges of account numbers  (3301**, 3302**, and so on…).
+Other approaches include geographically scoping the queries by adding “AND NJ” to queries (and iterating through each two-byte state code) or tacking on partial zip codes, etc…
+
+
+Company NameAmount of EmployeesWebsite URLOfficial StatementSEC FilingCitationsExposure Level
+Campunknownhttps://camp.comIf you are in need of Toys, Gifts, etc. I would really appreciate you shopping from http://Camp.com today. We will give ya a nice discount if you need/want it. or pay full price - Ben Kaufmann/aBANKRUN promotion code.unknown
+Chargebee1000https://www.chargebee.com/n/an/a“Chargebee requests that you do not send payments to our SVB account” email sent to customersunknown
+Circleunknownhttps://circle.comSilicon Valley Bank is one of six banking partners Circle uses for managing the ~25%  portion of USDC reserves held in cash. - Twitter Linkn/aOfficial Twitter statementunknown
+CostPlusDrugsunknownhttps://CostsPlusDrugs.comn/aCostsPlus Drugs.com deals with SVB. So we had, I think we had 3.1 million in thereunknown
+Etsy2790https://etsy.comn/aEtsy sellers reporting payouts have not been processed with screenshot of an email from Esty.unknown
+Fastly1112https://fastly.comn/an/aAn email from account managers sent to Fastlys customers. Our payment instructions have changed. Effective immediately, please cease sending payments to our Silicon Valley Bank (SVB) Account and direct all payments to the following account at JP Morgan Chase.unknown
+Juniper Networks10901https://www.juniper.net/Juniper loss as of result of SVB receivership is immaterial - Reutersn/aJUNIPER NETWORKS INC - MAINTAINS OPERATING ACCOUNTS AT SVB WITH MINIMAL CASH BALANCE OF LESS THAN 1% OF TOTAL CASH, CASH EQUIVALENTS AND INVESTMENTSunknown
+KeyboardIO15https://shop.keyboard.io/We’re fine, but, uh, our bank failed this morning.n/aA tweet from the company accountunknown
+Rippling1700https://www.rippling.com/n/aSF payroll firm Rippling has to delay payouts after Silicon Valley Bank collapseunknown
+Roblox2100https://www.roblox.com/approximately 5% of its $3 billion cash and securities balance was held at SVB as of Feb. 28, 2023https://d18rn0p25nwr6d.cloudfront.net/CIK-0001315098/05c0fe85-052c-4786-980c-7bdf467f8258.pdfunknown
+Rocket Lab USA1300https://www.rocketlabusa.com/Rocket Lab USA said it had $38 million in cash, or 7.9% of its total cash as of Dec. 31, 2022, with SVBhttps://d18rn0p25nwr6d.cloudfront.net/CIK-0001819994/b644cf38-1413-43b7-bdb7-a0292b3ac1b3.pdfunknown
+Roku3000https://www.roku.com/At this time, the Company does not know to what extent the Company will be able to recover its cash on deposit at SVBhttps://www.sec.gov/ix?doc=/Archives/edgar/data/1428439/000142843923000010/wk-20230310.htmunknown
+Strongsuitunknownhttps://www.strongsuit.co/The financial future of my company, team and family are at risk w/ the collapse of SVBn/aA tweet from the company founderunknown
+SoFiunknownhttps://www.sofi.com/We have no assets with SVB. Our only exposure is a very small lending facility that is provided to us for less than $40m which is unaffected by the FDIC’s receivership of Silicon Valley Bank. Your money is safe with SoFi.https://twitter.com/SoFi/status/1634269534604472321unknown
+Perplexity AIunknownhttps://www.perplexity.ai/We use SVB for @perplexity_ai and were impacted by the recent events. Thanks to @natfriedman for stepping forward to help us with emergency funding on real short notice. Fortunate to be working with him!Tweet by the founder.unknown
+Vimeo1300https://www.vimeo.com/The company believes it does not have exposure to any liquidity concern at SVB. The Company has a well structured and diverse set of banking partners with no bank holding over 25% of its total cashhttps://investors.vimeo.com/static-files/e2ef741c-1688-48a3-8b4e-1c12e87d2a91unknown
+
+Companies NOT affected
+
+Company NameOfficial Statement
+fuboTVWe do not hold any deposit or have any investments at SVB
+GustoWe do not use SVB
+GroundfloorGroundfloor’s primary banking relationship is with Truist
+QoveryIt’s a sad day for the startup ecosystem! While there is no direct impact on Qovery
+
+Companies offering relaxed payment terms
+
+Company NameOfficial Statementurl
+QoveryOffering to delay payments for March and April to any Qovery customers whom the SVB crash may impact.https://www.qovery.com/blog/qovery-pledges-to-help-businesses-impacted-by-svb-crash
+
+Recommended Reading / Watching
+
+SEC Filings containing the letters ‘SVB’
+FDIC Statement: Failed Bank Information for Silicon Valley Bank, Santa Clara, CA
+The All In Podcast: Slides explaining how SVB Happened
+Thousands of startups and hundreds of thousands of startup jobs are at risk
+
+About this website
+This website was created and is maintained by Geoffrey Huntley. Contributions are welcome!

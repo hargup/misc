@@ -1,0 +1,669 @@
+
+
+
+
+
+Alvea – Stopping Future Pandemics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+Team
+Careers
+News
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    We’re building an engine for                    warp speed drug development
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+                    Alvea is a technology company dedicated to dramatically reducing the time from molecule to trials for new medicines. The world badly needs this capacity to stop future pandemics in their tracks and unlock the impact of biotechnology advances on human health.                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+            Our Mission /
+        
+
+
+
+
+
+
+To Break Open the Bottlenecks that Will Impede the World’s Ability to Benefit from Revolutionary Drug Design
+We’re a team of drug designers, software engineers, clinical development experts, physicians, and operators working to radically accelerate the development of new medicines for pandemics and beyond.
+We work with partners at the cutting edge of drug design and discovery to in-house, automate, and re-engineer rate-limiting workflows, getting products to patients—and the market—faster than ever before.
+
+
+
+
+
+
+
+        Leadership /
+    
+
+        Our teammates, funders, and advisers are world-leading experts in biotechnology, pandemic prevention, clinical development.  See our full team here. 
+
+
+
+
+
+
+
+
+Grigory Khimulya
+
+
+                                CEO                            
+
+
+
+
+ Connect
+                                    
+
+
+
+ Follow
+                                    
+
+
+
+
+
+
+
+
+
+Cate Hall
+
+
+                                COO                            
+
+
+
+
+ Connect
+                                    
+
+
+
+ Follow
+                                    
+
+
+
+
+
+
+
+
+
+Maximilian Schons
+
+
+                                CMO                            
+
+
+
+
+ Connect
+                                    
+
+
+
+ Follow
+                                    
+
+
+
+
+
+
+
+
+
+Kyle Fish
+
+
+                                CTO                            
+
+
+
+
+ Connect
+                                    
+
+
+
+ Follow
+                                    
+
+
+
+
+
+
+
+
+        Advisors /
+    
+
+
+
+
+
+
+
+
+Ethan Alley
+
+
+                                Board Member                            
+
+
+
+
+ Connect
+                                    
+
+
+
+ Follow
+                                    
+
+
+
+
+
+
+
+
+
+Blake Borgeson
+
+
+                                Board Member                            
+
+
+
+
+ Connect
+                                    
+
+
+
+
+
+
+
+
+
+Kevin Esvelt
+
+
+                                Advisor                            
+
+
+
+
+ Connect
+                                    
+
+
+
+ Follow
+                                    
+
+
+
+
+
+
+
+
+
+John Donnelly
+
+
+                                Advisor                            
+
+
+
+
+ Connect
+                                    
+
+
+
+
+
+
+
+
+
+Penny Moore
+
+
+                                Advisor                            
+
+
+
+
+ Connect
+                                    
+
+
+
+ Follow
+                                    
+
+
+
+
+
+
+
+
+
+                Backed By /
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Careers /
+                
+
+
+We’re seeking motivated, fast-moving people with a broad range of backgrounds and specialties.
+If you think you’d be a good fit, or you want to hear more about opportunities at Alvea, please get in touch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Latest News /
+        
+
+
+
+                            Feb 1, 2023                        
+
+Alvea Set the Record for Fastest Startup to Take a New Drug into a Phase 1 Clinical Trial, from Founding to First-in-Human
+
+
+From Founding to Clinical Trial in 28 Weeks After reviewing every Phase 1 clinical trial in the last 35 years, we found that our time from startup formation to first patient dosing (196 days) was faster than any other startup on record has ever taken a new drug into the clinic. Alvea’s plasmid DNA Omicron […]
+
+                                Read more
+                            
+
+
+
+
+                            Jul 31, 2022                        
+
+Lessons from Developing a COVID Vaccine
+
+
+Alvea’s CEO, Grigory Khimulya, reflects on lessons from the first six months of Alvea’s effort to bring a shelf-stable COVID-19 Omicron vaccine from idea to patients. He discusses inefficiencies in the clinical development process, what make’s Alvea’s culture and approach to clinical development different, and takes questions from the audience on a range of topics.
+
+                                Read more
+                            
+
+
+
+
+                            Feb 16, 2022                        
+
+Alvea Launches Scalable, Shelf- Stable DNA Vaccine Development against New SARS-CoV-2 Variants 2
+
+
+Breakthrough DNA vaccine, Alveavax, enters pre-clinical testing for Omicron & BA.2 variants. Alvea, a startup biotechnology company, today announced that it will begin to develop, test, and deliver DNA vaccines at scale to low and middle income countries with limited access to existing vaccine options.
+
+                                Read more
+                            
+
+
+
+
+            See all Alvea news →
+        
+
+
+
+
+                Want to talk? Email us at —            
+
+                info@alvea.bio            
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+19 Blackstone Street
+Cambridge, MA 02139
+
+
+
+
+
+                            info@alvea.bio                        
+                        Alvea LLC © 2023                    
+
+
+
+Designed by And–Now
+
+
+
+
+
+
+
+
+

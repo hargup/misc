@@ -1,0 +1,276 @@
+
+
+
+
+
+
+DataStation | The Data IDE for Developers
+
+
+    July 22, 2022: Help us out by filling out a short user survey!
+
+
+
+
+
+
+DataStation
+
+
+
+Install the App
+
+
+
+
+
+
+Learn
+Blog
+Community
+Try the online demoarrow_forward
+
+
+
+
+
+
+
+
+
+The Data IDE for Developers
+
+
+The Data IDE for Developers
+
+
+search
+Load from databases, REST APIs and files
+
+
+code
+Script in your favorite language
+
+
+bar_chart
+Create beautiful visualizations
+
+
+lock
+Data never leaves your machine
+
+
+favorite
+Windows, macOS, or Linux
+
+
+
+
+
+Exploring data in CockroachDB with Python and Pandas
+
+
+
+
+
+
+
+It might start with a database query
+
+
+
+
+Get this dataset. Or read more about database panels.
+
+
+
+
+
+But some things are easier to do in code
+
+
+
+
+Read more about code panels.
+
+
+
+
+
+And not always code in the same language
+
+
+
+
+Read more about code panels.
+
+
+
+
+
+When you're working on a report
+
+
+
+
+
+
+
+
+Or a long-term data point
+
+
+
+
+Read more about HTTP panels. Or read more about macros.
+
+
+
+
+
+And if you deploy the DataStation server
+Panels become the building blocks of hosted dashboards and recurring exports
+Coming soon :)
+
+
+
+
+With builtin support for
+
+
+20+ databases
+
+PostgreSQL
+MySQL, MariaDB
+SQLite
+SQL Server
+Oracle
+ClickHouse
+Influx 1 (InfluxQL), Influx 2 (Flux)
+Prometheus
+Elasticsearch
+AWS Athena
+Google BigQuery
+Snowflake
+Cassandra, Scylla
+TimescaleDB
+YugabyteDB
+CockroachDB
+CrateDB
+QuestDB
+Airtable
+
+
+
+8 languages
+
+Python
+Ruby
+Julia
+PHP
+Deno
+R
+JavaScript
+In-memory SQL
+
+
+
+13 file types
+
+Avro
+Parquet
+JSON, JSON Newline, Concatenated JSON
+CSV, TSV
+Excel (XLSX)
+ODS
+Apache Error Logs
+Apache Access Logs
+Nginx Access Logs
+Newline-delimited Custom Regexp
+
+
+
+
+      This list is constantly growing. Not seeing a database or file
+      type you
+      need? Open
+      an issue.
+    
+
+
+
+
+Get started today
+
+
+downloadTry it on your laptop
+
+	  Join thousands of developers trying out DataStation.
+	
+Install the app
+
+
+library_booksRead the docs
+
+	  Learn how to query all supported databases. How to graph and
+	  view results. And how to script and join different panels.
+	
+Documentation
+
+
+volunteer_activismKeep up to date
+
+doneSubscribe to email updates
+doneStar the repo
+doneJoin 900+ members on Discord
+
+
+
+
+
+
+
+
+
+
+DataStation
+
+	© Multiprocess Labs LLC
+
+
+
+
+Use cases
+
+Query PostgreSQL
+Query MySQL
+Query SQLite
+Query Elasticsearch
+Query Prometheus
+Query Influx 2.x
+And many more
+
+
+
+Community
+
+Discord
+Hacker Nights Meetup
+Github
+
+
+Company
+
+About
+Blog
+Twitter
+LinkedIn
+Contact
+
+
+
+
+
+
+
+

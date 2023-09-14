@@ -1,0 +1,651 @@
+
+
+
+
+
+
+
+Alarming Development – Dispatches from the User Liberation Front
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Skip to content	
+
+
+
+ 
+
+
+
+Alarming Development
+Dispatches from the User Liberation Front
+
+  
+			Scroll down to content		
+
+
+
+
+
+
+
+
+Posts
+
+
+
+
+
+Posted on August 30, 2023August 30, 2023Technical Dimensions of Programming Systems 
+
+I forgot to mention that I coauthored a paper with Joel Jakubovic, a grad student of my collaborator Tomas Petricek, published in The Programming Journal. We got the Editors’ Choice award. Tomas made a nifty website about it. 
+Abstract
+Programming requires much more than just writing code in a programming language. It is usually done in the context of a stateful environment, by interacting with a system through a graphical user interface. Yet, this wide space of possibilities lacks a common structure for navigation. Work on programming systems fails to form a coherent body of research, making it hard to improve on past work and advance the state of the art.
+In computer science, much has been said and done to allow comparison of programming languages, yet no similar theory exists for programming systems; we believe that programming systems deserve a theory too.
+We present a framework of technical dimensions which capture the underlying characteristics of programming systems and provide a means for conceptualizing and comparing them.
+We identify technical dimensions by examining past influential programming systems and reviewing their design principles, technical capabilities, and styles of user interaction. Technical dimensions capture characteristics that may be studied, compared and advanced independently. This makes it possible to talk about programming systems in a way that can be shared and constructively debated rather than relying solely on personal impressions.
+Our framework is derived using a qualitative analysis of past programming systems. We outline two concrete ways of using our framework. First, we show how it can analyze a recently developed novel programming system. Then, we use it to identify an interesting unexplored point in the design space of programming systems.
+Much research effort focuses on building programming systems that are easier to use, accessible to non-experts, moldable and/or powerful, but such efforts are disconnected. They are informal, guided by the personal vision of their authors and thus are only evaluable and comparable on the basis of individual experience using them. By providing foundations for more systematic research, we can help programming systems researchers to stand, at last, on the shoulders of giants.
+
+
+
+
+Posted on March 15, 2023Frieda 
+
+Excerpted from: Future of end-user software engineering: beyond the silos [PDF].
+For example, consider “Frieda“, an office manager in charge of her department’s budget tracking. (Frieda was a participant in a set of interviews with spreadsheet users that the first author conducted. Frieda is not her real name.) Every year, the company she works for produces an updated budget tracking spreadsheet with the newest reporting requirements embedded in its structure and formulas. But this spreadsheet is not a perfect fit to the kinds of projects and sub-budgets she manages, so every year Frieda needs to change it. She does this by working with four variants of the spreadsheet at once: the one the company sent out last year (we will call it Official-lastYear), the one she derived from that one to fit her department’s needs (Dept-lastYear), the one the company sent out this year (Official-thisYear), and the one she is trying to put together for this year (Dept-thisYear).
+Using these four variants, Frieda exploratively mixes reverse engineering, reuse, programming, testing, and debugging, mostly by trial-and-error. She begins this process by reminding herself of ways she changed last year’s by reverse engineering a few of the differences between Official-lastYear and Dept-lastYear. She then looks at the same portions of Official-thisYear to see if those same changes can easily be made, given her department’s current needs.
+She can reuse some of these same changes this year, but copying them into Dept-thisYear is troublesome, with some of the formulas automatically adjusting themselves to refer to Dept-lastYear. She patches these up (if she notices them), then tries out some new columns or sections of Dept-thisYear to reflect her new projects. She mixes in “testing” along the way by entering some of the budget values for this year and eyeballing the values that come out, then debugs if she notices something amiss. At some point, she moves on to another set of related columns, repeating the cycle for these. Frieda has learned over the years to save some of her spreadsheet variants along the way (using a different filename for each), because she might decide that the way she did some of her changes was a bad idea, and she wants to revert to try a different way she had started before. 
+
+
+
+Posted on November 1, 2022July 30, 2023The Philosophy of Copy and Paste 
+
+I have a new paper out with Tomas Petricek: Interaction vs. Abstraction: Managed Copy and Paste, to appear at PAINT’22. [Demo video] I have mixed feelings about this work.
+I’ve been talking about the idea ever since my first Subtext paper, and tried to build it several times, but hit many difficulties. This new theory of structure editing I’ve been working on seemed to make it possible. So I had to try it. 
+The idea is philosophically tantalizing. There is a long-running intellectual debate between those who believe in Logic and Formal Methods as an account of language/cognition/programming and those who reject those accounts as shallow and inadequate. Wittgenstein famously took both sides. I believe programming offers us for the first time a way to substantiate the anti-logic position with a constructive theory that is more than just counter-examples and anecdotes. Managed Copy and Paste is my primary candidate for an Informal Method that takes on the Formal Methods.
+Functional abstraction is considered to be the essence of programming languages, enshrined in the holy Lambda Calculus. A key benefit of functions is to centralize change. But if we can track copies and propagate changes between them then having a centralized abstraction is more of an ideal end-state than a necessary condition. The key change of perspective is to move from a program as a static crystalline abstraction to programming as an interactive process of continual adaptation. Managed Copy and Paste subverts functional abstraction and could actually be more ergonomic in practice.
+The good news is that it works, and my editing theory handles tricky cases like copying copies. Unfortunately I’m not sure it turns out to actually be more ergonomic. At the very least it needs a lot more UI work. At the moment I’m afraid it is isn’t a slam dunk win, and it needs to be a slam dunk to get anyone to seriously consider such a radical change. Bottom line, I love the idea and its philosophical implications, but in practice it may be more of a luxury than a must-have. A vitamin, not a pain killer.
+But what do I know? Tomas convinced me to write this paper to at least put the idea out there and see what happens. What do you think?
+
+
+
+
+Posted on July 26, 2022Why no-code is uninteresting 
+
+in one tweet. Distilled a lot of thought into this one, so lifting it up here.
+
+Why no-code is uninteresting in 1 tweet. No game-changing inventions. Just design tradeoffs between generality & simplicity looking for market fit. The long tail of software makes that hard. Monetization entails self-defeating customer lock-in. Move along, nothing to see here.— Jonathan Edwards (@jonathoda) April 6, 2020
+
+
+
+
+
+Posted on July 23, 2022Research goal 
+
+I was recently asked to state my research goal, and this is what I came up with. Suggestions for clarification welcome.
+Make simple things easy for amateur programmers.
+Where simple things = small scale ad hoc internet applications:< 100 users< 100Mb data< 1000 LOC (or equivalent)
+Where easy = total documentation of the entire stack < 1000 pages, written to the comprehension level of a non-STEM undergraduate. But while still providing general purpose programming within some domain, like spreadsheets but unlike many no-code systems.
+Where amateur = someone who wants to invest the minimum effort in learning technical details to make something work. It is not a goal to appeal to professional programmers nor train them. But perhaps the extreme simplification required for amateur programming will suggest ways to simplify industrial-scale programming too. For example SQL started as an end user tool.
+I believe these goals can not be acheived by remixing our standard bag of tricks. If that were possible it would already have been done. We need fundamentally new ideas, or perhaps discarded old ones. 
+
+
+
+Posts navigation
+Page 1
+Page 2
+…
+Page 34
+Next page  
+
+
+
+
+Links
+
+About me
+Email me
+Subtext
+
+
+Meta
+
+Log in
+Entries feed
+Comments feed
+WordPress.org
+
+Subscribe to Blog via Email
+
+
+
+
+							Email Address						
+
+
+
+
+
+
+
+
+							Subscribe						
+
+
+
+Archives Archives
+
+Select Month
+ August 2023 
+ March 2023 
+ November 2022 
+ July 2022 
+ October 2021 
+ September 2021 
+ January 2021 
+ December 2020 
+ August 2020 
+ June 2020 
+ April 2020 
+ July 2019 
+ May 2019 
+ March 2019 
+ September 2018 
+ August 2018 
+ July 2018 
+ June 2018 
+ August 2017 
+ May 2017 
+ October 2016 
+ February 2016 
+ January 2016 
+ October 2015 
+ May 2015 
+ December 2014 
+ August 2014 
+ July 2014 
+ April 2014 
+ February 2014 
+ December 2013 
+ September 2013 
+ August 2013 
+ July 2013 
+ May 2013 
+ February 2013 
+ January 2013 
+ June 2012 
+ May 2012 
+ April 2012 
+ January 2012 
+ November 2011 
+ October 2011 
+ September 2011 
+ August 2011 
+ July 2011 
+ May 2011 
+ April 2011 
+ February 2011 
+ January 2011 
+ August 2010 
+ July 2010 
+ June 2010 
+ May 2010 
+ April 2010 
+ March 2010 
+ February 2010 
+ December 2009 
+ November 2009 
+ October 2009 
+ July 2009 
+ June 2009 
+ May 2009 
+ April 2009 
+ February 2009 
+ January 2009 
+ December 2008 
+ November 2008 
+ August 2008 
+ July 2008 
+ May 2008 
+ April 2008 
+ February 2008 
+ December 2007 
+ November 2007 
+ October 2007 
+ August 2007 
+ July 2007 
+ May 2007 
+ April 2007 
+ March 2007 
+ October 2006 
+ June 2006 
+ May 2006 
+ April 2006 
+ March 2006 
+ November 2005 
+ October 2005 
+ August 2005 
+ May 2005 
+ March 2005 
+ January 2005 
+ December 2004 
+ June 2004 
+
+
+RSS - PostsRSS - Comments
+
+
+
+
+
+
+
+Follow Us 
+
+
+
+		Proudly powered by WordPress	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

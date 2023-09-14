@@ -1,0 +1,177 @@
+
+
+
+
+
+
+Sign in · GitLab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fast and Free Git Hosting
+
+
+GitGud.io is a free Git hosting site powered by GitLab, hosted by Sapphire. Sign up for FREE, via Sapphire Accounts
+
+ 
+
+GitGud.io in a Nutshell
+
+
+🫶 Free
+Yes, totally free for any user or group. We have no set size limit for repo sizes
+
+🚄 Fast
+One of the fastest US git hosting services running on EPYC, NVMe SSD raid, and multiple uplinks
+
+⏳Uptime
+Average uptime of 99.83% 1 with an average of 15mins of downtime each month for GitLab updates
+
+🔐 Secure
+Always running the latest version of Gitlab
+
+💬 Supportive
+Talk directly with the site administrators for assistance
+
+✅ Reliable
+We have never lost any user data, we maintain backups, and utilize ZFS for data integrity and snapshots before up upgrades
+
+🤠 Active
+GitGud.io has over 50,000 users and over 16,000 repos! (As of June 22nd, 2023)
+
+🎛️ Feature Rich
+Kanban boards, groups, and lots of private repository features for free
+
+🤖 CI Runner
+Free shared CI. Just request access from us via a communication channel
+
+🔍 Privacy Respecting
+No tracking. No analytics. No Cloudflare. No 3rd party cookies. No external services. No external IP address logging (GitLab tracks active login IPs)
+
+🆘 Help and Support
+
+If you have any questions, issues, or feedback:
+💬 Discord: #Support
+⏳ Service Status and Uptime
+📧 Email: admin@gitgud.io or admin@sapphire.moe
+
+FAQ and Information
+
+Terms of Service
+
+TL;DR: No content considered illegal in the US, no spam or bot posting, no abuse of GitGud infrastructure, storage, or CI/compute for non-development purposes
+
+Background and History
+GitGud.io was created October 2014 in response to other popular git hosting services active participation in user politics. Sapphire runs GitGud.io along with many other services. We are a user-supported open source company. Our company is designed in such a way that users are our only source of income, so we only serve them, their needs, and no other 3rd parties. This allows us to keep high standards of privacy and customer service.
+
+How do you make money with GitGud being free?
+We don't! We used to rely entirely on donations, but these days, we pay for GitGud out-of-pocket from our normal jobs. We have learned a lot about hosting stuff inexpensively. We own our hardware out-right so we don't have the same recurring monthly costs.
+We aim to make money through premium sold services via Sapphire. We will never take away what was free, and GitGud started a decade ago free and will stay free
+
+Is there a limit to how big my repo can be?
+Nope, we have no limit on how big a repo can be or how many you can have. We just ask that repos contain data related to development and that binary data be stored in Git LFS
+
+Cloudflare Access Deny on Sign In/Sign Up
+If you are getting an Access Denied page from Cloudflare on Sapphire Accounts, it is because your country's IP is blacklisted due to high volumes of abuse. If your country ends up on this blacklist, we will not remove it for your individual use. Utilize a VPN on a US based or western Europe based hosting service using non-Digital Ocean IPs.
+ since October 2016 2
+
+
+
+As of writing, current 3rd party tracked average at the bottom ↩
+
+
+most down time is due to security patches and upgrades as GitLab updates at least twice a month. If it's saying 100%, click on it for actual details ↩
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By signing in you accept the Terms of Use and acknowledge the Privacy Policy and Cookie Policy.
+
+
+
+Sapphire
+
+
+
+Remember me
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore
+Help
+About GitLab
+Community forum
+
+
+
+
+
+
+

@@ -1,0 +1,662 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NVIDIA Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Skip to content
+
+
+
+
+
+
+                                                Artificial Intelligence Computing Leadership from NVIDIA                                                
+
+
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+ 
+
+
+
+
+Toggle Search
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+Search for:
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+
+
+
+
+
+
+
+Privacy Policy
+
+
+Manage My Privacy
+
+
+Legal
+
+
+Accessibility
+
+
+Product Security
+
+
+Contact
+
+
+
+			Copyright © 2023 NVIDIA Corporation 		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deep Learning
+
+
+
+NVIDIA Grace Hopper Superchip Sweeps MLPerf Inference Benchmarks 
+
+
+
+
+
+
+
+
+
+
+
+
+Corporate
+
+
+
+NVIDIA Partners With India Giants to Advance AI in World’s Most Populous Nation 
+
+
+
+
+
+
+
+
+
+
+
+
+Deep Learning
+
+
+
+A Powerful Legacy: Researcher’s Mom Fueled Passion for Nuclear Fusion 
+
+
+
+
+
+
+
+
+Home
+AI
+Data Center
+Driving
+Gaming
+Pro Graphics
+Autonomous Machines
+Healthcare
+Startups
+AI Podcast
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Pro Graphics				
+
+See all Pro Graphics 
+
+
+
+
+
+
+			
+			Your browser doesn't support HTML5 video. Here is a link to the video instead.		
+		
+
+
+
+
+‘Arteana’s Art Squad’ Assembles — Indie Showrunner Rafi Nizam Creates High-End Children’s Show on a Budget 
+
+Rafi Nizam is an award-winning independent animator, director, character designer and more. He’s developed feature films at Sony… Read article >
+ 
+
+
+
+
+
+
+
+
+
+			
+			Your browser doesn't support HTML5 video. Here is a link to the video instead.		
+		
+
+
+
+
+A Perfect Pair: adidas and Covision Media Use AI, NVIDIA RTX to Create Photorealistic 3D Content 
+
+
+
+
+
+
+
+
+
+			
+			Your browser doesn't support HTML5 video. Here is a link to the video instead.		
+		
+
+
+
+
+Advantage AI: Elevated Creative Workflows in NVIDIA Canvas, Blender, TikTok and CapCut 
+
+
+
+
+
+
+
+
+
+					Deep Learning				
+
+See all Deep Learning 
+
+
+
+
+
+
+
+How Industries Are Meeting Consumer Expectations With Speech AI 
+
+Thanks to rapid technological advances, consumers have become accustomed to an unprecedented level of convenience and efficiency. Smartphones… Read article >
+ 
+
+
+
+
+
+
+
+
+
+
+Meet Five Generative AI Innovators in Africa and the Middle East 
+
+
+
+
+
+
+
+
+
+
+AI Lands at Bengaluru Airport With IoT Company’s Intelligent Video Analytics Platform 
+
+
+
+
+
+
+
+
+
+					Driving				
+
+See all Driving 
+
+
+
+
+
+
+
+XPENG Unleashes G6 Coupe SUV for Mainstream Market 
+
+China electric vehicle maker XPENG Motors has announced its new G6 coupe SUV — featuring an NVIDIA-powered intelligent… Read article >
+ 
+
+
+
+
+
+
+
+
+
+
+NVIDIA Research Wins Autonomous Driving Challenge, Innovation Award at CVPR 
+
+
+
+
+
+
+
+
+
+
+MediaTek Partners With NVIDIA to Transform Automobiles With AI and Accelerated Computing 
+
+
+
+
+
+
+
+
+More Stories
+
+
+
+
+
+					Load more articles				
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+Corporate Information
+About NVIDIA
+Corporate Overview
+Technologies
+NVIDIA Research
+Investors
+Social Responsibility
+NVIDIA Foundation
+ 
+
+Get Involved
+Forums
+Careers
+Developer Home
+Join the Developer Program
+NVIDIA Partner Network
+NVIDIA Inception
+Resources for Venture Capitalists
+NVIDIA Inception GPU Ventures
+Technical Training
+Training for IT Professionals
+Professional Services for Data Science
+ 
+
+News & Events
+Newsroom
+NVIDIA Blog
+NVIDIA Technical Blog
+Webinars
+Stay Informed
+Events Calendar
+NVIDIA GTC
+NVIDIA On-Demand
+ 
+
+
+
+
+
+
+
+
+
+
+							Explore our regional blogs and other social networks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy Policy
+
+
+Manage My Privacy
+
+
+Legal
+
+
+Accessibility
+
+
+Product Security
+
+
+Contact
+
+
+
+			Copyright © 2023 NVIDIA Corporation 		
+
+
+
+
+				USA - United States				
+
+
+
+
+
+
+
+
+				NVIDIA websites use cookies to deliver and improve the website experience. See our cookie policy for further details on how we use cookies and how to change your cookie settings.			
+ACCEPT
+
+
+
+
+
+
+
+
+ 
+ 
+ Share This Facebook LinkedIn Email 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

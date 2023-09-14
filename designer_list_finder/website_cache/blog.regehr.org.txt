@@ -1,0 +1,178 @@
+
+
+
+
+
+
+Embedded in Academia – John Regehr, Professor of Computer Science, University of Utah, USA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Embedded in Academia
+John Regehr, Professor of Computer Science, University of Utah, USA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Formal-Methods-Based Bugfinding for LLVM’s AArch64 Backend
+
+[This piece is co-authored by Ryan Berger and Stefan Mada (both Utah CS undergrads), by Nader Boushehri, and by John Regehr.] An optimizing compiler traditionally has three main parts: a frontend that translates a source language into an intermediate representation (IR), a “middle end” that rewrites IR into better IR, and then a backend that… 
+June 6, 2022
+
+
+
+
+
+High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM
+
+[This piece is coauthored by Yuyou Fan and John Regehr] Mutation-based fuzzing is based on the idea that new, bug-triggering inputs can often be created by randomly modifying existing, non-bug-triggering inputs. For example, if we wanted to find bugs in a PDF reader, we could grab a bunch of PDF files off the web, mutate… 
+May 31, 2022
+
+
+
+
+
+A Close Look at a Spinlock
+
+The spinlock is the most basic mutual exclusion primitive provided by a multiprocessor operating system. Spinlocks need to protect against preemption on the current CPU (typically by disabling interrupts, but we’ll ignore that aspect in this post) and also against attempts by other cores to concurrently access the critical section (by using atomic memory operations).… 
+November 6, 2021
+
+
+
+
+
+llvm-reduce
+
+Test-case reduction is more or less a necessity when debugging failures of complex programs such as compilers. Automated test-case reduction is useful not only because it allows developers to avoid wasting time reducing inputs by hand, but also because it supports new techniques such as automatically triaging bulk failures seen in the field or during… 
+May 13, 2021
+
+
+
+
+
+Responsible and Effective Bugfinding
+
+NB: This piece is not about responsible disclosure of security issues. For almost as long as people have written code, we have also worked to create methods for finding software defects. Much more recently, it has become common to treat “external bug finding” — looking for defects in other people’s software — as an activity… 
+August 17, 2020
+
+
+
+
+
+Alive2 Part 3: Things You Can and Can’t Do with Undef in LLVM
+
+[Also see Part 1 and Part 2 in this series.] Let’s talk about these functions: unsigned add(unsigned x) { return x + x; } unsigned shift(unsigned x) { return x << 1; } From the point of view of the C and C++ abstract machines, their behavior is equivalent: in a program you’re writing, you… 
+July 31, 2020
+
+
+
+
+
+The Gods Pocket Peak Trail
+
+Years ago my friend Derek heard that the Jarbidge Wilderness — a remote, mountainous area along the Idaho-Nevada border — is one of the least-visited wilderness areas in the USA, and we’ve wanted to visit since then. There’s little good information about this area online, but a book I had sitting around listed The Gods… 
+July 23, 2020
+
+
+
+
+
+You Might as Well Be a Great Copy Editor
+
+An early draft of a paper, blog post, grant proposal, or other piece of technical writing typically has many problems. Some of these are high-level issues, such as weak motivation, sections in the wrong order, or a key description that is difficult to understand because it lacks an accompanying figure. These problems need to be… 
+June 24, 2020
+
+
+
+
+
+The Saturation Effect in Fuzzing
+
+This piece is co-authored by Alex Groce and John Regehr. Here’s something we’ve seen happen many times: We apply a fuzzer to some non-trivial system under test (SUT), and initially it finds a lot of bugs. As these bugs are fixed, the SUT sort of becomes immune to this fuzzer: the number of new bugs… 
+June 17, 2020
+
+
+
+
+
+Alive2 Part 2: Tracking miscompilations in LLVM using its own unit tests
+
+[This piece is co-authored by Nuno P. Lopes and John Regehr.] Alive2 is a formal verification framework for LLVM optimizations. It includes multiple tools, including a plugin for `opt’ to verify whether the optimizations just run are correct or not. We gave an introduction to Alive2 in a previous post. A few years ago we… 
+June 3, 2020
+
+
+
+
+
+
+1
+2
+3
+…
+50
+Next Page→
+
+
+
+
+Embedded in Academia
+Proudly powered by WordPress
+
+
+
+
+
+
+
+
+
+
+

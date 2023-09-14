@@ -1,0 +1,616 @@
+
+
+
+
+DevExpress Documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+	Chat Now
+
+
+BuySupport CenterDocumentationBlogsTrainingDemosFree TrialLog In
+
+
+
+
+
+
+
+
+
+
+
+Documentation
+
+
+
+
+
+Search:
+
+
+
+
+
+
+Search
+
+
+Search in…
+
+
+
+                    DevExpress documentation only
+                
+
+
+
+                    All DevExpress web resources
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Documentation
+
+                Thanks for choosing DevExpress for your software development needs.
+                We are your extended team and are working hard to make certain you have all the resources necessary to build your next great app.
+                Should you have any questions or wish to provide feedback on our documentation, feel free to email us at
+                clientservices@devexpress.com.
+            
+
+
+
+
+
+
+
+WinForms
+Controls and libraries for the Windows Forms platform.
+
+
+
+
+
+
+
+
+WPF
+Controls and libraries for the WPF platform.
+
+
+
+
+
+
+
+
+ASP.NET
+Controls and libraries for the ASP.NET Web Forms platform.
+
+
+
+
+
+
+
+
+
+
+Blazor
+A component suite for the ASP.NET Blazor framework.
+
+
+
+
+
+
+
+
+Mobile
+Controls for the .NET MAUI cross-platform framework.
+
+
+
+
+
+
+
+
+DevExtreme
+JavaScript UI components for Angular, React, Vue and jQuery.
+
+
+
+
+
+
+
+
+
+
+
+
+Reporting
+A reporting platform for WinForms, WPF, ASP.NET Web Forms, ASP.NET MVC, and ASP.NET Core.
+
+
+
+
+
+
+
+
+BI Dashboard
+Interactive data visualization for Windows, Web, and mobile devices.
+
+
+
+
+
+
+
+
+Cross-Platform .NET App UI
+A business application framework for Windows, Web, and mobile devices.
+
+
+
+
+
+
+
+
+
+
+ASP.NET Core
+Controls and libraries for the ASP.NET Core platform.
+
+
+
+
+
+
+
+
+VCL
+VCL controls and libraries for Delphi/C++Builder developers.
+
+
+
+
+
+ViewDocumentationDirectory
+
+
+
+
+
+
+
+
+
+
+
+
+
+Documentation Directory
+
+
+
+
+
+
+General Information
+
+
+
+.NET Subscription
+
+
+
+            What's Included
+        
+
+
+
+            DevExpress Installation
+        
+
+
+
+            DevExpress Code Examples
+        
+
+
+
+
+Common Tools
+
+
+
+            Project Converter
+        
+
+
+
+            Assembly Deployment Tool
+        
+
+
+
+            Localization Service
+        
+
+
+
+
+
+
+
+
+
+Quality Assurance and Productivity
+
+
+
+
+
+
+            CodeRush for Visual Studio (FREE)
+        
+
+
+
+            TestCafe Studio
+        
+
+
+
+
+
+
+
+
+
+
+
+Desktop
+
+
+
+Controls
+
+
+
+            WinForms
+        
+
+
+
+            WPF
+        
+
+
+
+            VCL
+        
+
+
+
+            WinUI
+        
+
+
+
+
+Tools
+
+
+
+            WinForms Skin Editor
+        
+
+
+
+            WPF Theme Designer
+        
+
+
+
+            WPF Theme Editor (Legacy)
+        
+
+
+
+            Coded UI Test Extension
+        
+
+
+
+
+
+
+
+
+
+Frameworks and Libraries
+
+
+
+
+
+
+            XAF - Cross-Platform .NET App UI
+        
+
+
+
+            XPO - .NET ORM Library (FREE)
+        
+
+
+
+            XPO Profiler
+        
+
+
+
+            Core Libraries
+        
+
+
+
+            Drawing Graphics Library
+        
+
+
+
+            .NET App Security & Web API Service (FREE)
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Web
+
+
+
+Controls and Extensions
+
+
+
+            ASP.NET Web Forms Controls
+        
+
+
+
+            ASP.NET MVC Extensions
+        
+
+
+
+            ASP.NET Core Controls
+        
+
+
+
+            ASP.NET Bootstrap Controls
+        
+
+
+
+            DevExtreme
+        
+
+
+
+            DevExtreme ASP.NET MVC Controls
+        
+
+
+
+            Blazor Components
+        
+
+
+
+
+Tools
+
+
+
+            ASP.NET Theme Builder
+        
+
+
+
+            ASP.NET Theme Deployer
+        
+
+
+
+
+Maintenance Mode
+
+
+
+            ASP.NET Core Bootstrap Controls
+        
+
+
+
+
+
+
+
+
+
+Mobile
+
+
+
+
+
+
+            Xamarin UI Controls (FREE)
+        
+
+
+
+            .NET MAUI (FREE)
+        
+
+
+
+
+
+
+
+
+
+
+
+Enterprise and Analytic Tools
+
+
+
+
+
+
+            Reporting
+        
+
+
+
+            Report and Dashboard Server
+        
+
+
+
+            BI Dashboard
+        
+
+
+
+            Office File API
+        
+
+
+
+
+
+
+
+
+
+End-User Documentation
+
+
+
+
+
+
+            Interface Elements for Desktop
+        
+
+
+
+            Interface Elements for Web
+        
+
+
+
+            Dashboard for Desktop
+        
+
+
+
+            Dashboard for Web
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+            Use of this site constitutes acceptance of our Website Terms of Use and Privacy Policy (Updated)
+
+Cookies Settings
+
+
+		Copyright © 1998-2023 Developer Express Inc. All trademarks or registered trademarks are property of their respective owners
+	
+
+
+

@@ -1,0 +1,675 @@
+
+
+
+Fortress of Doors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Fortress of Doors
+                
+
+
+
+
+
+Home
+Reading List for new readers
+RSS Feed
+
+
+
+
+
+Sign in
+Subscribe
+
+
+
+
+
+
+
+
+Fortress of Doors
+Lars Doucet's personal blog -- Game design and stuff.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ai
+
+
+                    Maximizing the chances of an Anti-AI Human Revolution
+                
+
+In what kind of world would humans be the most likely to rise up against AI and smash it to bits with hammers?
+
+
+Jun 23, 2023
+6 min read
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Defender's Quest 2's Free Demo is Live now on Steam!
+                
+
+GO PLAY THE DEMO RIGHT NOW!
+
+The moment we've all been waiting for has finally arrived. Defender's Quest 2 is playable, right now, today, for a limited time as a free demo on Steam, as part of the week-long Steam Next Fest.
+
+Much like Defender's Quest 1's famous demo, this
+
+
+Jun 19, 2023
+4 min read
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Re-announcing Defender's Quest 2 (Art & Trailer Reveal!)
+                
+
+Defender's Quest 2: Mists of Ruin is officially re-announced!
+
+You can wishlist it on Steam right now!
+
+Rise above the Mirk & protect your ship from dangers unknown in this epic tower defense game.
+
+We're happy to announce that we're publishing the long-awaited Defender's Quest 2: Mists of Ruin by Level
+
+
+Apr 5, 2023
+2 min read
+
+
+
+
+
+
+
+
+
+
+
+dq2
+
+
+                    DQ2 Progress Report for January 2023
+                
+
+I've started getting a lot of new art in from our artists, which I have been furiously integrating into the build.
+
+
+Feb 1, 2023
+2 min read
+
+
+
+
+
+
+
+
+
+
+
+ai
+
+
+ Featured
+
+
+                    AI: Markets for Lemons, and the Great Logging Off
+                
+
+What happens when most "people" you interact with on the internet are fake?
+
+
+Dec 26, 2022
+9 min read
+
+
+
+
+
+
+
+
+
+
+
+dq2
+
+
+ Featured
+
+
+                    Year end retrospective-- DQ2 Progress Report for November 2022
+                
+
+Now that we're into December, I think it's useful to take a step back and look at where things stand with the game, and review everything we've accomplished in the last year.
+
+
+Dec 9, 2022
+2 min read
+
+
+
+
+
+
+
+
+
+
+
+dq2
+
+
+                    Content Push -- DQ2 Progress Report for October 2022
+                
+
+October marks the beginning of a concerted content push for the game.
+
+
+Nov 10, 2022
+2 min read
+
+
+
+
+
+
+
+
+
+
+
+dq2
+
+
+                    Rebalancing -- DQ2 Progress Report for September 2022
+                
+
+Rebalancing levels in response to testing & fancy scripts to auto-balance the economy.
+
+
+Oct 8, 2022
+3 min read
+
+
+
+
+
+
+
+
+
+
+
+dq2
+
+
+ Featured
+
+
+                    Bug Hunt -- DQ2 Progress Report for August 2022
+                
+
+A month's worth of bugfixing, bigger portraits, and path tracers that won't give you a heart attack.
+
+
+Sep 9, 2022
+5 min read
+
+
+
+
+
+
+
+
+
+
+
+dq2
+
+
+                    Buff Snakes -- DQ2 Progress Report for July 2022
+                
+
+New features include wave mutations and connected snake-like enemies. We're also nearing the end of our big level design push.
+
+
+Aug 8, 2022
+3 min read
+
+
+
+
+
+
+
+
+
+
+
+dq2
+
+
+                    Fireworks -- DQ2 Progress Report for June 2022
+                
+
+New levels, new cannons, new abilities, new bosses, multiple things that catch on fire, and more!
+
+
+Jul 5, 2022
+5 min read
+
+
+
+
+
+
+
+
+
+
+
+defender's quest
+
+
+                    Tracing Lines -- DQ2 Progress Report for May 2022
+                
+
+We're proud to say that a full 25 levels are now "near final balance." It doesn't mean they won't change at all before the game releases, but it means that they're pretty dialed in and we feel the game is in a good place.
+
+
+Jun 8, 2022
+3 min read
+
+
+
+
+
+
+
+
+
+
+
+dq2
+
+
+                    Finishing the Map -- DQ2 Progress Report for April 2022
+                
+
+We've roughed out all 50+ battle locations on the map with basic level designs and are now moving on to polishing up the first half.
+
+
+May 4, 2022
+3 min read
+
+
+
+
+
+
+
+
+
+
+
+dq2
+
+
+                    Building a Better Wave -- DQ2 Progress Report for March 2022
+                
+
+Designing levels was taking too long, so we designed some tools to speed up the process and we've had great results.
+
+
+Apr 5, 2022
+6 min read
+
+
+
+
+
+
+
+
+
+
+
+dq2
+
+
+                    Summoning Reinforcements -- DQ2 Progress Report for February 2022
+                
+
+I've been trying to do too much stuff myself. So I'm getting some help! Specifically, we have recruited two new staff members, a production specialist, and a level designer/coder, to help me out.
+
+
+Mar 5, 2022
+2 min read
+
+
+
+
+
+
+
+
+
+
+
+dq2
+
+
+                    Sick Month -- DQ2 Progress Report for January 2022
+                
+
+My whole family got COVID; we're all gonna be fine but it slowed us down this month.
+
+
+Feb 2, 2022
+1 min read
+
+
+
+
+
+
+
+
+
+
+
+dq2
+
+
+                    Distilling Skills -- DQ2 Progress Report for December 2021
+                
+
+Instead of stringing out skill point bonuses, it's way more fun if we concentrate the benefits.
+
+
+Jan 5, 2022
+7 min read
+
+
+
+
+
+
+
+
+
+
+
+dq2
+
+
+                    Stoking Rivalry -- DQ2 Progress Report for November 2021
+                
+
+By merging both parties together, the White Hat leader was at risk of being overshadowed. Let's lean into that for both story and gameplay purposes.
+
+
+Dec 6, 2021
+7 min read
+
+
+
+
+
+
+
+
+
+
+
+dq2
+
+
+                    Taking Hostages -- DQ2 Progress Report for October 2021
+                
+
+We mix things up in four new levels during which the White Hats and Black Hats briefly trade party members
+
+
+Nov 8, 2021
+6 min read
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Powering through -- DQ2 Progress Report for September 2021
+                
+
+Everyone's been sick for over a month but somehow I managed to get some work done anyway
+
+
+Oct 9, 2021
+6 min read
+
+
+
+
+
+
+
+
+
+
+
+dq2
+
+
+                    Overcoming "Level Designer's" Block -- DQ2 Progress Report for August 2021
+                
+
+Our north star is making sure that each character's identity is established as solidly and clearly as possible before moving on. The player should instantly be able to grasp, "this is what this character is for."
+
+
+Sep 8, 2021
+16 min read
+
+
+
+
+
+
+
+
+
+
+
+business
+
+
+                    Degraded Blockchains
+                
+
+The minute you connect your blockchain to an app frontend you now have a degraded blockchain, one that cannot even in principle guarantee immutability, trustlessness, and decentralization – at least not for assets that the app's customers actually care about.
+
+
+Aug 19, 2021
+3 min read
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Flow and Feedback -- DQ2 Progress Report for July 2021
+                
+
+This month's progress report is all about feedback, in both senses of the word:
+
+1. Communications we've gotten from our community and playtesters, and
+2. the way the game itself communicates pertinent info back to the player.
+
+
+Aug 3, 2021
+13 min read
+
+
+
+
+
+
+
+
+
+
+
+defenders-quest
+
+
+                    The Rule of Firsts in Game Testing -- DQ2 Progress Report for June 2021
+                
+
+The first thing you tell a player to do in your game will become the default way they expect to interact with everything, and this pattern repeats fractally through every one of your game's sub-systems
+
+
+Jul 7, 2021
+11 min read
+
+
+
+
+
+
+
+
+
+
+
+roblox
+
+
+ Featured
+
+
+                    So You Want to Compete with Roblox
+                
+
+My inbox is stuffed with pitches from start-ups wanting to compete with Roblox, that plucky Lego-ish multiplayer game-creation platform currently valued at 41 billion dollars.   They shouldn't try, but here's how to maybe not fail if they insist anyways.
+
+
+Jul 1, 2021
+22 min read
+
+
+
+
+
+Page 1 of 7
+Older Posts →
+
+
+
+
+
+
+Fortress of Doors © 2023
+
+
+Powered by Ghost
+
+
+
+
+
+
+
+
+
+

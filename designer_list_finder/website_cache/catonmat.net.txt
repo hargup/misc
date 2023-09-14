@@ -1,0 +1,376 @@
+
+
+
+
+
+catonmat.net
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+archive
+books
+tools
+projects
+about
+
+
+
+
+
+
+A new user interface for Browserling!
+Pinned post
+
+Exciting news at Browserling! My team and I just launched a brand new product interface for Browserling. The new interface lets you access all browsers on all platforms and all features through a single neat menu.
+
+You can try the new user interface right now by following this quick browsing link:
+browserling.com/chrome/110/catonmat.net/new-browserling-ui
+This link will open this same blog post in the latest version of Chrome.
+The menu
+The new menu contains everything you need to work with Browserling browsers. The top part of the menu focuses on the platform, the browser, and the website that you want to test, and the bottom part lets you quickly access the most popular features.
+
+The features include display options (allows zooming the browser and changing resolutions), screen capture (allows capturing browser screenshots and quickly annotate them), local testing (allows opening an ssh tunnel to localhost or local network to test local websites), on-screen keyboard (allows using an English keyboard on non-English computers, and allows using a keyboard on mobile devices), share a browser (allows sending a quick link to the current browser and website you're viewing), and send feedback (we love feedback!)
+Operating system and browser selection
+The operating system and browser selection lets you quickly access all available platforms and browsers. With a click or two you quickly load the browser version you need.
+
+URL navigation
+The URL navigation field lets you quickly navigate to the website you need. Just enter the address of the website, click the go button, and a browser will open and load the website.
+
+Display options
+The display options feature lets you zoom the browser in and out (especially useful if you're on a 4k screen) and change the resolution to a bigger one or a smaller one. Also, this feature lets you do responsive web testing as you can see how your website looks on various screen sizes.
+
+Capture screen
+The screen capture feature lets you quickly capture screenshots of your browsing sessions. Once you select the browser region you want to capture, it opens a screenshot of this region and you can use the editing tools, such as a pen, rectangle, text annotation, and eraser tool to make modifications to the screenshot. 
+
+I'll be writing another more detailed article about this feature in one of the next posts as it has many other amazing features that let you quickly copy screenshots to clipboard, share bug reports with your co-workers by emailing them, uploading to Imgur, downloading, or saving to your account for later viewing.
+Also, coming soon, you'll be able to record your browsing session to a GIF (we call it a GIFcast) or a video.
+Local testing
+The local testing feature lets you test your local websites that run on the localhost or any local network machine through ssh tunnels. The initial dialog lets you enter the hostname and port of your local web server.
+
+Then, once you run the ssh command and establish a connection between your local computer and our tunneling service, it changes to connected state and you can start testing.
+
+If the connection drops at any time, you'll instantly be notified through a yellow warning message.
+
+I'll be writing another article about local testing as there's a lot to explain.
+Onscreen keyboard
+The virtual keyboard lets you easily send keypresses to the browser even if you're using a device that doesn't have a physical keyboard, like a tablet. Also, it's very useful if you're using a non-English keyboard, such as German or French keyboards as they have keys for "at" and "slash" symbols in different places.
+
+The keyboard window can be resized to any size, made more compact if you're on a smaller screen or expanded if you're on a bigger screen.
+Share a browser
+The browser sharing feature lets you quickly share a link to the current platform, browser, and URL that you're viewing with your co-workers and friends.
+
+Also, coming soon, we're launching a collaborative browsing feature that will let you and your team share the same browser.
+Send feedback
+We love getting feedback, so we also added a quick way to share your thoughts. Let us know what you think about the new UI! My entire team gets all feedback messages.
+
+Technical details
+We built our user interface using plain HTML, CSS, JavaScript, and the if statement. We started with an empty text file and finished with a fully working self-contained application that we deployed to production in 0.1 second. There are no frameworks, no dependencies, no node modules, no bundlers, no rust, and no modern web crap. There's just code that runs the user interface that lets us keep our focus 100% on the product and 0% on resolving node module issues.
+What's next?
+Next, we're launching a new browser streaming algorithm. The new streaming algorithm will offer near-native experience when using remote browsers. Then, we're adding a collaborative browsing feature that lets two or more people use the same browser at the same time. After this, we're adding a screen recorder that lets you capture your browser sessions to gifs and mp4 videos. And then! More awesome things!
+What's Browserling?
+Browserling is the world's first online cross-browser testing platform. It offers web developers, web testers, and qa teams quick access to all browsers on all platforms. To make really great web apps and websites, you need to make sure your code and design looks and functions the same on as many platforms, browsers, and screen sizes as possible. You could maintain a bunch of virtual machines and devices or you can simply use Browserling that offers quick cloud access to all the browsers.
+Browserling's customers include L'Oreal, T-Mobile, Dolby, Accenture, Payoneer, Wegmans, Library of Congress, House of Representatives, City of New York, State of Texas, UK Home Office, and Government of Australia.
+
+What are other common Browserling use-cases?
+Besides being a useful cross-browser testing service, Browserling is also used by security professionals to get a sandboxed browser for testing suspicious links and casual Internet users who want to browse the Internet in an online browser without being tracked.
+Thanks everyone for following along my adventure and see you all next time!
+
+
+
+If you build it, they will come
+Pinned post
+
+TLDR: We built it and they came.
+At Browserling, over the last couple of years we built a network of online tools websites. Each website focuses on one category of tools and each tool does one and only one thing. We made all tools free, without ads, and with the simplest possible interface that uses a <textarea> or a <canvas> for the user input and output. We let Google decide the fate of the project and it was a huge success – people loved our free tools, sent us backlink love, we started ranking at the top, and now, all tools are used by millions of people every month. All tools followed the same growth curve – it took on average 2 to 3 years for each site in the network to became popular. The success formula was very simple: building things that people search for + patience = success. Now that we have captured the market, we're merging all these sites into a single ultimate get things done site OnlineTools.com and adding paid plans to make it a huge financial success.
+Update: Executed.
+
+Here's what we built.
+We built Image tools and they came:
+
+We built Hex tools and they came:
+
+We built Ascii tools and they came:
+
+We built Gif tools and they came:
+
+We built String tools and they came:
+
+We built Number tools and they came:
+
+We built JSON tools and they came:
+
+We built XML tools and they came:
+
+We built YAML tools and they came:
+
+We built Unicode tools and they came:
+
+Build too and see you next time! Just remember – if you don't build it, they won't come.
+
+
+
+If you add paid plans, they will buy
+Pinned post
+
+TLDR: If you build it, they will come, and if you add paid plans, they will buy.
+
+Add paid plans too and see you next time! Just remember – if you don't add paid plans, they won't buy.
+
+
+
+If you publish it, it will rank
+Pinned post
+
+TLDR: If you build it, they will come, and if you add paid plans, they will buy, and if you publish it, it will rank.
+
+Publish too and see you next time!
+
+
+
+Browserling is now a top 15k website in the world!
+Pinned post
+
+According to Alexa, Browserling is now a top 15k (actually now top 13k while I was writing this blog post) website in the world. 5k positions up from 20k a year ago. It's yet another small step for a ling and a giant leap for ling-kind.
+
+
+alexa.com/siteinfo/browserling.com
+
+My goal is to make Browserling a top 10k website and beyond. Thanks for following along my adventure and see you next time! I'm still just getting started here.
+
+
+
+Announcing OnlineTools.com
+Pinned post
+
+Team Browserling keeps shipping!
+We just bought the premium domain OnlineTools.com and launched Online Tools. Online Tools offers thousands of utilities for getting things done quickly and it's used by millions of people every month.
+
+From technical perspective, Online Tools is powered by the <textarea> and <canvas> HTML tags and it's running on a $5 micro instance in a detached screen session. Checkmate, front-end developers and devops engineers.
+See you next time!
+
+
+
+Ironman is now a Browserling customer!
+
+TLDR: Success!
+
+It's another small step for a ling but one giant leap for ling kind. See you next time!
+
+
+
+Labor Day Sale
+
+At Browserling and Online Tools, we love sales.
+We just created a new automated Labor Day sales campaign.
+Now each year, on the Labor day, we show a 50% discount offer to all users who visit our site.
+This year it runs on September 4th, next year on September 2nd, etc
+Here's how it looks.
+
+Run automated sales too and see you next time!
+
+
+
+Announcing paid plans for UTF8 tools
+
+Team Browserling keeps shipping!
+Last month we launched paid plans for ASCII Tools and today we're launching paid plans for our next most popular tool category – UTF8 Tools. UTF8 tools are used by 40,000 people every month and they let you let you convert UTF8 data and text to its binary, octal, decimal, hex representation, encode and decode UTF8 data to and from base-64 and many other encodings, convert UTF8 to UTF16 and UTF32, and back, validate and debug UTF8 data, and much more.
+Next, we're adding paid plans to all other online tools categories that we built and joining them into a single ultimate get things done website called OnlineTools.com, making it the top 100 website on the Internet.
+From technical standpoint, we used HTML templates, Google SEO, and a $5 Linode instance to launch the paid plans. Checkmate, front-end developers and devops engineers.
+You can still use all tools for free for a limited time but if you really like them, then you can get a subscription to support my team's work. See the pricing page for more information.
+Add paid plans too and see you next time!
+
+
+
+We've added 10 new random tools
+
+Team Browserling keeps shipping!
+Last week we added 20 new unicode tools and and today we just added 10 new tools to our Online Random Tools collection.
+We've done our job and now it's Google's job to index them and rank them well.
+Here are the new random tools.
+
+Pick a Winner
+Shuffle Lines
+Shuffle Sentences
+Shuffle Paragraphs
+Generate Random Alphabet Letters
+Generate Random Digits
+Generate Random Digit Pairs
+Generate Random Integer Range
+Generate Random Prime Numbers
+Pick a Random Digit
+
+Next week we'll add even more tools. See you then!
+
+
+
+We've added 20 new unicode tools
+
+Team Browserling keeps shipping!
+Last week we added 25 new png tools and and today we just added 20 new tools to our Online Unicode Tools collection.
+We've done our job and now it's Google's job to index them and rank them well.
+Here are the new unicode tools:
+
+Convert Emojis to Images
+Sort Graphemes
+Increment Unicode Code Points
+Decrement Unicode Code Points
+Normalize Unicode Numbers
+Normalize Unicode Letters
+Normalize Unicode Text
+Add Combining Characters
+Remove Combining Characters
+Spoof Unicode Text
+Unspoof Unicode Text
+Check if Unicode Text is Spoofed
+Escape Unicode Characters
+URL-encode Unicode Text
+Convert Unicode to Bytes
+Convert Unicode to ASCII
+Convert ASCII to Unicode
+Convert Unicode to a String Literal
+Unleash Zalgo on Unicode Text
+Remove Zalgo from Unicode Text
+
+Next week we'll add even more tools. See you then!
+
+
+
+Back to School Sale
+
+At Browserling and Online Tools, we love sales.
+We just created a new automated Back to School sales campaign.
+Now each year, on 15th of August, we show a 50% discount offer to all users who visit our site.
+Here's how it looks.
+
+Run automated sales too and see you next time!
+
+
+
+Native copy/paste for Browserling is here!
+
+We just added a native copy/paste support to Browserling.
+
+You can now effortlessly copy text in and out of the browsers by simply pressing Ctrl+C and Ctrl+V.
+You can try the new feature via our quick browsing link: browserling.com/browse.
+Additionally, we also implemented a new screen streaming algorithm and everything got much faster.
+And we also added session resumes. If you accidentally close your tab or browser and then quickly go back to browserling, your session will be restored.
+Happy browsing!
+
+
+
+We've added the Tor Browser to Browserling
+
+We just added the Tor browser to Browserling.
+You can now test your websites in multiple Tor browser versions as well as access onion links.
+You can access the Tor browser via this quick browsing link: browserling.com/tor.
+As soon as you load the Tor browser, it will automatically connect to the Tor network.
+Happy testing!
+
+
+
+We've added 25 new png tools
+
+Team Browserling keeps shipping!
+Last week we added 20 new jpg tools and and today we just added 20 new tools to our Online PNG Tools collection.
+We've done our job and now it's Google's job to index them and rank them well.
+Here are the new png tools:
+
+Change Colors in a PNG
+Change PNG Color Tone
+Change PNG Opacity
+Add Noise to a PNG
+Compress a PNG
+Convert Webp to PNG
+Convert PNG to Webp
+Pick a Color from a PNG
+Extract PNG Color Palette
+Extract PNG Color Channels
+Change PNG Quality
+Skew a PNG
+Shift a PNG
+Fit a PNG in a Rectangle
+Add a Watermark to a PNG
+Add PNG Border
+Remove PNG Border
+Add PNG Background
+Remove PNG Background
+Refine PNG Edges
+Mirror a PNG
+Duplicate a PNG
+Censor a PNG
+Zoom a PNG
+Upscale a PNG
+Downscale a PNG
+
+Next week we'll add even more tools. See you then!
+
+
+
+Announcing paid plans for ASCII tools
+
+Team Browserling keeps shipping!
+Last month we launched paid plans for Image Tools and today we're launching paid plans for our next most popular tool category – ASCII Tools. ASCII tools are used by 40,000 people every month and they let you find ASCII codes of characters, draw ASCII art, encode and decode ASCII text, validate ASCII data, and much more
+Next, we're adding paid plans to all other online tools categories that we built and joining them into a single ultimate get things done website called OnlineTools.com, making it the top 100 website on the Internet.
+From technical standpoint, we used HTML templates, Google SEO, and a $5 Linode instance to launch the paid plans. Checkmate, front-end developers and devops engineers.
+You can still use all tools for free for a limited time but if you really like them, then you can get a subscription to support my team's work. See the pricing page for more information.
+Add paid plans too and see you next time!
+
+
+
+
+Read more articles →
+
+
+
+            Thanks for reading my articles. If you enjoyed them and would like to receive my new articles automatically, you can subscribe via rss feed or email.
+        
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+                Secret message: Use coupon code JELLYLING to get a discount at my company Browserling!
+            
+
+
+
+
+
+
+
+
+
+
+
+

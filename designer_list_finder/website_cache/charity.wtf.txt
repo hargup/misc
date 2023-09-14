@@ -1,0 +1,1372 @@
+
+
+
+
+
+
+
+charity.wtf – charity wtf's about technology, databases, startups, engineering management, and whiskey.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+ charity.wtf
+charity wtf's about technology, databases, startups, engineering management, and whiskey.
+
+Sidebar
+
+
+Pages
+
+About me
+
+
+
+Recent Posts
+
+
+How to Communicate When Trust Is Low (Without Digging Yourself Into A Deeper Hole)
+
+
+Helicopter Management and Other Mistakes
+
+
+Questionable Advice: “How can I drive change and influence teams…without power?”
+
+
+Choose Boring Technology Culture
+
+
+Questionable Advice: “People Used To Take Me Seriously. Then I Became A Software Vendor”
+
+
+Archives
+
+August 2023
+June 2023
+May 2023
+March 2023
+February 2023
+October 2022
+September 2022
+August 2022
+July 2022
+June 2022
+April 2022
+March 2022
+January 2022
+August 2021
+April 2021
+March 2021
+February 2021
+January 2021
+December 2020
+November 2020
+October 2020
+September 2020
+July 2020
+May 2020
+April 2020
+March 2020
+December 2019
+November 2019
+October 2019
+September 2019
+May 2019
+April 2019
+February 2019
+January 2019
+December 2018
+October 2018
+August 2018
+March 2018
+February 2018
+May 2017
+October 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+December 2015
+
+Categories
+
+acquisitions
+
+aws
+
+books
+
+crossposted
+
+databases
+
+deploys
+
+devops
+
+management
+
+observability
+
+operations
+
+pendulum
+
+security
+
+serverless
+
+sre
+
+startup
+
+tech culture
+
+Uncategorized
+
+vendor
+
+
+
+
+Search for:
+
+
+
+Meta
+
+Log in
+Entries feed
+Comments feed
+WordPress.org
+
+
+
+
+
+
+
+
+
+How to Communicate When Trust Is Low (Without Digging Yourself Into A Deeper Hole)
+
+August 17, 2023August 17, 2023 mipsytipsycommunication16 Comments 
+
+
+This is based on an internal quip doc I wrote up about careful communication in the context of rebuilding trust. I got a couple requests to turn it into a blog post for sharing purposes; here you go.🌈✨🥂
+In this doc I mention Christine, my wonderful, brilliant cofounder and CEO, and the time (years ago) when our relationship had broken down completely, forcing us to rebuild our trust from the ground up.
+(Cofounder relationships can be hard. They are a lot like marriages; in their difficulty and intensity, yes, but also in that when you’re doing it with the right person, it’s all worth it. 💜)
+Tips for Careful Communication
+When a relationship has very little trust, you tend to interpret everything someone says in the worst possible light, or you may hear hostility, contempt, or dismissiveness where none exists. On the other side of the exchange, the conversation becomes a minefield, where it feels like everything you say gets misinterpreted or turned against you no matter how careful you are trying to be. This can turn into a death spiral of trust where every interaction ends up with each of you hardening against each other a little more and filing away ever more wounds and slights. 💔
+Yet you HAVE to communicate in order to work together! You have to be able to ask for things and give feedback.
+The way trust gets rebuilt is by ✨small, positive interactions✨. If you’re in a trust hole, you can’t hear them clearly, and they can’t hear you (or your intent) clearly. So you have to bend over backwards to overcommunicate and overcompensate.
+There are lots of books out there on how to talk about hard topics. (We actually include a copy of “Crucial Conversations” in every new employee packet.) They are all pretty darn cheesy, but it’s worth reading at least one of them.
+I’m not going to try and cover all of that territory. What follows is a very subjective list of tactics that worked for Christine and me when we were digging our way out of a massive trust deficit. Power dynamics can admittedly make things more difficult, but the mechanics are the same.
+Acknowledge it is hard beforehand:
+“I want to say something, but I am having a hard time with it.”
+“I have something to say, but I don’t know how you’ll take it.”
+“I need to tell you something and I am anxious about your reaction.”
+What this does: forces you to slow down and be intentional about the words you’re going to use. It gives the other person a heads up that this was hard for you to say. Most of all, it shows that you do care about their feelings, and are trying to do your best for them (even if you whiff the landing).
+… or check in afterwards.
+“I’m not sure how that came across. Is there a better way I could have phrased it?”
+“In my head that sounded like a compliment…how did you hear it?”
+“Did that sound overly critical? I’m not trying to dwell on the past, but I could use your help in figuring out a better way.”
+It’s okay if it’s minutes or hours or days later; if it’s still eating at you, ✨clear the fucking air.✨
+Speak tentatively.
+“Speak tentatively” is the exact opposite of the advice that people (especially women) tend to get in business. But it’s actually super helpful when the relationship is frayed because you are explicitly allowing that they may have a different perception, and making it safer to share it.
+“From my perspective, it looks like these results might be missing some data… do you see the same thing?” opens the door for a friendly conversation based on concrete outcomes, whereas “You’re missing data” might sound accusatory and trigger fear and defensiveness.
+Try to sound friendly.
+Say “please” and “thank you” a lot. Add buffer words like “Hey there”, or “Good morning!” or “lol”. Even just using 🌱emojis🍃 will soften your response to an almost unsettling degree. This may seem almost insultingly simple, but it works. When trust is low, the lack of frills can easily be read as brusque or rude.
+Take a breath.
+If you are experiencing a physical panic response (sweating, heart racing, etc), announce that you need a few minutes before responding. Compose yourself. Firing off a reply while you are in fight-or-flight mode reliably leads to unintentional escalations.
+If you need to take a few beats to read and process, take the time. But empty silence can also generate anxiety 🙂 so maybe say something to indicate “I’m listening, but I need a minute to absorb what you said”, or “I’m still processing”. (We often use “whoa…” as shorthand for this.)
+(Alternately, if you find yourself really pissed, “whoa” becomes a great placeholder for yourself to get yourself under control 😬 before saying something you’ll regret having to deal with later.)
+“The story in my head”.
+When you are in a state where you are assuming the worst of someone and reading hostile intent into their words or actions, try to check yourself on those assumptions.
+Repeat the words or behaviors back to them along with your interpretation, like: “The story in my head is that you asked me to send that status email because you don’t trust me to have done the work, or maybe even gathering evidence that I am not performing for a PIP.” This gives them the opportunity to reply and clarify what they actually meant.
+Engineer positive interactions, even if you have to invent them.
+Relationship experts say that there’s a magic ratio for happy, healthy relationships, which is at least five positive interactions for every one negative interaction. If you only interact with the people you have difficult relationships when you have something difficult to say, you are always going to dread it. Forever.
+It might seem artificial at first, but look for chances to have any sort of positive interactions, and seize them.
+Communicate positive intent.
+In a low trust environment, you can assume everything you say will be read with a voice that is menacing, dismissive or sneering. It behooves you to pay extra attention to tone and voice, and to add extra words that overcommunicate your intended meaning. A neutral statement like “That number seems low”, or “Why is that number low?” will come out sounding brusque and accusatory, e.g. why isn’t that number growing? it’s your fault, you should know this, I blame you, you’re bad at your job. Not might: it will. Try to immunize your communication from distortion by saying things like,
+“Hey, I know this just got dropped in your lap, but do you have any idea why this number is so low?”
+“This number seems lower than usual. I’m wondering if it’s due to this other thing we tried. Do you have any better ideas?”
+“I know it isn’t exactly in your wheel house, but can you help me understand this?”
+“I’m new to this system and still trying to figure out how it works. Should this number be going down like this?”
+It may seem excessive and time consuming, but it will save you time and effort overall because you will have fewer miscommunications to debug. ☺️
+Give people the opening to do better.
+We tend to make up our minds about people very quickly, and see them through that lens from then on. It takes work to open our selves up again.
+“Assume positive intent” is a laudable goal, but in practice falls short. If every word someone says sounds accusatory or patronizing to you, what are you supposed to do with that advice? Just pretend you don’t hear it, or tell yourself they mean well? That’s not sustainable; your anger will only build up.
+But if you can hold just enough space for the idea that they might mean well, then you can give them the opportunity to clarify (and hopefully use different words next time). Like,
+Person A: “Why is that number low?”
+Person B: “I’m not sure.”
+(pause)
+Person B: “…. Hey, sorry to interrupt, but the story in my head is that you think owning that number is part of my job, and now you’re upset with me, or you think I’m incompetent at my job.”
+Person A: “OMG no, not at all. I’m just trying to figure out who understands this part of the system, since it seems like none of us do! 😃 Sorry for stressing you out!”
+and maybe next time it will start off like…
+Person A: “Hey, do you have any idea why this number is low? It’s a mystery … nobody I’ve talked to yet seems to know.” 🙂
+Remember the handicaps, value the effort.
+Ever meet someone you didn’t like online, and realize they’re terrific in person? Online communication loses sooooo much in transit. Christine and I know each other extremely well, and still sometimes we realize we’re reading way too much into each other’s written words. That’s when we try to remember to move it to “mouth words”, aka zoom or phone. Not as good as in person, but eons better than text.
+Once you’ve met someone in person, it’s usually easier to read their written words in their voice, too.
+Some people just aren’t great at written communication. Some people have neurodiversities that make it difficult for them to hear tone. Some people have English as a second language. And so on. Do give points for effort; if they’re trying, obviously, they care about your experience.
+To the best of your ability, try to resist reading layers of meaning into textual communication; keep it simple, overcommunicate intent, and ask for clarity. And if someone is asking you for clarity, help them do a better job for you.
+ 
+
+
+How to Communicate When Trust Is Low (Without Digging Yourself Into A Deeper Hole) 
+
+
+
+Helicopter Management and Other Mistakes
+
+June 19, 2023July 14, 2023 mipsytipsybusiness, careers, culture, managementLeave a comment 
+
+
+You are a freshly minted manager. You come full of rage and frustration at the poor management you’ve endured and witnessed in tech, and you are god damn determined not to repeat all of those mistakes.
+You are tired of reporting to a manager who isn’t transparent with you, who hoards critical information and isn’t forthcoming about changes that impact you. You are tired of not being listened to or treated like a cog, so you swear to really listen and take your reports seriously.
+You have seen sooooo many managers who failed to develop their people or sponsor them for growth opportunities, who blamed their team and hung them out to dry instead of having their back behind closed doors. Managers who didn’t seem to care about you as people, or who never made it feel safe to say, “I need a mental health day”. Managers who dangled the promise of a promotion, but even though you are doing the work, the recognition never comes.
+Fuck that shit. You aren’t going to do ANY of it.
+And … you don’t! 🎉
+🌸🍃 You make time in your 1x1s to ask about their personal lives and hobbies — you are careful not to pry or be intrusive, just showing that you care. You urge them to take vacation, often. You remind them, firmly, not to be a hero. You model the behavior of taking mental health days to show that not only is it safe, but managers need them too.
+🌸🍃 You ask them about their career goals and aspirations. You make it your personal mission to get them promoted, so you frequently check in with them to make sure they’re on the right path. You keep an eye out for things they do that are above and beyond, and for strengths that make them special. They always know you are on their side.
+🌸🍃 If you hear about a clash or a conflict between them and another team member, you quickly jump in to figure out what’s going on and make sure it gets resolved, with each person feeling heard before the conflict has time to marinate or fester.
+🌸🍃 When reviews comes around, you write warm, passionate essays for each of your direct reports, listing all the things they have done and all the ways they have grown. You go in to manager calibrations fully prepped to advocate for each of your people to get the promotions and rewards they so richly deserve.
+🌸🍃 If someone on your team ends up needing more help, whether that’s keeping them productive and on track or helping with prioritization or conflicts… whatever it is, you are there to help turn the situation around. This person was struggling under their old manager, maybe even close to being let go, but under your care they are thriving.
+🌸🍃 Nobody ever leaves your team. This is a point of quiet pride for you. People want to transfer to your team, but never from. There may have been a couple close calls, but you are always able to save the day by talking it out with the person and figuring out what they need in order to stay.
+🌸🍃 You take pride in your transparency and the democratized ethos of your team, where you collectively determine your priorities and no one feels pressured into doing something they don’t want to do.
+Bottom line: you are a GREAT manager.
+Right???
+After all, your team ranks sky high on every company survey on employee happiness, manager trust, and autonomy and sense of purpose. Your team fucking LOVES YOU. You’re pretty sure they would follow you to your next job, if you left. So maybe you ARE the world’s greatest manager.
+Or maybe…you are heavily optimizing for one aspect of the management role, the part where you interface with your direct reports as an ally and coach. You might even be optimizing to the extent that you are neglecting or outright harming other aspects of the job.
+Rookie Mistake #1: Only Managing Down
+But management means coaching and supporting the people on your team, right? What else is there?
+Well.. a lot, actually. Like, the business needs to succeed, for starters. ☺️ And there are a bunch of other relationships that matter besides your own direct reports. A good, strong manager needs to care about:
+
+Goals and planning. Managers are generally responsible for crafting a team roadmap out of the impossible mess of company strategy requirements, requests from other teams, product roadmap commitments, and KTLO (keep the lights on) work. Some companies also use OKRs.
+Right-sizing workloads. There is always at least 10x as much work to be done as cycles to do work, which means estimating how much your team can deliver, planning that work, and dealing with the inevitable surprises that come up during execution. How do you balance urgency vs importance? It is YOUR job to make sure your team isn’t overcommitted.
+Stakeholder management. Does your team have a reputation for delivering quality work when they say they will, more or less on schedule? Are you a good neighbor to other teams, or do they feel like anything they ask for goes into a black hole? This is largely determined by you.
+Managing up. Your manager relies on you to provide enough visibility into your team that they can (at minimum) make good decisions where your team is involved, and help head off any problems or conflicts before they escalate.
+Managing up (another sort) is the relationships you build and impressions you leave with your skip-level and other adjacent leaders. You are your team’s representative and ambassador. Leaders form a view of the org based on scraps of data. For the sake of your team: give good scraps.
+Managing out horizontally. Building great relationships and a web of mutual support with your peers. Sharing context with each other. Managers are like the nervous system, carrying signal from point to point.
+Contributing to the organization your team sits in, and its standards, policies, and structural integrity. This is the one most likely to suffer if a manager is laser focused on their own team. This means things like…applying the job ladder fairly and consistently, without playing favorites. Engaging in a dialogue with the ladder rather than bending the rules or making an exception.
+
+As a manager, you have been granted certain formal powers by the org, to be used for the benefit of the org. This means you have a responsibility to care for the organization, and your team within that context.
+You shouldn’t be advocating for the benefit of your team members, you have a greater responsibility to the rules and categories of the system, which you collectively maintain and agree upon. The system can’t survive if every manager is gaming the rules on behalf of their team. The system only works if every manager is playing fair.
+As a line manager, the work you do interfacing with your team will likely be 50-75% of your time and energy … and impact. But this ratio changes as you go up the org chart. As a VP? Maybe 10-20% of your energy and time can go to your direct reports.
+The higher up the ladder you go, the less important your bedside manner becomes and the more important your strategic direction becomes. You are first and foremost responsible for the company’s success, not for your reports’ feelings and career development.
+Rookie mistake #2: Helicopter management
+If rookie manager mistake number one is thinking that management consists of coaching and interfacing with your team, mistake number two is closely related. Mistake number two is … overmanaging the team, coddling people, and basically never allowing anyone to fail. I think of it as “helicopter managing”.
+Helicopter management consists of overly identifying with your team and their needs and wants, instead of taking a step back and considering them in the full context of the organization, or letting them take risks and stand on their own two feet. You’re their manager, not their babysitter.
+I have a personal story to illustrate this.
+Once upon a time, many years ago, I had a team member who was energetic, highly talented, and a little high strung. I ended up spending a lot of time managing their relationships with other team members, keeping them on track with their projects, and helping them manage their emotional state in general. They nearly left in a dudgeon one time, and I think most managers would have let them go, but I saved the day and they stayed. I was actually really proud of the fact that I had retained them and kept them high-functioning for years. If you asked me, I would have shelved this under my successes, maybe even “proudest manager moments”.
+Years later, though, I look back on this situation through very different eyes. Yes, I retained them at the company / on the team, with decent relationships, and they did a lot of good work! But should I have?
+At what cost?
+Most weeks, I probably spent 50-75% of my total emotional bandwidth on this one person’s needs. For years. Is this the best thing I could have done for the company with all that time and energy? Probably not!
+Was this the best thing I could have done for them? I don’t even think it was that either! All that my coddling ultimately did was teach them the wrong lessons, and prevent them from learning the right ones. It delayed those lessons by a few years, and made learning them all the more painful when they finally came.
+There are no clear bright lines here. But it’s worth checking in with yourself from time to time, and asking hard questions.
+
+You spent all that time coaching and doing a diving save to retain that person …. but should you have? Is this really the best place for them to be at this point in their career?
+Or let’s say you managed to turn around someone’s performance from failing to succeeding. Great!! But are you confident they are set up to excel, or are they always going to be hovering on the lower bound of acceptable performance? Are you going to be having this same discussion again next quarter?
+Consider all that time you spent intimately entwined with every detail of every technical project your entire team was working on, reading every PR and design doc. Should you have? Or did you unintentionally deprive them of some agency, while cheating yourself out of time you should have spent becoming a better leader, strengthening your org, or understanding next year’s challenges?
+Are you giving people only positive feedback? This is a common rookie manager mistake, and it often comes from a place of kindness, or overcompensating for overly negative environments. But you are not only cheating your people of opportunities for growth, you are teaching them that growth is something to be feared and avoided.
+Or are you cheerleading people so intensely that they come away with a lopsided view of how valuable or advanced their skills are? Are you promoting fast and loose, so they grow to equate promotions with career development? Have you been spoon feeding them growth, or are they developing autonomy over time?
+
+This can be especially unfortunate at higher levels, where autonomy is part of the definition of being a senior+ engineer. You might be stifling them and not allowing them to exercise that agency, or even develop that skill. For senior contributors, autonomy is what they bring. You gotta let them do it.
+This shit is challenging. There are no simple answers. The “right” answer is often only obvious in retrospect, months or years later. Everyone needs help sometime, some of us more than others, and that’s okay.
+But is it sustainable? What price will you pay?
+What I do know is that if you haul someone over the finish line, that is not a success. If you’re going to be having the same hard conversations with them again in one month, three months, six months…that is not success. If they are going to have a rough landing the next time they change teams, that is not success, nor is it in their best interest. And if your team is overly dependent on you, you aren’t actually doing your job.
+And honestly? People really WANT to be challenged. They crave it! Or at least the people you want to work with do.
+Rookie Mistake #3: Your view of the system is incomplete
+I’m only going to touch on this one very briefly; it’s long and complicated, and probably deserves a post of its own.
+Systems thinking is a core skill for both managers and engineers. It’s not a skill we are born with; it takes a lot of practice and failure to develop good instincts for debugging complex systems. As an engineering manager, you may have spent 10+ years writing software and learning how computers work, but you have hardly begun to understand how business and organizational systems work.
+This explains a lot when it comes to the empathy gap between engineers and management, I believe. 🙃
+We spend a lot of time talking about empathy these days — empathy between teams, people, neurotypes; holding space for the fact that nobody is always at their best, etc. Yet engineers can still be incredibly dismissive and judgey towards management actions and organizational decisions.
+We see a decision that doesn’t make sense to us, or that we wouldn’t have made, and we write it off as being selfish, uninformed, incompetent, stupid, money-grubbing, bureaucratic, untrustworthy, craven, selling out. Or — maybe worst of all — we shrug and say something cynical about how this kind of thing always happens in business. Or they’re out to get us, or they never listen to us, or it shows how much they don’t give a shit about us..
+Far be it to me to excuse corporate venality, or to try and blow smoke up your ass about your leaders’ motives. But in many, many of these situations, this actually represents a failure of systems thinking when it comes to imagining the complex business, corporate, and people systems your leaders are operating in.
+When you find yourself thinking things like:
+
+“Why am I hearing this feedback so late, in such a roundabout way? Why didn’t they just come to me right away and tell me directly, and I could have fixed it so much sooner!”
+“Why would they hire someone external to fill that role, instead of promoting the person who has been doing the work just fine in the meantime? Typical exec move; they never see the potential in the people they have, they always want to get someone who has already done the job before.”
+“Why is our roadmap changing yet again? Why is this getting dropped in our lap? Our director doesn’t seem to know anything about building good software.”
+“Why didn’t I get invited to that meeting, when it was about MY budget and MY workload? You can’t even get a seat at the table around here unless you have a director title or report to the CEO.”
+“Why is that person being given ANOTHER chance? If they weren’t a straight white guy, they would have been fired a year ago.”
+
+… or anything else that boils down to “other managers are stupid, hypocritical, or bad at their jobs”, stop yourself, and first try to understand “under what circumstances might their action be a reasonable one, or even the right one?”
+Approaching people systems problems with curiosity, empathy, and the full awareness that you may never know the entire story (and there may be good reasons for this!) will make you a better coworker and a much more effective leader.
+And if you are working as a manager at a company where you have enough evidence to prove that you cannot, should not take such a generous view of your peers, then maybe don’t. Like, if you have a professional responsibility to represent an organization you can not ethically represent… I would suggest not doing that. ¯\_(ツ)_/¯ If you can.
+Your View of Your Manager Is Incomplete
+One of the most challenging things to deal with, in my (limited) experience as an exec, is when you have a manager who is well-liked by their team but fundamentally ineffective in the role, so you have to replace them. Then you are left with a team left feeling bereft and confused, and you can’t just give them a list of all the ways their manager was actually dropping the ball and not doing their job well, because people deserve some privacy and dignity. You pretty much just have to suck it up, and hope that you have enough trust banked for them not to quit.
+It’s entirely possible for a manager to be beloved by their entire team, while having a corrosive effect on the system around them. Sometimes it’s their very willingness to bend the system for their people’s benefit that generates that loyalty.
+An unwary manager may create a sort of island within the company, where the team does not feel part of — may even feel separate from, superior to, or suspicious of — the broader org or the company. Team members may feel like “this is the only team I would ever want to belong to at this company”, or “my manager is great, they protect us from all the big company bullshit”, or “it’s us against the world”, or “nobody understands us, except our manager”. These are seductive dynamics to slip into because tribalism is so powerful. The more apart you feel from the company, the more tightly you may bond with each other.
+I’m not judging you. I was that manager at Parse, to some extent, after the Facebook acquisition. I did not give a shit about the org, I only cared about my team. So…I get it. I still wouldn’t want me as a manager in my org.
+What would you do?
+The system is what the system does.
+Put yourself in your senior leadership’s shoes. What would YOU do if you had to choose between a good, reliable manager who gets the job done for the org and isn’t particularly beloved by their reports (she’s not awful, the team thinks she’s “fine”), vs a manager who is beloved by their reports and cares about their career growth deeply, but is weak at everything else? What will manager #2 cost the rest of the org, and who will bear those costs?
+Don’t make your leadership make that choice. Be a manager who is good to your team, and good to the organization too.
+Honestly, it is healthy for a manager to not identify too closely with their team. You should stand with them, but a step or two apart. After all, your job is to be pushing or pulling them in a direction, not just standing still and … marinating.
+If you identify with them too closely, it can get very hard to tell your reports hard things. You may empathize with them so much that you put their feelings above the need to get shit done. You can be friends with your team, just like parents can be friends with their children, but the friendship doesn’t come first. Your formal role comes first.
+On being a new manager who cares a lot
+There’s something really beautiful about the energy and dedication that brand new managers bring to the role. Some of the most spectacular results I’ve ever seen for individual team members have come from teams with first time managers, who are determined and idealistic and pouring their whole heart and soul into the people reporting to them. They haven’t yet learned to pace themselves or to be more well-rounded with their time and energy, and sometimes a person can soak up that attention and turn a failing situation around into a thriving one.
+I would never tell a manager that they should care less. Caring for people is the beating heart of this job. It doesn’t matter how efficient and effective you are at delivering feedback, managing people out, and planning roadmaps if you don’t truly give a shit about the people you serve. Even as you rise in the ranks and people-interfacing becomes a smaller % of what makes you good at your job, caring is still absolutely essential.
+So I hope the message of this post doesn’t come across as “you think you’re a good manager, but here’s why you actually suck”. ☺️ You got into this role because you cared, and this is valuable. Never lose touch with it.
+The message is simply that it took me years and years to learn that there is more to being a great manager than caring about my team. I hope you can learn it faster than I did.
+ 
+
+
+Helicopter Management and Other Mistakes 
+
+
+
+Questionable Advice: “How can I drive change and influence teams…without power?”
+
+June 5, 2023July 14, 2023 mipsytipsyadvice, deploys, engineering, influence, managementLeave a comment 
+
+
+Last month I got to attend GOTO Chicago and give a talk about continuous deployment and high-performing teams. Honestly I did a terrible job, and I’m not being modest. I had just rolled off a delayed redeye flight; I realized partway through that I had the wrong slides loaded, and my laptop screen was flashing throughout the talk, which was horribly distracting and means I couldn’t read the speaker notes or see which slide was next. 😵 Argh!
+Anyway, shit happens. BUT! I got to meet some longstanding online friends and acquaintances (hi JJ, Avdi, Matt!) and got to eat some of Hillel Wayne’s homemade chocolates, and the Q&A session afterwards was actually super fun.
+My talk was about what high performing teams look like and why it’s so important to be on one (spoiler: because this is the #1 way to become a radically better engineer!!). Most of the Q&A topics therefore came down to some version of “okay, so how can I help my team get there?” These are GREAT questions, so I thought I’d capture a few of them for posterity.
+But first… just a reminder that the actual best way to persuade people to listen to you is to make good decisions and display good judgment. Each of us has an implicit reputation score, which formal power can only overcome to an extent. Even the most junior engineer can work up a respectable reputation over time, and even principal engineers can fritter theirs away by shooting off at the mouth. 🥰
+“how can I drive change when I have no power or influence?”
+This first question came from someone who had just landed their first real software engineering job (congrats!!!):
+“This is my first real job as a software engineer. One other junior person and myself just formed a new team with one super-senior guy who has been there forever. He built the system from scratch and knows everything about it. We keep trying to suggest ideas like the things you talked about in your talk, but he always shoots us down. How can we convince him to give it a shot?”
+Well, you probably can’t. ☺️ Which isn’t the end of the world.
+If you’re just starting to write software every day, you are facing a healthy learning curve for the next 3-5 years. Your one and only job is to learn and practice as much you possibly can. Pour your heart and soul into basic skills acquisition, because there really are no shortcuts. (Please don’t get hooked on chatGPT!!)
+I know that I came down hard in my talk on the idea that great engineers are made by great teams, and that the best thing most people can do for their career is to join a high-performing, fast-moving team. There will come a time where this is true for you too, but by then you will have skills and experience, and it will be much easier for you to find a new job, one with a better culture of learning.
+It is hard to land your first job as a software engineer. Few can afford to be picky. But as long as you are a) writing code every day, b) debugging code every day, and c) getting good feedback via code reviews, this job will get you where you need to go. When you’re fluent and starting to mentor others, or getting into higher level architecture work, or when you’re starting to get bored … then it’s time to start looking for roles with better teachers and a more collaborative team, so your growth doesn’t stall. (Please don’t fall into the Trap of the Premature Senior.)
+This is an apprenticeship industry. You’re like a med student right now, who is just starting to do rounds under the supervision of an attending physician (your super-senior engineer). You can kinda understand why he isn’t inclined to listen to your opinions on his choice of stethoscope or how he fills out a patient chart. A better teacher would take time to listen and explain, but you already know he isn’t one. 🤷
+I only have one piece of advice. If there’s something you want to try, and it involves doing engineering work, consider tinkering around and building it after hours. It’s real hard to say no to someone who cares enough to invest their own time into something.
+“how can I drive change when I am a tech lead on a new team?”
+“I have the same question! — except I’m a tech lead, so in theory I DO have some power and influence. But I just joined a new team, and I’m wondering what the best way is to introduce changes or roll them out, given that there are soooo many changes I’d like to make.”
+(I wrote a somewhat scattered post a few years ago on engineers and influence, or influence without authority, which covers some related territory.)
+As a tech lead who is new to a team, busting at the seams with changes I want to make, here’s where I’d start:
+
+Understand why things are the way they are and get to know the personalities on your team a bit before you start pitching changes. (UNLESS they are coming to you with arms outstretched, pleading desperately for changes ~fast~ because everything is on fire and they know they need help. This does happen!)
+Spend some time working with the old systems, even if you think you already understand. It’s not enough for you to know; you need to take the team on this journey with you. If you expect your changes to be at all controversial, you need to show that you respect their work and are giving it a chance.
+Change one thing at a time, and go for the developer experience wins first. Address things that will visibly pay off for your team in terms of shipping faster, saving time, less frustration. You have no credibility in the beginning, so you want to start racking up wins before you take on the really hard stuff.
+Roll up your sleeves. Nothing buys a leader more goodwill than being willing to do the scut work. Got a flaky test suite that everybody has been dreading trying to fix? I smell opportunity…
+Pitch it as an experiment. If people aren’t sold on your idea for e.g. code review SLAs, ask if they’d be willing to try it out for three weeks just as an experiment.
+Strategically shop it around to the rest of the team, if you sense there will be resistance…
+
+At this point in my answer 👆 I outlined a technique for persuading a team and building support for a plan or an idea, especially when you already know it’s gonna be an uphill battle. Hillel Wayne said I should write it up in a blog post, so here it is! (I’ll do anything for free chocolate 😍)
+“How can I get people on board with my controversial plan?”
+So you have a great idea, and you’re eager to get started. Awesome!!! You believe it’s going to make people’s lives better, even though you know you are going to have to fight tooth and nail to make it happen.
+What NOT to do:
+Walk into the team meeting and drop your bomb idea on everyone cold:
+“Hey, I think we should stop shipping product changes until we fix our build pipeline to the point where we can auto-deploy each merge set to production, one at a time, in under an hour.” ~ (for example)
+…. then spend the rest of the hour grappling with everybody’s thoughts, feelings, and intense emotional reactions, before getting discouraged and slinking away, vowing to never have another idea, ever again.
+What to do instead:
+Suss out your audience. Who will be there? How are they likely to react? Are any of them likely to feel especially invested in the existing solution, maybe because they built it? Are any of them known for their strong opinions or being combative?
+Great!!! Your first move is to have a conversation with each of them. Approach them in the spirit of curiosity, and ask what they think of your idea. Talking with them will also help you hash out the details and figure out if it is actually a good idea or not.
+Your goal is to make the rounds, ask for advice, identify any allies, and talk your idea through with anybody who is likely to oppose you…before the meeting where you intend to unveil your plan. So that when that happens, you have:
+
+given people the chance to process their reactions and ask questions in private
+ensured that key people will not feel surprised, threatened, or out of the loop
+already heard and discussed any objections
+ideally, you have earned their support!
+
+Even if you didn’t manage to convince every person, this was still a valuable exercise. By approaching people in advance, you are signaling that you respect them and their voice matters. You are always going to get people’s absolute worst reactions when you spring something on them in a group setting; any anxiety or dismay will be amplified tenfold. By letting them reflect and ask questions in private, you’re giving time for their better selves to emerge.
+What to do instead…if you’re a manager:
+As an engineer or a tech lead, you sometimes end up out front and visible as the owner of a change you are trying to drive. This is normal. But as a manager, there are far more times when you need to influence the group but not be the leader of the change, or when you need to be wary of sounding like you are telling people what to do. These are just a few of the many reasons it can be highly effective to have other people arguing on your behalf.
+In the ideal scenario, particularly on technical topics, you don’t have to push for anything. All you do is pose the question, then sit back and listen as vigorous debate ensues, with key stakeholders and influential engineers arguing for your intended outcome. That’s a good sign that not only are they convinced, they feel ownership over the decision and its execution. This is the goal! 🌈
+It’s not just about persuading people to agree with you, either. Instead of having a shitty dynamic where engineers are attached to the old way of doing things and you are “dragging them” into the newer ways against their will, you are inviting them to partner with you. You are offering them the opportunity to lead the team into the brave new world, by getting on board early.
+(It probably goes without saying, but always start with the smallest relevant group of stakeholders, and not, say, all of engineering, or a group that has no ownership over the given area. 🙃 And … even this strategy will stop working rather quickly, if your controversial ideas all turn out to be disastrous. 😉)
+“How do I know where to even start?!? 😱”
+Before I wrap up, I want to circle back to the question from the tech lead about how to drive change on a team when you do have some influence or power. He went on to say (or maybe this was from a third questioner?*):
+“There is SO MUCH I’d like to do or change with our culture and our tech stack. Where can I even start??”
+Yeah, it can be pretty overwhelming. And there are no universal answers… as you know perfectly well, the answer is always “it depends.” ☺️ But in most cases you can reduce the solution space substantially to one of the two following starting points.
+1. Can you understand what’s going on in your systems? If not, start with observability.
+It doesn’t have to be elegant or beautiful; grepping through shitty text logs is fine, if it does the trick. But do any of the following make you shudder in recognition?:
+
+If I get paged, I might lose the rest of the afternoon trying to figure out what happened
+Our biggest problem is performance and we don’t know where the time is going
+We have a lot of flaky, flappy alerts, and unexplained outages that simply resolve themselves without our ever truly understanding what happened.
+
+If you can’t understand what’s going on in your system, you have to start with instrumentation and observability. It’s just too deadly, and too risky, not to. You’re going to waste a ton of time stabbing around in the dark trying to do anything else without visibility. Put your glasses on before you start driving down the freeway, please.
+2. Can you build, test and deploy software in under an hour? If not, start with your deploy pipeline.
+Specifically, the interval of time between when the code is written and when it’s being used in production. Make it shorter, less flaky, more reliable, more automated. This is the feedback loop at the heart of software engineering, which means that it’s upstream from a whole pile of pathologies and bullshit that creep in as a consequence of long, painful, batched-up deploys.
+Here’s a talk I’ve given a few times on why this matters so much:
+
+You pretty much can’t fail with one of those two; your lives will materially improve as you make progress. And the iterative process of doing them will uncover a great deal of shit you should probably know about.
+Cheers! 🥂
+charity.
+
+* My apologies if I remembered anyone’s question inaccurately!
+
+
+Questionable Advice: “How can I drive change and influence teams…without power?” 
+
+
+
+Choose Boring Technology Culture
+
+May 1, 2023July 14, 2023 mipsytipsybusiness, culture, startupsLeave a comment 
+
+
+Honeycomb recently announced our $50M Series D funding round. We aren’t the type to hype this a lot; Emily summed it up crisply as, “Living another day on someone else’s money isn’t business success, even though it is a lovely vote of confidence.”
+Agreed. The vote of confidence does mean more than usual, given the dire state of VC funding these days, but…raising money is not success. Building a viable, sustainable company is success.
+Whenever we are talking to investors, something that inevitably comes up is what a bomb ass team 🌈 we have. They have always been impressed by our ability to recruit and retain marquee names, people we “shouldn’t have been able to get” at our stage; honestly it’s even better than they realize, because we have heavy hitters all up and down the company, most of whom simply aren’t as well known. 😉 (Fame, and this may shock you, is not a function of talent.)
+People join Honeycomb for many reasons, but “culture” is one of the most commonly cited. We have never been shy about talking about the ways we think tech culture sucks, or the experiments we are running. But this has given rise to the occasional impression that we are primarily cultural innovators who occasionally write software. We really aren’t.
+In fact, I’d say the opposite is true. We try to choose boring culture.
+What The Fuck Does “Culture” Even Mean?
+Ok, so this is where the problem starts. This is why it grates on my nerves any time someone starts making pronouncements about how “your culture is bad”, “culture is the problem”, “fix your broken culture”… AUUGGGHHH. Those sentences are MEANINGLESS.
+What does “culture” even mean?? Let’s consult the interwebs:
+
+Culture: “An umbrella term which encompasses the social behavior, institutions and norms for a group; knowledge, beliefs, arts, laws, customs, capabilities, and habits of those individuals”
+Culture: “The shared values, goals, attitudes and practices that characterize an organization; working environment, company policies and employee behavior”
+Culture: “Maintain tissue cells, bacteria, etc in conditions suitable for growth”
+
+Well, at least that last one makes sense. 😛 But if culture means everything, then culture means nothing. That’s just not helpful!
+Instead, let’s disambiguate company culture into two categories. There is the formal culture of the organization (meetings, mission/vision, management, job ladders, hiring practices, strategy, organizational structure, team dynamics, and so on), and there is the informal culture of the people, the ways that humor, playfulness, and practices manifest in groups and individuals.
+Organizational culture is professional, formal, structural, institutional. Managerial responsibilities, promotions, compensation plans, and fiduciary duties are just a few of the .many aspects of organizational culture.
+Informal culture is chaotic, joyful, free-spirited, and fun, individualized, inherently anarchic and bottoms-up. It’s things like writing release notes in limerick form, bringing banana bread to work after an outage, long pun threads, slack channels dedicated to pets, competing on the number of employees named “Jess”* vs “Chris”*.
+Organizational culture is the cake; informal culture is the frosting. Organizational culture is what leaders are hired to build, informal culture is what bubbles up irrepressibly in the gaps. (I wish I had better names for these!) And when it comes to formal, organizational culture, you don’t want to be in the business of innovating.
+Culture Serves The Business
+As a leader, you should absolutely care about your culture, but your primary responsibility is the health of the business. The purpose of your culture is to make your business succeed. It does not serve you, and it does not serve the people you care about, to be unclear on this front.
+I don’t mean to make it sound like this is simple or easy. It is not. You are dealing with people’s lives and livelihoods, and it is all about tradeoffs. What might be best for an individual in the long run (for example, leaving your company to pursue another opportunity) might harm your business in the near term. Yet you might decide to celebrate them in leaving and not pressure them to stay, because you believe that what’s best for your business in the longer term is for employees to be able to trust their managers when they say, “I believe that working here is the best thing you can do for your career right now.”
+The transactional nature of work relationships is how they differ from e.g. family relationships. You can form intense bonds and deep friendships with the people you work with — you may even form bonds that transcend your work relationship — but your relationship at work comes with terms and conditions.
+Your company culture can’t be everything to everyone. Nor should you try.
+You HAVE to care more about the health of the business than about culture for culture’s own sake. Even if — especially if — you have lots of strong opinions about culture, and there are lots of ways you want to deviate from common wisdom. Doing well at business is what earns you more innovation tokens to invest.
+“Choose Boring Technology Culture”
+Dan McKinley coined the phrase “choose boring technology” and the concept of innovation tokens nearly a decade ago.
+“Boring” should not be conflated with “bad.” There is technology out there that is both boring and bad [2]. You should not use any of that. But there are many choices of technology that are boring and good, or at least good enough….The nice thing about boringness (so constrained) is that the capabilities of these things are well understood. But more importantly, their failure modes are well understood. — @mcfunley
+The moral of the story is that innovation is costly, so you should choose standard, well-understood, rock-solid technologies insofar as you possibly can. You only get a few innovation tokens to spend, so you should spend them on technologies that can give you a true competitive advantage — not on, like, reinventing memcache for the hell of it.
+The same goes for running a business, and the same goes for organizational culture. We have collectively inherited a set of default practices that work pretty well, like the 40 hour work week and having 1x1s with your manager. You CAN choose to do something different, but you should probably have a good reason. To the extent that you can learn from other people’s experience, you probably should, whether in business or in tech; innovation is expensive, and you only get so many tokens. Do you really want to spend one on a radical reinvention of your PTO policy? How does that serve you?
+Innovation gets all the headlines, but I would posit that what most companies need is actually much simpler: organizational health.
+Great Culture begins with Organizational Health
+There’s this book by Patrick Lencione called “The Advantage: How Organizational Health Trumps Everything Else in Business.” (He is best known for writing “Five Dysfunctions of a Team“.) This guy is to organizational health what James Madison was to constitutional government: a very specific kind of genius.
+I picked up “The Advantage” in 2020, around the time Honeycomb stopped teetering on the brink of failure, once it became clear we were likely to be around for a while. It made a huge impression on me. He makes the case that most businesses spend a ton of energy on trying to be “smart”, and relatively little on being “healthy”.
+Healthy orgs are characterized by minimal politics, minimal confusion, high morale, high productivity, and low turnover. Health begets — and trumps — intelligence.
+As Lencione says, an organization that is healthy will inevitably get smarter over time. People in a healthy organization will learn from each other, identify problems, and recover quickly from mistakes. Without politics and confusion, they will cycle through problems and rally much faster than dysfunctional rivals will. And they create an environment in which everyone else can do the same, which creates a multiplier effect.
+The healthier an org is, the more of its collective intelligence it is able to tap into and use. Most orgs exploit only a fraction of the knowledge, experience, and intellectual capital available to them, but the healthy ones can tap into almost all of it.
+Organizational Health Is Too Boring
+No one would disagree with any of this, in principle. ☺️ EVERYBODY wants to work at a place where the mission, vision, and values are clear, meaningful and inspiring; where everyone is rallied around the same winning strategy; and where it’s crystal clear how your role specifically will contribute to that success. Everybody agrees that a healthy organizational culture leads to better outcomes.
+So why isn’t every company like that?
+Well, it is much easier said than done. ¯\_(ツ)_/¯ It is unglamorous work, difficult to measure, and at the end of the day we are always making risky decisions between conflicting tradeoffs based on partial information. We are imperfect meat sacks who lack self awareness, struggle to understand each other, and get hangry and snap. And the job is never done. You never “get there”, any more than you are ever perfectly healthy with perfect relationships.
+But that doesn’t mean we shouldn’t try. We don’t have to be perfect to be a meaningfully better presence in people’s lives. We just have to be healthy enough to achieve our goals.
+Nobody Wants An “Exciting” Company Culture
+When you tell your partner you had an exciting day at work, do they respond with “uh oh 😬🔥🧯”?
+All too often, excitement at work comes from strategic swerves, projects getting canceled, lack of focus, missteps or conflicts, anxiety and passive aggression, outages or downtime, outrageous demands coming from out of left field, or getting information at the last minute that you should have had ages ago. Living on the edge of your seat can be very stimulating! Firefighting is a huge rush, and if you’re part of the essential glue holding this creaky vessel together, you can get hooked on feeling desperately needed.
+But this isn’t good for your cortisol levels, and it doesn’t move the company forward. When so much of your energy goes to bailing water and staying afloat, you don’t have much left over for rowing the oars. You want energy going to the oars.
+Should work be exciting? ¯\_(ツ)_/¯ It’s not the adjective I would reach for. Emotional rollercoaster rides don’t provide the kind of circumstances that tend to unlock great design or engineering, or collaboration or focus. I would rather reach for words like achievement, fulfillment, pride, comradeship, or the joy of being part of something greater than yourself, not “exciting” or “fun”.
+Leaders Worry Too Much About Making Work Fun
+As a leader, your job is not to “make work fun”. You are not here to entertain your employees. Your responsibility is to build a formal culture that works, that supports the success of the business.
+So what, am I dooming you to a life of bureaucratic beige and meetings without puns? Fuck no.
+If formal organizational culture is like the architecture, then informal culture is furnishings, light displays, murals and banners — whatever you do on the inside. You don’t want someone getting overly creative with the load-bearing beams. Save that for when it’s time to paint “Frozen” murals on the walls and hang the matching icicle curtains.
+You want formal culture to be boring, stable, reliable, load-bearing…because this creates a safe structure for people to bring the humor, the fun, the joy, the delight, without any fear of building collapse. The company doesn’t have to bring the fun; people bring the fun. Have you met people? People are fucking weirdos. 🥰 If you create an emotionally safe zone and the conditions for success, informal culture will thrive. 🪅People bring the fun🪅 — they always do.
+The best informal culture is almost always bottoms up. But managers, execs, HR/People teams, etc can encourage informal culture. One of the most powerful things you can do is just participate. Show up for drinks, play the board games, keep the puns rolling, get silly with your team! Your participation gives people permission and shows that you value their creative cultural labor at work.
+Of course there are no bright lines — companies can throw great parties! — but that’s not the job; building a healthy org is the job. Doing that right frees people up to have joy at work. It makes the celebrations that much bigger, the fun that much funnier.
+Success Is Rocket Fuel For Fun
+Think back to the most corporate fun you’ve ever had at work — the biggest parties, celebrations, blowouts, etc. Were they holiday parties and random occasions, or were they actually linked to great achievements? I bet they were the latter.
+You don’t gather at work for the fun of it, you come together to do great things. It stands to reason the peak moments of joy and bonding are fueled by a sense of accomplishment.
+Even on a smaller scale, levity and joy are inextricably linked to doing great work and making customers happy. For example, ops/SRE teams are notorious for their gallows humor around outages (ops is ALWAYS the funniest engineering team, in my experience ☺️). But dark humor is only funny when you are also taking your work seriously. Joking about the inevitability of data loss stops being funny real fast if you are actually playing fast and loose with customer backups.
+In the absence of success, progress, and high performance, the kind of “frosting” behaviors that bring so much hilarity to work — joking and teasing, puns and stories — actually stop being fun and start making people feel distracted, irritated and on edge. You don’t want to hear a steady stream of jokes from somebody who keeps letting you down.
+Side note: unhealthy orgs may have pockets of humor, but it often comes at the expense of other, less prestigious teams. Lots of people may feel too anxious, powerless or threatened to participate. Your experience of whether those companies are “fun” or not is likely to depend heavily on where you sit in the hierarchy. But a healthy org creates the level conditions for humor, playfulness and creativity throughout the org.
+Investing Your Innovation Tokens
+So yeah. Despite our reputation for cultural innovation, I’d say we’re actually pretty conservative when it comes to operating a company.
+Not only are we not revolutionaries, we are actually trying to do as little differently as possible, because innovation is costly!! Instead, we (as a leadership team) are more focused on trying to execute well and improve upon our organizational health. For the past year, we have been laboring especially hard over strategy — the diagnosis, guiding policy, and set of coherent actions we need to win. Our first responsibility is to make the business succeed, after all.
+Which brings us back to the topic of innovation tokens.
+I started writing down some of the innovation tokens I feel like we’ve spent. But it dawned on me that when I look at most of the cultural experiments we run, and the things we talk about and write about publicly — stuff like the dangers of hierarchy, hiring, interviewing, high-leverage teams, engineering levels, rituals for engineering teams, etc — it doesn’t feel like innovation at all. It’s all just about trying to have a healthier organization. Hierarchy sucks because visible hierarchy has been shown to dampen people’s creativity, motivation and problem-solving skills. Engineering levels are important because they bring clarity. And so on.
+What makes something rise to the level of an innovation token is the amount of time we end up asking other people to invest lots of their time into.
+
+Like, we are 1.5 years into a 4 year experiment having an employee on our board of directors. We are about to spin up an internal Advisory Panel to more broadly distribute the impact of our employee board member around the company.
+In the past, we have experimented with regular ethics discussion groups.
+Last year we did a deep dive into company values with small breakout groups.
+Some internal decisions around things like values are handled, not by estaff, but by a group of six people; one employee representative of each org, nominated by their VP; who do a deep dive into the material together and come back with a decision or recommendation.
+We are about to start the process of developing our own leadership curriculum. We know that we need to equip our managers with better tools, and culturally indoctrinate new employees, so I am excited to build something with our cultural fingerprints all over it.
+
+We run a lot of experiments around transparency, like, the agenda for exec staff meetings can be viewed by the whole company. After every board meeting, we present the same thing we showed to the board to the whole company during all-hands. We are transparent on salary bands. Stuff like that.
+We are far from perfect; we have a long ways to go, and when I look around the org it’s hard not to only see all the work left to be done. But we are a lot healthier and better off than we were a year ago, which was better off than we were two years ago, let alone three.
+The Experience Of Making This Will Be With Us Forever
+A few months ago I was reading this lengthy profile of Sarah Polley in the New Yorker, as she was doing a bunch of press for her new movie, “Women Talking”. (The movie itself sounds incredibly intense; I am still trying to find time and emotional energy to watch it. Someday!)
+One thing she said got lodged in my brain, and I’ve been unable to forget it ever since. She’s talking about the experience of having been a child actor, and how intensely it informs the experience she strives to create for everybody working on the set of one of her movies; where parents get to go home and have dinner with their kids, etc.
+[He] told her, “If this film is everything we want it to be, maybe, if we are very lucky, it will affect a few people for a little while, in a way that is out of our control. The only thing that’s certain is that the experience of making it will be with all of us—it will become part of us—forever. So we must try our best to make it a good experience.”
+Making a movie that lots of people want to see, one that was a good financial return on investment, buys you the ability to make even more movies, employ more people, take even bigger creative risks. If all you want to do is be a niche indie player, working on a shoestring budget, more power to you. But if you really believe in your ideas, and you want to see them go mainstream … you need mainstream success.
+Sarah Polley makes movies. We make developer tools. ☺️ But the same thing is true of working at Honeycomb.
+If we are very lucky, and work very hard, our work may help teams build better software and spend fewer, more meaningful hours at work, for a long time to come. I love our mission. But the only certain thing is that the experience of making it will be with all of us, become part of us, forever.
+So we should try our best to make it a good experience. ☺️
+charity.
+
+Footnotes
+(1) Inherited Defaults
+How to access these inherited defaults can be a bit more complicated than I make it sound. Working as a manager at Facebook for two years taught me more about these defaults than anything else I’ve ever done in my career. Big companies have had to figure a lot of shit out in order to function at scale, which is why I often advise anyone who plans on starting a company or being a director/VP to do a stint at one. Will Larson’s book “An Elegant Puzzle” does a great job of laying out defaults and best practices for engineering orgs, and his blog has even more useful bits.. Otherwise, you might wanna get yourself an advisor or two with a lot of operator experience, and get used to asking questions like “how does this normally get done?”
+(2) Corporate Fun
+There’s plenty of stuff in the grey area between formal, organizational culture and informal, individual culture. Companies often stray into fun-like adjacencies like holiday parties, offsites, etc. Fostering a sense of “play” and informality is actually really important for making teams click with each other, and obviously the company should foot the bill if it’s a work function. Just be mindful of what you’re doing and what your goals are when you veer into the rocky shoals of Forced Corporate Fun. 😆
+
+
+Choose Boring Technology Culture 
+
+
+
+Questionable Advice: “People Used To Take Me Seriously. Then I Became A Software Vendor”
+
+March 29, 2023July 14, 2023 mipsytipsyadvice, culture, startups, vendorsLeave a comment 
+
+
+I recently got a plaintive text message from my magnificent friend Abby Bangser, asking about a conversation we had several years ago:
+“Hey, I’ve got a question for you. A long time ago I remember you talking about what an adjustment it was becoming a vendor, how all of a sudden people would just discard your opinion and your expertise without even listening. And that it was SUPER ANNOYING.
+I’m now experiencing something similar. Did you ever find any good reading/listening/watching to help you adjust to being on the vendor side without being either a terrible human or constantly disregarded?”
+Oh my.. This brings back memories. ☺️🙈
+Like Abby, I’ve spent most of my career as an engineer in the trenches. I have also spent a lot of time cheerfully talking smack about software. I’ve never really had anyone question my experience[1] or my authority as an expert, hardened as I was in the flames of a thousand tire fires.
+Then I started a software company. And all of a sudden this bullshit starts popping up. Someone brushing me off because I was “selling something”, or dismissing my work like I was fatally compromised. I shrugged it off, but if I stopped to think, it really bothered me. Sometimes I felt like yelling “HEY FUCKERS, I am one of your kind! I’m trying to HELP YOU. Stop making this so hard!” 😡 (And sometimes I actually did yell, lol.)
+That’s what I remember complaining to Abby about, five or six years ago. It was all very fresh and raw at the time.
+We’ll get to that. First let’s dial the clock back a few more years, so you can fully appreciate the rich irony of my situation. (Or skip the story and jump straight to “Five easy ways to make yourself a vendor worth listening to“.)
+The first time I encountered “software for sale”
+My earliest interaction with software vendors was at Linden Lab. Like most infrastructure teams, most of the software we used was open source. But somewhere around 2009? 2010? Linden’s data engineering team began auditioning vendors like Splunk, Greenplum, Vertica[2], etc for our data warehouse solution, and I tagged along as the sysinfra/ops delegate.
+For two full days we sat around this enormous table as vendor after vendor came by to demo and plump their wares, then opened the floor for questions.
+One of the very first sales guys did something that pissed me off me. I don’t remember exactly what happened — maybe he was ignoring my questions or talking down to me. (I’m certain I didn’t come across like a seasoned engineering professional; in my mid twenties, face buried in my laptop, probably wearing pajamas and/or pigtails.) But I do remember becoming very irritated, then settling in to a stance of, shall we say, oppositional defiance.
+I peppered every sales team aggressively with questions about the operational burden of running their software, their architectural decisions, and how canned or cherry-picked their demos were. Any time they let slip a sign of weakness or betrayed uncertainty, I bore down harder and twisted the knife. I was a ✨royal asshole✨. My coworkers on the data team found this extremely entertaining, which only egged me on.
+What the fuck?? 🫢😧🫠 I’m not usually an asshole to strangers.. where did that come from?
+What open source culture taught me about sales
+I came from open source, where contempt for software vendors was apparently de rigueur. (is it still this way?? seems like it might have gotten better? 😦) It is fascinating now to look back and realize how much attitude I soaked up before coming face to face with my first software vendor. According to my worldview at the time,
+
+Vendors are liars
+They will say anything to get you to buy
+Open source software is always the safest and best code
+Software written for profit is inherently inferior, and will ultimately be replaced by the inevitable rise of better, faster, more democratic open source solutions
+Sales exists to create needs that ought never to have existed, then take you to the cleaners
+Engineers who go work for software vendors have either sold out, or they aren’t good enough to hack it writing real (consumer facing) software.
+
+I’m remembering Richard Stallman trailing around behind me, up and down the rows of vendor booths at USENIX in his St IGNUcious robes, silver disk platter halo atop his head, offering (begging?) to lay his hands on my laptop and bless it, to “free it from the demons of proprietary software.” Huh. (Remember THIS song? 🎶 😱)
+Given all that, it’s not hugely surprising that my first encounter with software vendors devolved into hostile questioning.
+(It’s fun to speculate on the origin of some of these beliefs. Like, I bet 3) and 4) came from working on databases, particularly Oracle and MySQL/Postgres. As for 5) that sounds an awful lot like the beauty industry and other products sold to women. 🤭)
+Behind every software vendor lies a recovering open source zealot(???)
+I’ve had many, many experiences since then that slowly helped me dismantle this worldview, brick by brick. Working at Facebook made me realize that open source successes like Apache, Haproxy, Nginx etc are exceptions, not the norm; that this model is only viable for certain types of general-purpose infrastructure software; that governance and roadmaps are a huge issue for open source projects too; and that if steady progress is being made, at the end of the day, somewhere somebody is probably paying those developers.
+I learned that the overwhelming majority of production-caliber code is written by somebody who was paid to write it — not by volunteers. I learned about coordination costs and overhead, how expensive it is to organize an army of volunteers, and the pains of decentralized quality control. I learned that you really really want the person who wrote the code to stick around and own it for a long time, and not just on alternate weekends when they don’t have the kids (and/or they happen to feel like it).
+I learned about game theory, and I learned that sales is about relationships. Yes, there are unscrupulous sellers out there, just like there are shady developers, but good sales people don’t want you to walk away feeling tricked or disappointed any more than you want to be tricked or disappointed. They want to exceed your expectations and deliver more value than expected, so you’ll keep coming back. In game theory terms, it’s a “repeated game”.
+I learned SO MUCH from interviewing sales candidates at Honeycomb.[3] Early on, when nobody knew who we were, I began to notice how much our sales candidates were obsessed with value. They were constantly trying to puzzle out out how much value Honeycomb actually brought to the companies we were selling to. I was not used to talking or thinking about software in terms of “value”, and initially I found this incredibly offputting (can you believe it?? 😳).
+Sell unto others as you would have them sell unto you
+Ultimately, this was the biggest (if dumbest) lesson of all: I learned that good software has tremendous value. It unlocks value and creates value, it pays enormous ongoing dividends in dollars and productivity, and the people who build it, support it, and bring it to market fully deserve to recoup a slice of the value they created for others.
+There was a time when I would have bristled indignantly and said, “we didn’t start honeycomb to make money!” I would have said that the reason we built honeycomb because we knew as engineers what a radical shift it had wrought in how we built and understood software, and we didn’t want to live without it, ever again.
+But that’s not quite true. Right from the start, Christine and I were intent on building not just great software, but a great software business. It wasn’t personal wealth we were chasing, it was independence and autonomy — the freedom to build and run a company the way we thought it should be run, building software to radically empower other engineers like ourselves.
+Guess what you have to do if you care about freedom and autonomy?
+Make money. 🙄☺️
+I also realized, belatedly, that most people who start software companies do so for the same damn reasons Christine and I did… to solve hard problems, share solutions, and help other engineers like ourselves. If all you want to do is get rich, this is actually a pretty stupid way to do that. Over 90% of startups fail, and even the so-called “success stories” aren’t as predictably lucrative as RSUs. And then there’s the wear and tear on relationships, the loss of social life, the vicissitudes of the financial system, the ever-looming spectre of failure … 👻☠️🪦 Startups are brutal, my friend.
+Karma is a bitch
+None of these are particularly novel insights, but there was a time when they were definitely news to me. ☺️ It was a pretty big shock to my system when I first became a software vendor and found myself sitting on the other side of the table, the freshly minted target of hostile questioning.
+These days I am far less likely to be cited as an objective expert than I used to be. I see people on Hacker News dismissing me with the same scornful wave of the hand as I used to dismiss other vendors. Karma’s a bitch, as they say. What goes around comes around. 🥰
+I used to get very bent out of shape by this. “You act like I only care because I’m trying to sell you something,” I would hotly protest, “but it’s exactly the opposite. I built something because I cared.” That may be true, but it doesn’t change the fact that vested interests can create blind spots, ones I might not even be aware of.
+And that’s ok! My arguments/my solutions should be sturdy enough to withstand any disclosure of personal interest. ☺️
+Some people are jerks; I can’t control that. But there are a few things I can do to acknowledge my biases up front, play fair, and just generally be the kind of vendor that I personally would be happy to work with.
+Five easy ways to make yourself a vendor worth listening to
+So I gave Abby a short list of a few things I do to try and signal that I am a trustworthy voice, a vendor worth listening to. (What do you think, did I miss anything?)
+🌸 Lead with your bias.🌸
+I always try to disclose my own vested interest up front, and sometimes I exaggerate for effect: “As a vendor, I’m contractually obligated to say this”, or “Take it for what you will, obviously I have religious convictions here”. Everyone has biases; I prefer to talk to people who are aware of theirs.
+🌸 Avoid cheap shots.🌸 
+Try to engage with the most powerful arguments for your competitors’ solutions. Don’t waste your time against straw men or slam dunks; go up against whatever ideal scenarios or “steel man” arguments they would muster in their own favor. Comparing your strengths vs  their strengths results in a way more interesting, relevant and USEFUL discussion for all involved.
+🌸 Be your own biggest critic.🌸 
+Be forthcoming about the flaws of your own solution. People love it when you are unafraid to list your own product’s shortcomings or where the competition shines, or describe the scenarios where other tools are genuinely superior or more cost-effective. It makes you look strong and confident, not weak.
+What would you say about your own product as an engineer, or a customer? Say that.
+🌸 You can still talk shit about software, just not your competitors‘ software. 🌸 
+I try not to gratuitously snipe at our competitors. It’s fine to speak at length about technical problems, differentiation and tradeoffs, and to address how specifically your product compares with theirs. But confine your shit talking to categories of software where you don’t have a personal conflict of interest.
+Like, I’m not going to get on twitter and take a swipe at a monitoring vendor (anymore 😇), but I might say rude things about a language, a framework, or a database I have no stake in, if I’m feeling punchy. ☺️ (This particular gem of advice comes by way of Adam Jacob.)
+🌸 Be generous with your expertise.🌸
+If you have spent years going deep on one gnarly problem, you might very well know that problem and its solution space more thoroughly than almost anyone else in the world. Do you know how many people you can help with that kind of mastery?! A few minutes from you could potentially spare someone days or weeks of floundering. This is a gift few can give.
+It feels good, and it’s a nice break from battering your head against unsolvable problems. Don’t restrict your help to paying customers, and, obviously, don’t give self-serving advice. Maybe they can’t buy/don’t need your solution today, but maybe someday they will.
+In conclusion
+There’s a time and place for being oppositional. Sometimes a vendor gets all high on their own supply, or starts making claims that aren’t just an “optimistic” spin on the facts but are provably untrue. If any vendor is operating in poor faith they deserve to to be corrected.
+But it’s a shitty, self-limiting stance to take as a default. We are all here to build things, not tear things down. No one builds software alone. The code you write that defines your business is just the wee tippy top of a colossal iceberg of code written by other people — device drivers, libraries, databases, graphics cards, routers, emacs. All of this value was created by other people, yet we collectively benefit.
+Think of how many gazillion lines of code are required for you to run just one AWS Lambda function! Think of how much cooperation and trust that represents. And think of all the deals that brokered that trust and established that value, compensating the makers and allowing them to keep building and improving the software we all rely on.
+We build software together. Vendors exist to help you. We do what we do best, so you can spend your engineering cycles doing what you do best, working on your core product. Good sales deals don’t leave anyone feeling robbed or cheated, they leave both sides feeling happy and excited to collaborate.[4]
+🐝💜Charity.
+
+[1] Yes, I know this experience is far from universal; LOTS of people in tech have not felt like their voices are heard or their expertise acknowledged. This happens disproportionately to women and other under-represented groups, but it also happens to plenty of members of the dominant groups. It’s just a really common thing! However that has not really been my experience — or if it has, I haven’t noticed — nor Abby’s, as far as I’m aware.
+[2] My first brush with columnar storage systems! Which is what makes Honeycomb possible today.
+[3] I have learned SO MUCH from watching the world class sales professionals we have at Honeycomb. Sales is a tough gig, and doing it well involves many disciplines — empathy, creativity, business acumen, technical expertise, and so much more. Selling to software engineers in particular means you are often dealing with cocky little shits who think they could do your job with a few lines of code. On behalf of my fellow little shits engineers, I am sorry. 🙈
+[4] Like our sales team says: “Never do a deal unless you’d do both sides of the deal.” I fucking love that.
+
+
+Questionable Advice: “People Used To Take Me Seriously. Then I Became A Software Vendor” 
+
+
+
+Architects, Anti-Patterns, and Organizational Fuckery
+
+March 9, 2023July 14, 2023 mipsytipsyarchitects, architecture, careers, engineering, management6 Comments 
+
+
+I recently wrote a twitter thread on the proper role of architects, or as I put it, tongue-in-cheek-ily, whether or not architect is a “bullshit role”.
+I don't know if this is a troll or not, but with all apologies to my many wonderful, highly skilled "Architect" friends, I tend to think it's a bullshit role. 🙃I believe that only the people building software systems get to have opinions on how those systems get built. https://t.co/aUShYfyIKY— Charity Majors (@mipsytipsy) February 22, 2023
+It got a LOT of reactions (2.5 weeks later, the thread is still going!!), which I would sort into roughly three camps:
+
+“OMG this resonates; this matches my experiences working with architects SO MUCH”,
+“I’m an architect, and you’re not wrong”, and
+“I’m an architect and I hate you.”
+
+Some of your responses (in all three categories!) were truly excellent and thought-provoking. THANK YOU — I learned a ton. I figured I should write up a longer, more readable, somewhat less bombastic version of my original thread, featuring some of my favorite responses.
+Where I’m Coming From
+Just to be clear, I don’t hate architects! Many of the most brilliant engineers I have ever met are architects.
+Nor do I categorically believe that architects should not exist, especially after reading all of your replies. I received some interesting and compelling arguments for the architect role at larger enterprises, and I have no reason to believe they are not true.
+Also, please note that I personally have never worked at a company with “architect” as a role. I have also never worked anywhere but Silicon Valley, or at any company larger than Facebook. My experiences are far from universal. I know this.
+Feel like architecture is a leaky abstraction for organizational disfunction.— rocpatel (@rocpatel) February 22, 2023
+Let me get suuuuuper specific here about what I’m reacting to:
+
+When I meet a new “architect”, they tend toward the extremes: either world class and amazing or useless and out of touch, with precious little middle ground.
+When I am interviewing someone whose last job title was “architect”, they often come from long tenured positions, and their engineering skills are usually very, very rusty. They often have a lot of detailed expertise about how their last company worked, but not a lot of relevant, up-to-date experience.
+Because of 👆, when I see “architect” on a job ladder, I tend to feel dubious about that org in a way I do not when I see “staff engineer” or “principal engineer” on the ladder.
+
+What I have observed is that the architect role tends to be the locus of a whole mess of antipatterns and organizational fuckery. The role itself can also be one that does not set up the people who hold it for a successful career in the long run, if they are not careful. It can be a one-way street to being obsolete.
+I think that a lot of companies are using some of their best, most brilliant senior engineers as glorified project manager/politicians to paper over a huge amount of organizational dysfunction, while bribing them with money and prestige, and that honestly makes me pretty angry. 😡
+But title is not destiny. And if you are feeling mad because none of what I’ve written applies to you, then I’m not writing about you! Live long and prosper. 🖖
+Architect Anti-patterns and fuckery
+people sometimes talk about "flattening" an org structure, but they may really just lack efficient/durable cross-tree links (which doesn't require a reorg)! easier said than done of course— danny "disco" mcClanahan (@hipsterelectron) March 7, 2023
+There is no one right way to structure your org and configure your titles, any more than there is any one right way to architect your systems and deploy your services. And there is an eternal tension between centralization and specialization, in roles as well as in systems.
+Most of the pathologies associated with architects seem to flow from one of two originating causes:
+
+unbundling decision-making authority from responsibility for results, and
+design becoming too untethered from execution (the “Frank Gehry” syndrome)
+
+But it’s only when being an architect brings more money and prestige than engineering that these problems really tend to solidify and become entrenched.
+Skin In The Game
+I do agree alot here. You should never stop coding, never stop reviewing, never stop implementing what you design, do not fall in the trap of "just thinking alot", you have to do alot, be there, solve the messy problems, dont expect others will do it, pair with them. https://t.co/frpn0gMCsX— Lucas Coppio (@lscoppio) February 23, 2023
+When that happens, you often run into the same fucking problem with architects and devs as we have traditionally seen with devs and ops. Only instead of “No, I can’t be on call or get woken up, my time is far too valuable, too busy writing important software”, the refrain is, “No, I can’t write software or review code, my time is far too valuable, I’m much too busy telling other people how to do their jobs.”
+This is also why I think calling the role “architect” instead of “staff engineer” or “principal engineer” may itself be kind of an anti-pattern. A completely different title implies that it’s a completely different job, when what you really want, at least most of the time, is an engineer performing a slightly different (but substantially overlapping) set of functions as a senior engineer.
+Taleb agreeshttps://t.co/oUoeGL9ytO— Mathias Lafeldt (@mlafeldt) March 6, 2023
+My core principle here is simple: only the people responsible for building software systems get to make decisions about how those systems get built. I can opine all I want on your architecture or ours, but if I’m not carrying a pager for you, you should probably just smile politely and move along.
+Technical decisions should be ultimately be made by the people who have to live with the consequences. But good architects will listen to those people, and help co-create architectural decisions that take into account local, domain, and enterprise perspectives (a Katy Allred quote).
+Architecture is a core engineering skill
+When you make architecture “someone else’s problem” and scrap the expectation that it is a core skill, you get weaker engineers and worse systems.
+Learning to see the forest as well as the trees, and factor in security, maintainability, data integrity and scale, performance, etc is a *critical* part of growing up as an engineer into senior roles.
+"When you make architecture someone else's job and scrap the expectation that it's a core skill, you get weaker engineers & worse systems." - this part resonated with me very much.You can also replace "architecture" with "security", "testing" or various others.— C (@_cd83) March 6, 2023
+The story of QA is relevant here. Once upon a time, every technical company had a QA department to test their code and ensure quality. Software engineers weren’t expected to write tests for their code — that was QA’s job. Eventually we realized that we wrote better software when engineers were held responsible for writing their own tests and testing their own code.
+Developers howled and complained: they didn’t have time! they would never get anything built! But it gradually became clear that while it may take more time up front to write and test code, it saved immensely more time and pain in the longer run because the code got so much better and problems got found so much earlier.
+It’s not like we got rid of QA  — QA departments still exist, especially in some industries, but they are more like consulting experts. They write test suites and test software, but more importantly they are a resource to make sure that everybody is writing good tests and shipping quality software.
+I think the root problem is too many devs don't THINK in terms of systems architecture.  So many orgs try to "centralize" that function vs. fix the problem of helping devs to think differently & how they integrate.— Jason McIntosh (@mc717990) February 22, 2023
+This was long enough ago that most people writing code today probably don’t remember this. (It was mostly before my own time as well.) But you hear echoes of the same arguments today when engineers are complaining about having to be on call for their code, or write instrumentation and operate their code in production.
+The point is not that every engineer has to do everything. It’s that there are elements of testing, operations, and architecture that every software engineer needs to know in order to write quality code — in order to not make mistakes that will cost you dearly down the line.
+Specialists are not here to do the job for you, they’re to help you do the job better.
+When embedded in a team, the architects would write an awful lot of code. But when on the arch team, the role was more about talking to other engineers, reading a lot of code, and generating a lot of diagrams and documentation about the current/future systems as your output.— Peasant-Elect, Pay Tree Arch (@paytreearch) March 5, 2023
+“Architect” Done Right
+I’ve had various Enterprise Architect roles over the past 15 years. It’s a common role to dunk on, because we’ve historically done a terrible job with enablement. When done well, the role requires constant movement to stay relevant with teams. You can’t only be high level. https://t.co/LxPTJAU3l5— Kevin Swiber (@kevinswiber) March 5, 2023
+If you must have architects at all, I suggest:
+
+Grow your architects from within. The best high-level thinkers are the ones with a thorough grounding in the context and the particulars.
+Be clear about who gets to have opinions vs who gets to make decisions. Having architects who consult, educate, and support is terrific. Having “pigeon architects” who “swoop and poop” — er, make technical decisions for engineers to implement — is a recipe for resentment and weak architectures.
+Pay them the same as your staff or principal engineers, not dramatically more. Create an org structure that encourages pendulum swings between (eng, mgr, arch) roles, not one with major barriers in form of pay or level disparities.
+Consider adopting one of the following patterns, which do a decent job of evading the two main traps we described above.
+
+If your architects don’t have the technical skills, street cred, or time to spend growing baby engineers into great engineers, or mentoring senior engineers in architecture, they are probably also crappy architects. (another Katy Allred quote)
+The “Embedded Architect” (aka Staff+ Engineer)
+"Architecture Astronaut" -- n. Someone with 'architect' in their job title, but who doesn't code.— ./adhddd  # 🍁 (@douglasdd) February 22, 2023
+The most reliable way I know to align architecture and engineering goals is for them to be done by the same team. When one team is responsible for designing, developing, maintaining, and operating a service, you tend to have short, tight, feedback loops that let you ship products and iterate swiftly.
+Here is one useful measure of your system’s complexity and the overhead involved in making changes:
+“How long does it take you to ship a one-character fix?”
+There are many other measures, of course, but this is one of the most important. It gets to the heart of why so many engineers get fed up with working at big companies, where the overhead for change is SO high, and the threshold for having an impact is SO long and laborious.
+Yes!  Architecture is a job to be done, not a permanent role.  I’ve set it up this way multiple times with good outcomes.— Matt Clark (@mattclarkdotnet) March 7, 2023
+The more teams have to be involved in designing, reviewing, and making changes, the slower you will grind. People seem to accept this as an inevitability of working in large and complex systems far more than I think they should.
+Embedding architecture and operations expertise in every engineering team is a good way to show that these are skills and responsibilities we expect every engineer to develop.
+This is the model that Facebook had. It is often paired with,
+The “Architecture Group” of Practicing Engineers
+twitter had a Twitter Architecture Group (TAG) composed of practicing engineers across the co (two of them were on my team). they met once or twice a month and collabed on docs and i thought it was a great way to ensure that people doing the work are the ones making decisions— danny "disco" mcClanahan (@hipsterelectron) March 5, 2023
+Every company eventually needs a certain amount of standardization and coordination work. Sometimes this means building out a “Golden Path” of supported software for the organization. Sometimes this looks like a platform engineering team. Sometimes it looks like capacity planning years worth of hardware requirements across hundreds of teams.
+I’ve seen this function fulfilled by super-senior engineers who come together informally to discuss upcoming projects at a very high level. I’ve seen it fulfilled by teams that are spun up by leadership to address a specific problem, then spun down again. I’ve seen it fulfilled by guilds and other formal meetings.
+Although systems design (and thus architecture) are real, I tend to agree with Charity that you shouldn’t be doing it unless you’re also very close to the implementation details. It’s way too easy to miss a critical detail that derails your entire plan otherwise. And not notice.— apenwarr (@apenwarr) March 5, 2023
+These conversations need to happen, absolutely no question about it. The question is whether it’s some people’s full time job, or one of many part-time roles played by your most senior engineers.
+I’m more accustomed to the latter. Pro: it keeps the conversations grounded in reality. Con: engineers don’t have a lot of time to spend interfacing with other groups and doing “project management” or “stakeholder management”, which may be a sizable amount of work at some companies.
+The “architect-engineer” pendulum
+Great topic. Yes and no for me. I definitely grew from within… but I feel like “waves” are needed… You come from deep in the systems/code. You surface use exp to influence and set direction. Then at some point you have to dive deep again.. repeat repeat.— Brian Chambers (@BriChamb) March 5, 2023
+The architect-to-engineer pendulum seems like the only strategy short of embedded architects / shared ownership that seems likely to yield consistently good results, in my opinion.
+The reasoning behind this is similar to the reasons for saying that engineering managers should probably spend some time doing hands-on work every few years. You need to be a pretty good engineer before you can be a good engineering manager or a good architect, and 5+ years after doing any hands-on work, you probably aren’t one anymore.
+I’ve done the architect to engineer pendulum as many times as the IC to manager pendulum. There are contexts in which architects are useful (eg integrating 3rd party systems like platforms) - requiring them to code (Musk-style) doesn’t mean they take better design decisions.— Jan Peuker (@janpeuker) March 5, 2023
+If you’re the type of architect that is part of an engineering team, partly responsible for a product, shipping code for that product, or on call for that product, this may not apply to you. But if you’re the type of architect that spends little if any time debugging/understanding or building the systems you architect, you should probably make a point of swinging back and forth every few years.
+The “Time-Share Architect”
+Is there precedent in large organizations for Architects with a capital "A" being more of a "Tour of Duty" type role for senior-most engineers, something akin to a really extended "pager rotation"?It seems better suited for that vs. a permanent role.— Eric Nograles (@grales) March 1, 2023
+This one has aspects of both the “Architecture Working Group” and the “Architect-Engineer Pendulum”. It treats architecture is a job to be done, not a role to be occupied. Thinking of it like a “really extended pager rotation” is an interesting idea.
+Somewhat relatedly — at Honeycomb, “lead engineer” is a title attached to a particular project, and refers to a set of actions and responsibilities for that project. It isn’t a title that’s attached to a particular person. Every engineer gets the opportunity to lead projects (if they want to), and everybody gets a break from doing the project management stuff from time to time. The beautiful thing about this is that everybody develops key leadership skills, instead of embodying them in a single person.
+The important thing is that someone is performing the coordination activities, but the people building the system have final say on architecture decisions.
+The “Advisor Architect”
+I agree with this! I do _some_ coding but mostly I'm product, so I may have suggestions or ask questions about broad architecture/eng choices, but every one comes with a reminder that they can disregard my suggestions entirely. They don't even have to say why.— msnook@hachyderm.io (@michaelsnook) March 5, 2023
+I honestly have no problem with architects who are not seen as senior to, and do not have opinions overriding those of, the senior engineers who are building and maintaining the system.
+Engineers who are making architectural decisions should consult lots of sources and get lots of opinions. If architects provide educated opinions and a high level view of the systems, and the engineers make use of their expertise, well  that’s fan fucking tastic.
+If architects are handing them assignments, or overriding their technical decisions and walking off, leaving a mess behind … fuck that shit. That’s the opposite of empowerment and ownership.
+The most effective architecture organization I've ever seen effectively operated as an internal analyst organization.  Think captive Gartner (or Redmonk, ideally), working with senior engineering resources to identify and document internally.— Jonathan Altman (@async_io) February 22, 2023
+The “skin in the game” rule of thumb still holds, though. The less an architect is exposed to the maintenance and operational consequences of decisions, the less sway their opinion should hold with the group. It doesn’t mean it doesn’t bring value. But the limitations of opinions at a distance should be made clear.
+The Threat to Architects’ Careers
+It’s super flattering to be told you are just too important, your time is too valuable for you to fritter it away on the mundane acts of debugging and reviewing PRs. (I know! It feels great!!!) But I don’t think it serves you well. Not you, or your team, your company, customers, or the tech itself.
+And not *every* architect role falls into this trap. But there’s a definite correlation between orgs that stop calling you “engineers” and orgs that encourage (or outright expect) you to stop engineering at that level. In my experience.
+Am an architect. 100% agree. Your engineering skills begin to degrade and your project management skills grow slowly but weakly.— crozierm (@crozierm) February 22, 2023
+But your credibility, your expertise, your moral authority to impose costs on the team are all grounded in your fluency and expertise with this codebase and this production system — and your willingness to shoulder those costs alongside them. (All the baby engineers want to grow up to be a principal engineer like this.)
+But if you aren’t grounded in the tech, if you don’t share the burden, your direction is going to be received with some (or a LOT of) cynicism and resentment. Your technical work will also be lower quality.
+Furthermore, you’re only hurting yourself in the long run. Some of the most useless people I’ve ever met were engineers who were “promoted” to architect many, many years ago, and have barely touched an editor or production shell since. They can’t get a job anywhere else, certainly not with comparable status or pay, and they know it. 🤒
+I get paid to be an architect, and at least half of the architects I work with live in fear that someone will discover they've forgotten how to code, the rest of us are devs that get paid a bit more to sometimes draw a picture.— canihavebiscuit (@canihavebiscuit) February 23, 2023
+They may know EVERYTHING about the company where they work, but those aren’t transferable skills. They have become a super highly paid project manager.
+And as a result … they often become the single biggest obstacle to progress. They are just plain terrified of being automated out of a job. It is frustrating to work with, and heartbreaking to watch. 💔
+Don’t become that sad architect. Be an engineer. Own your own code in production. This is the way.
+Coda: On “Solutions Architects”
+You might note that I didn’t include solutions architects in this thread. There is absolutely a real and vibrant use for architects who advise. The distinction in my mind is: who has the last word, the engineers or the architect? Good engineering teams will seek advice from all kinds of expert sources, be they managers or architects or vendors.
+My complaint is only with “architects” who are perceived to be superior to, and are capable of overruling the judgments of, the engineering team.
+Exceptions abound; the title is not the person. My observations do not obviate your existence as a skilled technologist.  You obviously know your own role better than I do. 🙃
+charity
+
+
+
+Architects, Anti-Patterns, and Organizational Fuckery 
+
+
+
+Deploys Are The ✨WRONG✨ Way To Change User Experience
+
+March 8, 2023July 14, 2023 mipsytipsycontinuous deployment, crossposted, deploys, engineering, feature flags, friday deploysLeave a comment 
+
+
+This piece was first published on the honeycomb.io blog on 2023-03-08.
+….
+I’m no stranger to ranting about deploys. But there’s one thing I haven’t sufficiently ranted about yet, which is this: Deploying software is a terrible, horrible, no good, very bad way to go about the process of changing user-facing code.
+It sucks even if you have excellent, fast, fully automated deploys (which most of you do not). Relying on deploys to change user experience is a problem because it fundamentally confuses and scrambles up two very different actions: Deploys and releases.
+Deploy
+“Deploying” refers to the process of building, testing, and rolling out changes to your production software. Deploying should happen very often, ideally several times a day. Perhaps even triggered every time an engineer lands a change.
+Everything we know about building and changing software safely points to the fact that speed is safety and smaller changes make for safer deploys. Every deploy should apply a small diff to your software, and deploys should generally be invisible to users (other than minor bug fixes).
+Release
+“Releasing” refers to the process of changing user experience in a meaningful way. This might mean anything from adding functionality to adding entire product lines. Most orgs have some concept of above or below the fold where this matters. For example, bug fixes and small requests can ship continuously, but larger changes call for a more involved process that could mean anything from release notes to coordinating a major press release.
+A tale of cascading failures
+Have you ever experienced anything like this?
+Your company has been working on a major new piece of functionality for six months now. You have tested it extensively in staging and dev environments, even running load tests to simulate production. You have a marketing site ready to go live, and embargoed articles on TechCrunch and The New Stack that will be published at 10:00 a.m. PST. All you need to do now is time your deploy so the new product goes live at the same time.
+It takes about three hours to do a full build, test, and deploy of your entire system. You’ve deployed as much as possible in advance, and you’ve already built and tested the artifacts, so all you have to do is a streamlined subset of the deploy process in the morning. You’ve gotten it down to just about an hour. You are paranoid, so you decide to start an hour early. So you kick off the deploy script at 8:00 a.m. PST… and sit there biting your nails, waiting for it to finish.
+SHIT! 20 minutes through the deploy, there’s a random flaky SSH timeout that causes the whole thing to cancel and roll back. You realize that by running a non-standard subset of the deploy process, some of your error handling got bypassed. You frantically fix it and restart the whole process.
+Your software finishes deploying at 9:30 a.m., 30 minutes before the embargoed articles go live. Visitors to your website might be confused in the meantime, but better to finish early than to finish late, right? 😬
+Except… as 10:00 a.m. rolls around, and new users excitedly begin hitting your new service, you suddenly find that a path got mistyped, and many requests are returning 500. You hurriedly merge a fix and begin the whole 3-hour long build/test/deploy process from scratch. How embarrassing! 🙈
+Deploys are a terrible way to change user experience
+The build/release/deploy process generally has a lot of safeguards and checks baked in to make sure it completes correctly. But as a result…
+
+It’s slow
+It’s often flaky
+It’s unreliable
+It’s staggered
+The process itself is untestable
+It can be nearly impossible to time it right
+It’s very all or nothing—the norm is to roll back completely upon any error
+Fixing a single character mistake takes the same amount of time as doubling the feature set!
+
+Changing user-visible behaviors and feature sets using the deploy process is a great way to get egg on your face. Because the process is built for distributing large code distributions or artifacts; user experience gets changed only as a side effect.
+So how should you change user experience?
+By using feature flags.
+Feature flags: the solution to many of life’s software’s problems
+You should deploy your code continuously throughout the day or week. But you should wrap any large, user-visible behavior changes behind a feature flag, so you can release that code by flipping a flag.
+This enables you to develop safely without worrying about what your users see. It also means that turning a feature on and off no longer requires a diff, a code review, or a deploy. Changing user experience is no longer an engineering task at all.
+Deploys are an engineering task, but releases can be done by product managers—even marketing teams. Instead of trying to calculate when to begin deploying by working backwards from 10:00 a.m., you simply flip the switch at 10:00 a.m.
+Testing in production, progressive delivery
+The benefits of decoupling deploys and releases extend far beyond timely launches. Feature flags are a critical tool for apostles of testing in production (spoiler alert: everybody tests in production, whether they admit it or not; good teams are aware of this and build tools to do it safely). You can use feature flags to do things like:
+
+Enable the code for internal users only
+Show it to a defined subset of alpha testers, or a randomized few
+Slowly ramp up the percentage of users who see the new code gradually. This is super helpful when you aren’t sure how much load it will place on a backend component
+Build a new feature, but only turning it on for a couple “early access” customers who are willing to deal with bugs
+Make a perf improvement that should be bulletproof logically (and invisible to the end user), but safely. Roll it out flagged off, and do progressive delivery starting with users/customers/segments that are low risk if something’s fucked up
+Doing something timezone-related in a batch process, and testing it out on New Zealand (small audience, timezone far away from your engineers in PST) first
+
+Allowing beta testing, early adoption, etc. is a terrific way to prove out concepts, involve development partners, and have some customers feel special and extra engaged. And feature flags are a veritable Swiss Army Knife for practicing progressive delivery.
+It becomes a downright superpower when combined with an observability tool (a real one that supports high cardinality, etc.), because you can:
+
+Break down and group by flag name plus build id, user id, app id, etc.
+Compare performance, behavior, or return code between identical requests with different flags enabled
+For example, “requests to /export with flag “USE_CACHING” enabled are 3x slower than requests to /export without that flag, and 10% of them now return ‘402’”
+
+It’s hard to emphasize enough just how powerful it is when you have the ability to break down by build ID and feature flag value and see exactly what the difference is between requests where a given flag is enabled vs. requests where it is not.
+It’s very challenging to test in production safely without feature flags; the possibilities for doing so with them are endless. Feature flags are a scalpel, where deploys are a chainsaw. Both complement each other, and both have their place.
+“But what about long-lived feature branches?”
+Long-lived branches are the traditional way that teams develop features, and do so without deploying or releasing code to users. This is a familiar workflow to most developers.
+But there is much to be said for continuously deploying code to production, even if you aren’t exposing new surface area to the world. There are lots of subterranean dependencies and interactions that you can test and validate all along.
+There’s also something very psychologically different between working with branches. As one of our engineering directors, Jess Mink, says:
+There’s something very different, stress and motivation-wise. It’s either, ‘my code is in a branch, or staging env. We’re releasing, I really hope it works, I’ll be up and watching the graphs and ready to respond,’ or ‘oh look! A development customer started using my code. This is so cool! Now we know what to fix, and oh look at the observability. I’ll fix that latency issue now and by the time we scale it up to everyone it’s a super quiet deploy.’
+Which brings me to another related point. I know I just said that you should use feature flags for shipping user-facing stuff, but being able to fix things quickly makes you much more willing to ship smaller user-facing fixes. As our designer, Sarah Voegeli, said:
+With frequent deploys, we feel a lot better about shipping user-facing changes via deploy (without necessarily needing a feature flag), because we know we can fix small issues and bugs easily in the next one. We’re much more willing to push something out with a deploy if we know we can fix it an hour or two later if there’s an issue.
+Everything gets faster, which instills more confidence, which means everything gets faster. It’s an accelerating feedback loop at the heart of your sociotechnical system.
+“Great idea, but this sounds like a huge project. Maybe next year.”
+I think some people have the idea that this has to be a huge, heavyweight project that involves signing up for a SaaS, forking over a small fortune, and changing everything about the way they build software. While you can do that—and we’re big fans/users of LaunchDarkly in particular—you don’t have to, and you certainly don’t have to start there.
+As Mike Terhar from our customer success team says, “When I build them in my own apps, it’s usually just something in a ‘configuration’ database table. You can make a config that can enable/disable, or set a scope by team, user, region, etc.”
+You don’t have to get super fancy to decouple deploys from releases. You can start small. Eliminate some pain today.
+In conclusion
+Decoupling your deploys and releases frees your engineering teams to ship small changes continuously, instead of sitting on branches for a dangerous length of time. It empowers other teams to own their own roadmaps and move at their own pace. It is better, faster, safer, and more reliable than trying to use deploys to manage user-facing changes.
+If you don’t have feature flags, you should embrace them. Do it today! 🌈
+
+
+Deploys Are The ✨WRONG✨ Way To Change User Experience 
+
+
+
+How to Throw A Company Offsite In A “Post-COVID” World
+
+February 28, 2023March 3, 2023 mipsytipsy5 Comments 
+
+
+Earlier this month we had our first Honeycomb all-hands offsite in three years … our first one since February of 2020, before the plague. It was wonderful and glorious and silly and energizing and so, so SO much fun. It was a potent reminder of the reality that no virtual activity can compare with the energy of being physically present with people you care about.
+I was talking with Paul Biggar last month, telling him about all the things we were doing both to create a safe environment and to ease the pangs of re-entry for a bunch of people who haven’t done this in years. Paul observed that it seemed like most companies are either 1) not gathering at all or 2) barreling forward as though COVID didn’t exist, and that there aren’t many stories about groups assembling safely.
+So I said I would write one, if we pulled it off. And now that it’s been long enough that we can confidently say nobody came down with COVID at our offsite, here it is.
+Offsites: luxury or necessity?
+Honeycomb has always been proud to be a distributed company, even before the plague hit. It’s part of our belief system that this is just a better way of doing business.
+But being distributed doesn’t mean that in-person connection doesn’t matter. It matters even more when you are all remote most of the time.
+Getting together in human meatspace is expensive, it’s annoying, it’s awkward and uncomfortable and inconvenient … and it is necessary. It’s not optional or a “nice-to-have,” it is a ✨critical ingredient✨ of the recipe that makes high-performing distributed teams work. Spending time together face to face is the yeast in our bread, the bitters in our Old Fashioneds.
+By the end of 2022, it had become clear that we are stuck with COVID for the long-haul. It was long past time to gather and get to know each other in person. But if we were going to do it, we had to do our best to mitigate the risks and adapt to the world we live in now. What precautions to take? Where to even start?
+When and where, and why??
+COVID concerns were part of the planning from day one. There were several constraints where to hold the event, which we immediately dubbed “Swarm” (of course). 🙃
+
+Moderate weather. We wanted to be able to let people congregate outdoors as much as possible, as an additional insurance policy for the extra-anxious.
+“Centrally located” was the original goal, but most of the country is just too cold in February. We settled for a destination that everyone could fly to direct.
+Legal safety. We needed to go to a state w/  here all of our employees felt safe, not targeted by various legal jurisdictions.
+We did NOT care about glamorous locations. We knew we were going to spend our time at the hotel, focused on each other, not the locale.
+
+In the end we chose Los Angeles — the the oh-so-glamorous LAX Airport Marriott, to be precise. 🌴🐠\\🍹
+We originally scheduled the event for mid-January, to kick off the new year, but ended up witthlizadelaying five weeks into 2023 in case there was a wave of post-holiday COVID infections.
+Preparing for the event
+Our COVID safety plans are designed to maximize attendance, give people enough information to properly manage their own risk, and provide an extra-safe outdoor alternative for as many activities as possible.
+We tapped Liz Fong-Jones to take point on COVID policy. (As a globe-trotting extrovert who goes to lots of events, she is our resident expert.) Having one czar in charge of policy turned out to be great; she didn’t have to ask permission from anyone or get consensus from a committee to update policies and make requests on the spot.
+Leading into the event, our plans and preparations included:
+
+Adjacent outdoors space.
+We looked for a venue with extra capacity (plenty of space for social distancing and proper airflow) and a large outdoor area — covered, heated space for people to eat and socialize, even if it was rainy or cold.
+On site testing for everyone.
+Everyone was given a rapid nucleic test on checking in, and asked to take onesubsequently every 48 hours.
+
+Testing was mandatory for everyone, including vendors, guests, and visiting dignitaries.
+Positive first-line tests should confirmatory test with a PCR or second nucleic test and isolate until a negative comes back.
+If anyone confirms positive, their instructions are to stay in their room until they test negative. Honeycomb pays for hotel and rebooking.
+
+
+Carbon dioxide monitors.
+Every conference room was supposed be set up with a mounted CO2 monitor where people can see it. (Carbon dioxide monitors are a good proxy measurement for air circulation and thus transmission risk.) We said, “if the number is above 650, masks will be required in the room”, but this didn’t quite play out (see “Retro” section).
+Social distancing.
+We had stickers for badges, color coded by the traffic light system. (This was for individuals to exercise control based on risk tolerance, not a universal rule):
+
+Red — please keep your distance
+Yellow — please ask before physical touch
+Green — I’m comfortable with talking and physical touch
+
+
+Masks.
+Masks were available throughout the event, but not required. People were welcome to wear their own masks regardless, of course, and everyone kept one in their pocket, so they could put it on if anyone asked. (This happened a few times in my vicinity, and everybody cheerfully complied.)
+
+We booked a shuttle to haul everyone into LA for dinner, and masks were required on the shuttle. People were also told to call an uber/lyft if they felt uncomfortable with the shuttle.
+
+
+Outdoor seating at restaurants.
+One of our most popular sessions was “small group dinners”, where we sent people out to LA restaurants in small cross-functional groups of 8 people (including at least one member of senior leadership per group). People could request an outdoor group.
+If a new variant or outbreak emerged…
+We wouldn’t be able to call the event off or reschedule without forfeiting the entire cost. Our contingency plan was to move the entire event outdoors to the pool area, if necessary.
+
+Pacing ourselves: naps and snacks and breaks
+We knew this trip was going to be intense and overwhelming for many if not most of us — even more so than most company offsites. Many people hadn’t traveled or spent time in large groups since the pandemic, all of us are used to working solo from home. Only a tenth of us (18 of 180) were working at Honeycomb in February of 2020, at our last offsite. So mental health and social overload were just as important to consider.
+We told people, repeatedly:
+Take care of yourselves. Do what you need to do to be fully present while you’re here, rather than here 100% of the time.
+We scheduled only three sessions per day, plus lunch and dinner. We neither started very early or scheduled things very late. We left lots of padding in between sessions for snacks  and naps and breaks.
+We set aside a “Recharge Room” with doors that closed, with nail polish, coloring books and markers, and board games. We set aside cubbies with signs marked “Introvert Corners — no talking please!”, and stocked them up with USB hubs and charging cables, so you could recharge your devices while recharging your soul (lol).
+In retrospect
+Over 86% of the company came (!!!) and we had a riotously good time — way, way more than I think any of us even expected or hoped to have. It was a memorable, sparkly reminder of the incomparable magic of what it’s like being together with people you care about.
+We ran a survey afterwards. 50% of respondents said they felt safe, but their standards are low; 48% said they felt safe due to the testing, masking, and reminders; 8% said they felt safe because they spent as much time as possible outdoors. 10% (11 people, out of 109 responding) said they “did not feel very safe.”
+However, I would note that 5 of those 11 people didn’t actually attend Swarm. And one person pointed out afterwards that you had to choose “I did not feel very safe” if you wanted to enter any feedback at all about safety, so it was possible if not probable that some people would have chosen another option if they could.
+
+ 
+I think we did pretty well. However, things can always be better!
+What worked well:
+
+Outdoor spaces for eating, temperate climate, extra-spacious rooms for circulatory purposes.
+The rapid-nucleic tests we used were made by Lucira. (Liz says: “The tests were far more reliable than we thought they’d be — the brand has a reputation for false positives but we saw none, and only 3 invalid tests out of several hundred performed.”)
+Testing. We were hyper-diligent about testing. We actually ran out of tests on Wednesday, despite provisioning two for each attendee and a bunch of extras, and had to emergency lift in more, which is a great sign.
+Taking a layered approach to COVID safety. Not relying on any single prevention method meant that if one didn’t work well, we still had a safety net.
+Having a knowledgeable COVID czar.
+The Recharge Room with nail polish, art supplies and games worked really well, although designating other areas as “Quiet Zones” was ineffective and unnecessary.
+
+What we can improve on:
+
+The 30-60 minute breaks sprinkled throughout the day were well-intentioned, but ineffective. Everybody was fucking wiped by late afternoon. Next time, I would replace all those breaks with one solid “Nap Break” from 4-6pm.
+
+I think it’s important to acknowledge that we were all going to be flattened no matter what though. We aren’t used to this! It is HARD to leave the party to take care of yourself!
+
+
+We should have a team of COVID safety marshals, in addition to the Code of Conduct team.
+Next time we will ask people to submit their COVID test results — even if it’s just dropping a pic in a slack channel. Trust but verify.
+The CO2 monitors were confusing. They were hard to find, and most of them got installed in the wrong place. Also, the 650 ppm rule would have essentially meant everyone had to wear a mask in any closed room, which was not the goal. Our error here was not in failing to stick to the 650 ppm rule, but in making a rule we couldn’t keep.
+Next year, we will be explicit about the fact that CO2 monitors are for informational purposes, so individuals can factor it into their own masking choices and/or decide whether to move outside.
+Next year we will also emphasize that it is okay to ask the people around you to mask up so you can participate.
+
+If you aren’t comfortable asking those around you to put on a mask, you can DM a safety marshal who will ask on your behalf.
+
+
+One session in particular had external facilitators come in and roam around the (closed) rooms shouting stuff. They tested clear for COVID, but in retrospect I really wish we had asked them to mask up, as it generated a lot of anxiety. This was our biggest covid safety lapse, in my opinion.
+
+Offsites are necessary. Human connection feeds your soul.
+What I learned from this event is just how much we were all craving connection. I was a firm believer in how much in-person connection matters to start with, and it still blew me away just how special, how irreplaceably precious the experience was. There is no possible way we could have made the kind of connections, learned the same lessons, and formed the kind of bonds we did if we had tried to do this as a remote event. If anything, it just made me even more intent on creating an event safe enough that everyone can join.
+On the last night we had a party, with karaoke and a dress theme: “Wear something you wouldn’t wear to work.” By that point, it enough intimacy had been established that people seemed to feel safe letting their inner freak flag fly a bit, and it was just fucking incredible getting a glimpse into everybody’s inner selves and stories.
+It seemed like others felt the same way, too. In the anonymous post-event survey, 100% of attendees said it was valuable to them. Representative feedback:
+“I didn’t know how much I needed this, and I can’t wait for next year.”
+Reintroducing a practice of spending time together is not only possible, I feel like we were able to do it in ways that adapt to the realities of the world we live in today.
+That matters. I know I’ve said this like five times now, but for a distributed company, gathering together in person isn’t a nice-to-have, it is an absolute necessity. After meeting all of my coworkers, I feel this more strongly than ever. 💜🐝
+P.S. None of us got COVID in the wake of our offsite. A handful of us did, however, manage to catch a common cold. 🦠
+
+
+How to Throw A Company Offsite In A “Post-COVID” World 
+
+
+
+Every Achievement Has A Denominator
+
+October 3, 2022July 14, 2023 mipsytipsyculture, engineering, management, productivity5 Comments 
+
+
+One of the classic failure modes of management is the empire-builder — the managers who measure their own status, rank or value by the number of teams and people “under” them.
+Everyone knows you aren’t supposed to do this, but most of us secretly, sheepishly do it anyway to some extent. After all, it’s not untrue — the more teams and people that roll up to you, the wider your influence and the more impact you have on more people, by definition.
+The other reason is, well, it’s what we’ve got. How else are we supposed to gauge our influence and impact, or our skill as a leader? We don’t really have any other language, metrics or metaphors readily available to us. 😖
+Well… Here’s one:
+✨Every achievement has a denominator✨
+Organization size can be a liability
+Let’s say you have 1,000 people in your org and you collectively achieve something remarkable. Good for you!
+What if you achieved the same thing with 10,000 people, instead? What would that say about your leadership?
+What if you achieved the same thing with 100 people?
+Or even 10 people?
+Lots of people take pride in their ability to manage large organizations. And with thousands of people in your org, you kinda better do something fucking great. But what if you instead took pride in your ability to deliver outsize results with a small denominator?
+What if comp didn’t automatically bloat with the size of your org, but rather the impact of your work divided by the number of contributors — rewarding leaders for leaner teams, not larger ones?
+Bigness itself is costly. There’s the cost of the engineers, managers, product and designers etc, of course. But the bigger it gets, the more coordination costs are incurred, which are the worst costs of all because they do not accrue to any user benefit — and often lead to lack of focus and product surface sprawl.
+Constraints fuel creativity. Having “enough” engineers for a project is usually a terrible idea; you want to be constrained, you want to have to make hard decisions about where to spend your time and where to invest development cycles.
+More often than not, scope is the enemy
+As Ben Darfler wrote earlier this year about our approach to engineering levels at Honeycomb:
+There are times when broad scope may be unavoidable, but at Honeycomb, we try to cultivate a healthy skepticism toward scope. More often than not, scope is the enemy. We would rather reward engineers who find clever ways to limit scope by decomposing problems in both time and size. We also want to reward engineers who work on the most important problems for the business, regardless of the size of the project. We don’t want to reward people for gaming out their work based on what will get them promoted.
+The same is true for engineering managers, directors and VPs. We would rather reward them for getting things done with small, nimble teams, not for empire building and team sprawl. We want to reward them for working on the most important problems for the business, regardless of what size their teams are.
+What was the denominator of the last big project you landed? Could you have done it with fewer people? How will you apply those learnings to the next big initiative?
+Can we find more language and ways to talk about, or take pride in how efficiently we do big things? At the very least, perhaps we can start paying attention to the denominator of our achievements, and factor that into how we level and reward our leaders.
+charity.
+P.S. I did not invent this phrase, but I am unfortunately unable to credit the person I heard it from (a senior Googler). I simply think it’s brilliant, and so helpful.
+
+
+Every Achievement Has A Denominator 
+
+
+
+The Future of Ops is Platform Engineering
+
+September 30, 2022July 14, 2023 mipsytipsycareers, crossposted, culture, engineering, operations, platform engineering, sreLeave a comment 
+
+
+First published on 2022-09-30 at https://www.honeycomb.io/blog/future-ops-platform-engineering.
+
+
+
+
+Two years ago I wrote a piece in The New Stack about the Future of Ops Careers. Towards the end, I wrote:
+The reality is that jack-of-all-trades systems infrastructure jobs are slowly vanishing: the world doesn’t need thousands of people who can expertly tune postfix, SpamAssassin, and ClamAV—the world has Gmail. (…)
+Building infrastructure and operational expertise used to be bundled together into a single role. But the industry is now bifurcating along an infrastructure fault line, and the overlap between infrastructure-oriented engineers and operationally-minded engineers is swiftly eroding. Engineers who love this work increasingly have a choice to make. Either you can 1) go deep on infrastructure by joining a company that does infrastructure as a service, or 2) go broad on operability by joining a company to help them do as little infrastructure as possible.
+I described the second category as “operations engineering minus the infrastructure,” dedicated to evaluating and assembling a production stack of third-party platform providers, enabling software engineers to self-serve their services and own their own code in production. I said:
+
+Your job will be to aggressively minimize the cycles your org devotes to infrastructure by finding effective ways to outsource or minimize infra labor. Your job is to NOT go deep if there is any workable alternative.
+Your job will be to work cross-functionally with all the other software engineering teams, looking for ways to speed up their time to value and helping them own their own code in production.
+Your job will be to move past the kludgey old models of “outsourcing” to sophisticated understandings of how and where to leverage abstractions that can radically accelerate development.
+
+That second category I was describing now has a name. We call those teams “platform engineering.”
+The fifty-year arc of software careers
+In the beginning, there were people who wrote and ran software. At some point, we spun away ops skills from dev skills into two different professions, but that turned out to be a ginormous mistake, so along came DevOps to reunify them. Nowadays, ops as an independent profession is in the process of fading out. Companies are spinning down their ops teams left and right. Engineers who formerly identified as sysadmins or operations have turned into DevOps engineers, and soon there will just be “software people” again. This is the way of things.
+Please note that this is NOT the same thing as saying “ops is dead,” or “ops skills are no longer valuable or needed1.” Our systems are only getting more complex, more difficult to operate, and simultaneously more critical to life on earth, which means that operational excellence has never been more desperately needed (and if you don’t respect that, 🌈 you deserve to suffer 🌈).
+The industry story of the past three to five years has been us trying to figure out how to help software engineers own their own code in production2, phasing out dedicated ops teams, and aggressively outsourcing as much infrastructure as possible.
+As we should. Developer cycles are the scarcest resource in your company, and you want to spend as many of those as possible on your core product: the crown jewel, the code that makes you a business. Money is cheaper than engineering cycles, and teams that are focused on their core business will always outperform teams whose focus is spread across dozens of non-revenue-generating projects. Let someone else build and run all the dependencies and adjacencies.
+Before: some engineers wrote code, and some engineers ran code.
+Now: all engineers write code, and all engineers run the code they write.
+Platform engineering is what stands between you and darkness
+When you start talking about putting software engineers on call for their own code, and generally being more involved in production, some percentage of the time you will hear back a guttural wail of despair: “You can’t expect me to know EVERYTHING about EVERYTHING!”
+Quite right; we can’t. Platform engineering teams are part of the answer to this perfectly reasonable complaint. It’s not that you’re being asked to do or understand more in toto, but the distribution of labor and responsibility is shifting:
+Before: some engineers wrote code, and some engineers ran code.
+Now: all engineers write code, and all engineers run the code they write—but we divide the areas of responsibility by layer or function.
+The emergence of a minimum viable self-serve tier
+In the earliest days of a company, your first few engineers end up bootstrapping an infrastructure by reading AWS docs or blog posts, or asking a friend for recommendations to get started. They might start by setting up a managed container service, or configuring Terraform, and for a while everybody deploys and owns their own code, just as god intended.
+But cognitive limits kick in pretty quickly. The maze of APIs and SDKs and components out there is simply bewildering, even for an experienced ops hand. Before long, it becomes someone’s job to make good decisions, pick a suite of compute and storage options that serve the team’s needs, and write some tooling that pulls everything into a coherent whole—which, at a minimum, lets you:
+
+Run tests and generate new artifacts
+Deploy artifacts, version them, and roll back
+Instrument, monitor, and debug
+Store data somewhere, manage schemas and migrations
+Adjust capacity as needed
+Define and commit all components (and their relationships) as code
+
+Once these are built, it should be trivial for an engineer to come along and spin up a new service using templates and components from existing services. It should be much simpler and easier to use the blessed paths than anything else, and there should be friction if you go off the beaten path.
+Congratulations! You’ve just been platformed 🎉. One of the key principles of any developer platform is that it should be easy to do the right things, and hard to do the wrong things.
+The differences between platform engineering and traditional ops
+Platform teams are typically staffed by engineers who are comfortable writing software. Not just scripting and automation, but writing tests and doing code reviews. Platform teams also operate much more like product development teams do, with product managers (and occasionally, designers, developer advocates, or UX researchers).
+This doesn’t mean that everybody on a platform team has to have originally been a software engineer; in fact, a super common failure condition for platform teams is simply thinking all they need to do is hire software engineers to build developer tools. A strong platform team has an equally deep grounding in operations experience and software development. Individuals who are experts in both areas are fairly rare, but you can pull together a strong, well-rounded team by assembling a mix of SWEs (with some ops experience) and ops or DevOps engineers (with some software experience) and having them learn and grow from each other.
+Platform teams are decidedly cloud-native; they actually mostly involve platforms built atop the cloud itself—PaaS, IaaS, everything-aaS, serverless, and so forth.
+Ops/DevOps teams are oriented around managing infrastructure, often several generations of infrastructure. Their turf is everything from data centers and bare metal up through virtualization, containers, and the cloud (they aren’t so much cloud-native as cloud-enabled). They measure themselves on things like SLOs and the DORA metrics. You know they’re doing a good job if the system is up/available and users are happy.
+Platform teams are oriented around providing a good experience for developers to self-serve and self-manage their code. The more swiftly and easily developers can move, the better your platform team. Operational excellence, in the platform model, is actually more the responsibility of the other engineering teams (and/or an adjacent SRE team) than that of the platform team.
+Platform teams typically work higher up the stack than operations, DevOps, or SRE teams do, and they involve a great deal less infrastructure. On the contrary, platform teams are bent on paying other people to run as much shit as possible, preserving their own scarce development cycles for their core product.
+Here is a somewhat tongue-in-cheek table of the similarities and differences between the archetypes.
+Platform engineers vs. DevOps engineers
+
+
+
+
+Platform Engineer
+Ops (or DevOps) Engineer
+
+
+% of job spent writing code
+> 50%
+< 50%
+
+
+Rest of time spent
+Gathering product requirements, doing user research, architecture discussions, optimizing internal workflows, researching new tools and developer productivity ideas, reviewing other teams’ diffs for impact, performance tuning, helping other engineers own & scale their code, fixing CI/CD pipelines.
+Fixing cron jobs, automating old setup docs, converting PXE/rsync to Chef/Puppet, converting Chef/Puppet to Terraform, converting VMs to containers, deploying software, debugging broken deploys, writing monitoring checks, doing retros, building out new services, pairing with software engineers to understand and debug their code, investigating weird shit, documentation, etc.
+
+
+Responsible for
+Enabling internal teams to self-serve their ability to run and own their code in production. Creating standard, reusable components and processes. Defining golden paths.
+Infrastructure capacity planning, scaling, performance tuning, upgrading. Reliability and resiliency, SLOs and monitoring/alerting. Delivering quality experience to customers.
+
+
+Builds for
+Internal developer teams
+Customers
+
+
+Development style
+Infrastructure as a product
+Infrastructure as code
+
+
+Works with product managers
+Yes
+No
+
+
+Works with UX researchers or designers
+Sometimes
+No
+
+
+Dashboards & graphs
+Uses APM, observability, tracing. Cares a lot about instrumentation and OpenTelemetry.
+Uses metrics, logs, dashboards; monitoring, alerting, and agent/sidecar/blackbox telemetry.
+
+
+What ‘coding’ means to them
+Developing new features & services, writing tests. These are (primarily) software people who do systems.
+Automation, configuration, DSLs, extending and debugging existing code. These are systems people who do software.
+
+
+Preferred language
+Go, Rust
+Python, Ruby
+
+
+Time spent in Linux
+Hardly any
+A lot
+
+
+Succeeds when
+Developers can easily choose good defaults, self-serve their infra, and own their own code in production.
+Infrastructure is scalable, secure, cost-effective, reliable, and customers are happy.
+
+
+Native terrain
+Serverless, *aaS, APIs for everything (cloud-native and above).
+Instances, VMs, containers, regions, multi-cloud (everything “below,” but up to and including the cloud).
+
+
+Databases
+Uses hosted DBs
+Runs their own, blending automation & DBA expertise
+
+
+SSH
+No
+Yes
+
+
+Shell
+REPL
+bash/zsh
+
+
+Mantra
+“Run Less Software”
+“Cattle, Not Pets”
+
+
+
+What about DevOps vs. SRE?
+Countless words have been spilled on the difference between DevOps and SRE3, which I won’t rehash.
+Here’s what I’ll say: DevOps, to me, feels like a relevant concept for companies that have a lot of infrastructure to wrangle. Companies that do in fact have dev teams and ops teams, or dev teams and DevOps teams (🙄), tend to have a lot of operational shit to automate, test, and run. They use config management, virtualization, and containers, often managing several generations worth of technology, possibly even down to data centers and bare metal. DevOps is for companies that have some combination of bare metal, VMs, regions, AZs, multi-cloud, networking devices, self-managed databases, etc.
+DevOps is capacious. It contains multitudes. DevOps writes code, and DevOps has a fuckload of code to manage.
+It is also on its way to becoming irrelevant. We are swiftly entering a post-DevOps world.
+SRE, to me, feels different. I associate SRE with very large companies, where they mostly have software engineers owning their own code in production, but maybe still struggle with it a bit. SREs are often embedded within software engineering teams or product groups, and they focus a lot on, well, reliability, as the name suggests.
+This means they do less infrastructure jockeying or automating (although they still do some coding). They typically have a lot to say about instrumentation, monitoring and observability, and cross-functional coordination. They run incident response and do blameless retros, and they tend to be experts at scaling.
+If a company has both a DevOps team and SRE, typically I expect to see the SRE team more on the frontlines, involved with incidents, telemetry, etc., and DevOps teams more on the backburner, slinging pipes and plumbing.
+Observability engineering as a case study
+In the same piece I referenced earlier, I also wrote about the role of observability teams. I said they should largely no longer be running their own monitoring and graphing software in-house. Yet there is still a place for observability teams to exist: they remain a critical link between outsourced solutions and internal developer needs.
+That team should write libraries, generate examples, and drive standardization; ushering in consistency, predictability, and usability. They should partner with internal teams to evaluate use cases. They should partner with your vendors as roadmap stakeholders. They might also write glue code and helper modules to connect disparate data sources and create cohesive visualizations. Basically, that team becomes an integration point between your organization and the outsourced work.
+I originally wrote this about observability, but it could just as easily be used to describe platform engineering as a whole. This is the role—being the bridge between other vendors and your own core software. It’s a very high-leverage place to sit.
+Ops is dead, long live ops
+I’ve spent a lot of time thinking about this because we’ve had such a hard time nailing down exactly who the Honeycomb customer is. Sometimes our buyer is an ops team buying it for their SWEs, sometimes it’s SREs in the midst of an outage, sometimes it’s a VP or director of engineering, or an architect, or a CTO, or a “full stack” engineering team, or even a product manager. It is hard to form a snappy answer out of that list.
+The first couple questions every new go-to-market candidate asks us are “who is your buyer?” and “how do we help them?” To which I respond with a five minute ramble where I list every above persona and each of their pain points. Hardly the concrete answer they would like to receive.
+As it goes, sociotechnical trends come and go. A year ago, Christine and I were speculating that platform engineering might be on the verge of consolidating the necessary ingredients that makes up our ideal buyer:
+
+Writing and shipping code, and needing to understand their own code
+Positioned to help other teams with their instrumentation patterns and tooling
+Firmly cloud-native+ and untethered to hardware or traditional infrastructure
+
+To my delight, since that conversation, these trends have only accelerated—and I, for one, welcome our new platform engineering overlords to the observability table. ☺️
+If you’d like to learn more about platform engineering, we’ll be running a Twitter space on ✨ October 20th ✨ at 12:00 p.m. PT. Come join us! I’ll be there along with two colleagues and we’ll be answering your questions and shedding more light on the topic.
+
+1  I do hear people saying that, and it used to make me fucking furious, but now I just smugly remind myself how much self-inflicted suffering they are in for. Disrespecting operational expertise is the shortest path to never again sleeping through the night.
+2 It is rather incredible how rapidly this idea has taken off. When we started talking about putting developers on call for their code in 2016, people got seriously angry with us. Before that, the only twitter mention I could find of putting devs on call was one by (of course) Adrian Cockcroft, but by 2019-2020 it had stopped being controversial and soon became common wisdom.
+3 I actually wrote one of those myself: DevOps vs SRE: Delayed Coverage of the Dumbest War). LMAO. I think Liz had the final word on this back in … 2017? 2018? … when she said something like class SRE implements DevOps. And yes, DevOps is a philosophy or a methodology and not a job title, etc.
+
+
+
+
+
+
+The Future of Ops is Platform Engineering 
+
+
+Posts navigation
+
+← Older posts
+
+
+
+
+
+
+
+Powered by WordPress.com.
+			
+					
+
+
+
+
+
+
+
+
+
+						charity.wtf					
+
+
+charity profile pic / Proudly powered by WordPress Theme: Minnow.				
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading Comments...
+
+
+
+ 
+
+
+Write a Comment...
+
+
+
+
+Email (Required)
+
+
+
+Name (Required)
+
+
+
+Website
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

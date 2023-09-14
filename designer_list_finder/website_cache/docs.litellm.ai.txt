@@ -1,0 +1,21 @@
+
+
+
+
+
+litellm | liteLLM
+
+
+
+
+
+Skip to main content🚅 LiteLLMDocsGitHublitellm
+
+
+
+a light package to simplify calling OpenAI, Azure, Cohere, Anthropic, Huggingface API Endpoints. It manages: translating inputs to the provider's completion and embedding endpointsguarantees consistent output, text responses will always be available at ['choices'][0]['message']['content']exception mapping - common exceptions across providers are mapped to the OpenAI exception typesusageDemo - https://litellm.ai/playground \
+Read the docs - https://docs.litellm.ai/docs/quick start​pip install litellmfrom litellm import completion## set ENV variablesos.environ["OPENAI_API_KEY"] = "openai key"os.environ["COHERE_API_KEY"] = "cohere key"messages = [{ "content": "Hello, how are you?","role": "user"}]# openai callresponse = completion(model="gpt-3.5-turbo", messages=messages)# cohere callresponse = completion("command-nightly", messages)Code Sample: Getting Started NotebookStable versionpip install litellm==0.1.345Streaming Queries​liteLLM supports streaming the model response back, pass stream=True to get a streaming iterator in response.
+Streaming is supported for OpenAI, Azure, Anthropic, Huggingface modelsresponse = completion(model="gpt-3.5-turbo", messages=messages, stream=True)for chunk in response:    print(chunk['choices'][0]['delta'])# claude 2result = completion('claude-2', messages, stream=True)for chunk in result:  print(chunk['choices'][0]['delta'])support / talk with foundersOur calendar 👋Community Discord 💭Our numbers 📞 +1 (770) 8783-106 / ‭+1 (412) 618-6238‬Our emails ✉️ ishaan@berri.ai / krrish@berri.aiwhy did we build thisNeed for simplicity: Our code started to get extremely complicated managing & translating calls between Azure, OpenAI, Coherequick startStreaming QueriesDocsTutorialCommunityDiscordTwitterMoreGitHubCopyright © 2023 liteLLM
+
+
+

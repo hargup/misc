@@ -1,0 +1,209 @@
+
+
+
+
+
+Eaton Works
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS / BLOG
+
+PROJECTS
+
+SERVICES
+
+CONTACT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS / BLOG
+PROJECTS
+SERVICES
+CONTACT
+
+
+
+
+
+
+
+
+
+
+
+
+Compromising Honda’s power equipment / marine / lawn & garden dealer eCommerce platform through a vulnerable password reset API
+A vulnerable password reset API made it possible to take over any account and gain admin-level access to the platform. In addition, broken/missing access controls made it possible to access all data on the platform.
+
+
+Read More
+
+
+
+Eaton
+Jun 6, 2023
+
+
+
+
+
+
+
+Insecure Toyota CRM exposed Mexican customer information
+Breaking into a Toyota CRM and exploiting it to view customer information.
+
+
+Read More
+
+
+
+Eaton
+Mar 6, 2023
+
+
+
+
+
+
+
+Hacking into Toyota’s global supplier management network
+Inside an exploit that allowed logging in to Toyota’s GSPIMS application as any user, including system admins.
+
+
+Read More
+
+
+
+Eaton
+Feb 6, 2023
+
+
+
+
+
+
+
+Syndication feed now available
+An Atom feed is now available for the site.
+
+
+Read More
+
+
+
+Eaton
+Jan 28, 2023
+
+
+
+
+
+
+
+How the Xbox 360 knows if your hard-drive is genuine
+Reverse engineering the kernel-mode authenticity check, and how Microsoft knows about your hacked/custom hard-drive.
+
+
+Read More
+
+
+
+Eaton
+Jan 24, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+            Previous
+        
+
+1
+
+
+            Next
+            
+
+
+
+
+
+
+Subscribe to new posts
+Get an email notification every time something new is published.
+
+
+📧
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

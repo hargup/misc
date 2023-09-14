@@ -1,0 +1,12 @@
+AirPaper - Extract any information from any document
+
+
+
+
+
+
+
+
+
+Get early accessMenuGet early access
+Automated document extraction powered by Large Language ModelsInstantly capture data. Reduce your human operational workload and get hold of your accuracy.Get early accessFree trial. Easy setup.See it in action.Extracting fields and line items from invoices.Accurate and fast.Our language model has a state of the art performance.Document intelligenceAirPaper gets smarter with every new document. No templates. No nasty regexes.Seamless integrationConnect to the API in less than 5 minutes.Reduce costs and turnaround timeNo more manual data entry. Extracts what’s important and remove your humans-in-the-loop.Built for developers by developers.100 free pages a monthBlazing fast integrationAs simple as copy-pasteComing soon.We're building more accurate models on our way to digitize other industries.Medical documentsDischarge notes, drag safety reports, patient questionnaires, etc.Insurance documentsLoss runs, insurance certificates, medical claims, etc.What else?We would love to learn how we can help you. Drop us a line about your use case.FAQWe often get asked aboutIs AirPaper free?We offer a free trial of 100 pages followed by a pay-per-use subscription.Which languages do you support?Currently, we support English and German. Contact us to add yours.Will you store my data?No. We only use your data during the API call.What does AirPaper mean?That you can stop hiring human operations 😉Ready to get started?Whether a start-up or a Fortune 500, let us know how we can personalize a plan to your business.Full NameEmail AddressPhone (Optional)Your MessageSecurity ImageType the numbers from the image aboveSend Message© 2023 AirPaper

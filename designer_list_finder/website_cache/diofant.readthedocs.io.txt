@@ -1,0 +1,233 @@
+
+
+
+
+
+
+Diofant’s documentation — Diofant 0.14.1.dev133+g5d2f84e documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Installation
+Tutorial
+Command-Line Usage
+Reference
+Internals
+Development
+About
+Release Notes
+Bibliography
+
+
+
+
+
+
+Diofant
+
+
+
+
+
+
+Diofant’s documentation
+
+ Edit on GitHub
+
+
+
+
+
+
+
+Diofant’s documentation
+Diofant is a Python
+library for symbolic mathematics.  If you are new to Diofant, start
+with the Tutorial.
+
+Note
+Documentation examples assume (unless otherwise clearly stated)
+that these statements were executed in the beginning of the
+interactive session:
+>>> from diofant import *
+>>> a, b, c, d, t, x, y, z = symbols('a:d t x:z')
+>>> k, m, n = symbols('k m n', integer=True)
+>>> f, g, h = symbols('f:h', cls=Function)
+
+
+
+
+
+Installation
+From Sources
+Run Diofant
+Feedback
+
+
+Tutorial
+Introduction
+Basics
+Gotchas
+Printing
+Simplification
+Calculus
+Solvers
+Polynomials
+Matrices
+Expression Trees
+
+
+Command-Line Usage
+python -m diofant
+
+
+Reference
+Config
+Core
+Combinatorics
+Number Theory
+Concrete Mathematics
+Mathematical Functions
+Integrals
+Logic
+Domains
+Matrices
+Polynomials
+Printing
+Interactive
+Sets
+Simplify
+Solvers
+Tensors
+Utilities
+Parsing
+Calculus
+
+
+Internals
+Internals of the Polynomial Manipulation Module
+The Gruntz Algorithm
+Details on the Hypergeometric Function Expansion
+Computing Integrals using Meijer G-Functions
+Numerical evaluation
+
+
+Development
+Reporting Issues
+Contributing Code
+Rosetta Stone
+Versioning
+Release Procedure
+
+
+About
+License
+
+
+Release Notes
+Diofant 0.15 (Not Released Yet)
+Diofant 0.14
+Diofant 0.13
+Diofant 0.12
+Diofant 0.11
+Diofant 0.10
+Diofant 0.9
+Diofant 0.8
+SymPy releases
+
+
+Bibliography
+
+
+
+
+
+
+Next 
+
+
+
+© Copyright 2006-2022 SymPy Development Team, 2013-2023 Sergey B Kirpichev.
+      Revision 5d2f84e2.
+      
+
+
+
+
+
+
+
+
+ Read the Docs
+      v: latest
+      
+
+
+
+Versions
+latest
+stable
+v0.14.0
+v0.13.0
+v0.12.0
+v0.11.0
+v0.10.0
+v0.9.0
+v0.8.0
+
+
+Downloads
+pdf
+html
+
+
+On Read the Docs
+
+Project Home
+
+
+Builds
+
+
+
+
+
+

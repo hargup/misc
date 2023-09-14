@@ -1,0 +1,222 @@
+
+
+
+
+
+
+
+
+Home Page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Foundation
+
+
+About Us
+Board & Governance
+Sustainability
+
+
+
+The Community
+
+
+What are Registration Agencies?
+Existing Registration Agencies
+Who Are The Members and Users?
+
+
+
+The Identifier
+
+
+What is a DOI?
+DOI Handbook
+Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The DOI Foundation is a not-for-profit organization. We govern the Digital Object Identifier (DOI) system on behalf of the agencies who manage DOI registries and provide services to their respective communities. We are the registration authority for the ISO standard (ISO 26324) for the DOI system and we are governed by our Registration Agencies.
+Read more about us, our operations and our community of communities from construction to entertainment to scholarly research.
+
+learn more
+
+
+
+
+
+
+
+
+
+
+
+WHO IS THE DOI FOUNDATION COMMUNITY?
+We are an international community of communities bound by a common interest in persistent infrastructure. So far, we have welcomed agencies that manage communities spanning entertainment, standards, the built environment, natural history collections, scholarly communications, and research data.
+Read more about our Registration Agencies and what they offer
+
+
+learn more
+
+
+
+
+
+WHAT IS THE DIGITAL OBJECT IDENTIFIER (DOI)?
+A DOI name is a digital identifier of an object, any object â physical, digital, or abstract. DOIs solve a common problem: keeping track of things. Things can be matter, material, content, or activities.
+Designed to be used by humans as well as machines, DOIs identify objects persistently. They allow things to be uniquely identified and accessed reliably. You know what you have, where it is, and others can track it too.
+Read more about the identifier, its benefits, and how itâs used
+
+
+learn more
+
+
+
+
+
+
+
+
+
+
+
+
+ANNOUNCING OUR NEWEST REGISTRATION AGENCY
+
+Human & Digital (HAND) was recently appointed as the 12th Registration Agency of the DOI Foundation, assigning DOI names to legal entity humans, licensed virtual humans, and fictional characters involved in the performing arts and sports. The talent industry is becoming more connected, complex, and digitized. Managing this complexity in a programmatic way is only possible with verifiable, persistent identity of talent, both human and digital. And this is exactly what HAND provides.
+
+
+Learn more
+
+
+
+
+
+
+
+How many are being resolved?
+
+
+
+
+Total DOI resolutions to date (all time)
+The total DOI resolutions to date is calculated using actual number of DOI resolutions recorded up until yesterday and the average resolution rate recorded over the past 24 hours (currently this is )
+
+
+
+
+
+Uptime over the last 90 days
+
+
+
+
+
+
+
+
+Try resolving a DOI name
+Type or paste a known DOI name exactlyâincluding its prefix and suffixâinto the text box below and then ‘submit’ to resolve it.
+
+
+
+
+
+
+DOIs include a prefix (prefixes always start with 10.) and a suffix, separated by a forward slash (/). Prefacing the DOI with doi.org/ will turn it into an actionable link, for example, https://doi.org/10.47366/sabia.v5n1a3. Clicking that link will ‘resolve’ it, i.e. redirect to the latest information about the object it identifies, even if the object changes or moves.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resources
+Governing Board
+Status page
+Email us
+
+
+
+
+The DOI Handbook
+ISO 26324
+Privacy Policy
+Trademarks (PDF)
+
+
+
+
+
+Copyright Â© 2022 DOI Foundation.  The content of this site is licensed under a Creative Commons Attribution 4.0 International License.DOI®, DOI.ORG®, and shortDOI® are trademarks of the DOI Foundation.
+
+
+
+
+
+
+
+
+
+
+
+
+

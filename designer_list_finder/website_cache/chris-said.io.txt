@@ -1,0 +1,261 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+      Chris Said · Chris Said
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Chris Said
+        
+
+I am a data scientist at Propel. This blog is mostly about statistics, technology, and science.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chris Said
+Below are links to blog posts I’ve written, as well as some other projects. I can also be found on Twitter and LinkedIn.
+Sample Projects
+
+Apollo Academic Surveys (2022-present). A nonprofit that aggregates the views of academic experts, making them freely available to everyone.
+RapidTests.org (2020). All-volunteer group advocating for frequent rapid tests for SARS-CoV-2.
+Which famous economist are you most similar to? (2013-2015). Interactive economics quiz featured in the Washington Post, Wall Street Journal, and NPR.
+
+Selected Blog Posts
+
+Optimizing sample sizes in A/B testing, Part I: General summary (Part II, Part III) (10 Jan 2020)
+Variance after scaling and summing: One of the most useful facts from statistics (18 May 2019)
+Empirical Bayes for multiple sample sizes (03 May 2017)
+Optimizing things in the USSR (11 May 2016)
+Small correlations can drive large increases in teen depression (10 May 2022)
+
+Full Blog Archive
+
+
+ The Air Quality Index doesn’t make any sense  (19 Jun 2023)
+
+
+ The El Chapo model of AI containment  (12 May 2023)
+
+
+ Double descent in human learning  (21 Apr 2023)
+
+
+ A map of laboratory-acquired infections  (01 Nov 2022)
+
+
+ Small correlations can drive large increases in teen depression  (10 May 2022)
+
+
+ The uncertainty pill  (17 Apr 2022)
+
+
+ Ke (2021) is not logarithmic  (16 Feb 2022)
+
+
+ 10x the live viral count, 10x the infectiousness  (10 Feb 2022)
+
+
+ Waning immunity and the little paradox of R0  (01 Jan 2022)
+
+
+ Pandemic virus prediction: All risk and minimal benefit  (18 Dec 2021)
+
+
+ Teens, loneliness, and the social media paradox  (14 Aug 2021)
+
+
+ The FDA is 5X too worried about long term credibility  (25 Jul 2021)
+
+
+ Autism, folic acid, and the trend without a blip  (27 Jun 2021)
+
+
+ You’re probably measuring your treatment effect incorrectly  (28 Mar 2021)
+
+
+ Instrumental variables analysis for non-economists  (13 Mar 2021)
+
+
+ Things that confused me about cross-entropy  (26 Dec 2020)
+
+
+ Contagiousness sensitivity: The metric that could control the pandemic  (29 Nov 2020)
+
+
+ Upgrading to MathJax 3.0 after the Kramdown update in Github Pages  (05 Sep 2020)
+
+
+ Why low sensitivity antigen tests are better than slow PCR tests  (15 Jul 2020)
+
+
+ Everything I’ve learned about solar storm risk and EMP attacks  (18 Jun 2020)
+
+
+ Coronavirus and fragmented data pipelines  (14 Apr 2020)
+
+
+ The shower problem  (08 Feb 2020)
+
+
+ Optimizing sample sizes in A/B testing, Part III: Aggregate time-discounted expected lift  (10 Jan 2020)
+
+
+ Optimizing sample sizes in A/B testing, Part II: Expected lift  (10 Jan 2020)
+
+
+ Optimizing sample sizes in A/B testing, Part I: General summary  (10 Jan 2020)
+
+
+ Variance after scaling and summing: One of the most useful facts from statistics  (18 May 2019)
+
+
+ Using your ears and head to escape the Cone Of Confusion  (06 Aug 2018)
+
+
+ Hyperbolic discounting — The irrational behavior that might be rational after all  (04 Feb 2018)
+
+
+ Religions as firms  (02 Dec 2017)
+
+
+ Three questions for social scientists: Internet virtue edition  (19 Jun 2017)
+
+
+ Keyboard shortcuts I couldn’t live without  (22 May 2017)
+
+
+ Learning by flip-flopping  (08 May 2017)
+
+
+ Empirical Bayes for multiple sample sizes  (03 May 2017)
+
+
+ Optimizing things in the USSR  (11 May 2016)
+
+
+ Comparing the opinions of economic experts and the general public  (10 Apr 2016)
+
+
+ Four pitfalls of hill climbing  (28 Feb 2016)
+
+
+ How to make polished Jupyter presentations with optional code visibility  (13 Feb 2016)
+
+
+ New Blog Address  (16 Sep 2015)
+
+
+ 10 classic dialogues you can find on the internet  (08 Aug 2015)
+
+
+ Across industries, we’re getting better at picking metrics  (31 May 2015)
+
+
+ Independent t-tests and the 83% confidence interval: A useful trick for eyeballing your data.  (01 Dec 2014)
+
+
+ Jumping quickly between deep directories  (16 Oct 2014)
+
+
+ How failed replications change our effect size estimates  (10 Jul 2014)
+
+
+ Jason Mitchell’s essay  (07 Jul 2014)
+
+
+ How I use Twitter  (14 May 2014)
+
+
+ High School STEM curriculum wishlist  (22 Feb 2014)
+
+
+ Is your job in another state?  (08 Feb 2014)
+
+
+ My Insight Data Science Project  (12 Oct 2013)
+
+
+ FAQ for Which Famous Economist  (19 Aug 2013)
+
+
+ New model of binocular rivalry  (30 Mar 2013)
+
+
+ Canadian funding models for all  (21 Mar 2013)
+
+
+ Eight Lessons from the Reproducibility Crisis   (16 Jan 2013)
+
+
+ In defense of correlation/causation blowhards  (09 Jan 2013)
+
+
+ New paper on autism  (29 Dec 2012)
+
+
+ Why are contrast response functions linear in fMRI and nonmonotonic in EEG?  (04 Oct 2012)
+
+
+ National labs for all the sciences  (29 May 2012)
+
+
+ FAQ  (18 Apr 2012)
+
+
+ It’s the incentive structure, people! Why science reform must come from the granting agencies.  (17 Apr 2012)
+
+
+
+
+
+
+
+

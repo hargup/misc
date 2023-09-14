@@ -1,0 +1,119 @@
+Convai - Conversational AI for Virtual Worlds
+
+
+FeaturesUse CasesIntegrationsDocsBlogPricingPluginsVideosSign In
+
+
+
+
+
+
+
+
+Conversational AIÂ for Virtual Worlds.Enable your character with human-like conversation capabilities in games and virtual world applications.How ITÂ WORKSEasy-to-use interface to create your characters' intelligence, and plugins to connect them to your character assets and worlds.1Create your character with the right backstory, voice and expertise, and test it on the playground.2Connect with your NPC assets inside game engines using our integrations3Your character inside the virtual world can have open ended voice based conversations and carry out actions.Design your conversation-based Characters and Speech based games. Lets get started.Explore Playground
+
+Product featuresExperience the cutting edge of Generative Conversational AI[01]Conversational AI for Virtual Worlds[02]Add unlimited knowledge to make your character an expert[03]Scene perception and actions[01] Conversational AI for Virtual WorldsVoice to voice interface:Convai is designed for realtime end-to-end voice-based interactions with characters, and optimized for scale to support millions of users.[02] Add unlimited knowledge to make your character an expertMake your character an expert that YOU can rely on:Convai addresses the problem of 'hallucination' of information that occur with Large Language Models by adding a knowledge base for characters, which can help ensure accurate responses to user queries.[03] Scene perception and actionsCharacter perceives the environment and carries out actionsYour characters can perceive the various objects and entities in the scene and execute actions based on your commands and requests or their own motivation.Use CasesReimagine gaming, learning, and entertainment with AIÂ characters.Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Reimagine gaming, learning and entertainment with AIÂ characters.GamingMetaverse10x engagement with Bots and NPCs that have human-like capabilities01Mod games to enable NPCs with open ended conversation capabilities.02Onboard your users with conversational characters03Enable Companion bots with intelligence such that they can carry out commands and strategies.Learning, training and socializing in an immersive and interactive world with AI characters01Create AI tutors in XR that can teach any subject with reliable expertise for K12 and universities.02Enable AI guided training applications in various domains such as healthcare, legal, manufacturing, ecommerce etc.03Populate your worlds with AI assistants that can help visitors and make your world seem alive.integrationsIntegrate your characters with any platform or game engineÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â We support the following platforms with more to come, but our Core APIs can be integrated into any application.Learn more
+
+Learn more
+
+Learn more
+
+Learn more
+
+Learn more
+
+Contact usWe would love to hear from youLet's get on a callSend us a messageNameEmail AddressMessageThank you! Your submission has been received!Oops! Something went wrong while submitting the form.Let's buildA note to Developers
+
+
+
+
+
+
+
+
+
+
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â The future where you have your companion bot that understands you and fights side by side with you on a high intensity game or the AI tutor that helps you learn your toughest subjects, all of that is now possible.Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â You can make such experiences possible. Letâs make the future happen and build the next generation of games and experiences together.Purnendu MukherjeeCEO & Founder of Convai
+
+
+
+
+
+
+Subscribe to our newsletter:Thank you! Your submission has been received!Oops! Something went wrong while submitting the form.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Â© 2023 - Convai Technologies Inc.ApplicationsUse CasesFeaturesProduct DemoIntegrationsproductConvai PlaygroundSpeech To TextText to SpeechExploreDocumentationBlogFAQâsPricingVideosCompanyCareerSupport CenterPrivacy PolicyTerms & Conditions
+
+
+
+
+
+
+
+
+
+

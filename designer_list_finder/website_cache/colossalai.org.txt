@@ -1,0 +1,23 @@
+
+
+
+
+
+Colossal-AI
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main contentColossal-AITutorialsExamplesBlogsNextEnglishEnglish简体中文SearchUnmatched Speed and ScaleLearn about the distributed techniques of Colossal-AI to maximize the runtime performance of your large neural networks. Get started GitHub CommunityNeed professional help? Talk to our experts →All about Colossal-AIGet startedStart your first Colossal-AI project.Download and installationQuick demoUsage examplesConceptsUnderstand how Colossal-AI works.OverviewDistributed TrainingParadigms of ParallelismSample use casesAchieve the following with Colossal-AI:Train GPT Using Hybrid ParallelismMeet Gemini:The Heterogeneous Memory Manager of Colossal-AICommand Line Interface (CLI)The Colossal-AI Command Line Interface is a unified tool to manage your Colossal-AI projects.IntroductionLaunch distributed jobsTensor Parallel Micro-BenchmarkingConfigurationDefine your Colossal-AI project configuration as per your needs.IntroductionFeature specificationGlobal hyper-parameterDo you use Colossal-AI?If you are a happy user of our open source Colossal-AI software and implemented a deep learning project with it, please let us know.Submit your Colossal-AI projectResourcesTutorialsExamplesForumCommunityGitHubBlogTwitterAboutCompanyServicesCustomersCopyright © 2023 All Rights Reserved by HPC-AI Technology Inc.
+
+
+

@@ -1,0 +1,191 @@
+
+
+
+
+diyhpluswiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+diyhpluswiki
+
+
+
+
+
+
+
+
+
+
+
+Edit
+RecentChanges
+History
+Preferences
+
+
+
+
+
+About this wiki
+This is a wiki for open source hardware, do-it-yourself biohacking and practical transhumanism. The engineering teams behind this wiki can be found in the hplusroadmap IRC channel (logs). Projects are self-funded by the group.
+
+Editing this wiki
+Submit a pull request on github: https://github.com/kanzure/diyhpluswiki
+Register to edit here and see other commands. You can also clone this wiki with git and push changes back:
+git clone git://diyhpl.us/diyhpluswiki.git
+
+Note to push changes you must push with your registered account:
+git push username@diyhpl.us:/srv/git/diyhpluswiki.git master
+
+You can make this easier by updating the remotes:
+git remote set-url origin username@diyhpl.us:/srv/git/diyhpluswiki.git
+
+Now "git push" should work without debilitating complaint.
+browse wiki history on cgit
+
+Interesting pages
+
+genetic-modifications - proposed human upgrades
+gene-editing - various gene therapy tools and mechanisms
+protein-engineering - protein folding and protein engineering wishlist
+transcripts - bryan goes to conferences and types really really fast
+hplusroadmap - what is hplusroadmap?
+project ideas - what can you do with DNA synthesis?
+DIYbio FAQ - this is a basic FAQ on do-it-yourself biohacking
+DIYbio group list - stalk everyone in diybio for fun and profit!
+
+
+Index of pages
+
+
+
+articles
+
+
+bitcoin
+
+
+cad
+
+
+chatsummaries
+
+
+diybio
+
+
+dna
+
+
+fda
+
+
+gene-editing
+
+
+gene-therapy
+
+
+genetic-modifications
+
+
+goals.yaml.txt
+
+
+homecmos
+
+
+hplusroadmap
+
+
+human-modifications.csv
+
+
+in-vitro-fertilization
+
+
+index
+
+
+longevity
+
+
+myostatin
+
+
+nanotech
+
+
+nootropics
+
+
+polymerase
+
+
+projects
+
+
+protein-engineering
+
+
+proteins
+
+
+scaffolding
+
+
+self-replicating machines
+
+
+senses
+
+
+talk:diybio
+
+
+trans-tech.yaml.txt
+
+
+transcripts
+
+
+transhumanism
+
+
+users
+
+
+wikiicons
+
+
+wikis
+
+
+
+Other
+Also there's a laser_etcher for microfluidics project (see cgit).
+
+
+
+
+
+Last edited Sat May 28 12:37:41 2022
+
+
+
+
+
+
+
+

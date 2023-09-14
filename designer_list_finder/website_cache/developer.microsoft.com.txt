@@ -1,0 +1,802 @@
+
+
+
+
+
+
+
+
+Microsoft Developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+Microsoft
+
+
+
+Developer
+
+
+
+
+Developer
+
+
+
+
+                            Developer
+                        
+
+
+
+
+ Home 
+
+
+
+Products
+
+
+Dynamics 365
+
+
+Microsoft 365
+
+
+Microsoft Azure
+
+
+Microsoft Edge
+
+
+Microsoft Graph
+
+
+Microsoft Identity Platform
+
+
+Microsoft Teams
+
+
+Microsoft Viva
+
+
+Mixed Reality
+
+
+Power Platform
+
+
+Windows
+
+
+Windows for IoT
+
+
+
+ 
+
+Languages
+
+
+.NET
+
+
+Java
+
+
+JavaScript
+
+
+Python
+
+
+
+ 
+Blogs
+
+
+Events
+
+
+Documentation
+
+
+Community
+
+
+
+More
+
+
+
+
+
+
+
+ 
+
+
+
+ All Microsoft
+
+
+Global
+
+
+Microsoft Security
+
+
+Azure
+
+
+Dynamics 365
+
+
+Microsoft 365
+
+
+Microsoft Teams
+
+
+Windows 365
+
+
+
+
+Tech & innovation
+Tech & innovation
+
+
+Microsoft Cloud
+
+
+AI
+
+
+Azure Space
+
+
+Mixed reality
+
+
+Microsoft HoloLens
+
+
+Microsoft Viva
+
+
+Quantum computing
+
+
+Sustainability
+
+
+
+
+Industries
+Industries
+
+
+Education
+
+
+Automotive
+
+
+Financial services
+
+
+Government
+
+
+Healthcare
+
+
+Manufacturing
+
+
+Retail
+
+
+All industries
+
+
+
+
+Partners
+Partners
+
+
+Find a partner
+
+
+Become a partner
+
+
+Partner Network
+
+
+Find an advertising partner
+
+
+Become an advertising partner
+
+
+Azure Marketplace
+
+
+AppSource
+
+
+
+
+Resources
+Resources
+
+
+Blog
+
+
+Microsoft Advertising
+
+
+Developer Center
+
+
+Documentation
+
+
+Events
+
+
+Licensing
+
+
+Microsoft Learn
+
+
+Microsoft Research
+
+
+
+
+View Sitemap
+
+
+
+
+
+
+
+
+
+
+Search
+Search Microsoft.com
+
+
+
+
+ No results
+
+
+
+
+Cancel
+
+
+
+Sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Developer
+Any platform.Any language.Our tools.
+Start learning
+
+
+
+
+
+
+
+
+
+
+
+Start building with these Microsoft products
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft 365
+Create engaging experiences and bring users into your app as they work day-to-day in Microsoft 365.
+
+
+
+
+
+
+
+
+
+
+Microsoft Azure
+Turn your ideas into solutions with cloud services. Build how you want and deploy where you want.
+
+
+
+
+
+
+
+
+
+
+Microsoft Teams
+Build intelligent, collaborative apps that engage users in their flow of work with Teams.
+
+
+
+
+
+
+
+
+
+
+Power Platform
+Accelerate innovation and turn your ideas into powerful solutions with Power Platform.
+
+
+
+
+
+
+
+
+
+
+Visual Studio
+Best-in-class tools for any developer. Use your favorite language to deliver apps and services on any platform.
+
+
+
+
+
+
+
+
+
+
+Windows
+Develop for Windows. Build experiences that reach users everywhere.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SEPTEMBER 14 - 28
+The Power PlatformGlobal AI Hack
+Build, innovate, and #HackTogether
+Register now
+
+
+
+
+
+
+
+
+
+
+Other ways to get your project started
+
+
+
+
+
+
+
+
+
+
+
+
+AI
+Accelerate productivity and build the future faster with Microsoft AI.
+
+
+
+
+
+
+
+
+
+Cloud development
+Develop cloud applications for Microsoft Azure.
+
+
+
+
+
+
+
+
+
+Code to Cloud
+Build your apps from the ground up with tools and technologies designed for developers.
+
+
+
+
+
+
+
+
+
+Game development
+Create bold, immersive game experiences that attract and engage players.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Learn
+                                
+Find training and certifications and discover resources that will assist you on your learning journey. Whether you are just starting or you are an experienced professional, our hands-on approach helps you arrive at your goals faster, with more confidence and at your own pace.
+
+Learning paths
+
+
+Learn .NET
+
+
+Learn Azure
+
+
+Learn Power Platform
+
+
+Learn Python
+
+
+Learn shows
+
+
+Developer YouTube channel
+
+
+
+
+
+
+
+
+
+Tools
+Use the right tools and platforms for building many types of applications.
+
+.NET
+
+
+GitHub
+
+
+Visual Studio Code
+
+
+
+
+
+
+
+Resources
+Explore documentation, tutorials, sample code, developer guides, and get answers to your technical questions.
+
+Documentation
+
+
+Code samples
+
+
+Microsoft Q&A
+
+
+Tech Community hub
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share, connect, and get inspired
+
+
+
+
+
+
+
+
+                                    GitHub Copilot
+                                
+Build great software with GitHub Copilot.
+
+
+Read more
+
+
+
+
+
+
+
+
+Blogs
+Learn about the latest developer news from around Microsoft.
+
+
+Discover blogs
+
+
+
+
+
+
+Connect with community
+Discover and connect with others who build with Microsoft tools and services.
+
+
+Explore a community
+
+
+
+
+
+
+
+
+
+
+Events
+Join upcoming events and watch past events delivered by the technical community and Microsoft experts.
+
+
+Discover events
+
+
+
+
+
+
+Microsoft Reactor
+Microsoft Reactor connects you with the developers and startups that share your goals.
+
+
+Explore Reactor events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us on the web
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Theme
+                
+
+
+
+
+
+
+
+English (United States)
+
+
+California Consumer Privacy Act (CCPA) Opt-Out Icon
+
+
+
+
+
+Your Privacy Choices
+
+
+
+
+California Consumer Privacy Act (CCPA) Opt-Out Icon
+
+
+
+
+
+Your Privacy Choices
+
+
+
+
+
+Contact Microsoft 
+
+
+Privacy & Cookies
+
+
+Terms of Use
+
+
+Trademarks
+
+© Microsoft 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

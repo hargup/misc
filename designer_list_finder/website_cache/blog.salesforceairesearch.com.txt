@@ -1,0 +1,1826 @@
+
+
+
+
+Salesforce AI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blog
+The Latest and Greatest from Salesforce Research
+
+
+
+
+
+Topics
+
+
+accountability
+
+
+accuracy
+
+
+ACL 2022
+
+
+adversarial attacks
+
+
+Agent-Based Models
+
+
+AI agents
+
+
+AI assistant
+
+
+AI coding
+
+
+AI Economist
+
+
+AI ethics
+
+
+AI for Global Climate Cooperation
+
+
+ai future
+
+
+AI object detection
+
+
+AI Operations
+
+
+AI principles
+
+
+AI Research
+
+
+AI Research Residents
+
+
+AI Residency Program
+
+
+AI Summarist
+
+
+AI Training
+
+
+AI-fairness
+
+
+ALPRO
+
+
+artificial intelligence
+
+
+AutoML
+
+
+bias
+
+
+biomedical-ai
+
+
+BLIP
+
+
+bootstrapping
+
+
+bot builders
+
+
+bot simulation
+
+
+BotSIM
+
+
+causal analysis
+
+
+certification
+
+
+chatbot builders
+
+
+chatbots
+
+
+Climate AI
+
+
+Climate Change
+
+
+Climate Change AI
+
+
+Climate Change Competition
+
+
+Climate Economics
+
+
+code generation
+
+
+Code RL
+
+
+code understanding
+
+
+code-intelligence
+
+
+code-mixing
+
+
+CodeGen
+
+
+codet5+
+
+
+compositional generalization
+
+
+computer vision
+
+
+concept drift
+
+
+conference papers
+
+
+conferences
+
+
+consent
+
+
+continual learning
+
+
+Contract Design
+
+
+controllable summarization
+
+
+controllable text summarization
+
+
+conversational AI
+
+
+conversational AI programming
+
+
+Converse
+
+
+counterfactuals
+
+
+crm
+
+
+CTRLsum
+
+
+CUDA
+
+
+culture
+
+
+CVPR 2022
+
+
+data
+
+
+data quality
+
+
+data-cloud
+
+
+databases
+
+
+deep forecasting
+
+
+deep learning
+
+
+deep learning library
+
+
+deep learning theory
+
+
+deep RL
+
+
+deep time-index models
+
+
+deep time-series forecasting
+
+
+deeplearning
+
+
+DeepTime
+
+
+Diversity
+
+
+DL library
+
+
+economic analysis
+
+
+economics
+
+
+education
+
+
+encoder-decoder
+
+
+engineering
+
+
+enterprise
+
+
+Enterprise App Recommendation
+
+
+equality
+
+
+ethics
+
+
+ETS
+
+
+ETSformer
+
+
+evolution
+
+
+exact diffusion inversion via coupled transforms
+
+
+Explainability
+
+
+Explainable AI
+
+
+explanations
+
+
+feature learning
+
+
+few-shot learning
+
+
+forecasting
+
+
+frameworks
+
+
+FSL
+
+
+FSNet
+
+
+fuzzy-matching
+
+
+Game Theory
+
+
+generalization
+
+
+generative AI
+
+
+GPU simulations
+
+
+human rights
+
+
+humaneval
+
+
+ICLR
+
+
+ICLR 2022
+
+
+ICML 2022
+
+
+identity-resolution
+
+
+image editing
+
+
+image generation
+
+
+impact
+
+
+interpretability
+
+
+interpretable ML
+
+
+journals
+
+
+KBQA
+
+
+knowledge bases
+
+
+language-image pre-training
+
+
+Language-Vision
+
+
+large language model
+
+
+LAVIS
+
+
+library
+
+
+llm
+
+
+machine-learning
+
+
+MADRL
+
+
+Merlion
+
+
+meta-learning
+
+
+ML
+
+
+ML library
+
+
+ML pipeline
+
+
+ML repo
+
+
+model cards
+
+
+multi-agent deep RL
+
+
+multi-agent RL
+
+
+multi-agent-systems
+
+
+multilingual
+
+
+multilingual NLP
+
+
+multimodal content generation
+
+
+multivariable observational data
+
+
+NAACL 2022
+
+
+natural language
+
+
+natural language interface
+
+
+Near-Negative Distinction
+
+
+Negotiation Design
+
+
+news
+
+
+NLG
+
+
+NLP
+
+
+NND
+
+
+nofeature
+
+
+non-stationarity
+
+
+Numba
+
+
+object detection
+
+
+OmniXAI
+
+
+online learning
+
+
+online privacy
+
+
+open source
+
+
+open vocabulary object detection
+
+
+operationalizing principles
+
+
+OVD
+
+
+PB-OVD
+
+
+Policy Design
+
+
+practitioners
+
+
+pre-training
+
+
+pretrained language model
+
+
+productivity
+
+
+program synthesis
+
+
+proteins
+
+
+pseudo bounding-box labels
+
+
+pseudo labels
+
+
+publications
+
+
+Python
+
+
+Python library
+
+
+PyTorch
+
+
+PyTorch Lightning
+
+
+QA
+
+
+question answering
+
+
+Recommendation Systems
+
+
+reinforcement-learning
+
+
+reliability
+
+
+Reliable AI
+
+
+representation learning
+
+
+research
+
+
+research highlights
+
+
+Research Roundup
+
+
+Responsible AI
+
+
+RICE-N
+
+
+right to be forgotten
+
+
+RnG-KBQA
+
+
+root cause analysis
+
+
+Science Advances
+
+
+security
+
+
+serving
+
+
+simulations
+
+
+Slack
+
+
+social-welfare
+
+
+soft-matching
+
+
+summarization
+
+
+Summer 2022
+
+
+TaiChi
+
+
+task oriented dialogue systems
+
+
+task-oriented dialog
+
+
+text generation evaluation
+
+
+text summarization
+
+
+text to image to 3D
+
+
+text-to-image diffusion
+
+
+time series
+
+
+time series forecasting
+
+
+time series transformers
+
+
+TOD
+
+
+TOD systems
+
+
+tooling
+
+
+toolkits
+
+
+Training
+
+
+transformers
+
+
+transparency
+
+
+trust
+
+
+universal object detector
+
+
+video QA
+
+
+video question answering
+
+
+video-and-language
+
+
+video-language pre-training
+
+
+video-text retrieval
+
+
+vision and language
+
+
+vision-language generation
+
+
+vision-language understanding
+
+
+voice
+
+
+WarpDrive
+
+
+webly supervised learning
+
+
+xai
+
+
+zero-shot generalization
+
+
+Authors
+
+
+Akari Asai
+
+
+Akash Gokul
+
+
+Akhilesh Deepak Gotmare
+
+
+Alex Trott
+
+
+Alexander Rosenberg Johansen
+
+
+Alexandria Murray
+
+
+Ali Madani
+
+
+Allison Ching
+
+
+Amrita Saha
+
+
+Anna Bethke
+
+
+Audrey Cook
+
+
+Ben Krause
+
+
+Bo Pang
+
+
+Bram Wallace
+
+
+Bryan McCann
+
+
+Caiming Xiong
+
+
+Chen Xing
+
+
+Chenghao Liu
+
+
+Chien-Sheng Wu
+
+
+Christina Zhang
+
+
+Congying Xia
+
+
+David Parkes
+
+
+Denise Perez
+
+
+Denna Mafie
+
+
+Devansh Arpit
+
+
+Divyansh Agarwal
+
+
+Donald Rose
+
+
+Dongxu Li
+
+
+Doyen Sahoo
+
+
+Ehsan Hosseini-Asl
+
+
+Erik Nijkamp
+
+
+Gerald Woo
+
+
+Guangsen Wang
+
+
+Henry Hung Le
+
+
+Hiroaki Hayashi
+
+
+Huan Wang
+
+
+James Bradbury
+
+
+Jesse Vig
+
+
+Jin Qu
+
+
+Juan Carlos Niebles
+
+
+Junnan Li
+
+
+Katherine Siu
+
+
+Kathy Baxter
+
+
+Kazuma Hashimoto
+
+
+Le Xue
+
+
+Lidiya Murakhovs'ka
+
+
+Lifu Tu
+
+
+Meghana Bhat
+
+
+Melvin Gruesbeck
+
+
+Mia Ferrer
+
+
+Michael Sollami
+
+
+Nazneen Rajani
+
+
+Nghi Bui
+
+
+Nikhil Naik
+
+
+Ning Yu
+
+
+Nitish Shirish Keskar
+
+
+Pan Zhou
+
+
+Paul Josel
+
+
+Philippe Laban
+
+
+Ramprasaath R. Selvaraju
+
+
+Ran Xu
+
+
+Richard Socher
+
+
+Romain Paulus
+
+
+Rui Meng
+
+
+Ryan Van Wagoner
+
+
+Salesforce Research
+
+
+Samson Tan
+
+
+Semih Yavuz
+
+
+Senthil Purushwalkam
+
+
+Shafiq Rayhan Joty
+
+
+Shelby Heinecke
+
+
+Shu Zhang
+
+
+Silvio Savarese
+
+
+Stanislav Georgiev
+
+
+Stephan Zheng
+
+
+Stephen Merity
+
+
+Steven Hoi
+
+
+Sunil Srinivasa
+
+
+Tian Lan
+
+
+Tian Xie
+
+
+Tianlu Wang
+
+
+Vena Jia Li
+
+
+Vera Serdiukova
+
+
+Victor Zhong
+
+
+Victoria Lin
+
+
+Wenzhuo Yang
+
+
+Wojciech Kryscinski
+
+
+Xinyi Yang
+
+
+Yingbo Zhou
+
+
+Yoav Schlesinger
+
+
+Yu Bai
+
+
+Yue Wang
+
+
+Zeyuan Chen
+
+
+Zhiwei Liu
+
+
+
+
+
+
+
+
+We're Hiring! Trusted AI Roles at Salesforce
+Meet the Office of Ethical and Humane Use
+
+Salesforce's Office of Ethical and Humane Use provides navigational guidance for the tough questions that arise when human potential meets emergent technology. We work across the company to guide the design, development, and deployment of trusted products, with a strong focus on
+21 Aug 2023 • 
+Christina Zhang • 
+#AI ethics
+
+
+
+
+
+
+Prototyping XGen-Image-1
+TLDR
+
+
+Generative AI methods for image generation have a wide variety of potential applications in marketing, sales, and e-commerce. With these applications in mind, the Salesforce Research team has developed several techniques based on image-generative diffusion models, including methods for image editing, improved classifier guidance, and improved controlled generation methods.
+03 Aug 2023 • 
+Bram Wallace • 
+
+
+
+
+
+
+
+PyRCA: Making Root Cause Analysis Easy in AIOps
+TL;DR: PyRCA is an open-source machine learning library specifically designed for conducting Root Cause Analysis (RCA) in IT operations. It offers a comprehensive framework that allows users to easily identify the complicated metric causal dependencies and automatically locate the root causes of incidents. The library provides a unified interface
+11 Jul 2023 • 
+Chenghao Liu • 
+#root cause analysis
+
+
+
+
+
+
+CodeGen2.5: Small, but mighty
+Equal contribution between Erik Nijkamp and Hiroaki Hayashi.
+
+Paper
+Code
+Tweet
+
+
+Abstract
+
+
+The family of Salesforce CodeGen models is growing with CodeGen2.5 – a small, but mighty model! While there has been a recent trend of large language models (LLM) of increasing size, we show that a small model can
+06 Jul 2023 • 
+Erik Nijkamp • 
+#CodeGen
+
+
+
+
+
+
+Long Sequence Modeling with XGen:  A 7B LLM Trained on 8K Input Sequence Length
+TLDR
+
+We trained a series of 7B LLMs named XGen-7B with standard dense attention on up to 8K sequence length for up to 1.5T tokens. We also fine tune the models on public-domain instructional data. The main take-aways are:
+
+ * On standard NLP benchmarks, XGen achieves comparable or better results
+28 Jun 2023 • 
+Erik Nijkamp • 
+#llm
+
+
+
+
+
+
+Toward Actionable Generative AI
+LAMs: From Large Language Models to Large Action Models
+
+There’s no question that we’re living in the era of generative AI, and its impact is only growing. More and more, AI is helping us write emails, create imagery, consume information, and even code. But as empowering as it
+27 Jun 2023 • 
+Silvio Savarese • 
+
+
+
+
+
+
+
+Mask-free OVIS: An Open-Vocabulary Instance Segmentation Mask Generator
+Authors: Vibashan Vishnukumar Sharmini, Ning Yu, Ran Xu
+
+Have you ever wondered how long it takes for a human annotator to annotate a dataset like COCO? MORE THAN A YEAR. Not to mention, even training a detection model on this dataset would only equip it to detect those specific 80
+16 Jun 2023 • 
+Ning Yu • 
+
+
+
+
+
+
+
+A Leap Forward in 3D Understanding: The ULIP and ULIP-2
+TL;DR:
+
+Imagine a world where machines comprehend 3D objects just as humans do. The ULIP (CVPR2023) and ULIP-2 projects, backed by Salesforce AI, are making this a reality by revolutionizing 3D understanding. ULIP uniquely pre-trains models with 3D point clouds, images, and texts, aligning them into a unified representation
+23 May 2023 • 
+Le Xue • 
+
+
+
+
+
+
+
+CodeT5+: Open Code Large Language Models
+TL;DR: CodeT5+ is a new family of open code large language models (LLMs) with improved model architectures and training techniques. CodeT5+ achieves the state-of-the-art performance among the open-source LLMs on many challenging code intelligence tasks, including zero-shot evaluation on the code generation benchmark HumanEval.  
+
+
+Background: Code LLMs
+
+Large language
+20 May 2023 • 
+Yue Wang • 
+#codet5+
+
+
+
+
+
+
+ConRad: Image Constrained Radiance Fields for 3D Generation from a Single Image
+TLDR
+
+We present ConRad, a novel approach for generating a 3D model from a single RGB image. We introduce a 3D representation that allows us to explicitly constrain the appearance of the object using the input image which leads to preservation of depicted details.  
+
+
+
+
+Background
+
+Over the last few years,
+05 May 2023 • 
+Senthil Purushwalkam • 
+#image generation
+
+
+
+
+
+
+Generative AI: 5 Guidelines for Responsible Development
+We have established a set of five guidelines that build upon our Trusted AI Principles to provide more detailed guidance for the responsible development and implementation of GenAI.
+28 Apr 2023 • 
+Kathy Baxter • 
+#accountability
+
+
+
+
+
+
+Meet Salesforce’s Trusted AI Principles
+It is not enough to deliver only the technological capabilities of AI – we also have an important responsibility to ensure that AI is safe and inclusive for all. These are our commitments to building AI responsibly.
+28 Apr 2023 • 
+Kathy Baxter • 
+#AI ethics
+
+
+
+
+
+
+LogAI: A Library for Log Analytics and Intelligence
+TL;DR
+
+
+LogAI is an open-source library designed for log analytics and intelligence. It can process raw logs generated by computer systems and support log analytics tasks such as log clustering and summarization, as well as log intelligence tasks such as log anomaly detection and root-cause analysis. LogAI is compatible
+06 Apr 2023 • 
+Doyen Sahoo • 
+
+
+
+
+
+
+
+In Loving Memory of Dragomir Radev
+The Salesforce AI Team is mourning the loss of our beloved friend and mentor, Dragomir Radev.
+
+Our team was first introduced to Drago in November 2018 when he gave a talk at our Research Speaker Series. His passion for research beamed through his talk and our leadership team unanimously decided
+04 Apr 2023 • 
+Audrey Cook • 
+
+
+
+
+
+
+
+BLIP-2: Scalable Pre-training of Multimodal Foundation Models for the World's First Open-source Multimodal Chatbot
+BLIP-2: Scalable Pre-training of Multimodal Foundation Models for the World's First Open-source Multimodal Chatbot
+17 Mar 2023 • 
+Junnan Li • 
+
+
+
+
+
+
+
+Unify Profiles with Salesforce Data Cloud Identity Resolution Soft-Matching
+Salesforce Data Cloud, the first real-time CRM, is turning your data into real-time customer magic. You might have witnessed how our AI research is powering intelligent experiences with Identity Resolution for Fuzzy Matching featured at Dreamforce.
+
+The goal of identity resolution is to identify the same individuals across datasets and
+16 Feb 2023 • 
+Denise Perez • 
+#identity-resolution
+
+
+
+
+
+
+CausalAI: Answering Causality Questions Using Observational Data
+TLDR; We introduce the Salesforce CausalAI Library, an open source library for causal analysis of time series and tabular data. The Salesforce CausalAI Library aims to provide a one-stop solution to the various needs in causal analysis including handling different data types, data generation, multi-processing for speed-up, utilizing domain knowledge
+31 Jan 2023 • 
+Devansh Arpit • 
+#multivariable observational data
+
+
+
+
+
+
+EDICT: Accurate Text-Guided Image Editing with Diffusion Models
+TL;DR: Text-to-image diffusion models are very adept at generating novel images from a text prompt, but current adaptations of these methods to image editing suffer from a lack of consistency and faithfulness to the original image. Many of these discrepancies can be traced to the difficulty of inverting the
+09 Jan 2023 • 
+Bram Wallace • 
+#text-to-image diffusion
+
+
+
+
+
+
+AI Summarist: Get Your Time Back on Slack, Boost Productivity & Focus, Personalize Information Consumption
+TL;DR: Slack is a powerful productivity tool that professionals and teams around the globe depend on to communicate and keep up with vital information at work, making async work efficient. However, with an increase in the number (and variety) of conversations on Slack that a typical user keeps track
+06 Dec 2022 • 
+Divyansh Agarwal • 
+#AI Summarist
+
+
+
+
+
+
+BotSIM: An End-to-End Automatic Evaluation Framework for Task-Oriented Dialog Systems
+TL;DR: We present BotSIM, a data-efficient end-to-end Bot SIMulation toolkit for evaluation, diagnosis, and improvement of commercial task-oriented dialogue (TOD) systems. BotSIM's “generation-simulation-remediation'' paradigm can accelerate the end-to-end bot evaluation and iteration process by: (1) reducing the effort needed to create test cases; (2) enabling a better understanding of
+29 Nov 2022 • 
+Guangsen Wang • 
+#bot simulation
+
+
+
+
+
+
+Near-Negative Distinction: Re-Thinking Text Generation Evaluation
+We introduce an automated method for evaluating the quality of AI-generated text by repurposing prior human evaluation data. The method is called Near-Negative Distinction.
+23 Nov 2022 • 
+Philippe Laban • 
+#Near-Negative Distinction
+
+
+
+
+
+
+Salesforce AI Research at NeurIPS 2022
+Conference Overview
+
+Next week, the Thirty-sixth annual Conference on Neural Information Processing Systems (NeurIPS) will be held in New Orleans, Louisiana from Monday, November 28th, through Friday, December 9th. NeurIPS will include invited talks, demonstrations, oral and poster presentations of accepted papers. Along with the conference is a professional exposition
+22 Nov 2022 • 
+Mia Ferrer • 
+
+
+
+
+
+
+
+Resolve Cases Quickly with Interactive Einstein Search Answers
+Background
+
+We live in a digital world where many of us depend on customer service to be at its best. Whether it's calling about an order issue or needing help to activate an account, we are always reaching out to customer service to save the day. We are no longer
+15 Nov 2022 • 
+Denise Perez • 
+
+
+
+
+
+
+
+Salesforce AI Residency Program Opens Applications for 2023; 12-Month Training Helps Launch Careers of AI Researchers and Engineers
+TL;DR: Applications are now open for the next cohort of Salesforce’s AI Residency Program. We invite researchers and engineers to join our 12-month training program, designed to help launch their careers while serving as AI Residents at Salesforce AI Research. Candidates based in the U.S. can apply
+04 Nov 2022 • 
+Donald Rose • 
+#AI Residency Program
+
+
+
+
+
+
+FAccT 2022 CRAFT Summary: Challenges in FAccT from Research to Practice to Policy
+We summarize insights from our FAccT 2022 CRAFT workshop that focused on Concepts of Fairness & Transparency, Applied RAI Practices, Organizational Approaches to RAI & Cultural Change, and Public Policy & Regulation.
+02 Nov 2022 • 
+Kathy Baxter • 
+#AI ethics
+
+
+
+
+
+
+WarpDrive v2 Release Supports Numba to Simplify Machine Learning Workloads and Make Building Simulations Easier on NVIDIA GPUs
+TL;DR: Deep reinforcement learning (RL), a powerful learning framework to train AI agents, can be slow as it requires repeated interaction with a simulation of the environment. Our original WarpDrive accelerates multi-agent deep RL on NVIDIA GPUs, enabling 10-100x speedups compared to alternative CPU+GPU implementations of multi-agent simulations.
+02 Nov 2022 • 
+Tian Lan • 
+#WarpDrive
+
+
+
+
+
+
+FSNet Learns Deep Time-Series Forecasting Models On the Fly, Adapts to Nonstationary Environments
+AUTHORS: Chenghao Liu, Quang Pham, Doyen Sahoo, Donald Rose
+
+TL;DR: Nonstationary data, which changes its statistical properties over time, can make time series forecasting difficult. Despite the recent success of deep learning techniques for time series forecasting tasks, these methods are not scalable for applications where data arrives sequentially
+28 Oct 2022 • 
+Chenghao Liu • 
+#time series
+
+
+
+
+
+
+DeepTime: Using Deep Time-Index Meta-Learning to Improve Non-Stationary Time-Series Forecasting
+TL;DR: The performance of existing time-series forecasting methods can degrade
+due to non-stationarity, where the statistical distribution of time-series data
+changes over time. Our new DeepTime method overcomes non-stationarity issues by
+leveraging a “forecasting as meta-learning” framework on deep time-index models.
+DeepTime achieves competitive accuracy on the long-sequence time-series
+13 Oct 2022 • 
+Gerald Woo • 
+#DeepTime
+
+
+
+
+
+
+Burn After Reading: Preserving Privacy Using Online Adaptation for Cross-Domain Streaming Data
+AUTHORS: Zeyuan Chen, Ran Xu, Luyu Yang, Donald Rose
+
+TL;DR: Many methods designed to preserve online privacy propose complex security measures to protect sensitive data. We believe that not storing any sensitive data is the optimal way to preserve privacy, so we propose a “burn after reading” online framework:
+06 Oct 2022 • 
+Zeyuan Chen • 
+#online privacy
+
+
+
+
+
+
+If You Can Say It, You Can Do It: The Age of Conversational AI
+Imagine you find yourself in the cockpit of a next-generation spacecraft—the kind that can get you from low Earth orbit to the Kuiper belt without breaking a sweat. How do you envision controlling it? Science fiction has conditioned us to equate futuristic technology with dazzling complexity, so you might
+03 Oct 2022 • 
+Silvio Savarese • 
+#conversational AI
+
+
+
+
+
+
+Summer 2022 Salesforce Research Roundup
+As we say a fond farewell to summer (bummer!), let's look back and review some
+of the stellar work reported on by Salesforce AI researchers during the past few
+months. (For more details, we encourage you to click the link for each project
+to read the full blog post.)
+
+
+--------------------------------------------------------------------------------
+30 Sep 2022 • 
+Donald Rose • 
+#Summer 2022
+
+
+
+
+
+
+Meet LAVIS: A One-stop Library for Language-Vision AI Research and Applications
+TL;DR: LAVIS (short for LAnguage-VISion) is an open-source deep learning library for language-vision research and applications, offering comprehensive support for a wide range of tasks, datasets, and state-of-the-art models. Featuring a unified interface and modular design, it’s easy to use off-the-shelf and to extend with new capabilities. With
+20 Sep 2022 • 
+Dongxu Li • 
+#LAVIS
+
+
+
+
+
+
+ETSformer: Exponential Smoothing Transformers for Time-Series Forecasting
+TL;DR: We developed a new time-series forecasting model called ETSformer that leverages the power of two frameworks. By combining the classical intuition of seasonal-trend decomposition and exponential smoothing with modern transformers – as well as introducing novel exponential smoothing and frequency attention mechanisms – ETSformer achieves state-of-the-art performance.
+
+
+
+
+Background
+
+
+
+
+
+
+Before diving
+23 Aug 2022 • 
+Gerald Woo • 
+#ETSformer
+
+
+
+
+
+
+Open Vocabulary Object Detection with Pseudo Bounding-Box Labels: Towards a Universal Object Detector
+AUTHORS: Chen Xing, Mingfei Gao, Donald Rose
+
+TL;DR: Most AI object detection methods work only on limited object categories, due to the human effort required for bounding-box annotations of training data. We developed a new method that automatically generates pseudo bounding-box annotations of diverse objects from large-scale image-caption pairs,
+16 Aug 2022 • 
+Chen Xing • 
+#object detection
+
+
+
+
+
+
+Responsible AI Matters: How Leading Practitioners Are Implementing It
+We brought together 24 practitioners from 17 organizations to talk about a success in their practice they believed others could emulate or a challenge they were facing & wanted to brainstorm with others. We summarize the insights from 2 breakout discussions: Governance/Accountability & Incentives.
+09 Aug 2022 • 
+Kathy Baxter • 
+#AI ethics
+
+
+
+
+
+
+AI for Global Climate Cooperation: Salesforce Research and Mila Announce Climate Change Collaboration and Competition
+TL;DR:  Salesforce Research and Mila announce AI for Global Climate Cooperation, a working group collaboration and competition to design negotiation protocols and climate agreements. We plan to coauthor a peer-reviewed scientific paper with top-performing teams; insights will be distilled into a policy brief shared with leading policymakers, informing future
+05 Aug 2022 • 
+Stephan Zheng • 
+#AI for Global Climate Cooperation
+
+
+
+
+
+
+AI Coding with CodeRL: Toward Mastering Program Synthesis with Deep Reinforcement Learning
+TL;DR: CodeRL is a new framework for program synthesis through holistic integration of pretrained language models and deep reinforcement learning. By utilizing unit test feedback as part of model training and inference, and integrating with an improved CodeT5 model, CodeRL achieves state-of-the-art results on competition-level programming tasks.
+
+The following
+19 Jul 2022 • 
+Henry Hung Le • 
+#reinforcement-learning
+
+
+
+
+
+
+Salesforce Research at ICML 2022
+Conference Overview
+
+This weekend will kick off the thirty-ninth International Conference on Machine
+Learning (ICML). This conference specifically aims to bring together
+professionals who are dedicated to the advancement of Machine Learning (ML) in
+Artificial Intelligence. Participants at ICML come from many different
+backgrounds, including academic and industrial researchers, entrepreneurs
+17 Jul 2022 • 
+Mia Ferrer • 
+#conferences
+
+
+
+
+
+
+Salesforce Research at NAACL 2022
+Conference Overview
+
+This weekend marks the start of the Annual Conference of the North American
+Chapter of the Association for Computational Linguistics (NAACL). NAACL provides
+a regional focus for members of the Association for Computational Linguistics
+(ACL) in North America. NAACL organizes annual conferences, promotes cooperation
+and information exchange among
+10 Jul 2022 • 
+Mia Ferrer • 
+#NAACL 2022
+
+
+
+
+
+
+Salesforce Research at CVPR 2022
+Conference Overview
+
+The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) is the
+annual conference on Computer Vision. CVPR is composed of both the main
+conference, as well as workshops and other courses, to provide a unique learning
+experience and networking opportunities in the field of Computer Vision.
+
+CVPR
+20 Jun 2022 • 
+Mia Ferrer • 
+#computer vision
+
+
+
+
+
+
+TaiChi: Open Source Library for Few-Shot NLP
+AUTHORS: Sharvin Shah, Jin Qu, Donald Rose
+
+TL;DR: TaiChi is an open source library for few-shot NLP, designed for data scientists and software engineers who want to get some quick results or build proof-of-concept products but don’t have much experience with few-shot learning (FSL). The library abstracts complex
+15 Jun 2022 • 
+Jin Qu • 
+#NLP
+
+
+
+
+
+
+OmniXAI: Making Explainable AI Easy for Any Data, Any Models, Any Tasks
+TL;DR:OmniXAI (short for Omni eXplainable AI) is designed to address many of the
+pain points in explaining decisions made by AI models. This open-source library
+aims to provide data scientists, machine learning engineers, and researchers
+with a one-stop Explainable AI (XAI) solution to analyze, debug, and interpret
+their
+14 Jun 2022 • 
+Wenzhuo Yang • 
+#OmniXAI
+
+
+
+
+
+
+Meet Merlion: An End-to-End Easy-to-Use Machine Learning Library for Time Series Applications
+AUTHORS: Huan Wang, Aadyot Bhatnagar, Doyen Sahoo, Wenzhuo Yang, Steven Hoi, Caiming Xiong, Donald Rose
+
+TL;DR: Time series data is a critical source of insights for many applications, including IT Operations, Quality Management, Financial Analytics, and Inventory & Sales Management. While a variety of dedicated packages and software exist, engineers
+02 Jun 2022 • 
+Huan Wang • 
+#ML
+
+
+
+
+
+
+ALPRO: Understanding Video and Language by Aligning Visual Regions and Text Entities
+TL;DR: We propose ALPRO, a new video-and-language representation learning framework which achieves state-of-the-art performance on video-text retrieval and video question answering by learning fine-grained alignment between video regions and textual entities via entity prompts.
+
+For more background (a review of key concepts used in this post), please see the
+31 May 2022 • 
+Dongxu Li • 
+#ALPRO
+
+
+
+
+
+
+RnG-KBQA: Rank-and-Generate Approach for Question Answering Over Knowledge Bases
+Lead Author: Xi Ye
+
+TL;DR: We propose RnG-KBQA, a Rank-and-Generate Approach for Question Answering over Knowledge Bases, which enables answering natural language questions over large-scale knowledge bases. Our approach is capable of answering questions about topics never seen in the training data, which makes it generalizable to a broad
+23 May 2022 • 
+Semih Yavuz • 
+#KBQA
+
+
+
+
+
+
+Turbocharge Multi-Agent Reinforcement Learning with WarpDrive and PyTorch Lightning
+TL;DR: WarpDrive is a flexible, lightweight, easy-to-use end-to-end reinforcement learning (RL) framework; enables orders-of-magnitude faster training on a single GPU. PyTorch Lightning enables you to modularize experimental code, and build production-ready workloads fast. Together, they can help significantly accelerate multi-agent RL R&D.
+
+
+
+
+Reinforcement Learning: Agents Learn by Maximizing
+20 May 2022 • 
+Sunil Srinivasa • 
+#WarpDrive
+
+
+
+
+
+
+Salesforce Research at ACL 2022
+Conference Overview
+
+This year marks the 60th annual meeting of the Association for Computational
+Linguistics Conference (ACL [https://www.2022.aclweb.org/]). ACL is the premier
+international scientific and professional society for people working on
+computational problems involving human language, a field often referred to as
+either computational linguistics or
+19 May 2022 • 
+Mia Ferrer • 
+#NLP
+
+
+
+
+
+
+Science Advances Publishes AI Economist Research on Improving Tax Policies With Reinforcement Learning
+TL;DR: The AI Economist, a reinforcement learning (RL) system, learns dynamic tax policies that optimize equality along with productivity in simulated economies, outperforming alternative tax systems. We have now expanded this research, which is being published in the interdisciplinary scientific journal Science Advances.
+
+
+Humans or AI: Which Can Design
+05 May 2022 • 
+Stephan Zheng • 
+#AI Economist
+
+
+
+
+
+
+Salesforce Research at ICLR 2022
+Conference Overview
+
+This year marks the Tenth International Conference on Learning Representations (
+ICLR [https://iclr.cc/Conferences/2022]), one of the premier academic
+conferences dedicated to advancing research in representation learning - a type
+of machine learning also referred to as feature learning or deep learning.
+
+ICLR features the latest
+25 Apr 2022 • 
+Mia Ferrer • 
+#ICLR
+
+
+
+
+
+
+Converse Task-Oriented Dialogue System Simplifies Chatbot Building, Handles Complex Tasks
+AUTHORS: Tian Xie, Xinyi Yang, Angela Lin, Donald Rose
+
+
+Introduction and Background
+
+
+
+Creating a system capable of conducting a meaningful conversation with a human and helping them accomplish tasks is one of the ultimate goals of Artificial Intelligence (AI), and has been since AI’s beginnings. Meanwhile, as real conversational
+08 Apr 2022 • 
+Tian Xie • 
+#Converse
+
+
+
+
+Page 1 of 3
+Older Posts →
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Salesforce.com
+Careers
+In the Media
+Github
+ Contact
+Privacy Information
+Terms of Service
+Legal
+Responsible Disclosure
+Trust
+Cookie Preferences
+
+ 
+          Your Privacy Choices
+        
+
+
+
+
+
+
+
+
+
+
+
+
+© Copyright 2023 Salesforce.com, inc. All rights reserved. Rights of ALBERT EINSTEIN are use with permission of The Hebrew University of Jerusalem. Represented exclusively by Greenlight.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

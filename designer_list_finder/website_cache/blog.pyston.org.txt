@@ -1,0 +1,724 @@
+
+
+
+
+
+The Pyston Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+ The Pyston Blog
+
+
+
+Menu
+
+HomeAbout
+
+
+
+
+
+
+
+
+
+Announcing 3.7-3.10 support and a new direction
+
+September 29, 2022 Kevin Modzelewski
+
+
+
+We’re very excited to announce that today we are releasing a new version of Pyston-lite, our Python JIT-as-an-extension-module, with the headline feature of supporting Python versions 3.7 through 3.10 (Mac and Linux). Previously we only supported Python 3.8, and support for other versions was one of our most-requested features.
+To install Pyston-lite, simply do pip install pyston_lite_autoload and your Python environment will be sped up by about 10-25%.
+We didn’t think that we’d be able to support multiple versions of Python at once, but this was enabled by some strategic changes that the rest of this post is about.
+Background on Pyston-lite
+Our original product, which we’re retroactively calling Pyston-full, is a fork of the entire CPython codebase. Having users install a fully-custom version of Python lets us make changes across the Python implementation, leading to the most optimizations and largest speedups.
+The flip side is that it is fairly intensive to set up. While we believe Pyston-full is one of the most highly-compatible alternative Python implementations available, it can be difficult to switch Python implementations regardless of the ease of use of either implementation. Compounded on this, we decided to break the ABI which requires users to recompile extension modules. In theory this is not a big deal, but in practice the lack of available binary packages is a significant disincentive to use an alternative implementation.
+The sum of all of this was that while we were very happy to achieve a 30% speedup with Pyston-full, it was very difficult to get people to start using it. We decided to try a different form factor: a pip-installable extension module called Pyston-lite.
+Pyston-lite reception
+It’s only been a few months since we released Pyston-lite, but the numbers since then have been striking: we are getting 100x more downloads per day for Pyston-lite than Pyston-full. Download counts can be misleading, and in our case it seems like most of the downloads are driven by a single project’s CI system, but we think the difference is still quite meaningful.
+Because of this we’ve decided to make the strategic change to focus on Pyston-lite as our core product. We’ve heard many people ask for better Python performance, but our experience seems to say that a full alternative implementation is not a particularly appealing solution to this ask. So while it’s a bit difficult to accept that we are now providing a 10% speedup instead of 30%, we’ve decided that it’s much more important to provide something that people are willing to use.
+What this means
+The very first implication of this is that we can provide support for multiple Python versions, and we are releasing 3.7 through 3.10 support today. Originally with Pyston-full it was untenable to actively develop across four different major versions of Python due to the sheer amount of code changes that would need to be supported. But by focusing our efforts on just the interpreter, it’s now feasible to have a single implementation that contains the appropriate guards and ifdefs to target any of the Python versions we support.
+Secondly, this means that we can no longer use many of our runtime optimizations. Fortunately, the non-interpreter changes we’ve made are generally less controversial than the interpreter changes, and we are working to submit them upstream back to CPython. Our first change has already been accepted and provides a few percent speedup. We’re having some unanticipated difficulty with the process of rebasing our other changes from 3.8 to 3.12, so this work is still in progress.
+We think of the breakdown roughly as follows: of our roughly 30% original speedup, 10% is going into Pyston-lite, 10% was done independently by the CPython team between 3.8 and main, and the remaining 10% we are hoping to contribute back upstream.
+In the longer-term future we are planning to submit our JIT upstream as well, but we expect retargeting it to 3.11 to be significantly more work than the other versions due to the extensive amount of changes that were made to the interpreter in that version.
+Organizational changes
+We’re very excited about these changes and the additional usage that we hope they unlock, but they also represent a fairly large reduction in scope for the Pyston project. This means that Marius and I (Kevin) are planning to gradually reduce our time investment in the project, and in particular we have made the decision to both leave Anaconda. We’ve been very happy with our original decision to join them, and I believe they have been happy as well, and the arrangement has ended on good terms. We’ve talked about ways we can continue to collaborate but no decisions have been made yet.
+Final thoughts
+Our goal is to get to the point that new versions of Python contain most of our speedups, and for those who are stuck or prefer to use older versions we offer as many speedups via Pyston-lite as possible. With the release of 3.7-3.10 support today we’re getting much closer to that goal.
+Our aim is still to be the magical way of getting better Python performance, and we hope that our release today makes it even more of a no-brainer: just type a single command and get better performance.
+As always if you have any questions or want to reach out for any reason, feel free to file an issue on our GitHub or chat with us in our Discord; we hope to hear from you!
+
+Appendix: current benchmark numbers
+These numbers are all versus a 3.8 baseline on a c6i.xlarge EC2 instance:
+pyperformancemacrobenchmarksPyston (full) 2.3.5+65%+28%pyston-lite 2.3.5 on 3.8+28%+10%CPython 3.11rc2+26%+12%
+
+
+Leave a comment
+
+
+
+
+
+
+Announcing Pyston-lite: our Python JIT as an extension module
+
+June 8, 2022June 8, 2022 Kevin Modzelewski
+
+
+
+Today we’re very excited to announce Pyston-lite, a JIT for Python that is easily installable as an extension module. We’ve taken the core technology of Pyston and repackaged it so that you can install it through your existing Python package manager, making it dramatically easier to use. Pyston-lite doesn’t contain all of the optimizations of regular Pyston, but it is roughly 10-25% faster than stock Python 3.8 depending on the workload and we are not done optimizing it.
+When we started Pyston v2 two years ago we originally built it as a PEP 523 extension module. We quickly, however, ran into optimizations that are prevented by that API, and we decided to fork the entire CPython codebase instead. We knew that ease-of-use was a primary factor in getting people to switch Python implementations so we made Pyston as easy to install as possible such as through a portable package and a conda package, but we kept noticing that there was still friction in the transition process which put off potential users. So we decided to do the one thing we could do to make the process even easier and offer an extension module again.
+As a bonus, this is the first time that Mac users can use the Pyston JIT.
+We’ve also released version v2.3.4 of full Pyston, which contains additional optimizations since v2.3.3. It is approximately 6% faster than v2.3.3 on pyperformance, for a total speedup of 66%. This release particularly improves the performance of Python floats and speeds up benchmarks like richards by 65% over v2.3.3.
+The way you write your code can affect how well Pyston can optimize it; Kevin gave a talk at PyCon about this and the video is now available, where he gives some examples of how a smart optimizer introduces some new considerations for the programmer.
+Using Pyston-lite
+We think we’ve made it as easy as it can get now: to start using a JIT for Python 3.8 on Linux or Mac, simply do
+
+pip install pyston_lite_autoload
+
+or
+
+conda install pyston_lite_autoload -c pyston -c conda-forge
+
+This will install our JIT and configure the current environment to automatically use it until you uninstall the package. You don’t have to create a new environment or recompile any packages, and we are not aware of any compatibility issues or limitations in the code that can be run.
+We offer two packages: pyston_lite, which contains our JIT, and pyston_lite_autoload which automatically injects our JIT into the Python process at startup. If you want programmatic control over enabling the JIT you can call pyston_lite.enable() without installing the autoload package, and if you install the autoload package you can disable the JIT injection by setting the DISABLE_PYSTON=1 environment variable.
+Caveats
+There are many things that we’re still hoping to add to Pyston-lite, but we wanted to launch an early version of it to get feedback and gauge interest. In particular, we’re planning on adding:
+More optimizations. We’ve ported most of the Pyston optimizations to Pyston-lite, but there are still a few more that we can port with additional work.Support for more Python versions. This current release only supports Python 3.8, but since Python-lite has a much smaller surface area we believe we can target multiple releases, unlike Pyston which will only target a single release for the foreseeable future.Working with upstream CPython to add more JIT APIs. We currently are unable to use all of our techniques in Pyston-lite due to having less control over the system, but we are in discussions with the CPython team to add more JIT hooks to Python 3.12. Ideally we will be able to offer an extension module for 3.12 that has the same performance as a full fork of CPython.
+A final caveat is that the performance is quite variable: we’ve seen very different performance results on different processors, with better improvements on a recent AMD processor than a moderately-old Intel processor. This is in addition to the workload-sensitivity that is inherent in a Python optimizer.
+Final words
+We hope you’ll try Pyston-lite out using the command above, because speeding up your Python code will not get any easier than this. If you have any trouble or questions you can find us on Discord and GitHub — we’d love to hear about your experience and which features you’d like us to prioritize.
+
+
+Addendum: benchmarking
+As more people are running Python benchmarks we wanted to make sure to publish our benchmarking methodology. The following numbers were generated on EC2 instances, either c6i.2xlarge or c6g.2xlarge, using an Ubuntu 20.04 AMI. The baseline was the Ubuntu-provided Python 3.8.10. The script used was essentially
+
+git clone https://github.com/pyston/python-macrobenchmarks
+cd python-macrobenchmarks
+git checkout c7dbe453
+bash compare.sh python3.8 pyston
+
+We found that while EC2 instances exhibit performance drift over time, varying by +-1% over the course of a day, when benchmarks are run back-to-back the results are surprisingly consistent. We chose to use EC2 instances as representative of user environments, and for ease of reproduction.
+We got the following results:
+pyperformance x86ARMPyston macrobenchmarks x86ARMPyston 2.3.4+66%+54%+35%+25%Pyston-lite 2.3.4+28%+25%+8%+8%Pyston-lite 2.3.4 Mac+27%+39%+8%+5%CPython 3.11.0b3+15%+10%+8%+5%
+
+
+9 Comments
+
+
+
+
+
+
+Pyston v2.3.3: ARM support
+
+April 1, 2022 Kevin Modzelewski
+
+
+
+Today we’ve released Pyston v2.3.3, the latest version of our faster implementation of Python. The headline feature of this release is 64-bit ARM support, making Pyston available on ARM servers, M1 Macs via docker, Raspberry Pi’s that run a 64-bit operating system, and other 64-bit ARM systems. We also have a small number of performance and compatibility improvements.
+Our speedup on ARM (30% on a Graviton EC2 instance) is comparable to our speedup for x86 (34% on an Intel i7-6700). Our warmup times are very low, so even low-powered processors such as the Raspberry Pi will benefit from Pyston. These numbers come from our macrobenchmark suite so we are hopeful that they are what you will achieve in practice.
+You can download the latest release from our Github. We’ve provided a large number of ARM packages in our pyston conda channel, and the easiest way to use them is to download one of our PystonConda installers. pip is of course supported as well, we just don’t have the ability to provide pre-built packages for that format and you will have to compile from source, which typically is seamless but sometimes you need to install a Fortran or Rust compiler. We’ve also updated the pyston/pyston docker image for those who prefer that format.
+We’d love to hear how these work for you! Feel free to file a bug report in our issue tracker or get in touch with us on our Discord server.
+
+
+Leave a comment
+
+
+
+
+
+
+Pre-compiled packages now available for Pyston
+
+December 7, 2021 Kevin Modzelewski
+
+
+
+We’re excited to announce today that it’s easier than ever to use Pyston, our faster Python implementation. We have pre-compiled hundreds of extension modules and are releasing them today, making it easy to use your favorite libraries with Pyston.
+For a bit of background: Pyston has always supported third party extension modules, but the practical difficulty of compiling some of them from source has been a roadblock for our users. These modules are difficult to compile on CPython as well, but library authors typically provide pre-compiled versions of their packages specifically for CPython. This means that installing, for example, the “cryptography” library is easy on CPython, but will fail to install in Pyston if one doesn’t have a Rust compiler installed.
+Now one can simply install a pre-compiled cryptography, or Tensorflow or PyTorch or pandas (or many others) and run one’s Python code with a speedup.
+How to use
+We’ve released the packages as conda packages at anaconda.org. The easiest way to get started is to download our custom installer which will install a conda client that is pre-configured to use Pyston and these packages. You can also use the pyston/conda docker image where we’ve done this for you. You can also set up an existing conda environment to use Pyston (wiki).
+We’ve chosen to provide conda packages because we can leverage the excellent work of the conda-forge team, who have done the hard work of creating repeatable build scripts for all of the packages. We are currently working on producing wheels for people who use pip, but this is less systematic and we don’t have an estimated timeline for it.
+Unfortunately the error messages at this point can be a bit cryptic. If you get an error message while trying to install packages along the lines of “package X requires python_abi 3.8.* *_cp38”, or “package X requires python”, this typically means that one of the libraries you are trying to install (or one of their dependencies) has not yet been built for Pyston. These issues are a bit tricky to debug, so feel free to let us know and we’ll figure it out and get the package built and uploaded.
+These packages should work on any Linux distribution that conda supports, though they have only been tested on Ubuntu. For Mac users we provide a docker container (pyston/conda) with our environment pre-installed. Windows users have reported good results by using Pyston inside WSL2.
+More technical details can be found on our wiki.
+Get in touch
+We’d love to hear from you and your experience with Pyston and these new packages. Whether it’s because you want a package that is not available, you run into some sort of difficulty, or if there are any other reasons that you are still unable to try Pyston, let us know in our issue tracker or discord server.
+We aim to make it effortless to accelerate your Python code, and if there is anything preventing that please let us know!
+
+
+Leave a comment
+
+
+
+
+
+
+Pyston roadmap
+
+October 26, 2021 Kevin Modzelewski
+
+
+
+We’ve spent some time recently thinking about the future of Pyston, our faster implementation of Python, and wanted to share what’s on our mind. For updates please check out our wiki.
+Roadmap
+Our primary goal at this point is to get more people using Pyston, and our initial approach to that will be removing some of the reasons that make it difficult to use Pyston. We are currently 30% faster on our benchmarks and 60% faster on commonly-used benchmarks, and while being even faster would entice more people to use Pyston, we believe we will have a bigger impact by reducing obstacles than by working on performance.
+The most common issue that our users report is not being able to install the packages they want. This happens because some packages are difficult to compile; CPython users will typically download pre-compiled versions, but there aren’t pre-compiled packages for Pyston yet. So our current focus is building these packages for our users and providing them in a way that’s easy to install.
+To do that we’ve decided to provide the packages through conda. There are a few benefits of this: first it lets us provide the packages ourselves instead of waiting for package maintainers to produce Pyston builds, second it makes it easier for users to get Pyston in the first place, and third it will hopefully make us more portable in the process and work on more Linux distros.
+
+After that we have many things we’d like to do, with the exact order to be determined:
+Set up a CI/CD systemAdd support for 64-bit ARMContinued performance improvements
+And even longer term:
+Add Mac and Windows supportIntegrate with NumbaImprove multithreadingExplore “opt-in” features that allow us to break semanticsContinued performance improvements
+Target Python versions
+We’ve decided that we only have the resources to target a single version of Python at a time. We would love to be able to provide a version of Pyston regardless of the version of Python you want, but that’s not feasible given our small team.
+We currently target Python 3.8.12, and plan to retarget to Python 3.10 some time in early 2022. We intend to backport parts of the “Faster CPython” effort going on in 3.11 depending on the level of compatibility.
+We are open to backporting semantic changes made in later versions of Python if we think this means the Python community has decided a certain feature is implementation-dependent. We anticipate that these are largely performance improvements that have small technical semantic differences; we do this on a case-by-case basis, and make a note of it on our wiki.
+Supported Pyston versions
+While we will try to help with any version of Pyston you are running, because our project moves quickly we won’t be backporting fixes to older versions of Pyston.
+
+If you have any questions/thoughts/suggestions please feel free to join our Discord or file an issue on our GitHub!
+
+
+2 Comments
+
+
+
+
+
+
+Pyston Team Joins Anaconda
+
+August 30, 2021August 30, 2021 Kevin Modzelewski
+
+
+
+We have some very exciting news to announce today: we (Marius and Kevin) are joining Anaconda! Anaconda is a well-known company that produces open-source Python software, and we think that by joining them we can significantly accelerate the trajectory of Pyston, our faster implementation of Python.
+[See the corresponding announcement on the Anaconda Blog: https://www.anaconda.com/blog/pyston-team-joins-anaconda]
+What will this look like
+Things will largely look the same from the outside, except now we will have access to more resources and expertise to move faster. In particular:
+Pyston remains an open-source project with the same license as CPythonPyston won’t be tied to using condaWe still get to set our roadmap, with potentially less time devoted to monetization work. By joining a company with a mature and efficient monetization scheme, we’ll spend more time doing core feature work.Once we need it, we’ll have a governance model that is separate from AnacondaWe may develop integrations with other Anaconda projects in ways that are beneficial to both productsWe’ll continue to work with the community on the other Python performance projects that are underway
+Why Anaconda
+We talked to a couple of companies about a possible joint future for Pyston, and Anaconda stood out to us in terms of alignment. They’re already doing similar work with Numba and their other projects, and they have a demonstrated open source commitment that means a lot to us.
+We also are excited about the possibility of having better integrations with some of their complementary products. We don’t have anything to announce right now, but we already had conda integration on our roadmap, and now that it’s easier, it’s more likely to happen sooner. Together, we are very excited about possibly integrating the features of Numba and Pyston: the two projects target different layers of the stack, and the hope is that by combining features, we will be able to explore more of the space of possible Python optimizations.
+And finally, the medium-term roadmap for Pyston mainly involves work to get Pyston into more peoples’ hands. In this sense, we’re finding alternative Python implementations require much more work than simply making them faster, and joining a leading Python distributor will let us short-cut a number of these steps.
+The Future
+Now that we have Anaconda’s sponsorship, we are planning out a short-term roadmap for the project. We will announce more when it is ready, so stay tuned! In the meantime, give Pyston a try and let us know how it works for you on our Github issue tracker or our Discord channel.
+
+
+Leave a comment
+
+
+
+
+
+
+Pyston v2.2: faster and open source
+
+May 5, 2021May 6, 2021 Kevin Modzelewski
+
+
+
+We are proud to announce Pyston v2.2, the latest version of our faster implementation of the Python programming language. This version is significantly faster than previous ones, and importantly is now open source.
+We also merged in many changes from CPython and are now based on CPython 3.8.8.
+
+Performance
+Pyston v2.2 is 30% faster than stock Python on our web server benchmarks. This is a significant improvement over our previous performance, and if we were feeling cheeky, we would advertise it as “50% more speedup.”
+The foundational technology powering Pyston v2.2 is the same as that found in earlier versions, but we have tuned and optimized more areas and found additional speedups, particularly in our JIT and attribute cache mechanisms.
+One noteworthy change is that we decided to remove many of the rarely-used debugging features that Python supports because they are expensive even when not needed. Doing so collectively resulted in a 2% speedup, which was remarkable to us: of all the computers in the world running Python, 2% of them are executing debugging checks. We’ve disabled those checks and are positioning ourselves as an “optimized build” similar to binaries without debugging information. Those who still want debugging features can use the “debug build” of stock Python because they are interchangeable. For a full list of the features we removed in Pyston v2.2, please see our wiki.
+
+Open source
+As we’ve continued talking to potential customers we now feel convinced that Pyston can thrive on an open-source business model, primarily by starting with support services. This means that we’ve open sourced Pyston v2.2, which you can find at our GitHub here.
+We’ve archived our old repository to reduce confusion, but you can still find that here.
+We are looking into which of our newest changes can be upstreamed to CPython. Throughout this process, we welcome your contributions. Help with getting Pyston packaged for additional platforms would be especially useful.
+
+Moving forward
+We continue to try and make Pyston as compelling and easy to use as possible. Working Pyston into your projects should be as easy as replacing “python” with “pyston.” If that’s not the case, we’d love to hear about it on our GitHub issues tracker or on our Discord channel.  We hope you’ll give Pyston a try and see that it really is the easiest way to speed up your Python code.
+
+
+Leave a comment
+
+
+
+
+
+
+Pyston v2: 20% faster Python
+
+October 28, 2020October 28, 2020 Kevin Modzelewski
+
+
+
+We’re very excited to release Pyston v2, a faster and highly compatible implementation of the Python programming language.  Version 2 is 20% faster than stock Python 3.8 on our macrobenchmarks.  More importantly, it is likely to be faster on your code.  Pyston v2 can reduce server costs, reduce user latencies, and improve developer productivity.
+Pyston v2 is easy to deploy, so if you’re looking for better Python performance, we encourage you to take five minutes and try Pyston. Doing so is one of the easiest ways to speed up your project.
+Performance
+Pyston v2 provides a noticeable speedup on many workloads while having few drawbacks.  Our focus has been on web serving workloads, but Pyston v2 is also faster on other workloads and popular benchmarks.
+Our team put together a new public Python macrobenchmark suite that measures the performance of several commonly-used Python projects.  The benchmarks in this suite are larger than those found in other Python suites, making them more likely to be representative of real-world applications.  Even though this gives us a lower headline number than other projects, we believe it translates to better speedups for real use cases.  Pyston v2 still shows sped-up performance on microbenchmarks, being twice as fast as standard Python on tests like chaos.py and nbody.py.
+Here are our performance results:
+CPython 3.8.5Pyston 2.0PyPy 7.3.2flaskblogging warmup time [1]n/an/a85sflaskblogging mean latency5.1ms4.1ms2.5msflaskblogging p99 latency6.3ms5.2ms5.8msflaskblogging memory usage47MB54MB228MBdjangocms warmup time [1]n/an/a105sdjangocms mean latency14.1ms11.8ms15.9msdjangocms p99 latency15.0ms12.8ms179msdjangocms memory usage84MB91MB279MBPylint speedup1x1.16x0.50xmypy speedup1x1.07x [2]unsupportedPyTorch speedup1x1.00x [2]unsupportedPyPy benchmark suite [3]1x1.36x2.48xResults were collected on an m5.large EC2 instance running Ubuntu 20.04
+[1] Warmup time is defined as time until the benchmark reached 95% of peak performance; if it was not distinguishable from noise it is marked “n/a”.  Only post-warmup behavior is considered for latency measurement.[2] mypy and PyTorch don’t support automatically building their C extensions from source, so these Pyston numbers use our unsafe compatibility mode[3] The PyPy benchmark suite was modified to only run the benchmarks that are compatible with Python 3.8
+Results analysis
+In our targeted benchmarks (djangocms + flaskblogging), Pyston v2 provides an average 1.22x speedup for mean latency and an 1.18x improvement for p99 latency while using a just few more megabytes per process.  We have not yet invested time in optimizing the other benchmarks.
+“p99 latency” is the upper 99th percentile of the response-time distribution, and is a common metric used in web serving contexts since it can provide insight into user experience that is lost by taking an average.  PyPy’s high p99 latency on djangocms comes from periodic latency spikes, presumably from garbage collection pauses.  CPython and Pyston both exhibit periodic spikes, presumably from their cycle collectors, but they are both less frequent and much smaller in magnitude.
+The mypy and PyTorch benchmarks show a natural boundary of Pyston v2. These benchmarks both do the bulk of their work in C extensions which are unaffected by our Python speedups.  We natively support the C API and do not have an emulation layer, so we are still able to provide a small boost to mypy performance and do not degrade pytorch or numpy performance.  Your benefit will depend on your mix of Python and C extension work.
+Technical approach
+We’re planning on going into more detail in future blog posts, but some of the techniques we use in Pyston v2 include:
+A very-low-overhead JIT using DynASMQuickeningGeneral CPython optimizationsBuild process improvements
+Compatibility
+Since Pyston is a fork of CPython, we believe it is one of the most compatible alternative Python implementations available today.  It supports all the same features and C API that CPython does.
+While Pyston is identically functional in theory, in practice there are some temporary compatibility hurdles for any new Python implementation.  Please see our wiki for details.
+Availability
+Pyston v2.0 is immediately available as a pre-built package.  Currently, we have packages for Ubuntu 18.04 and 20.04 x86_64.  If you would like support for a different OS, let us know by filing an issue in our issue tracker.
+Trying out Pyston is as simple as installing our package, replacing python3 with pyston3, and reinstalling your dependencies with pip-pyston3 install (though see our wiki for a known issue about setuptools). If you already have an automated build set up, the change should be just a few lines.
+Our plan is to open-source the code in the future, but since compiler projects are expensive and we no longer have benevolent corporate sponsorship, it is currently closed-source while we iron out our business model.
+Reaching us
+We are designing Pyston for developers and love to hear about your needs and experiences.  So, we’ve set up a Discord server where you can chat with us.  If you’d like a commercially-supported version of Pyston, please send us an email.
+We’ve optimized Pyston for several use cases but are eager to hear about new ones so that we can make it even more beneficial.  If you run into any problems or instances where Pyston does not help as much as expected, please let us know!
+Background
+We designed Pyston v1 at Dropbox to speed up Python for its web serving workloads.  After the project ended, some of us from the team brainstormed how we would do it differently if we were to do it again.  In early 2020, enough pieces were in place for us to start a company and work on Pyston full-time.
+Pyston v2 is inspired by but is technically unrelated to the original Pyston v1 effort.
+Moving forward
+We’re on a mission to make Python faster and have plenty of ideas to do so.  That means we’re actively looking for people to join the team.  Let us know if you’d like to get involved.  Otherwise stay tuned for future releases and reach out if you have any questions!
+
+
+2 Comments
+
+
+
+
+
+
+Pyston 0.6.1 released, and future plans
+
+January 31, 2017January 31, 2017 Kevin Modzelewski
+
+
+
+Hello all, we’re happy to release Pyston version 0.6.1, the latest version of our high-performance Python JIT.  v0.6.1 contains performance enhancements over 0.6, bringing Pyston to 95% faster than CPython on standard benchmarks.
+On the other hand, this is the last release that Dropbox is sponsoring.  We wanted to take some time to talk about what that means, both about the space of Python performance, and about the Pyston project specifically.
+What’s happened
+It’s hard to break down the change in cost-benefit analysis, but here are some factors that went into our decision:
+
+We spent much more time than we expected on compatibility
+We similarly had to spend more time on memory usage due to it being a bigger concern than expected
+Dropbox has increasingly been writing its performance-sensitive code in other languages, such as Go
+
+Our personal take is that the increase on the “cost” side could potentially be considered typical, whereas the decrease on the “benefit” side was probably a larger driver.  It’s hard to say, though, since if we had managed to build things twice as fast the calculus would have been different.
+Where we are
+We are quite proud that, over the last three years, we’ve been able to achieve meaningful speedups while maintaining a higher level of compatibility than other solutions: we are the first alternative Python runtime to be able to run Dropbox faster.
+As for numbers, on the just-released v0.6.1, we are 95% faster on standard Python benchmarks.  On web-workload benchmarks that we created, we are 48% faster.  On Dropbox’s server, we are 10% faster.
+We think it’s worth mentioning that the 10% speedup on Dropbox code is just a small fraction of what we think is possible with our approach. We’ve spent most of our time working on compatibility and memory usage and have not had time to optimize this particular workload.
+Where we go from here
+Marius and I are no longer spending our time working on Pyston and are transitioning to other projects.  The project itself remains open source and available, and we are investigating ways that the project can continue, either in whole or in part.  We are also looking into upstreaming parts of our code back to CPython, since our code is now based on theirs.
+We’re proud of what we’ve done and we are looking forward to going into more detail about the technical details in the near future.  We also take some small consolation in having helped map out what Python performance-versus-compatibility tradeoffs may be valuable.
+In the end, we are happy that we attempted this, are excited about the many potential ways that our work on Pyston could still be useful, and are happy to refocus ourselves on domains with more immediate needs.
+
+
+12 Comments
+
+
+
+
+
+
+Pyston 0.6 released
+
+November 11, 2016November 23, 2016 Marius Wachtler
+
+
+
+We are excited to announce the v0.6 release of Pyston, our high performance Python JIT.
+In this release our main goal was to reduce the overall memory footprint.  It also contains a lot of additional smaller changes for improving compatibility and fixing bugs.
+Memory usage reductions
+One of the big items which reduced memory usage was moving away from representing the interpreter instructions in a tree and instead storing them as an actual bytecode. Now, each instruction follows each other in memory and does not involve pointer-chasing.
+We are also much more aggressive in freeing unused memory now. For example for very hot functions which we compiled using the LLVM JIT (our highest tier) we now free the code which the baseline JIT emitted earlier-on. Additional bigger improvements were accomplished by making our analysis passes more memory efficient and fixing a few leaks.
+
+This is a chart compares the maximal resident set size of several 64bit linux python implementations (lower is better) on a machine with 32GB of RAM.
+While max RSS is not a very accurate memory usage number for various reasons, like not taking into account that pages can be shared between processes and only measuring peak usage, we think it shows nevertheless a very useful insight about how much (up to 2x) Pyston 0.6 improved over 0.5.1.
+While we are happy that we were able to reduce the memory usage quite significantly in a few weeks we are not yet satisfied with it and will spend more time on reducing the memory usage further and developing better tools to investigate it. We have several ideas for this – some of the bytecode related ones are summarized here.
+Additional changes
+This release contains a lot of fixes for compatibility issues and other bugs.  We also spent time on making it easier to replace CPython with Pyston, such as by more closely matching its directory structure and following its ‘dict’ ordering.  We can now, for example, run pip and virtualenv unmodified, without requiring any upstream patches like other implementations do.
+Aside: NumPy performance
+NumPy hasn’t been a priority for us, but from time to time we check on how well we can run it.  We’ve focused on compatibility in the past, but for this post we took a look into performance as well.  We don’t have any NumPy-specific optimizations, so we were happy to see this graph from PyPy’s numpy benchmark runner:
+
+As you can see, we closely match CPython’s performance on NumPy microbenchmarks, and are able to beat it on a few of the smaller ones.  Our current understanding is that we are doing better on the left two benchmarks because they run much more quickly — in about 1000x less time than the right three.  These shorter benchmarks spend a significant amount of time transitioning into and out of NumPy, which Pyston can help with, whereas the right three benchmarks are completely dominated by time inside NumPy.
+As a side note, we the Pyston team don’t want to be in the business of picking what NumPy workloads are important.  If you have a program that you think shows real-world NumPy usage, please let us know because we would love to start benchmarking real programs rather than simple matrix operations.
+Final words
+As always, you can check out our online speed center for more details on our performance and memory usage.
+We would like to thank all our open source contributors who contributed to this release, and especially Nexedi for their employment of Boxiang Sun, one of our core contributors.
+
+Dong-hee Na
+Krish Munot
+Long Ang
+Lucien Chan
+SangHee Lee
+
+
+
+9 Comments
+
+
+
+
+Post navigation
+← Older posts
+
+
+
+
+Links
+
+Download Pyston
+Discord server
+Announcements mailing list
+
+
+About Pyston is a faster and highly-compatible implementation of the Python programming language.
+
+Archives
+
+September 2022
+June 2022
+April 2022
+December 2021
+October 2021
+August 2021
+May 2021
+October 2020
+January 2017
+November 2016
+July 2016
+June 2016
+May 2016
+November 2015
+July 2015
+February 2015
+December 2014
+November 2014
+September 2014
+
+ 
+
+
+
+
+Blog at WordPress.com.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						The Pyston Blog					
+
+
+Blog at WordPress.com. 
+
+
+
+
+
+
+Follow
+
+
+Following
+
+
+
+
+
+
+
+				The Pyston Blog			
+
+
+Join 41 other followers
+
+
+
+
+
+
+
+ 
+
+												Sign me up											
+
+
+
+
+											Already have a WordPress.com account? Log in now. 
+
+
+
+
+
+
+ 
+
+
+
+
+
+				The Pyston Blog			
+
+
+
+ Customize
+
+
+
+
+Follow
+
+
+Following
+
+
+Sign up
+Log in
+
+
+											Report this content										
+
+
+
+											View site in Reader										
+
+
+Manage subscriptions
+
+Collapse this bar
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading Comments...
+
+
+
+ 
+
+
+Write a Comment...
+
+
+
+
+Email (Required)
+
+
+
+Name (Required)
+
+
+
+Website
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+

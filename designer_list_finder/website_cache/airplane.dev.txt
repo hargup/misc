@@ -1,0 +1,21 @@
+Airplane | The developer platform for business softwareIntroducing Autopilot, an AI coding assistantAirplane LogoCase StudiesDocsTemplatesPricingBlogCareersBook a demoLog inSign upThe developer platform for business softwareThousands of engineers use Airplane to rapidly build internal UIs and workload automation for engineering, support, and operations teams.Book a demoSign upWatch demo (4 min)Customer case studies01Build custom tools that fit. Quickly build internal workflows and dashboards that fit your team’s evolving needs.Build production-grade workflows with Airplane TasksReplace brittle scripts with user-friendly workflows you can execute from an elegant UI. Turn SQL, JavaScript, Python, or even Docker images into supercharged functions, complete with approval flows.Craft custom UIs with Airplane ViewsBuild effective and intuitive interfaces with a prebuilt component library and minimal code. Integrates seamlessly with Tasks to fetch data and perform operations.Automate with schedules and webhooksHuman in the loop, now optional. Run tasks on a fixed cadence or in response to events from other systems. Progressively automate your workflows.Explore popular templatesTemplate galleryAdmin panelDatabase backupAI database explorerUser impersonation toolFeature flagging dashboardAWS S3 File ExplorerBrowse solutionsAirplane for Engineering WorkflowsAirplane for AI Apps02Express yourself with code. Build on Airplane with code-first primitives. Install your favorite packages, re-use functions, and for if while to your heart’s desire.TypescriptPythonApprovalsSchedulesViewsExplore more examplesfindCustomersByEmail.airplane.ts1import airplane from "airplane";
+2
+3export default airplane.task(
+4  {
+5    slug: "find_customers_by_email",
+6    resources: ["demo_db"],
+7    parameters: { email: "shorttext" },
+8  },
+9  async (params) => {
+10    const run = await airplane.sql.query(
+11      // The slug of the SQL resource to query
+12      "demo_db",
+13      // SQL query to execute
+14      "select * from users where email ilike :email",
+15      // Query arguments
+16      { args: { email: `%${params.email}%` } },
+17    );
+18
+19    return run.output.Q1;
+20  }
+21);Let AI write the code - use Airplane Autopilot03Airplane takes care of the rest. Code-first doesn’t mean you do all the work. Airplane comes with everything you need so you can focus on what’s important.Explore the docsSchedule recurring tasksSchedulesTrigger tasks from webhooksWebhooksRole-based permissionsPermissionsExecute from SlackSlack integrationRequests and notificationsNotificationsRich component libraryComponentsUnlimited environmentsEnvironmentsDeploy automatically with GitHubGitHub integration04Ready for enterprise scale. Everything you need for security and control.Deploy on-premisesSelf-host Airplane agents within your own VPC. Keep customer data within your own network.Approval flowsEasily create streamlined yet secure approval flows for sensitive workflows.First-class auditingGet deep visibility into everything that happens on Airplane. Export and analyze audit logs in Datadog and other supported systems.SSO and  directory syncIntegrate into your identity stack via SAML SSO and SCIM directory sync.SOC 2 and HIPAA compliantSOC 2 Type II report available upon request. HIPAA BAA support for enterprise plan customers.Backed by world-class investors and operators fromStart using Airplane for free today.Sign upBook a demotwitterlinkedinyoutubeCopyright © 2023 Airplane Labs, Inc.DevelopersDocsTemplatesAutopilot New!StatusResourcesCase studiesPricingBook a demoFor startupsContact supportSolutionsEngineering WorkflowsAI AppsCompanyContact usCareersTermsPrivacySecurityCopyright © 2023 Airplane Labs Inc.

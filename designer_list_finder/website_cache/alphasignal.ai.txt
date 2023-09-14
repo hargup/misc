@@ -1,0 +1,813 @@
+
+
+
+
+
+
+
+
+Alpha Signal | The newsletter for AI professionals
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            New Page
+          
+
+            .well-known
+          
+
+        website_icon
+      
+
+        new12
+      
+
+        new
+      
+
+            Redirect
+          
+
+            test
+          
+
+            NEW PRICING
+          
+
+              1. Landing Page
+            
+
+            Signup
+          
+
+            Update Profile
+          
+
+            New Page
+          
+
+            Beta Invite
+          
+
+            Confirmed by Human
+          
+
+            Job Finder
+          
+
+            Fund Finder
+          
+
+            Sponsorship
+          
+
+            Confirmation
+          
+
+            Confirmation (job)
+          
+
+            Latest Summary
+          
+
+            TOS
+          
+
+
+
+
+
+        Sponsor
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New Page.well-knownwebsite_iconnew12newRedirecttestNEW PRICING1. Landing PageSignupUpdate ProfileNew PageBeta InviteConfirmed by HumanJob FinderFund FinderSponsorshipConfirmationConfirmation (job)Latest SummaryTOS
+
+
+
+
+
+
+
+The Best of Machine Learning. Summarized by AI.
+
+
+
+
+Sponsor
+
+
+
+
+
+
+
+
+
+Scroll
+
+
+
+
+
+
+
+
+
+
+Stay up to date with the latest in AI
+Get a weekly summary of the top research papers, repos, and tweets identified by our AI models.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * 
+  
+
+ Referrer 
+  
+
+ time 
+  
+
+ timezone 
+  
+
+
+
+GET MY SUMMARY
+
+
+Should be Empty: 
+
+
+
+
+
+
+
+
+Read the latest summary
+
+
+
+
+
+
+
+ 
+
+
+Join 
+120012
+
+    world-class researchers and engineers from:
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+Know what top researchers are discussing
+
+Stay in the loop without spending countless hours browsing for the next breakthrough; our algorithm identifies the latest topics discussed by world-class researchers.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Vinyals
+        
+
+
+
+
+          Socher
+        
+
+
+
+
+
+
+          Zilis
+        
+
+
+
+
+          Raschka
+        
+
+
+
+
+
+
+          Goodfellow
+        
+
+
+
+
+           Manning
+        
+
+
+
+
+
+
+          Li
+        
+
+
+
+
+          Chollet
+        
+
+
+
+
+
+
+          LeCun
+        
+
+
+
+
+          Hinton
+        
+
+
+
+
+
+
+          Sutskever
+        
+
+
+
+
+          Ng
+        
+
+
+
+
+
+
+          Karpathy
+        
+
+
+
+
+          Finn
+        
+
+
+
+
+
+
+          Howard
+        
+
+
+
+
+          Larochelle
+        
+
+
+
+
+
+
+          Abbeel
+        
+
+
+
+
+          Wolf
+          
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ★★★★★
+  
+
+"Alpha Signal is a must for anyone interested in Machine Learning."
+
+The weekly summaries allow me to focus on the few papers worth being read instead of wasting countless hours visiting arXiv or Twitter. I can’t recommend it enough.
+Oren Medalsy, Researcher
+
+image/svg+xml
+
+
+
+
+
+
+
+
+
+Discover the latest repos in the industry
+
+Our summaries include the upcoming state-of-the-art projects, notebooks, and Github repos allowing you to achieve unrivaled results as a developer or researcher.
+
+ 
+
+
+
+
+
+
+tensorflow/tensorflow
+
+An Open Source Machine Learning Framework for Everyone
+
+
+
+
+
+
+numpy/numpy
+
+Comprehensive mathematical functions, linear algebra routines, and more.
+
+
+
+
+
+
+pytorch/pytorch
+
+Tensors and Dynamic neural networks in Python with strong GPU acceleration
+
+
+
+
+
+
+huggingface/transformers
+
+State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+
+
+
+
+
+
+
+opencv/opencv
+
+A real-time optimized Computer Vision library, tools, and hardware. 
+
+
+
+
+
+
+keras-team/keras
+
+Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. 
+
+
+
+
+
+
+kubernetes/kubernetes
+
+Production-Grade Container Scheduling and Management
+
+
+
+
+
+
+fastai/fastai
+
+Deep learning library which provides practitioners with high-level components 
+
+
+
+
+
+
+
+FAIR/detectron
+
+FAIR's research platform for object detection research
+
+
+
+
+
+
+scikit-learn/scikit-learn
+
+Simple and efficient tools for predictive data analysis and Machine Learning.
+
+
+
+
+
+
+openai/gym
+
+A toolkit for developing and comparing reinforcement learning algorithms.
+
+
+
+
+
+
+scipy/scipy
+
+Open-source software for mathematics, science, and engineering
+
+
+
+
+
+
+
+flairNLP/flair
+
+Simple framework for state-of-the-art Natural Language Processing (NLP)
+
+
+
+
+
+
+PyTorchLightning/
+lightning
+
+Lightweight PyTorch wrapper for high-performance AI research. 
+
+
+
+
+
+
+deepmind/
+research
+
+Implementations and illustrative code to accompany DeepMind publications
+
+
+
+
+
+
+tensorlayer/tensorlayer
+
+Deep Learning hrefand RL Library for Scientists and Engineers 🔥
+
+
+ 
+
+
+
+
+ 
+
+
+Join 120,000+ readers and get a summary delivered straight to your inbox.
+Try Alpha Signal for free.  Unsubscribe any time.
+
+GET MY SUMMARY
+
+
+
+
+
+
+
+ ©2023 AlphaSignal, All Rights Reserved. 
+Privacy Policy
+Terms of Service
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+header
+
+
+
+curve
+
+
+
+Graph
+
+
+
+testim
+
+
+
+github
+
+
+
+Footer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

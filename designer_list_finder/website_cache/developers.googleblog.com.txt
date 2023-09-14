@@ -1,0 +1,688 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google for Developers Blog - News about Web, Mobile, AI and Cloud
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menu
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+
+
+
+
+          Back to Google for Developers
+        
+
+
+
+
+
+
+Latest
+
+
+
+
+Get Inspired
+
+
+
+
+Announcements
+
+
+
+
+Events
+
+
+
+
+Resources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search
+
+
+Tags
+
+
+
+Latest
+
+
+
+
+
+
+Get Inspired
+
+
+
+
+
+
+Announcements
+
+
+
+
+
+
+Events
+
+
+
+
+
+
+Resources
+
+
+
+
+
+
+
+          Back to Google for Developers
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How We Made SPACE INVADERS: World Defense, an AR game powered by ARCore 
+
+
+September 05, 2023
+
+
+   Posted by Dereck Bridie, Developer Relations Engineer, ARCore and Bradford Lee, Product Marketing Manager, Augmented Reality     
+
+
+
+AI
+
+
+Announcements
+
+
+
+
+
+
+
+
+        Latest posts
+      
+
+
+
+
+
+
+
+
+
+
+Supporting Black tech entrepreneurs through the fourth Google for Startups Accelerator: Black Founders program
+
+
+September 06, 2023
+
+
+   Posted by Lauren O’Neil, Startup Developer Ecosystem Lead, and Matt Ridenour, Head of US Startup Ecosystem     
+
+
+
+Announcements
+
+
+Business & Leadership
+
+
+
+
+
+
+
+
+
+
+
+How We Made SPACE INVADERS: World Defense, an AR game powered by ARCore 
+
+
+September 05, 2023
+
+
+   Posted by Dereck Bridie, Developer Relations Engineer, ARCore and Bradford Lee, Product Marketing Manager, Augmented Reality     
+
+
+
+AI
+
+
+Announcements
+
+
+
+
+
+
+
+
+
+
+
+#WeArePlay | Meet Ingrid from Sweden. More stories from around the world.
+
+
+August 30, 2023
+
+
+   Posted by Leticia Lago, Developer Marketing     
+
+
+
+#WeArePlay
+
+
+android developers
+
+
+
+
+
+
+
+
+
+
+
+Use working locations with the Calendar API for apps and workflows
+
+
+August 23, 2023
+
+
+   Posted by Chanel Greco, Developer Advocate     
+
+
+
+Announcement
+
+
+Cloud
+
+
+
+
+
+
+
+
+
+
+
+Announcing Federated Credential Management (FedCM) Beta for Google Identity Services
+
+
+August 22, 2023
+
+
+   Posted by Gina Biernacki, Product Manager     
+
+
+
+New Feature
+
+
+oauth
+
+
+
+
+
+
+
+
+
+
+
+Meet the student leaders building apps using Google technology
+
+
+August 21, 2023
+
+
+   Posted by Kübra Zengin, North America GDSC Regional Lead     
+
+
+
+Announcements
+
+
+Business & Leadership
+
+
+
+
+
+
+
+
+
+
+
+MediaPipe for Raspberry Pi and iOS
+
+
+August 18, 2023
+
+
+   Posted by Paul Ruiz , Developer Relations Engineer     
+
+
+
+AI
+
+
+Announcement
+
+
+
+
+
+
+
+
+
+
+
+Meet the Google for Startups Accelerator: Women Founders Class of 2023
+
+
+August 17, 2023
+
+
+   Posted by Iran Karimian, Startup Developer Ecosystem Lead, Canada     
+
+
+
+Announcement
+
+
+Business & Leadership
+
+
+
+
+
+
+
+
+
+
+
+Developers Share How They Build with Google Tools and Bard
+
+
+August 15, 2023
+
+
+   Posted by Lyanne Alfaro , DevRel Program Manager, Google Developer Studio     
+
+
+
+community
+
+
+Firebase
+
+
+
+
+
+
+
+
+
+
+
+Google Developer Groups & ecosystem partners bring Startup Success Days to 15 Indian cities
+
+
+August 10, 2023
+
+
+   Posted by Harsh Dattani - Program Manager, Developer Ecosystem   
+
+
+
+Announcement
+
+
+community
+
+
+
+
+
+
+
+
+
+
+
+ Expanding our Fully Homomorphic Encryption offering
+
+
+August 10, 2023
+
+
+   Posted by Miguel Guevara, Product Manager, Privacy and Data Protection Office     
+
+
+
+Announcements
+
+
+encyption
+
+
+
+
+
+
+
+
+
+
+
+Introducing Project IDX, An Experiment to Improve Full-stack, Multiplatform App Development
+
+
+August 08, 2023
+
+
+   Posted by Bre Arder, UX Research Lead, Kirupa Chinnathambi, Product Lead, Ashwin Raghav Mohan Ganesh, Engineering Lead, Erin Kidwell, Dir...
+
+
+
+AI
+
+
+App Development
+
+
+
+
+
+
+
+
+Newer posts
+
+
+Previous posts
+
+
+
+
+
+
+
+
+
+
+
+Connect
+
+
+
+              Blog
+            
+
+
+
+              Twitter
+            
+
+
+
+              YouTube
+            
+
+
+
+
+Programs
+
+
+
+              Women Techmakers
+            
+
+
+
+              Google Developer Groups
+            
+
+
+
+              Google Developers Experts
+            
+
+
+
+              Accelerators
+            
+
+
+
+              Google Developer Student Clubs
+            
+
+
+
+
+Developer consoles
+
+
+
+              Google API Console
+            
+
+
+
+              Google Cloud Platform Console
+            
+
+
+
+              Google Play Console
+            
+
+
+
+              Firebase Console
+            
+
+
+
+              Actions on Google Console
+            
+
+
+
+              Cast SDK Developer Console
+            
+
+
+
+              Chrome Web Store Dashboard
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Android
+          
+
+
+
+            Chrome
+          
+
+
+
+            Firebase
+          
+
+
+
+            Google Cloud Platform
+          
+
+
+
+            All products
+          
+
+
+
+
+
+
+
+            Terms
+          
+          |
+          
+            Privacy
+          
+
+
+Sign up for the Google for Developers newsletter
+
+            Subscribe
+          
+
+
+
+
+
+
+
+
+
+

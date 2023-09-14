@@ -1,0 +1,1262 @@
+
+
+
+
+
+
+
+
+
+
+
+Fabulous adventures in coding | Eric Lippert's blog	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Skip to primary contentSkip to secondary content
+
+
+Fabulous adventures in coding
+Eric Lippert's blog
+
+
+
+
+
+Search
+
+
+
+
+Main menu
+
+HomeAbout Eric Lippert
+Photo credits
+Privacy policy
+Reprint policy
+
+
+
+
+
+
+
+Post navigation
+← Older posts
+
+
+
+
+Bean Machine Retrospective, part 9
+
+Posted on March 21, 2023  by  ericlippert 
+
+Reply 
+
+
+I wanted to implement concise “pattern matching” in Python, a language which unlike C#, F#, Scala, and so on, does not have any pattern matching built in. Logically a pattern is just a predicate: a function which takes a value and returns true if the value “matches” the pattern, false otherwise. The code for this episode is here.
+When I embarked on this I realized two things. First, that it might be nice for debugging purposes to have more information in the return value than just “true” or “false”; in particular, when a complex pattern fails to match, but it should match, then I’ve made a mistake. In order to debug that mistake, I actually made patterns return a new type:
+
+class MatchResult(ABC):
+    test: Any
+    submatches: Dict[str, "MatchResult"]
+    # ... and so on, boilerplate code for the rest of this.
+
+A complex pattern might fail because of its component patterns failing to match, and so that information is included in the failure result. I also made subclasses Success and Fail.
+You know I just realized this very moment that I’ve used “Fail” as a noun here. It should have been Failure. Oh well.
+Second, I realized that using functions for everything would lack concision. I didn’t want to write code like this throughout:
+
+is_binop = lambda x: Success(x) if isinstance(x, ast.BinOp) else Fail(x)
+
+The notion of “is this thing a binop” is captured entirely by the type BinOp already; could we just use that object where a pattern is required?
+After playing around with different options I eventually landed on this type discipline:
+
+class PatternBase(ABC):
+    @abstractmethod
+    def match(self, test: Any) -> MatchResult:
+        pass
+    def __call__(self, test: Any) -> MatchResult:
+        return self.match(test)
+
+Pattern = Union[PatternBase, int, str, float, type, list, None]
+
+A pattern base object has a match predicate which takes a test value and, moreover, may be treated as a function you can call. 
+Anywhere that we need a pattern, the caller may provide:
+
+ an instance of pattern base
+an None, integer, float or string value; the semantics are “the pattern matches if test is equal to the given value”.
+a type; the semantics are “the pattern matches if test is of the given type”
+a list of patterns; the semantics are “the pattern matches if test is a list of the same length, and each list element matches the corresponding pattern”
+
+So far we can express patterns such as
+
+p = [ BinOp, 3, None ] 
+# p matches a list of three items where the first is a binary op AST,
+# the second is the number 3, and the third is the value None
+
+But how would we express “match instances of Foo whose bar attribute is 3″? We can start by solving the more general problem of how do we match against multiple patterns? Here’s our first combinator:
+
+def match_every(*patterns: Pattern) -> Pattern:
+  # ... the implementation is tedious to make it efficient,
+  # but you get the idea; we produce a pattern which succeeds if
+  # every given subpattern succeeds, and fails otherwise.
+
+We can solve the specific problem of matching a subpattern that is an attribute of the tested value:
+
+class AttributeSubpattern(PatternBase):
+    name: str
+    subpattern: Pattern
+    def match(self, test: Any) -> MatchResult:
+        submatch = match(self.subpattern, getattr(test, self.name, None))
+        submatches = {self.name: submatch}
+        if submatch.is_success():
+            return Success(test, submatches)
+        return Fail(test, submatches)
+    # ...
+
+It’s a little clunky to call AttributeSubpattern so I made a synonym function attribute as well. Notice that this class is a combinator; it takes a pattern and produces a new pattern.
+And now we can make a third combinator out of the first two: I want a pattern that checks to see if an object is of a particular type, and whether it has an attribute which matches a pattern:
+
+def type_and_attributes(typ: type, patterns: Dict[str, Pattern]) -> Pattern:
+    t: List[Pattern] = [typ]
+    tuples: List[Pattern] = [
+        attribute(name, subpattern) for (name, subpattern) in patterns.items()
+    ]
+    return match_every(*(t + tuples))
+
+And now we can say
+
+is_addition = type_and_attributes(BinOp, {"op": Add})
+
+Or, even better, let’s make a pattern that always matches and yet another combinator:
+
+class AnyPattern(PatternBase):
+    def match(self, test: Any) -> MatchResult:
+        return Success(test)
+
+_any = AnyPattern()
+
+def binop(
+  op: Pattern = _any, 
+  left: Pattern = _any, 
+  right: Pattern = _any) -> Pattern:
+  return type_and_attributes(
+    BinOp, {"op": op, "left": left, "right": right})
+
+is_addition = binop(Add)
+
+I also defined patterns or combinators for:
+
+Match at least one of these patterns
+Match the first item in a list to one pattern and the tail of the list to another
+Match at least one item in a list to a given pattern
+Match all items in a list to the same pattern
+Match the opposite of this pattern
+Helper combinators for commonly used AST nodes such as identifiers, operators, and so on.
+And so on; you get the idea. 
+
+With these tools in my toolbox I could then rapidly create patterns such as “is any item in this list not an identifier?”
+
+any_non_id = ListAny(negate(name()))
+
+
+Patterns identify what code needs to be transformed; rules transform them. Next time on FAIC we’ll look at building a set of rules and rule combinators for concisely representing AST transformations.
+
+
+
+
+Posted in Uncategorized 
+ | 
+Leave a reply
+
+
+
+
+Bean Machine Retrospective, part 8
+
+Posted on February 23, 2023  by  ericlippert 
+
+2 
+
+
+Before getting into the details of how my combinator-inspired source code transformation system works, I should say first, what is a general overview of the system? and second, why did I build it at all? In my experience, a typical compiler’s AST rewriter does not use a combinator-based approach. Roslyn for example used the visitor pattern almost exclusively to build rewriters, and that’s pretty common.
+
+The basic overview is: we use a functional programming approach to AST transformation. 
+
+A pattern represents a function from AST to bool. Is this an AST node that we’re looking to transform?
+A rule represents a “partial” function from AST to AST. By “partial” I mean that when given an AST, a rule is allowed to return the same AST, a different AST, or a failure code indicating that the rule does not apply to the given input.
+A combinator is a function that takes some number of rules and patterns and returns either a rule or a pattern.
+
+That’s pretty highfalutin, I know. Next time we’ll look at some examples of patterns, and a concise way to represent the simplest ones.
+
+Why choose a combinator approach for Beanstalk, the Bean-Machine-to-BMG compiler? I had a number of reasons:
+
+This approach gives a lot of concision for many rules and patterns. Simple code looks simple, is easy to read, and most important, it is easy to reason about its correctness. To be fair, this benefit is somewhat offset by making some of the more complicated rewrites a little tricky to understand, but I tried to limit those.
+Any portion of the rewriting logic can very easily be independently tested. If you want to test any predicate, any transformation rule, or any combination of them, it’s straightforward to create test cases.
+Experimenting with different rewriting strategies becomes trivial. For example, we’ll see later that a lot of the AST transformations work “top down” — that is, they transform the root node, and then transform the children, and so on, heading towards the leaves. Is a bottom-up rewriter more efficient, where we transform the leaves and move up to the root? In a conventional compiler, to change an algorithm from top-down to bottom-up might be a considerable rewrite but as we’ll see, changing a top-down traversal to a bottom-up traversal is changing a single function call.
+
+Moreover, exotic strategies become just as easily tested. “Apply the rewrites both top-down, and then again bottom-up, and keep going back and forth until a fixpoint is reached” would be easy, if we wanted to try that. The optimization combinator — “try these n different rewrites and then pick the one that minimizes some cost function” — is a combinator I did not end up writing but I certainly intended to.
+
+
+In my system transformation rules are not just functions, they are self-describing objects. This can lead to some interesting debugging benefits. For example, some rules are known to always succeed, and some combinators apply a rule until it fails. Passing a transformation that always succeeds to a combinator that runs it until it fails is obviously going to produce an infinite loop. But the combinator that runs its rule until failure can ask “are you one of the rules that is known to never fail?” and immediately assert, finding the bug early. (You can guess what motivated that feature!)
+It’s fun! I’ve always been intrigued by the possibilities of “nanopass” architectures for compilers and by rewriting languages such as Stratego. I did not want to take a dependency on Stratego (and it would have been inconvenient to do so from a Python-based compiler) but the core parts of the rewriter are quite straightforward to implement, so I jumped at the chance to finally put these ideas into practice.
+
+
+Next time on FAIC: We’ll break down the problem into even smaller sub-problems, because we’re computer programmers, that’s what we do. How can we represent predicates about ASTs concisely in Python, and then compose them with combinators?
+
+
+
+Posted in Uncategorized 
+ | 
+2 Replies
+
+
+
+
+Bean Machine Retrospective, part 7
+
+Posted on February 8, 2023  by  ericlippert 
+
+2 
+
+
+How do we write a compiler in a typical general-purpose line-of-business OO programming language such as  Python, C#, Java, and so on? Compilers are programs, so we could make the question more general: how do we write programs?
+The basic idea common to almost every widely used programming language is to use composition:
+
+Divide the problem into many sub-problems
+Write functions that each solve one or more sub-problems
+Compose a solution by writing functions that call other functions
+
+The details of how those functions are organized varies from language to language of course; functions are stored in other functions, or in classes, or in modules, or whatever. But ultimately, most programs could be viewed as a composition of functions.
+Now, we don’t simply call functions of course. Programming languages also have control flow, whereby they make decisions about what functions to call:
+
+Call foo() if and only if some predicate is true.
+Call foo() repeatedly until some predicate is false.
+Call foo() but branch to this catch block if it fails
+… and so on
+
+We don’t normally think of control flow as a kind of function composition. What if we did? We can use ideas inspired by combinatory logic and functional programming to extract control flow into “combinators” and then use those to concisely build workflows to solve compiler problems.
+
+A “parse tree” or abstract syntax tree (henceforth AST) is a data structure representing a syntactic analysis of a program. Over the next few episodes of this series we’ll explore the question of how a compiler writer might solve a common sub-problem in compiler design: how do we write an AST→ AST function using an approach inspired by combinatory logic?
+Since Bean Machine and its compiler are both written in Python, we’ll use the very convenient parse tree types already provided by the Python ast module. It’s very straightforward. Every node in the tree has a type and zero or more labeled children. A child can be a value such as a string or number, or a node, depending on the label.
+For example, if we had a statement “x = 2 + 3” then the AST for the right side of the assignment could be constructed like this (assuming that all members of the ast module are brought into scope.)
+
+BinOp(
+  left=Num(n=2),
+  op=Add(),
+  right=Num(n=3))
+
+The expression’s AST is a binary operator; it has three children, left, right and op. The left and right are literal numbers; their child n is the value of that number. You get the idea I’m sure. 
+Every Python expression, statement, and so on has an AST node, and there are standard implementations of both parsers and unparsers; you can turn text into ASTs, turn ASTs back into text, and compile and run that program.
+
+Next time on FAIC: I’ll describe the patterns/rules/combinators system briefly, and then give some thoughts on what motivated this approach over a more conventional compiler technique such as visitor patterns for rewrites. Then we’ll start looking at examples of patterns and predicates.
+
+
+
+Posted in Uncategorized 
+ | 
+2 Replies
+
+
+
+
+The names of birds, part 4
+
+Posted on February 3, 2023  by  ericlippert 
+
+2 
+
+
+The European starling is a lovely looking bird, though territorial, noisy and aggressive up close. Unfortunately, they are very invasive in North America. Most of the hundreds of millions of European starlings now living in the Americas can be found fighting over my suet feeder in winter months.
+Last time we said that the kestrel obeys the identity Kxy=x for all birds x and y in the forest. The starling has a slightly more complicated identity: Sxyz=xz(yz). 
+Again, recall that this is parenthesized ((Sx)y)z=(xz)(yz).
+Yes I know I used S for the “successor bird” in part 2; sorry for the confusion, this is a different bird.
+If a forest contains both a starling and a kestrel, can you show that there is a bird in the forest which is fond of every bird in the forest? (Note that I’m implying here that there are at least two distinct birds in the forest, and therefore no lonely egocentric kestrel from last episode.)
+Give it a try, and then scroll down.
+.
+.
+.
+
+.
+.
+.
+.
+Let’s call K to S; the starling calls back another bird. We’ll then call K to it. That calls back some other bird. We’ll then call any bird z in the forest to that bird.
+Sxyz=(xz)(yz)SKKz=(Kz)(Kz)
+But Kz is a bird that is fixated on z, so no matter what we call to Kz, we always get z back:
+SKKz=(Kz)(Kz)=z
+We call SKK the identity bird I, because Iz=z for all z in the forest. Every value is a fixpoint of the identity function bird. 
+(Aside: Note that SKy names the identity bird for any bird y; we didn’t have to use K.)
+Now that we know that any forest with both S and K in it also has I in it, can you prove that the forest also has M in it? (Recall that Mx=xx for all x.) Give it a try and then scroll down.
+.
+.
+.
+
+.
+.
+.
+.
+SIIz=(Iz)(Iz)=zz, so SII is M.
+
+All this whimsey is fun of course, but I’m sure you’ve all realized by now that birds are more conventionally called combinators. Combinators are functions that take a single combinator and return a single combinator; forests are sets of combinators. 
+The study of combinatory logic is interesting for computer scientists. It turns out that there is a relatively straightforward way to take any expression made up of S and K and find an equivalent lambda calculus expression, and vice versa. Any expression in lambda calculus can be expressed as a string of S and K combinators. You can use the S and K combinators to express Booleans, numbers, arbitrary functions on integers, you name it; if a Turing machine can compute it, there’s an S/K expression which can be interpreted as computing the same thing.
+There’s a lot more I could say about that, but I’m not going to go into the details.
+Oh, and when I added lambdas to C# 3 way back in the day, the first test case I wrote to ensure the type analysis was working was something like:
+
+delegate C C(C x);
+...
+C i = x=>x;
+C m = x=>x(x);
+C k = x=>y=>x;
+C s = x=>y=>z=>x(z)(y(z));
+
+but I’m not going to discuss that further, at least not right now. We’re already way off track from my series on compiling Bean Machine. Let’s get back to it.
+Next time on FAIC: We’ll see how to use an approach inspired by combinators to build parts of a compiler, and why ensuring combinators have fixpoints is important.
+
+If you enjoyed these puzzles, the ones that I showed are some of the introductory puzzles in To Mock A Mockingbird, which is delightful and educational, and gets as far as computability theory and Godel incompleteness. Do pick up a copy!
+
+
+
+
+
+
+Posted in Uncategorized 
+ | 
+2 Replies
+
+
+
+
+The names of birds, part 3
+
+Posted on February 1, 2023  by  ericlippert 
+
+4 
+
+
+In the autumn of last year my friend Joan and I went on a little trip up to the Skagit valley north of Seattle to photograph birds of prey; I managed to get a blurry but recognizable shot of this charming little kestrel looking for field mice. It was easily identifiable in the field because kestrels are one of the very few birds of prey that can briefly hover while hunting, almost like a hummingbird.
+
+Well, back to combinatory logic and some puzzles from To Mock a Mockingbird. 
+We’ve said that if there are birds x and y such that xy=y, then x is fond of y, and y is a fixpoint of x. Smullyan goes on to say that if there are birds x and y such that xz=y for every z in the forest, then x is not just fond of y, it is fixated on y.
+The kestrel, K, is an interesting bird. When you call the name of any bird x to it, it calls back the name of a bird in the forest that is fixated on x. That is, the kestrel obeys the identity Kxy=x for all birds x and y in the forest. (Recall from part one that Kxy means (Kx)y, not K(xy).)
+Suppose there is a forest which contains a kestrel and moreover in this particular forest K is fond of itself; that is KK=K. Can you prove that a kestrel that is fond of itself is both (1) extremely egocentric, and (2) lonely? Give it a try, and then scroll down.
+.
+.
+.
+.
+
+I need a longer lens! This is at the edge of what my little 70-300 zoom can handle.
+.
+.
+.
+(1) A bird which is fond of itself is already probably pretty egocentric. Kx gives the name of a bird which is fixated on x, so KK gives the name of a bird which is fixated on K. But KK=K, so K is the name of a bird that is fixated on K. A bird which is fixated on itself is surely extremely egocentric!
+(2) By definition (Kx)y=x for all x and y. Since in this forest K is fixated on K, Kx=K for all x. Therefore Ky=x for all x, y. But again Ky=K for all y so K=x for all x in the forest. Every bird in the forest is the kestrel, and therefore there is only one bird in the forest. No wonder an extremely egocentric kestrel is lonely!
+
+Next time on FAIC: The starling!
+
+
+
+Posted in Uncategorized 
+ | 
+4 Replies
+
+
+
+
+The names of birds, part 2
+
+Posted on January 30, 2023  by  ericlippert 
+
+1 
+
+
+Reader “Joel” had an insightful comment on the first part of this series which I thought deserved a short episode of its own. Recall that we proved the theorem “if a compositional forest contains a mockingbird then every bird in the forest has a fixpoint“. An equivalent way to state that theorem is: “if a forest contains a bird without a fixpoint then either the forest is not compositional or it contains no mockingbird“. Joel’s question was whether there is a more “intuitive” way to understand why the mockingbird is so interesting that the presence of a bird without a fixpoint should prevent a mockingbird from existing in the same (compositional) forest.
+The short version is: we’ll say that two birds agree on an input if their outputs are the same for that input. The mockingbird is a bird that agrees with every other bird on at least one input. A bird without a fixpoint is a bird that can always produce a different output than its input. Their composition is a bird which disagrees with every bird in the forest on one input and therefore is not in the forest at all.
+The long version is:
+I find it easiest to get an intuition for a general rule by looking at some simple examples.
+The first thing I’d note is that it is quite easy to construct a non-compositional forest containing a bird without a fixpoint. A simple example would be a non-compositional forest containing exactly two birds, A and M. Define them such that:
+AA = MAM = AMA = MMM = M
+Plainly these are two different birds, since their responses disagree on input M. Plainly M is a mockingbird, since Mx=xx for all x in the forest. And plainly A has no fixpoint. This forest is not compositional because there is no bird C in the forest such that Cx=A(Mx) for all x. With such a small number of birds in the forest it seems quite reasonable that one might have no fixpoint.
+Let’s look at a more interesting example, this one in a compositional forest. Let’s suppose there is a countable infinity of birds in the forest. By “countable infinity” I mean that we can number each bird with a natural number; we’ve got bird 0, bird 1, bird 2, and so on. In fact, let’s just use natural numbers as the names of the birds in this forest.
+Since each bird needs a response to hearing the name of every other bird in the forest, we can imagine an infinite lookup table that says what each bird responds when it hears the name of another bird in the forest. We’ll put the “called to” bird on the vertical axis and the “name called” on the horizontal axis:
+      0 1 2 3 ...
+    ------------
+  0 | 9 5 2 5 ...
+  1 | 8 3 6 7 ...
+  2 | 0 1 2 3 ...
+  3 | 3 1 4 1 ...
+... |
+  S | 1 2 3 4 ...
+... |
+
+So in our notation 0 1=5, 2 3=3, and so on.
+Let’s suppose this forest is compositional and contains a bird, call it S, which has no fixpoint. We could choose any such S, but without loss of generality we shall pick a specific S, the bird where S 0=1, S 1=2, S 2=3, S 3=4, … and so on; the “successor” bird. Of course S has some “number” name but we don’t really care what it is, so we’ll just “alias” that one as S.
+Now let’s suppose there’s a mockingbird in the forest and deduce a contradiction. The mockingbird tells us what is on the highlighted diagonal! That is, M 0=9, M 1=3, M 2=2, M 3=1, and so on. (As with S, M is an alias for some “number” name but we don’t know or care what it is.)
+Now comes the fun bit. The forest is compositional, so therefore there exists a bird C such that Cx=S(Mx) for all x. We do care what the number name of C is. So, which is it?
+C 0=10, and therefore C is not 0, because 0 0=9. But similarly, C 1=4, so C is not 1. And similarly C is not 2, 3, 4, 5, … because C definitely disagrees with each of those functions I mean birds at the diagonal. But if C has no number name, then it is not in the forest at all, contradicting the statement that the forest is compositional. We now have deduced a contradiction, and therefore our assumption that M is in the forest is shown to be false.
+By looking at a specific example — a countable forest with a successor bird — perhaps you have a better intuition about why Mx=xx and any bird S that has no fixpoint cannot coexist in a compositional forest: if they did then the bird C such that Cx=S(Mx) definitely disagrees with every bird in the forest on at least one input, and therefore the forest would not be closed under composition; there would always be a missing bird.
+
+Next time on FAIC: We’ll look at some more fun examples and then get back to compilation.
+
+
+
+Posted in Uncategorized 
+ | 
+1 Reply
+
+
+
+
+The names of birds, part 1
+
+Posted on January 17, 2023  by  ericlippert 
+
+7 
+
+
+For the next part in my Bean Machine retrospective to make sense I’ll need to make a short digression. In looking back on the almost 20 years I’ve been blogging, it is surprising to me that I’ve only briefly alluded to my appreciation of combinatory logic. In the next couple of episodes, I’ll do a quick introduction based on the delightful book that introduced it to me: To Mock A Mockingbird, by the late Raymond Smullyan.
+Imagine a forest containing some birds, possibly finitely or infinitely many. These are unusual birds. When you call the species name of a bird in the forest to a bird in the forest, it calls one back to you. Maybe the same, maybe different, but when you tell a bird the name of a bird, it names a bird back to you. There might be a Red Capped Cardinal in the forest and when you call out Great Blue Heron to it, it calls back Belted Kingfisher. 
+(Photos by me; click for higher resolution.)
+
+
+
+
+
+
+We will notate “I called Q to P and got response R” as PQ = R. If I then called out S to R and R responded with T, we’ll notate that as PQS = RS = T.  We’ll use parentheses in the obvious way: PQS = (PQ)S and this might be different from P(QS). The latter is “I called S to Q, and then called Q‘s response to P“.  I’ll use capital letters to represent specific bird names, and small letters to represent variables.
+The question we’re considering here is: under what circumstances will a bird call back the same name you called to it?  That is, for a given bird y, under what circumstances does yx = x? 
+Smullyan calls birds with this relationship “fondness” — that is, “y is fond of x” means that yx = x. If y is fond of x then x is said to be a “fixpoint” of y.
+
+A forest is said to be “compositional” if for every pair of birds (a, b) — a and b can be the same or different — there is a bird c in the forest such that cx = b(ax) for all x. That is, if we call any name x to a, and then call its response to b, we get the same result as simply calling x to c. c is the composition of “call x to a, and then call that response to b“.
+A mockingbird is the bird M with the property that Mx = xx. That is, for any bird name x, M tells you what x‘s response is to its own name. (The attentive reader will note that we have not said what MM is, but at least we know from the definition that MM = MM, so give me some credit for consistency at least.)
+Theorem: if a compositional forest contains a mockingbird then every bird in the forest is fond of at least one bird.
+Proof:  Try to prove it yourself; scroll down for the solution.
+.
+.
+.
+.
+.
+.
+.
+Let p be any bird. Let c be the bird that composes p with M. Therefore cx = p(Mx) for all x. 
+In particular, that’s true for c, so cc = p(Mc).  But Mc = cc, thus cc = p(cc), and we’ve found a bird that p is fond of. Since p was any bird, every bird in the forest is fond of at least one bird. Or, put another way, every bird in a compositional forest with a mockingbird has at least one fixpoint.
+
+Next time on FAIC: we’ll take a look at a few more interesting birds, and then discuss why this whimsy is relevant to compilation before getting back to Bean Machine.
+
+
+
+
+Posted in Uncategorized 
+ | 
+7 Replies
+
+
+
+
+Bean Machine Retrospective, part 6
+
+Posted on January 5, 2023  by  ericlippert 
+
+1 
+
+
+Happy New Year all!
+Last time I briefly described the basic strategy of the Beanstalk compiler: transform the source code of each queried or observed function (and transitively their callees) into an equivalent program which partially evaluates the model, accumulating a graph as it goes. In this post I’ll go through the first step of the transformation.
+The idea of the first source-to-source transformation is to take a relatively complicated language — Python — and replace it with what I think of as “simplified Python”. The Zen of Python famously says “there should be one — and preferably only one — obvious way to do it” but that is not the goal of this simplification step. The Zen of Python emphasizes obviousness. It is about making the code clear and the language discoverable. My goal with simplified Python is “there should be only one way to do it” — because it is easier to instrument a program to capture its meaning as it runs if there’s only one way to do everything.
+Consider for example how to call a function foo with three arguments:
+
+foo(1, 2, 3)
+x = [1, 2, 3]
+foo(*x)
+foo(1, 2, bar=3)
+x = {"bar":3}
+foo(1, 2, **x)
+
+… and so on — there are a great many obvious ways to call a function in Python, but I’d like there to be exactly one in simplified Python.
+The first thing we do when analyzing a queried or observed function is to obtain its source code, parse that into an abstract syntax tree (AST), and then do a series of AST transformations that reduce the function into an equivalent but simpler Python program. This is the most traditional-compiler-ish step in the pipeline.
+(How do we obtain the source code? Remember, we have an RVID for each observation and query; the RVID contains a reference to the original function object. Python’s runtime can provide the source code for a given function reference.)
+Let’s look at an only slightly more complicated version of our “hello world” model:
+
+@random_variable
+def fairness():
+  return Beta(2,2)
+
+@random_variable
+def flip(n):
+  return Bernoulli(0.5 * fairness())
+
+In our simplified Python:
+
+Every value gets its own variable
+Every computation gets its own statement
+Every call has the same syntax: a = b(*c, **d)
+
+Our two methods in the simplified form would be:
+
+def fairness():
+  _t1 = 2
+  _t2 = 2
+  _t3 = [_t1, _t2]
+  _t4 = {}
+  _t5 = Beta(*_t3, **_t4)
+  return _t5
+
+def flip(n):
+  _t1 = 0.5
+  _t2 = []
+  _t3 = {}
+  _t4 = fairness(*_t2, **_t3)
+  _t5 = _t1 * t4
+  _t6 = [_t5]
+  _t7 = {}
+  _t8 = Bernoulli(*_t6, **_t7)
+  return _t8
+
+
+ASIDE: Readers with some experience writing compilers might ask “is this static-single-assignment form?” SSA form is a transformation whereby every variable is assigned exactly once; it’s used for control flow analysis and other program analyses. I did not write a full-on SSA transformation but when I was doing initial prototyping I knew that I might need SSA form in the future. Think of it as SSA-light if that makes sense.
+
+
+We can go further; in our simplified Python:
+
+logical operators and and or are eliminated
+
+
+x = y and z
+
+can be simplified to
+
+x = y
+if x:
+  x = z
+
+and now the graph accumulator does not need to worry at all about logical operators, because there aren’t any in the simplified program.
+
+Every while loop is while True.
+
+
+No loop has an else clause. (Did you know that Python loops have else clauses? It’s true!)
+
+
+There are no compound comparisons:
+
+
+x = a < b < c
+
+can be simplified to
+
+x = a < b
+if x:
+  x = b < c
+
+and now the graph accumulator does not need to worry about compound comparisons, because there aren’t any.
+
+Similarly there are no lambdas, no function annotations, and so on. All the convenient syntactic sugars are desugared into their more fundamental form.
+
+The simplified language is definitely not a language I’d like to write a long program in, but it is a language that is easy to analyze programmatically. Thus far, the transformations make the program longer and simpler, but do not change its meaning; if we compiled and ran the simplified version of the program it should do the same thing as the normal version.
+
+Next time on FAIC: let’s get into the details of how the AST-to-AST transformation code works. I had a lot of fun writing it.
+
+
+
+
+Posted in Uncategorized 
+ | 
+1 Reply
+
+
+
+
+Bean Machine Retrospective, part 5
+
+Posted on December 20, 2022  by  ericlippert 
+
+1 
+
+
+Let’s take another look at the “hello world” example and think more carefully about what is actually going on:
+
+@random_variable
+def fairness():
+  return Beta(2,2)
+
+@random_variable
+def flip(n):
+  return Bernoulli(fairness())
+
+heads = tensor(1)
+tails = tensor(0)
+
+observations = { flip(0) : heads, ... flip(9): tails }
+queries = [ fairness() ]
+num_samples = 10000
+results = BMGInference().infer(queries, observations, num_samples)
+samples = results[fairness()]
+
+There’s a lot going on here. Let’s start by clearing up what the returned values of the random variables are.
+
+It sure looks like fairness() returns an instance of a pytorch object — Beta(2,2) — but the model behaves as though it returned a sample from that distribution in the call to Bernoulli. What’s going on?
+The call doesn’t return either. It returns a random variable identifier, which I will abbreviate as RVID. An RVID is essentially a tuple of the original function and all the arguments. (If you think that sounds like a key to a memoization dictionary, you’re right!)
+This is an oversimplification, but you can imagine for now that it works like this:
+
+def random_variable(original_function):
+  def new_function(*args):   
+    return RVID(original_function, args)
+  # The actual implementation stashes away useful information
+  # and has logic needed for other Bean Machine inference algorithms
+  # but for our purposes, pretend it just returns an RVID.
+  return new_function
+
+def fairness():
+  return Beta(2,2)
+fairness = random_variable(fairness)
+
+The decorator lets us manipulate function calls which represent random variables as values! Now it should be clear how
+
+queries = [ fairness() ]
+
+works; what we’re really doing here is
+
+queries = [ RVID(fairness, ()) ]
+
+That clears up how it is that we treat calls to random variables as unique values. What about inference?
+
+Leaving aside the behavior of the decorators to cause random variables to generate RVIDs, our “hello world” program acts just like any other Python program right up to here:
+
+results = BMGInference().infer(queries, observations, num_samples)
+
+Argument queries is a list of RVIDs, and observations is a dictionary mapping RVIDs onto their observed values. Plainly infer causes a miracle to happen: it returns a dictionary mapping each queried RVID onto a tensor of num_samples values that are plausible samples from the distribution of the posterior of the random variable.
+Of course it is no miracle. We do the following steps:
+
+Transform the source code of each queried or observed function (and transitively their callees) into an equivalent program which partially evaluates the model, accumulating a graph as it goes
+Execute the transformed code to accumulate the graph
+Transform the accumulated graph into a valid BMG graph
+Perform inference on the graph in BMG
+Marshal the samples returned into the dictionary data structure expected by the user
+
+
+Coming up on FAIC: we will look at how we implemented each of those steps.
+
+
+
+Posted in Uncategorized 
+ | 
+1 Reply
+
+
+
+
+I want toast
+
+Posted on December 14, 2022  by  ericlippert 
+
+4 
+
+
+I’ll get back to Bean Machine and Beanstalk in the next episode; today, a brief diversion to discuss a general principle of language design and congratulate some of my former colleagues.
+
+Back when we were all at Waterloo, a bunch of us were sitting around the comfy lounge, eating C&D donuts and talking about possible future user interfaces for “smart appliances”; this was in the 1990s, long before ubiquitous voice recognition, compute and networking that we take for granted today. I think it was my friend Peter who pointed out that there is a “use vs mention” problem in voice-driven home appliances. We want to be able to mention the toaster in conversation without that causing the toaster to be used.
+This was a prescient observation. I have not verified this for myself, but I have heard from reliable sources that in some versions of Amazon’s Alexa smart speaker you could have this conversation:
+Human: Alexa, add an item to my to-do list.
+Alexa: OK, what do you want to add?
+Human: Alexa, what is already on my to-do list?
+Alexa: OK, adding Alexa what is already on my to-do list to your to-do list.
+(At least the response was not “OK, adding an item to your to-do list”. Thank goodness for small mercies.)
+The use-mention distinction is tricky, but I pointed out that you can make at least a little progress by parsing for desires rather than directives. Instead of building a system where we issue a series of commands to our appliances, we could instead give a description of the desired state — I want a pastrami sandwich on toast, no mustard — and let the allegedly smart appliances figure out how to achieve that goal.
+(I once told this story to a friend who worked on Alexa; he laughed and pointed out that Alexa is certainly not “smart” and in fact is only barely “obedient”. We have a long way to go.) 
+
+This was all on my mind today because the Networked Systems Design and Implementation Symposium has just accepted a paper by some of my Meta colleagues about a declarative domain specific programming language for specifying and achieving desired router states in a datacenter. I reviewed some of their earlier work and made a few small suggestions for improvements to the submission. As a courtesy they listed me as an author; I wish to emphasize that I did none of the actual work whatsoever. 🙂
+A huge problem that teams managing datacenters face every day is safely making configuration changes; this is most obvious on days when it goes horribly, horribly wrong. Even if you don’t know anything about router configuration — and I believe packets are moved around the wired network by gnomes and the wireless network by fairies — it’s pretty clear that any time you’re taking a router offline for maintenance or replacement, several things need to happen. You need to have a way to undo the operation back to a known good state if something goes wrong halfway through. You need to move user traffic to another router while still maintaining the ability for administrators to communicate with the target router. And so on. Writing imperative code that ensures that a router whose configuration is changing is always in a controllable state is maybe too easy to get wrong.
+Instead, we can take the “I want pastrami on toast” approach. Say what you want to happen under what set of constraints; write a compiler that turns those intentions into an imperative program that you can prove works.
+The goal of designing domain-specific languages is to create a language where the problems of the domain are naturally expressed in the jargon of the domain — in this example we can look at the grammar of the language in figure 1 of the paper and immediately see that the language is about describing paths, locations, topologies, routing, propagation, preferences and policies. This pays dividends in understandability of the code by domain experts, and has many other nice benefits. 
+For example, you can then write a static analyzer which looks for logical errors at the domain level in the code, which is much harder to do with, say, an imperative Python script that makes configuration changes. Even better, the team also has a simulator where they can simulate different network conditions, compile and execute configuration changes, and see if the simulated network is reconfigured as expected; there is no need to “test in production” when making any configuration changes.
+Many thanks to the other authors who reached out to me and my manager Walid; I learned a lot from our short collaboration. It is delightful to see an example of a successful, innovative real-world at-scale application of the power of DSLs. Congratulations on being accepted to the symposium!
+
+Next time on FAIC: Back to Bean Machine.
+
+
+
+
+Posted in Uncategorized 
+ | 
+4 Replies
+
+
+
+Post navigation
+← Older posts
+
+
+
+
+
+
+Follow Fabulous adventures in coding on WordPress.com
+
+ 
+Search
+
+
+
+Recommended reading The C# Programming Language
+Essential C#
+
+C# in a Nutshell
+C# in Depth
+Framework Design Guidelines
+
+Archives
+
+March 2023
+February 2023
+January 2023
+December 2022
+November 2022
+February 2021
+December 2020
+October 2020
+September 2020
+August 2020
+July 2020
+June 2020
+May 2020
+April 2020
+March 2020
+February 2020
+January 2020
+December 2019
+November 2019
+August 2019
+July 2019
+June 2019
+May 2019
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+November 2018
+October 2018
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+May 2016
+April 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+August 2015
+June 2015
+May 2015
+April 2015
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+November 2011
+September 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+October 2010
+September 2010
+June 2010
+March 2010
+January 2010
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+September 2008
+May 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+August 2007
+July 2007
+May 2007
+November 2006
+April 2006
+October 2005
+September 2005
+August 2004
+July 2004
+April 2004
+December 2003
+November 2003
+October 2003
+September 2003
+August 2003
+
+Categories
+
+asynchrony
+
+Books
+
+Brittle base classes
+
+C#
+
+C# 4.0
+
+C# 5.0
+
+Cast operator
+
+Code generation
+
+COM
+
+Conversions
+
+ConwaysLife
+
+Covariance and contravariance
+
+Coverity
+
+Debugging
+
+Definite assignment
+
+Dialogue
+
+dynamic
+
+English
+
+Exception handling
+
+Foundry
+
+Halting problem
+
+Humour
+
+Integer arithmetic
+
+Introduction
+
+JavaScript
+
+Keywords
+
+Lambda expressions
+
+Language design
+
+Mathematics
+
+Metablogging
+
+Monads
+
+Non-computer
+
+Overload resolution
+
+Performance
+
+Rants
+
+Rarefied heights
+
+Reachability
+
+Roslyn
+
+Security
+
+Technical interviewing
+
+Thread safety
+
+Type inference
+
+Uncategorized
+
+Unsafe code
+
+Value types
+
+Video
+
+What's the difference?
+
+zmachine
+
+
+Meta
+
+Register Log in
+Entries feed
+Comments feed
+WordPress.com
+
+@ericlippert@hachyderm.io
+
+ 
+
+
+
+Blog at WordPress.com.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						Fabulous adventures in coding					
+
+
+Blog at WordPress.com. 
+
+
+
+
+
+
+Follow
+
+
+Following
+
+
+
+
+
+
+
+				Fabulous adventures in coding			
+
+
+Join 870 other followers
+
+
+
+
+
+
+
+ 
+
+												Sign me up											
+
+
+
+
+											Already have a WordPress.com account? Log in now. 
+
+
+
+
+
+
+ 
+
+
+
+
+
+				Fabulous adventures in coding			
+
+
+
+ Customize
+
+
+
+
+Follow
+
+
+Following
+
+
+Sign up
+Log in
+
+
+											Report this content										
+
+
+
+											View site in Reader										
+
+
+Manage subscriptions
+
+Collapse this bar
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading Comments...
+
+
+
+ 
+
+
+Write a Comment...
+
+
+
+
+Email (Required)
+
+
+
+Name (Required)
+
+
+
+Website
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+

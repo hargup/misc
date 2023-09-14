@@ -1,0 +1,3 @@
+{
+  "message": "This is the REST service endpoint for Sheety. To see how to construct URLs visit https://sheety.co/docs"
+}

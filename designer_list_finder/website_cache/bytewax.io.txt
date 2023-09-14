@@ -1,0 +1,65 @@
+
+
+
+Homepage – bytewax
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DeveloperBlogCommunityPlatformGitHubSlackStream processing purely in PythonOpen source framework and distributed stream processing engine. Build streaming data pipelines and real-time apps with everything you need: recovery, scalability, windowing, aggregations, and connectors.
+Getting startedarrow_forwardLeverage the Python EcosystemBytewax can be used out-of-the box with any python library to connect to hundreds of data sources and use the entire ecosystem of data processing libraries.Check guidesarrow_forwardHow it worksBuild streaming data applications easily. In Python.1Easy install > pip install bytewax
+
+2Stateful operations like windowing and aggregationsfrom datetime import timedelta
+import numpy as np
+
+from bytewax.window import TumblingWindow, SystemClockConfig
+
+cc = SystemClockConfig()
+wc = TumblingWindow(length=timedelta(seconds=1))
+
+def build_array():
+    return np.empty(0)
+
+def insert_value(np_array, value):
+    return np.insert(np_array, 0, value)
+
+flow.fold_window("window", cc, wc, build_array, insert_value)
+
+3Use the Python tools you are familiar withimport numpy as np
+
+flow.map(lambda x: np.mean(x[1]))
+
+4Connect to data sourcesfrom bytewax.dataflow import Dataflow
+from bytewax.connectors.kafka import KafkaInput, KafkaOutput
+
+flow = Dataflow()
+flow.input(
+    "events",
+    KafkaInput(
+        brokers=["localhost:9092"],
+        topic="web_events"
+    )
+)
+flow.output(
+    "parsed_ip_location",
+    KafkaOutput(
+        brokers=["localhost:9092"],
+        topic="ip_address_by_location"
+    )
+)
+
+5Run locally> python -m bytewax.run my_dataflow:flow
+
+6Deploy anywhere> waxctl df deploy my_dataflow.py
+
+Getting startedarrow_forwardMain featurescodePython NativeNo JVM required! Leverage the entirety of the python ecosystem, from Jupyter notebooks and Hugging Face transformers to Streamlit.join_rightStatefulStateful operators allow you to do advanced processing like joins, windows, and aggregationsrestoreRecoverableBuilt-in state recovery with multiple state backend options for critical workloadsschemaNative ConnectorsBuilt-in integrations for Kafka, Redpanda, DynamoDB, BigQuery, and more...cloudScalableBytewax can scale across thousands of workers to meet the most demanding workloads.speedPerformantThe Rust engine keeps things performant.GuidesWhat can you build with bytewaxTutorialProfiling Streaming Time Series DataYou'll be able to handle and structure data streams into snapshots using Bytewax, and then analyze them with ydata-profiling to create a comprehensive report of data characteristics for each device at each time interval.TutorialRecoverable Streaming Shopping Cart ApplicationThis tutorial will show you how to build a recoverable streaming application that aggregates shoppers data into a shopping cart that is recoverable in the instance that it fails.TutorialEnriching Streaming Data from RedpandaEnriching streaming data inline is a common pattern. This tutorial will show you how you can do this with Python and provide you with code you can modify to build your own enrichment pipelines.Sample AppReal-Time Financial Exchange Order BookAt the end of this tutorial users will understand how to use Bytewax to analyze financial exchange data by connecting to a websocket and using Bytewax operators to maintain an order book and analyzing the orders.TutorialBuilding Sessions from Search LogsThis guide will teach you how to use Bytewax to aggregate on a custom session window on streaming data using reduce and then calculate metrics downstream.TutorialHandling Missing Values in Data StreamsLearn how to create a custom sliding window with the stateful map operator to impute values using numpyAll guidesarrow_forwardCommunity buzzLoved by dataLoading...Loading...Loading...Loading...Loading...CompanyAbout usCareersPlatformContact UsDeveloperDocumentationAPI DocsGuidesDownloadsCommunityHow to contribute?Code Of ConductJoin our SlackGitHubLegalPrivacy policyTerms of use © Copyright 2023 by Bytewax, Inc. All rights reserved SlackGitHubTwitterLinkedIn

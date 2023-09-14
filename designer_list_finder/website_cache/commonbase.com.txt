@@ -1,0 +1,121 @@
+
+
+
+
+
+Commonbase - API for building private, reliable and fast LLM integrations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Keep your users safeOne API to build private, reliable and fast LLM integrations.Cost control, PII-masking, EU-hosted failsafe LLMs included.Start for freeBook a demoKeep your users safeOne API to build private, reliable and fast LLM integrations.Cost control, PII-masking, EU-hosted failsafe LLMs included.Start for freeBook a demoKeep your users safeOne API to build private, reliable and fast LLM integrations.Cost control, PII-masking, EU-hosted failsafe LLMs included.Start for freeBook a demoHomePromptPrivacyCost ControlUsersSettingsHomePromptPrivacyCost ControlUsersSettingsHomePromptPrivacyCost ControlUsersSettingsServe users globally with one APIA simple yet flexible interface so that you could make requests in minutes. Integrate with our SDK or REST API.import { Client } from "@commonbase/sdk";
+
+const client = new Client({
+    projectId: "YOUR_PROJECT_ID"
+});
+
+const result = await client.createCompletion({
+    companyName: "Commonbase",
+    clientName: "Vincent Vega",
+    toneOfVoice: "formal",
+});
+
+console.log(result.bestResult);import { Client } from "@commonbase/sdk";
+
+const client = new Client({
+    projectId: "YOUR_PROJECT_ID"
+});
+
+const result = await client.createCompletion({
+    companyName: "Commonbase",
+    clientName: "Vincent Vega",
+    toneOfVoice: "formal",
+});
+
+console.log(result.bestResult);Built for developers. Serves your entire team.First-class developer experience - from testing to production. Transparent reporting and auditing tools for all stakeholders.PrivacyWe detect and redact PII from your queries before they reach the LLM API to make sure you never leak sensitive or private data.ReliabilityOur API includes failsafe providers and API query retry strategy so that your user product requests would never fail again.Cost ControlSet monthly cost limits per organization and across your workspace to avoid bad surprises at the end of the month.SpeedWe route every request to the nearest LLM API to make sure all of user get the best experience, no matter where they are located.Perfect fit for highly regulated industriesWe make sure no matter how sensitive your user data is, it never reaches 3rd party APIs to keep you compliant. FintechHR Tools & CRMsHealthcareSaaSUse LLMs to process payments and invoice data without leaking your customers bank account details nor sensitive data from the invoices.FintechHR Tools & CRMsHealthcareSaaSUse LLMs to process payments and invoice data without leaking your customers bank account details nor sensitive data from the invoices.Delight users globallySet up your site in minutesSet up your site in minutesOur global LLM edge network allows you to serve all of your customers with the best performance.Our global LLM edge network allows you to serve all of your customers with the best performance.Our global LLM edge network allows you to serve all of your customers with the best performance.Guaranteed UptimeGuaranteed Uptime99.99%Average proxy latencyAverage proxy latency100msCities with serversCities with servers300Cheaper than compromising your customer's trustCheaper than compromising your customer's trustCheaper than compromising your customer's trustFind a plan that works best for you.Find a plan that works best for you.Find a plan that works best for you.YearlyMonthlyYearlyStarterFree100 PII redactionsgpt-4-32k model accessUnlimited usersPrompt playgroundUser-based cost trackingDeveloper debugging logsGet StartedGrowth$12.99$149$12.99per monthEverything in Starter10k PII redactions (+$10 per 1k)10k low latency calls (+$10 per 1k)EU-hosted LLMsSlack Connect support channelProduct roadmap suggestions1-month log retentionGet StartedScaleCustom34.99Everything in GrowthCustom call volumes24/7 phone supportSOC II Certification99.9% Uptime SLADPA-based serviceBook a DemoYearlyMonthlyYearlyStarterFree100 PII redactionsgpt-4-32k model accessUnlimited usersPrompt playgroundUser-based cost trackingDeveloper debugging logsGet StartedGrowth$12.99$149$12.99per monthEverything in Starter10k PII redactions (+$10 per 1k)10k low latency calls (+$10 per 1k)EU-hosted LLMsSlack Connect support channelProduct roadmap suggestions1-month log retentionGet StartedScaleCustom34.99Everything in GrowthCustom call volumes24/7 phone supportSOC II Certification99.9% Uptime SLADPA-based serviceBook a DemoYearlyMonthlyYearlyStarterFree100 PII redactionsgpt-4-32k model accessUnlimited usersPrompt playgroundUser-based cost trackingDeveloper debugging logsGet StartedGrowth$12.99$149$12.99per monthEverything in Starter10k PII redactions (+$10 per 1k)10k low latency calls (+$10 per 1k)EU-hosted LLMsSlack Connect support channelProduct roadmap suggestions1-month log retentionGet StartedScaleCustom34.99Everything in GrowthCustom call volumes24/7 phone supportSOC II Certification99.9% Uptime SLADPA-based serviceBook a DemoExceeding expectationsWe help you iterate with LLM-powered features at the speed of writing CSSCommonbase helped us go live with out first LLM-powered feature in a matter of hours as opposed to days. Their hands on support was unrivaled.Martin JeretCEO of CodemagicShip your next LLM feature today.Start for freeStart for freeStart for freeBook a demoBook a demoBook a demoCommonbase447 Broadway10013 New York, NYGet in touchContactLinkedInTwitterDevelopersDocsStatusGitHubExamplesLegalTOSPrivacyCommonbase447 Broadway10013 New York, NYGet in touchContactLinkedInTwitterDevelopersDocsStatusGitHubExamplesLegalTOSPrivacyCommonbase447 Broadway10013 New York, NYGet in touchContactLinkedInTwitterDevelopersDocsStatusGitHubExamplesLegalTOSPrivacycommonbaseFeaturesIndustriesPricingDocsLog inStart for freeStart for freeStart for free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

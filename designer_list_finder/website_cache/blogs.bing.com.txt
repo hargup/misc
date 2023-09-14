@@ -1,0 +1,691 @@
+
+
+
+	Bing Blogs | Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+This is a place devoted to giving you deeper insight into the news, trends, people and technology behind Bing.
+
+
+
+Follow us:
+
+
+
+
+
+
+
+
+
+
+Subscribe RSS
+
+
+
+
+
+
+Search for
+
+
+
+
+
+
+
+Blogs
+
+HomeSearchMapsWebmasterSearch Quality InsightsJobsEngineering Blog
+
+Regions
+
+AustraliaCanadaChinaFranceGermanyIndiaJapanUK
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bing Preview Release Notes: Bing Chat Enterprise in Windows Copilot
+These Release Notes are designed to provide updates on new…
+Read More
+
+
+
+
+
+
+
+
+
+
+Get live traffic updates from Bing Maps on your phone!
+Get live traffic updates on your phone! You have already…
+Read More
+
+
+
+
+
+
+
+
+
+
+Turing Bletchley v3 - A Vision-Language Foundation Model
+The Turing team is excited to go into detail on how Turing…
+Read More
+
+
+
+
+
+
+
+
+
+
+Bing Preview Release Notes: More Ways to Access Bing Chat
+We’re excited about Monday’s announcement that…
+Read More
+
+
+
+
+
+
+
+
+
+
+Bing Chat Enterprise is in preview for Microsoft 365 A3 and A5 licenses for faculty users
+In July, Microsoft announced the preview of Bing Chat…
+Read More
+
+
+
+
+
+
+
+
+
+
+Celebrating 6 months of the new AI-powered Bing
+It’s been six months since we reinvented search with the…
+Read More
+
+
+
+
+
+
+
+
+
+
+Bing Preview Release Notes: Dark Mode
+This week, browsing the web just got easier on your eyes and…
+Read More
+
+
+
+
+
+
+
+
+
+
+Bing Preview Release Notes: Multimodal Visual Search in Chat and Bing Chat Enterprise
+This has been a big week! On Tuesday, we announced the…
+Read More
+
+
+
+
+
+
+
+
+
+
+Bing Chat Enterprise announced, multimodal Visual Search rolling out to Bing Chat
+At Microsoft Inspire 2023, we announced the next steps in our…
+Read More
+
+
+
+
+
+
+
+
+
+
+Bing Preview Release Notes: Sports Enhancements and Bing Image Creator in Skype
+This week we announced new AI-powered shopping tools for Bing…
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+September12023
+
+
+
+Bing Preview Release Notes: Bing Chat Enterprise in Windows Copilot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        These Release Notes are designed to provide updates on new features that have fully shipped to all Bing Chat users as of today. Here’s a summary of what’s new since our August 25 update: 
+
+        
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+August312023
+
+
+
+Get live traffic updates from Bing Maps on your phone!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Get live traffic updates on your phone! You have already experienced the live traffic on the bing maps web page, now bring that experience to your mobile device.
+        
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+August292023
+
+
+
+Turing Bletchley v3 - A Vision-Language Foundation Model
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        The Turing team is excited to go into detail on how Turing Bletchley v3, a new multilingual vision-language foundation model, is used across Microsoft products. This model is the latest version of Turing Bletchley -- our series of multilingual multimodal foundation models which understand more than 90 languages. You might already be using Turing Bletchley v3 when searching for images via Bing, and in this post, we will share more details...
+        
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+August252023
+
+
+
+Bing Preview Release Notes: More Ways to Access Bing Chat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        We’re excited about Monday’s announcement that Bing Chat Enterprise is now available to Microsoft 365 A3 and A5 Faculty users at no additional cost. We look forward to hearing from educators about how they are using it! 
+ 
+        
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+August212023
+
+
+
+Bing Chat Enterprise is in preview for Microsoft 365 A3 and A5 licenses for faculty users
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        In July, Microsoft announced the preview of Bing Chat Enterprise, which delivers AI-powered chat with commercial data protection. Today, we have extended Bing Chat Enterprise eligibility to Microsoft 365 A3 and A5 licenses for faculty. 
+
+        
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+August72023
+
+
+
+Celebrating 6 months of the new AI-powered Bing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        It’s been six months since we reinvented search with the new AI-powered Bing and Edge. In that short time, you’ve engaged in so many unique and creative ways; to date we’ve seen over 1 billion chats and over 750 million images fill the world of Bing! We’ve also seen nine consecutive quarters of growth on Edge, meaning we’re more able than ever to bring our best-in-class AI experiences to users across the web.
+
+        
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+July312023
+
+
+
+Bing Preview Release Notes: Dark Mode
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        This week, browsing the web just got easier on your eyes and better for your laptop battery—we released dark mode for Bing Chat! This feature now works in both Bing Chat and Bing Chat Enterprise in your desktop browser, and it’s already available in the Bing mobile app. Dark mode also changes the appearance of the search page on Bing.com. 
+
+        
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+July212023
+
+
+
+Bing Preview Release Notes: Multimodal Visual Search in Chat and Bing Chat Enterprise
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        This has been a big week! On Tuesday, we announced the availability of Bing Chat Enterprise and multimodal Visual Search in Chat. Both experiences are available now. 
+
+        
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+July182023
+
+
+
+Bing Chat Enterprise announced, multimodal Visual Search rolling out to Bing Chat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        At Microsoft Inspire 2023, we announced the next steps in our Bing Chat journey: Bing Chat Enterprise, rolling out today in Preview, and multimodal Visual Search, rolling out now for consumers on Bing desktop and the mobile app.
+
+        
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+June302023
+
+
+
+Bing Preview Release Notes: Sports Enhancements and Bing Image Creator in Skype
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        This week we announced new AI-powered shopping tools for Bing and Edge that we’re very excited about. You’ll start to see new features like Buying Guides and Review Summaries start to roll out with updates to Edge. 
+
+        
+Read More
+
+
+
+
+
+
+
+
+
+
+
+Posts navigation
+ 
+
+
+12345
+…
+ 
+263
+Next »
+
+
+ 
+ 
+ 
+
+
+
+Links for Bing
+
+Explore Bing
+Bing in the Classroom
+Bing Developer Center
+Bing Rewards
+Bing Help
+Bing Ads
+
+
+
+Other Microsoft blogs
+
+Official Microsoft Blog
+Microsoft On The Issues
+Next at Microsoft
+The Firehose
+
+
+
+Other product blogs
+
+Bing Ads Blog
+Skype Blogs
+OneDrive Blog
+The Windows Blog
+Internet Explorer Blog
+Xbox Wire
+Outlook Blog
+
+
+
+
+
+Powered by Azure
+Legal
+Trademarks
+Privacy Statement
+Sitemap
+Manage Cookies
+
+
+
+
+© 2016 Microsoft Corporation. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+
+
+Meta AI
+
+
+
+
+
+
+
+
+
+ResearchBlogResourcesAboutResearchBlogResourcesAboutLlama 2Powering innovation through accessWe're excited to announce that Llama 2, our open source large language model, is now free and available for research and commercial use. This release offers a unique opportunity for developers, while reflecting our commitment to open source, cross collaboration and innovation!Learn moreMeta ConnectExpanding reality, today and tomorrowJoin us on September 27 and 28 for a virtual event focused on AI and virtual, mixed and augmented realities.Learn moreBlogWhat’s newExplore moreWe’re unlocking the possibilities of AI, together.Through research and community collaboration, we’re advancing the state-of-the-art in Generative AI, Computer Vision, NLP, Infrastructure and other areas of AI. We’re also applying our learnings to innovative, safe products, tools and experiences across our family of apps.Learn more about usIntroducingSeamlessM4TSeamlessM4T is a foundational speech/text translation and transcription model that overcomes the limitations of previous systems with state-of-the-art results.Learn moreResearch and resourcesSharing our learnings with the AI communityWe believe the responsible advancement of AI should be a shared community initiative.AI ResearchTogether, we’re responsibly advancing the state-of-the-art in AI through fundamental and applied research. Our goal is apply our learnings to create products and experiences that benefit all people.Learn moreAI ResourcesFrom research exploration to large-scale production deployments, we share our frameworks, libraries, demos, system cards, models, tools, such as PyTorch, ONNX, Glow and more.Learn moreOur latest updates delivered to your inboxSubscribe to our newsletter to keep up with Meta AI news, events, research breakthroughs, and more.Sign upWho We AreAbout Meta AIPeopleCareersEventsLatest WorkResearchInfrastructureBlogResourcesOur ActionsResponsibilitiesNewsletterSign UpWho We AreWho We AreAbout Meta AIPeopleCareersEventsLatest WorkLatest WorkResearchInfrastructureBlogResourcesOur ActionsOur ActionsResponsibilitiesNewsletterNewsletterSign UpPrivacy PolicyTermsCookies Meta © 2023
+
+

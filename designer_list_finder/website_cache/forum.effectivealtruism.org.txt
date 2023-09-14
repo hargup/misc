@@ -1,0 +1,152 @@
+
+
+
+EA Forum Bots
+
+
+
+ This website requires javascript to properly function. Consider activating javascript to get access to all site functionality. EA Forum Bot SiteCareer conversations weekEA ForumLoginSign upHomeAll postsTopicsLibraryTake actionEventsGroups & peopleQuick takesHow to use the ForumContact usCookie policyRSSWelcome to the EA Forum bot site. If you are trying to access the Forum programmatically (either by scraping or via the api) please use this site rather than forum.effectivealtruism.org.This site has the same content as the main site, but is run in a separate environment to avoid bots overloading the main site and affecting performance for human users.FrontpageGlobal healthAnimal welfareAI safetyCommunityBiosecurity & pandemicsExistential riskPhilosophyBuilding effective altruismPolicyCause prioritizationEffective givingCareer choiceForecasting & estimationCareer Conversations Week (8-15 September)Write about your job, share underrated career advice, discuss hiring bottlenecks, and explore classic posts.Start with: Career Conversations Week on the Forum (8-15 September)New & upvotedCustomize feedCustomize feedCommunityCommunityPersonal+24New? Start here! (Useful links)LizkaLizka+ 0 more · 1y ago · 2m read0021Open Thread: July - September 2023LizkaLizka+ 0 more · 2mo ago · 1m read696971AMA: 80,000 Hours Career Advising TeamAbby HoskinAbby Hoskin, Michelle_Hutchinson, Huon Porteous+ 0 more · 6d ago · 2m read515162Who Is a Good Fit for a Career in Nonprofit Entrepreneurship? (CCW2023)CECE, SteveThompson, Ula Zarosa+ 0 more · 9h ago · 7m read22126Why some people disagree with the CAIS statement on AIDavid_MossDavid_Moss, Willem Sleegers+ 0 more · 6d ago · 19m read9955Difficult to get a job in EA not living in the West? Animal advocacy careers can impact millions of animals anywhere in the worldAnimal Advocacy CareersAnimal Advocacy Careers+ 0 more · 15h ago · 10m read0064There is little (good) evidence that aid systematically harms political institutionsryancbriggsryancbriggs+ 0 more · 18h ago · 6m read101057Who should we interview for The 80,000 Hours Podcast?QLuisa_RodriguezLuisa_Rodriguez, Robert_Wiblin+ 0 more · 16h ago · 2m read505010Hiring: hacks + pitfalls for candidate evaluationCait_LionCait_Lion+ 0 more · 5h ago · 6m read1118What do XPT results tell us about biorisk?Forecasting Research InstituteForecasting Research Institute, Bridget_Williams+ 0 more · 8h ago · 13m read0019Over 350,000 laying hens committed to cage-free housing in Ghanaabilibadanielbaba11@gmail.comabilibadanielbaba11@gmail.com, Jacob Ayang , EMMANUEL D. PIIRU+ 0 more · 9h ago · 2m read0011Career Conversation Week: Philosophy Graduate Studentmhendricmhendric+ 0 more · 7h ago · 8m read0036Writing about my job: Co-founder of a new charity (early stage) SofiaBaldersonSofiaBalderson+ 0 more · 19h ago · 13m read2248Hiring retrospective: Research Communicator for Giving What We CanMichael TownsendMichael Townsend+ 0 more · 1d ago · 9m read4423AI-Risk in the State of the European Union AddressSam BogerdSam Bogerd+ 0 more · 15h ago · 3m read0059Link: EU considers dropping stricter animal welfare measures (Financial Times)Matt GoodmanMatt Goodman+ 0 more · 1d ago · 1m read44Load moreAdvanced sorting & filteringPosts tagged communityQuick takesView more72Ivan Burduk2dCommunity6Wish Swapcard was better? 
+
+Swapcard, the networking and scheduling app for EA Global and EAGx events, has
+published their product roadmap — where anyone can vote on features they want to
+see!
+
+Two features currently in the "Researching (Vote)" stage have been requested by
+our attendees since the beginning of us using Swapcard for our events:
+
+1) Reschedule a meeting
+2) External Calendar Synchronization
+
+If these sound like features you want, I encourage you to take a moment to vote
+for them! Every vote counts.
+
+Swapcard product roadmap13lilly13h4What are examples of behaviors you engage in that you suspect are inconsistent
+with the values/behaviors most EAs would endorse, but that you endorse doing
+(i.e., because you disagree to some extent with standard EA values, or because
+you think that EAs draw the wrong behavioral conclusions on the basis of EA
+values)?
+
+Examples would (probably) not be: "I donate to political campaigns because I
+think this may actually be high EV" [not inconsistent with EA values] or "I eat
+meat but feel bad about it" [not endorsed] 
+
+Examples might be: "I donate to a local homeless shelter because it's especially
+important to me to support members of my community" [deviates from standard EA
+values] or "I eat chickens that were raised on a local farm because I think they
+have good lives" [different behavioral conclusions]2DC4h0Thoughts on liability insurance for global catastrophic risks (either voluntary
+or mandatory) such as for biolabs or AGI companies? Do you find this to be a
+high-potential line of intervention?16Kaleem2d0I'm thinking about organising a couple of talks for Non-EAG-attending students
+in the Boston area, either the week before or week after EAG. I'm hoping we'd be
+able to get ~250 students from Harvard, MIT, Northeastern, Tufts, BU, BC (and
+all the other unis). I have event planning experience and would be willing to
+put significant time into making these good.
+
+If you're comming to Boston and have a talk or message you'd be excited to
+communicate to a bunch of students (likely ranging from no-EA experience to
+EAG-attendee level experience) please message me !25Vaidehi Agarwalla5d4(Pretty confident about the choice, but finding it hard to explain the
+rationale)
+
+I have started using "member of the EA community" vs "EAs" when I write
+publicly.
+
+Previously I cared a lot less about using these terms interchangeabley, mainly
+because referring to myself as an EA didn't seem inaccurate, it's quicker and I
+don't really see it as tying my identity closely to EA, but over time have
+changed my mind for a few reasons:
+
+Many people I would consider "EA" in the sense that they work on high impact
+causes, socially engage with other community members etc. don't consider
+themselves EA, might I think would likely consider themselves community members.
+I wonder if they read things about what "EAs" should do and don't think it
+applies to them.
+
+Using the term "an EA" contributes to the sense that there is one (monolithic?)
+identity that's very core to a person's being. E.g. if you leave the community
+do you lose a core part of your identity?
+
+Finally it also helps be specific about the correct reference class. E.g
+consider terms like "core EAs" with "leaders of EA-aligned organisations" or
+"decision makers at leading EA meta organisations" or "thought leaders of the EA
+community". (there is also a class for people who don't directly wield power but
+have influence over decision makers, I'm not sure what a good phrase to describe
+this role is).
+
+Interested in thoughts!Load moreRecent discussionJJ Hepburn's Quick takesJJ HepburnPersonal Blog3yNeil Crawford42m10I also prefer listening and speaking to reading and writing (unless there's a diagram or maths involved). I suppose it'd be best to excel in all 4, but at least text-to-speech makes reading easier :)ReplyApplications for EU Tech Policy Fellowship 2024 now open8Jan-Willem, Training for GoodCareer choiceAI safetyPolicyFellowships and internshipsApplication announcementsEuropean Union AI governanceOpportunitiesFrontpage12hWhat: The EU Tech Policy Fellowship is a 7-month programme that empowers ambitious graduates to launch European policy careers focused on emerging technology. At the core of our programme is a focus on ensuring the safe and responsible deployment of artificial intelligence and related technologies.Two distinct tracks:Training track: Explore the intricacies of tech policy during our 8-week Emerging Tech Governance Fundamentals Programme. Engage in a 10-day policymaking summit in Brussels. Receive personalised support & coaching to confidently initiate your career in tech policy.Placement track: Experience the full scope of our training track by participating in our 8-week Emerging Tech Governance Fundamentals Programme and attending our 10-day Brussels Summit. Secure a 4-6 month placement at a respected think tank, complemented by a stipend up to EUR 2.250 per...(See more – 23 more words)Heramb Podar2h100This is cool! Good luck on the programReplyHiring: hacks + pitfalls for candidate evaluation10Cait_LionCareer choiceHiringCareer Conversations Week (2023)Frontpage5hThis post collects some hacks — cheap things that work well — and common pitfalls I’ve seen in my experience hiring people for CEA. HacksSharing customised-generic feedbackRejected candidates often, very reasonably, desire feedback. Sometimes you don’t have capacity to tailor feedback to each candidate, particularly at earlier stages of the process. If you have some brief criteria describing what stronger applicants or stronger trial tasks submissions should look like, and if that’s borne out in your decisions about who to progress, I suggest writing out a quick description of what abilities, traits or competencies the successful candidates tended to demonstrate. This might be as quick as “candidates who progressed to the next stage tended to demonstrate a combination of strong attention to detail in the trial task, demonstrated...(Continue reading  – 1385 more words)Richard Möhn2h100The outline structure makes this easy to skim. Thank you!
+ReplySign up for the Forum's email digestYou'll get a weekly email with the best posts from the past week. The Forum team selects the posts to feature based on personal preference and Forum popularity, and also adds some announcements and a classic post.Email address *Sign upWho should we interview for The 80,000 Hours Podcast?57Luisa_Rodriguez, Robert_Wiblin, RockwellBuilding effective altruismAI safetyEAGxEffective Altruism ForumBooksPain and sufferingFrontpage16hWe'd love ideas for 1) who to interview and 2) what topics to cover (even if you don't have a particular expert in mind for that topic) on The 80,000 Hours Podcast. Some prompts that might help generate guest ideas:What 'big ideas' books have you read in the last 5 years that were truly good? (e.g. the Secret of Our Success)Who gave that EAG(x) talk that blew your mind? (you can find recorded EAG(x) talks here)What's an important EA Forum post that you've read that could be more accessible, or more widely known? Who's an expert in your field who would do a great job communicating about their work? What's an excellent in-the-weeds nonfiction book you've read in the last few years that might be relevant to a pressing world...(See more – 284 more words)Answer by TamaySep 14, 2023100Owain Evans on AI alignment (situational awareness in LLM, benchmarking truthfulness)Ben Garfinkel on AI policy (best practices in AI governance, open source, the UK's AI efforts)Anthony Aguirre on AI governance, forecasting, cosmologyReply2Answer by niplav3h * Carl Shulman (again), his interviews on the Dwarkesh Patel podcast were
+   incredible, and there seems to be potential for more
+ * Vaclav Smil, who appears to be very knowledgeable, with a comprehensive model
+   of the entire world. His books are filled with facts.
+ * Lukas Finnveden about his blogposts on the altruistic implications of
+   Evidential Cooperation in Large Worlds
+ * Some employee of MIRI who is not Yudkowsky. I suggest
+   * Tsvi Benson-Tilsen (blog), who has appeared on at least one podcast which I
+     liked. Has looked into human intelligence enhancement and a variety of
+     other problems such as communication. Generally has longer AI timelines.
+   * Or Scott Garrabrant, but I don't know how interesting his interview would
+     be for a nontechnical audience.
+ * Another interview on wild animal welfare, perhaps with someone from Wild
+   Animal Initiative.
+   * Perhaps invite Brian Tomasik on the podcast?
+ * Romeo Stevens (blog) mainly for his approach to his career: Founded a startup
+   to support himself early on, and is now independent. Doesn't tend to write
+   his ideas down, here's an interview which details some of his ideas.2aogara4h+1 on David ThorstadSummary: High risk, low reward: A challenge to the astronomical value of existential risk mitigation61Global Priorities Institute, rileyharrisPhilosophyExistential riskCause prioritizationResearch summaryResearchGlobal catastrophic riskGlobal priorities researchFrontpage2dThis is a linkpost for https://globalprioritiesinstitute.org/david-thorstad-high-risk-low-reward-a-challenge-to-the-astronomical-value-of-existential-risk-mitigation-2/This is a summary of the GPI Working Paper “High risk, low reward: A challenge to the astronomical value of existential risk mitigation” by David Thorstad. The paper is now forthcoming in the journal Philosophy and Public Affairs. The summary was written by Riley Harris.The value of the future may be vast. Human extinction, which would destroy that potential, would be extremely bad. Some argue that making such a catastrophe just a little less likely would be by far the best use of our limited resources--much more important than, for example, tackling poverty, inequality, global health or racial injustice.[1] In “High risk, low reward: A challenge to the astronomical value of existential risk mitigation”, David Thorstad argues against this conclusion. Suppose the risks really are severe: existential risk reduction...(Continue reading  – 1235 more words)Larks3h201A much more powerful assumption is needed (one that combines all of these weaker assumptions).Could you explain why the Time of Perils assumption is stronger? It seems to me to be consistent with rejecting the previous assumptions; for example, you could navigate the Time of Perils but have no impact on future years, especially if the risk there was already very low. Rather than being stronger, it just seems like a different model to me.I was also disappointed to not see AGI discussed in relation to the Time of Perils. The only mention is this footnote:One... (read more)Reply2titotal5hIt could reduce other x-risks, but the hypothesis that it would lower all
+x-risks to almost zero for the rest of time seems like wishful thinking. 
+
+One of the interesting calculations from the paper: if the value of 1 century is
+v, and the current risk of extinction every century is 20%, and you invent an
+AGI that permanently lowers this by half to 10% for the rest of time... you
+would only increase the expected value in the world from 4*v to 9*v. Definitely
+a good result, but pretty far from the the astronomical result you might expect.1Gerald Monroe10hAgree. Also the very idea of a "hostile AGI" being able to exist assumes a bunch
+of things.
+
+Notably :
+
+(1) humans build large powerful models with the cognitive capacity to even be
+hostile (2) it is possible for a model to be optimized to actually run on stolen
+computers. This may be flat impossible due to fundamental limits on computation
+(3) once humans learn of the escaped hostile model they are ineffective in
+countermeasures or actually choose to host the model and trade with it instead
+of licensing more limited safer models (4) the hostile model is many times more
+intelligent than safer cognitively restricted models (5) intelligence has
+meaningful benefits at very high levels, it doesn't saturate, where "5000 IQ" is
+meaningfully stronger in real world conflicts than "500 IQ" where the weaker
+model has a large resource advantage
+
+I don't believe any of these 5 things are true based on my current knowledge,
+and all 5 must be true or AGI doom is not possible.DC's Quick takesDCPersonal Blog3yDC4h20Thoughts on liability insurance for global catastrophic risks (either voluntary or mandatory) such as for biolabs or AGI companies? Do you find this to be a high-potential line of intervention?Replylilly's Quick takeslillyFrontpage13hDC4h502I think e.g. the GWWC pledge is bad for many people including me to take, and that starting for-profit businesses should be the default course of action for improving the world, not non-profits. I am in fact pretty anti-"donation" as a paradigm for getting anything done at this point. This is not that outside of the Overton window here - there are plenty who love markets in these parts - but it is definitely not squarely within it either. I find myself trying to exhort people to be more greedy so they will receive more reward signal that accurately tracks and internalizes their impact, rather than get lost in the vague cloud of abstractions divorced from reality that tend to permeate these parts.Reply9Imma10hI avoid flying and travel by train instead (most of the time)=> even if it costs
+me a substantial part of my limited vacation time. I could compensate my extra
+emissions many times if I donated (my hourly salary)*(time saving) to a giving
+green top charity - but I don't do it.
+
+I don't think this is very inconsistent with EA values.3NickLaing10hI respect people who avoid flying a huge amount. I think this can beb justified
+from an EA perspective by the way it draws attention to climate issues as it is
+hard to ignore, with potential to influence booty only people's personal
+behavior, but also what they stand for and vote for.Workplace groupsEdited by Gemma Paterson (+585) Sep 14th 2023   1 Organisations that support workplace groups EA Consulting Network and High Impact ProfessionalsEffective giving: Giving What We Can, One for the World, national regranting organisationsWhy your EA group should promote effective giving (and how) Promoting Effective Giving within EA GroupsCase studies UK Civil Service  Microsofthttps://forum.effectivealtruism.org/posts/BG68BvbaaT32u76kr/how-we-promoted-ea-at-a-large-tech-company-1Metahttps://forum.effectivealtruism.org/posts/EKfixour65Az8W48M/7-learnings-from-3-years-running-a-corporate-ea-group workplace advocacy | Working at EA vs. non-EA orgs | Discuss this tag (0)Change my mind: Veganism entails trade-offs, and health is one of the axes117ElizabethBuilding effective altruismAnimal welfareDietary changeCriticism of effective altruist causesEffective altruism lifestyleFrontpage3moIntroductionTo me, it is obvious that veganism introduces challenges to most people. Solving the challenges is possible for most but not all people, and often requires trade-offs that may or may not be worth it.  I’ve seen effective altruist vegan advocates deny outright that trade-offs exist, or more often imply it while making technically true statements. This got to the point that a generation of EAs went vegan without health research, some of whom are already paying health costs for it, and I tentatively believe it’s harming animals as well. Discussions about the challenges of veganism and ensuing trade-offs tend to go poorly, but I think it’s too important to ignore. I’ve created this post so I can lay out my views as legibly as possible, and invite...(Continue reading  – 5513 more words)1Dhruv Makwana8hI don't understand really what "confidence level in the RCT" means? The main
+shortcoming is that it's an education based intervention, not a strict "lock
+them up in a hospital and give them precisely calculated meals" (see Kevin
+Hall's NIH experiments for something like that
+https://youtu.be/zOAapJo9cE0?feature=shared ). The second is the small sample
+size.
+
+However I'd also like to point out that for something like diet, you need both
+long-term epidemiology and short-term RCTs. Throwing out epidemiology is
+throwing out the way we figured out smoking was super bad for your health.
+
+For further details, please see
+
+https://youtu.be/S8Pm-m87sEc?feature=shared starting 11:20
+
+https://youtu.be/POhkKgBeA1A?feature=shared starting 20:39
+
+https://youtu.be/nnyzuY-Xwe4?feature=shared starting 23:03
+
+I have come to the conclusion that Nutrition Research is actually doing fine as
+a field and food companies have used the same playbook to confuse us as the
+fossil fuel companies did to confuse people about climate change (see Marion
+Nestle's work, summary here https://youtu.be/a7SprgZTK2o?feature=shared starting
+8:39)Elizabeth4h20By confidence level I mean something like "how confident are you in the methodology of this study", which could be operationalized as "how much would this change your mind if you didn't already agree with it?". I'm specifically not asking how confident you are in the study's conclusion: bad studies demonstrate true things all the time.I ask because checking studies is a lot of work, and it's frustrating to spend several hours reading a paper, only to have a person dismiss fatal flaws by citing a different paper (that is equally flawed, but will also take h... (read more)Reply
+
+
+
+
+

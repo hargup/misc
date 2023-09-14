@@ -1,0 +1,88 @@
+
+Cloud Monitoring as a Service | Datadog
+
+Read the 2023 State of Serverless Research Report!
+Read the 2023 State of Serverless Report!
+ProductInfrastructureInfrastructure MonitoringNetwork Performance MonitoringNetwork Device MonitoringContainer MonitoringServerlessCloud Cost ManagementLogsLog ManagementSensitive Data ScannerAudit TrailObservability PipelinesApplicationsApplication Performance MonitoringUniversal Service MonitoringContinuous ProfilerDatabase MonitoringData Streams MonitoringService CatalogSecurityApplication Vulnerability ManagementApplication Security ManagementCloud Security ManagementCloud SIEMDigital ExperienceBrowser Real User MonitoringMobile Real User MonitoringSynthetic MonitoringSession ReplayError TrackingSoftware DeliveryCI VisibilityContinuous TestingPlatform CapabilitiesBits AIWorkflow AutomationCoScreenDashboardsWatchdogAlertsIncident ManagementIntegrationsAPICustomersPricingSolutionsIndustryFinancial ServicesManufacturing & LogisticsHealthcare/Life SciencesRetail/E-CommerceGovernmentEducationMedia & EntertainmentTechnologyGamingTechnologyAmazon Web Services MonitoringAzure MonitoringGoogle Cloud Platform MonitoringKubernetes MonitoringRed Hat OpenShiftPivotal PlatformOpenAIUse-caseCloud MigrationMonitoring ConsolidationDevOpsShift-Left TestingDigital Experience MonitoringSecurity AnalyticsCompliance for CIS BenchmarksHybrid Cloud MonitoringIoT MonitoringMachine LearningReal-Time BIOn-Premises MonitoringLog Analysis & CorrelationDocs
+White modal up arrowLooking for Datadog logos?You can find the logo assets on our press page.Download Media AssetsAboutContactPartnersLatest NewsLeadershipCareersAnalyst ReportsInvestor RelationsAwardsESG ReportBlogThe MonitorEngineeringPup CultureSecurity LabsLoginGET STARTED FREE
+Free Trial
+Toggle navigation
+
+
+Product
+Infrastructure Infrastructure Monitoring Network Performance Monitoring Network Device Monitoring Container Monitoring Serverless Cloud Cost ManagementLogs Log Management Sensitive Data Scanner Audit Trail Observability PipelinesApplications Application Performance Monitoring Universal Service Monitoring Continuous Profiler Database Monitoring Data Streams Monitoring Service CatalogSecurity Application Vulnerability Management Application Security Management Cloud Security Management Cloud SIEMDigital Experience Browser Real User Monitoring Mobile Real User Monitoring Synthetic Monitoring Session Replay Error TrackingSoftware Delivery CI Visibility Continuous TestingPlatform Capabilities Bits AI Workflow Automation CoScreen Dashboards Watchdog Alerts Incident Management Integrations APICustomersPricingSolutions
+IndustryFinancial ServicesManufacturing & LogisticsHealthcare/Life SciencesRetail/E-CommerceGovernmentEducationMedia & EntertainmentTechnologyGamingTechnologyAmazon Web Services MonitoringAzure MonitoringGoogle Cloud Platform MonitoringKubernetes MonitoringRed Hat OpenShiftPivotal PlatformOpenAIUse-caseCloud MigrationMonitoring ConsolidationDevOpsShift-Left TestingDigital Experience MonitoringSecurity AnalyticsCompliance for CIS BenchmarksHybrid Cloud MonitoringIoT MonitoringMachine LearningReal-Time BIOn-Premises MonitoringLog Analysis & CorrelationAbout
+ContactPartnersLatest NewsLeadershipCareersAnalyst ReportsInvestor RelationsAwardsESG ReportBlog
+The MonitorEngineeringPup CultureSecurity LabsDocsLoginGet Started FreeModern monitoring & securitySee inside any stack, any app, at any scale, anywhere.Free trial
+SEE THE PLATFORMThousands of customers love & trust Datadog
+
+
+
+2023 GARTNER® MAGIC QUADRANT™Datadog has been named a Leader in the 2023 Gartner® Magic Quadrant™ for APM and ObservabilityLearn More데이터독 플랫폼 데이터시트클라우드 통합 모니터링 플랫폼으로 매트릭스, 트레이스, 로그 등 다양한 대규모 데이터를 통합하세요.더 알아보기DevSecOps 성숙도 모델Datadog의 성숙도 모델을 사용해 여러분의 DevSecOps 역량을 평가해보세요.더 알아보기InfrastructureFrom overview to deep details, fastLEARN MORE >Log ManagementAnalyze and explore your logs for rapid troubleshootingLEARN MORE >APMMonitor, optimize, and investigate app performanceLEARN MORE >Security MonitoringIdentify potential threats to your systems in real timeLEARN MORE >Network MonitoringAnalyze network traffic patterns across your cloud environmentsLEARN MORE >Synthetic MonitoringProactive, AI-driven monitoring of critical application featuresLEARN MORE >Real User MonitoringMonitor user journeys and frontend performance in one placeLEARN MORE >ServerlessA comprehensive view of your serverless applicationLEARN MORE >VIEW ALL FEATURES
+
+
+
+
+
+
+
+InfrastructureFrom overview to deep details, fastLEARN MORE >Log ManagementAnalyze and explore your logs for rapid troubleshootingLEARN MORE >APMMonitor, optimize, and investigate app performanceLEARN MORE >Security MonitoringIdentify potential threats to your systems in real timeLEARN MORE >Network MonitoringAnalyze network traffic patterns across your cloud environmentsLEARN MORE >Synthetic MonitoringProactive, AI-driven monitoring of critical application featuresLEARN MORE >Real User MonitoringMonitor user journeys and frontend performance in one placeLEARN MORE >ServerlessA comprehensive view of your serverless applicationLEARN MORE >VIEW ALL FEATURESread our reportThe State of ServerlessOur latest report, which builds on our yearly research on the serverless ecosystem, examines thousands of applications to surface insights into how serverless is being used in the real world.LEARN MORE >CareersJoin Our PackWe are building the monitoring and security platform for developers, IT operations teams and business users in the cloud age. And we need talented people like you to join our team.LEARN MORE >
+Free TrialDownload mobile appProductFeatures
+Infrastructure Monitoring
+Container Monitoring
+NPM
+NDM
+Serverless
+Cloud Cost Management
+Log Management
+Sensitive Data Scanner
+APM
+Error Tracking
+Continuous Profiler
+Data Streams Monitoring
+Database Monitoring
+CI Visibility
+Service Catalog
+Universal Service Monitoring
+Browser Real User MonitoringMobile Real User Monitoring
+Synthetic Monitoring
+Continuous Testing
+Session Replay
+Application Vulnerability Management
+Application Security Management
+Cloud Security Management
+Cloud SIEM
+Bits AI
+Workflow Automation
+CoScreen
+Dashboards
+Watchdog
+Alerts
+Incident Management
+Integrations
+APIResourcesPricing
+Documentation
+Support
+Learning Center
+Certification
+ResourcesWebinars
+Security
+Privacy Center
+Knowledge Center
+Learning ResourcesAboutContact Us
+Partners
+Press
+Leadership
+CareersLegal
+Investor Relations
+Analyst Reports
+ESG Report
+Vendor HelpBlogThe Monitor
+EngineeringPup Culture
+Security LabsIcon/worldCreated with Sketch. 日本語© Datadog 2023
+Terms
+ | 
+Privacy
+ | 
+CookiesRequest a personalized demo with a Datadog engineer×Get Started with Datadog
+

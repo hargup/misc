@@ -1,0 +1,223 @@
+
+
+
+
+Jim Nielsen’s Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jim Nielsen’s Blog
+
+
+Verified ($10/year for the domain)
+
+
+Archive About RSS
+
+
+
+
+
+
+
+Preferences
+
+
+
+Theme:
+
+                    This feature requires JavaScript as well as the default site
+                    fidelity (see below).
+                  
+
+
+
+
+Fidelity:
+
+                    Controls the level of style and functionality of the site, a
+                    lower fidelity meaning less bandwidth, battery, and CPU
+                    usage. Learn more.
+                  
+
+
+
+                          Default
+                        
+
+
+                          Minimal
+                        
+
+
+                          Text-Only
+                        
+
+Update
+
+
+
+
+
+
+Latest
+
+
+LLMs, Intuition, and Working With Computers
+2023-09-11
+
+
+“Out of the Software Crisis”: Making Software
+2023-09-06
+
+
+“Out of the Software Crisis”: Gardening
+2023-09-04
+
+
+
+
+        Show more…
+      
+
+
+“Out of the Software Crisis”: Dependencies
+2023-09-01
+
+
+Book Notes: “Out of the Software Crisis” by Baldur Bjarnason
+2023-08-31
+
+
+Family Tree Wisdom
+2023-08-28
+
+
+There’s Something You Need to Know About Web Design and Development
+2023-08-26
+
+
+Counting to Ten
+2023-08-23
+
+
+Reloading a Document (and Preserving Query String Parameters) Using Only HTML
+2023-08-21
+
+
+
+
+          Popular This Month
+          (Courtesy of Netlify)
+
+
+
+“We’re All Just Temporarily Abled”
+107.3k pageviews
+
+
+Reloading a Document (and Preserving Query String Parameters) Using Only HTML
+4.8k pageviews
+
+
+There’s Meaning in the Ordering of the Web’s Tech Stack 
+4.2k pageviews
+
+
+
+
+        Show more…
+      
+
+
+User Feedback
+3.5k pageviews
+
+
+There’s Something You Need to Know About Web Design and Development
+2.9k pageviews
+
+
+A Well Known URL For Your Personal Avatar
+2.3k pageviews
+
+
+Thoughts from “Meet Safari for Spatial Computing”
+2.1k pageviews
+
+
+“Out of the Software Crisis”: Dependencies
+2k pageviews
+
+
+Book Notes: “Out of the Software Crisis” by Baldur Bjarnason
+1.8k pageviews
+
+
+
+Hacker News Hits
+
+
+“We’re All Just Temporarily Abled”
+513 comments ↗
+
+
+canistilluse.com
+361 comments ↗
+
+
+The Optional Chaining Operator, “Modern” Browsers, and My Mom
+298 comments ↗
+
+
+
+
+        Show more…
+      
+
+
+Offline Is Just Online With Extreme Latency
+241 comments ↗
+
+
+What “Work” Looks Like
+226 comments ↗
+
+
+Deno is Webby (pt. 2)
+206 comments ↗
+
+
+Useful and Useless Code Comments
+178 comments ↗
+
+
+The OG Social Network: Other People’s Websites
+148 comments ↗
+
+
+Inspecting Web Views in macOS
+140 comments ↗
+
+
+
+
+
+

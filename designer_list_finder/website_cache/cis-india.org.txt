@@ -1,0 +1,577 @@
+
+The Centre for Internet & Society — The Centre for Internet and Society
+
+
+
+
+
+
+
+
+
+
+
+AccessibilityAccess to KnowledgeOpennessInternet GovernanceTelecomRAW
+
+
+
+
+
+            
+                Making Voices Heard
+           
+
+ by Shweta Mohandas
+
+
+We are happy to announce the launch of our final report on the study ‘Making Voices Heard: Privacy, Inclusivity, and Accessibility of Voice Interfaces in India. The study was undertaken with support from the Mozilla Corporation.
+
+
+
+
+
+Accessibility
+
+
+
+Groundbreaking disability rights activist Javed Abidi dies at 53 
+
+
+
+March 06, 2018
+The Centre for Internet & Society (CIS) expresses profound regret at the demise of Mr. Javed Abidi, a groundbreaking disability rights activist.
+
+
+
+Comments on Guidelines for Indian Government Websites
+
+November 26, 2017
+
+
+
+Comments on Mobile Accessibility Guidelines
+
+January 03, 2018
+
+
+
+Why GST Is A Step Backward For The Disabled
+
+July 03, 2017
+
+
+
+GST - A Barrier to Human Rights for Persons with Disabilities
+
+June 24, 2017
+
+
+
+           194 more articles →
+             
+
+
+
+
+
+Openness
+
+
+
+Security of Open Source Software : A Survey of Technical Stakeholders’ Perceptions and Actions
+
+
+
+
+April 13, 2023
+
+
+
+
+Securing Our Dependence on Code Reuse in Software 
+
+April 13, 2023
+
+
+
+Digitisation of O Bharat, a bilingual biweekly published in Goa from 1912 to 1949
+
+October 11, 2022
+
+
+
+Digitisation of O Bharat, a bilingual biweekly published in Goa from 1912 to 1949
+
+October 11, 2022
+
+
+
+Call for Survey Responses: Security Perceptions of Open Source Software Among Practitioners
+
+November 29, 2021
+
+
+
+           826 more articles →
+             
+
+
+
+
+
+Telecom
+
+
+
+Why spectrum needs a change in approach
+
+
+
+
+January 18, 2023
+Rajat Kathuria and Isha Suri write: It must be recognised that spectrum needs to be combined with other infrastructure to enable service delivery.
+
+
+
+ CIS’ Comments to the (Draft) Indian Telecommunication Bill 2022
+
+November 22, 2022
+
+
+
+An Overview of Telecommunications Policy and Regulation Framework in India
+
+March 25, 2022
+
+
+
+Response to TRAI consultation on Auction of Spectrum in frequency bands identified for IMT/5G
+
+March 25, 2022
+
+
+
+Opinion: Delicensing 6 GHz, 60 GHz bands is crucial to improve Wi-Fi scenario in India
+
+January 03, 2022
+
+
+
+           116 more articles →
+             
+
+
+
+
+
+
+
+Access to Knowledge (A2K)
+
+
+
+WIPO SCCR 43: Notes from Day 3 
+
+
+
+April 28, 2023
+
+
+
+
+WIPO SCCR 43: Notes from Day 2
+
+April 28, 2023
+
+
+
+WIPO SCCR 43: Notes from Day 1 
+
+April 28, 2023
+
+
+
+CIS Statement in WIPO SCCR 43 
+
+March 28, 2023
+
+
+
+Research Studies on Indian Language Wikimedia Projects 2019-21
+
+October 17, 2022
+
+
+
+           752 more articles →
+             
+
+
+
+
+
+Internet Governance
+
+
+
+Detecting Encrypted Client Hello (ECH) Blocking
+
+
+
+September 05, 2023
+A new internet protocol makes it harder for internet service providers to censor websites. We made a technical intervention to check if censors are interfering with its deployment.
+
+
+
+Deceptive Design in Voice Interfaces: Impact on Inclusivity, Accessibility, and Privacy 
+
+August 08, 2023
+
+
+
+Health Data Management Policies - Differences Between the EU and India 
+
+July 10, 2023
+
+
+
+CoWIN Breach: What Makes India's Health Data an Easy Target for Bad Actors?
+
+July 04, 2023
+
+
+
+CensorWatch: On the Implementation of Online Censorship in India
+
+March 15, 2023
+
+
+
+           1306 more articles →
+             
+
+
+
+
+
+researchers@work
+
+
+
+PDC 2022
+
+
+
+July 04, 2023
+Divyansha Sehgal and Yatharth presented their work - Designing Domestic Work Platforms - on critical design assessments of gig work platforms at the Participatory Design Conference.
+
+
+
+As Equals: Frequently Asked Questions
+
+July 04, 2023
+
+
+
+Online cab booking | Why finding a cab is a nightmare now
+
+July 04, 2023
+
+
+
+Labouring (on) the app: agency and organisation of work in the platform economy
+
+July 04, 2023
+
+
+
+Women at (gig) work: When financial freedom comes at a cost
+
+July 04, 2023
+
+
+
+           432 more articles →
+             
+
+
+
+
+
+
+
+   
+
+
+Previous Events
+
+
+            
+            Transference: Reimagining Data Systems: Beyond the Gender Binary
+            
+        
+
+
+
+            
+            Launching CIS’s Flagship Report on Private Crypto-Assets
+            
+        
+
+
+
+            
+            Reclaiming AI Futures
+            
+        
+
+
+
+            
+            Platforms, Power and Politics: Digital Labour in India
+            
+        
+
+
+
+            
+            Disinformation in the Indian Digital News Media Market
+            
+        
+
+
+
+            
+            Privacy in the Age of the Pandemic
+            
+        
+
+
+
+            
+            How to Shut Down Internet Shutdowns
+            
+        
+
+
+
+            
+            How safe is your harbour? Discussions on intermediary liability and user rights
+            
+        
+
+
+
+            
+            Cybersecurity Visuals Media Handbook: Launch Event
+            
+        
+
+
+
+            
+            Domestic Work in the ‘Gig Economy’
+            
+        
+
+
+
+
+
+Previous Featured Posts
+
+            
+            Making Voices Heard
+            
+        
+
+
+            
+            Internet Researchers' Conference 2022 (IRC22): #Home, May 25-27
+            
+        
+
+
+            
+            Internet Researchers' Conference 2022
+            
+        
+
+
+            
+            Platforms, Power, and Politics: Perspectives from Domestic and Care Work in India
+            
+        
+
+
+            
+            IFAT and ITF - Protecting Workers in the Digital Platform Economy: Investigating Ola and Uber Drivers’ Occupational Health and Safety
+            
+        
+
+
+            
+            Atmanirbhar Bharat Meets Digital India: An Evaluation of COVID-19 Relief for Migrants
+            
+        
+
+
+            
+            Sameet Panda - Data Systems in Welfare: Impact of the JAM Trinity on Pension & PDS in Odisha during COVID-19
+            
+        
+
+
+            
+            IFAT and ITF - Locking Down the Impact of Covid-19
+            
+        
+
+
+            
+            COVID-19 Charter Of Recommendations on Gig Work
+            
+        
+
+
+            
+            The Networked Public: How Social Media is Changing Democracy
+            
+        
+
+
+            
+            Call for Contributions and Reflections: Your experiences in Decolonizing the Internet’s Languages!
+            
+        
+
+
+            
+            Announcement of a Three-Region Research Alliance on the Appropriate Use of Digital Identity
+            
+        
+
+
+            
+            FinTech in India: A Study of Privacy and Security Commitments
+            
+        
+
+
+            
+            CIS Response to Draft E-Commerce Policy
+            
+        
+
+
+            
+            Design and the Open Knowledge Movement 
+            
+        
+
+
+            
+            Rejuvenating India’s Rivers the Wiki Way
+            
+        
+
+
+            
+            Welcome to r@w blog!
+            
+        
+
+
+            
+            Statement on Serious Allegations against CIS Members and the CIS Workplace on Social Media
+            
+        
+
+
+            
+            Clarification on the Information Security Practices of Aadhaar Report
+            
+        
+
+
+            
+            Wikisource Handbook for Indian Communities
+            
+        
+
+
+           banner
+        
+
+
+
+
+
+
+Site Map
+Accessibility
+Contact
+
+
+
+
+
+
+Funded by
+ 
+Offices
+Bengaluru: Ground Floor, No 173, 9th Cross, 1st Stage, Indiranagar, Bangalore 560038.
+ 
+
+ 
+
+
+
+
+Support Us
+Please help us defend citizen and user rights on the Internet!
+You may donate online via Instamojo. Or, write a cheque in favour of ‘The Centre for Internet and Society’ and mail it to us at Ground Floor, No 173, 9th Cross, 2nd Stage, Indiranagar, Bangalore 560038. These charitable contributions will be towards the Institutional Corpus Fund of the Centre for Internet and Society.
+Follow our Works
+Newsletter: Subscribe
+researchers@work blog: medium.com/rawblog
+Twitter (CIS): @cis_india
+Twitter (CIS-A2K): @cisa2k
+Instagram: @cis.india
+Youtube: Centre for Internet and Society
+
+
+Request for Collaboration
+We invite researchers, practitioners, artists, and theoreticians, both organisationally and as individuals, to engage with us on topics related internet and society, and improve our collective understanding of this field. To discuss such possibilities, please write to us at communications[at]cis-india[dot]org with an indication of the form and the content of the collaboration you might be interested in.
+In general, we offer financial support for collaborative/invited works only through public calls.
+
+
+
+
+
+
+
+           About Us
+        
+
+
+The Centre for Internet and Society (CIS) is a non-profit organisation that undertakes interdisciplinary research on internet and digital technologies from policy and academic perspectives. The areas of focus include digital accessibility for persons with disabilities, access to knowledge, intellectual property rights, openness (including open data, free and open source software, open standards, open access, open educational resources, and open video), internet governance, telecommunication reform, digital privacy, and cyber-security. The research at CIS seeks to understand the reconfiguration of social processes and structures through the internet and digital media technologies, and vice versa.
+Through its diverse initiatives, CIS explores, intervenes in, and advances contemporary discourse and regulatory practices around internet, technology, and society in India, and elsewhere.
+
+Annual Reports
+Organisational Policies
+Newsletters
+Logos
+People
+Vacancies
+Internships
+
+
+
+
+
+
+© Centre for Internet & Society
+Copyright respective authors. Unless otherwise specified, content is licensed under the Creative Commons Attribution 4.0 (CC BY 4.0) licence.
+
+
+

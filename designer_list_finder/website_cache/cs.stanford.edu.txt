@@ -1,0 +1,657 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer Science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Skip to main content
+        
+
+          Skip to secondary navigation
+        
+
+Stanford University (link is external)
+
+
+
+
+
+
+
+Stanford
+Engineering
+
+ 
+Computer Science
+
+Engineering
+
+
+
+
+Search this site
+
+Submit Search
+
+
+
+Menu
+HomeAboutGates BuildingWork HereAcademicsCoursesBachelor'sBS TracksProgram SheetsBS RequirementsMath RequirementsScience RequirementsEngineering FundamentalsTechnology in SocietyCore RequirementsDepth RequirementsEligible Humanities ElectivesSenior ProjectWriting in the Major RequirementPetitions, Deviations, & Transfer CreditsHonors ProgramHow to DeclareCS MinorResearch OpportunitiesIndependent StudyFrequently Asked QuestionsMaster'sMS SpecializationsMS Program SheetsMS Degree RequirementsOverallFoundations RequirementSignificant Software ImplementationBreadth RequirementsDepth RequirementsElectivesCoterm ProgramHonors Cooperative ProgramCourse Assistant/Research AssistantFrequently Asked QuestionsPhDProgram RequirementsCS300 SeminarFirst-Year Research Rotation ProgramCourse RequirementsFoundation & Breadth RequirementsCandidacy RequirementQualifying ExaminationTeaching RequirementsReading CommitteeThesis ProposalUniversity Oral ExaminationDissertationProgress GuidelinesMonitoring ProgressPetition for MS DegreeResearch AssistantshipCourse AssistantshipSpecial Registration StatusesGraduate Student FormsFrequently Asked QuestionsCurricular Practical TrainingJoint ProgramsMS/MBAMS/LawPhD/LawStudent ServicesNew Student OrientationNew Graduate Student ChecklistIncoming CS MS StudentsIncoming CS PhD StudentsFirst-Year RotationComputer Forum | Career ReadinessAdmissionsMaster's AdmissionsFrequently Asked QuestionsPhD AdmissionsFrequently Asked QuestionsCoterminal AdmissionsFrequently Asked QuestionsJoint Degree AdmissionsJoint CS MS/MBA DegreeJoint CS MS/Law DegreeJoint CS PhD/Law DegreeGraduate Application ChecklistsGraduate Application DeadlinesCurrent Stanford StudentsAdditional/Change of DegreePhD MinorNon-Degree OptionContact UsResearch & ImpactPeopleGet InvolvedAffiliate ProgramsOur MembersAffiliate Program Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Main content start
+
+
+
+ 
+
+
+
+Preparing Our Students to Make Meaningful Contributions to the World
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+Student Spotlight: Jorge Cueto MS '18, Computer Science
+"Stanford not only gave me hope, it gave me the incredible gift to be able to dream bigger and then turn those dreams into reality..."Read Jorge Cueto's Story
+
+
+
+
+
+ 
+
+
+
+CS Degree ProgramsOur main educational goal is to prepare students for a rapidly changing world. Undergraduate students have the option of declaring a Bachelor of Science or a Minor in Computer Science. Graduate students have the opportunity to pursue a Master's or PhD degree in Computer Science. The Master's degree is a terminal professional degree. The PhD is for those who desire a research or teaching career.
+ 
+
+
+
+
+
+
+ 
+
+
+
+A Gateway to Opportunity & InnovationStanford Computer Science cultivates an expansive range of research opportunities and a renowned group of faculty. Here, discoveries that impact the world spring from the diverse perspectives and life experiences of our community of students, faculty, and staff.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Passion + Inspiration
+Our Research & Impact
+The CS Department is a center for research and education, discovering new frontiers in AI, robotics, scientific computing and more.More About CS Research
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scientific Discovery
+Our Faculty 
+Stanford CS faculty members strive to solve the world's most pressing problems, working in conjunction with other leaders across multiple fields. Explore Faculty by Their Areas of Research
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+Removing Barriers to Excellence: Our Culture of Equity & InclusionEveryone deserves a voice in the discovery of new technology and the shaping of innovation. Stanford CS is nurturing a future in science that represents all cultures and backgrounds.
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+Our Research is in the News
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+We're in the News 
+From the Lab of Prof. Chris Piech
+Do you need to know math to be good at coding? Chris Piech, professor of computer science at Stanford University, shares his answer and fields more burning coding questions from the internet.
+More Stanford CS in the News
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+We're in the News 
+Tale of the Ubiquitous Stanford Bunny
+Computer scientist Marc Levoy retells the story of how a terracotta bunny became a commonly used computer graphics 3D test model.
+More Stanford CS in the News
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+We're in the News
+What happens when computers can write like humans
+An increasing amount of written communication is being created by artificial intelligence. A professor of communication discusses the implications.
+More Stanford CS in the News
+
+
+
+
+
+
+
+ 
+
+
+
+Stories & VoicesMeet some of the students, faculty, and alumni who create the Stanford Computer Science community.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stories & Voices
+"You could summarize my work by saying I want to give machine learning models more humility."
+Neil Band, PhD Candidate, Computer Science
+Read Neil Band's Story
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stories & Voices
+"I want to be a role model for the next generation of women, Latinos, and Filipinos in STEM."
+Isabel Gallegos, Computer Science
+Read Isabel Gallegos' Story
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stories & Voices
+"In Iran, where I grew up, there are many female engineers, and I never really doubted my ability to follow this path."
+Dorsa Sadigh, Assistant ProfessorComputer Science | Electrical Engineering
+Read Dorsa Sadigh's Story
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+"Working with students and faculty here is an absolutely amazing experience. What really impresses me is the conviction and drive of people here. They really care about the topics they work on. They want to bring value to people and they want to have an impact: to do good for humanity. It’s something very unique to Stanford. The speed at which you can exchange ideas was totally new to me when I came here and I love it." - Christopher Hahn, Ph.DVisiting Assistant Professor in the Computer Science Department at Stanford University and an Independent Research Group Leader at the CISPA Helmholtz Center for Information Security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The CS Intranet: Resources for Faculty, Staff, and Current Students
+
+
+
+
+For Faculty & Staff
+For Current CS Students
+
+Intranet
+
+
+
+
+
+
+
+
+
+
+
+
+Stanford
+
+ 
+ENGINEERING
+
+
+
+Web Login
+
+
+
+Address
+
+Gates Computer Science Building 
+353 Jane Stanford Way
+Stanford, CA 94305
+United States
+
+
+
+Contact Us
+
+
+Directions to the Gates Building
+
+
+Campus Map
+
+
+Follow us on LinkedIn
+
+
+
+
+
+Links to
+
+
+Events
+
+
+News from Stanford Engineering
+
+
+Stanford Engineering Magazine
+
+
+Student Resources
+
+
+
+
+CS Student Resources
+
+
+Computer Forum | Career Readiness
+
+
+Computing & Society
+
+
+Engineering Entrepreneurship Center
+
+
+SERIS Program
+
+
+Terman Engineering Library
+
+
+
+
+
+
+
+
+
+
+
+
+
+StanfordUniversity (link is external)
+
+
+
+
+
+Stanford Home (link is external)
+
+Maps & Directions (link is external)
+
+Search Stanford (link is external)
+
+Emergency Info (link is external)
+
+
+
+Terms of Use (link is external)
+
+Privacy (link is external)
+
+Copyright (link is external)
+
+Trademarks (link is external)
+
+Non-Discrimination (link is external)
+
+Accessibility (link is external)
+
+
+
+
+© Stanford University.
+  Stanford, California 94305.
+
+
+
+ 
+
+
+  Back to Top
+
+
+
+
+
+

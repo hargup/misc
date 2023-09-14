@@ -1,0 +1,1299 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home || PyCon Ghana
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What are you looking for?
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About  
+
+
+PyCon Ghana
+
+Team
+
+Code of Conduct
+
+Financial Assistance
+
+Health and Safety Guidelines
+
+Venue
+
+Privacy Policy
+
+FAQs
+
+
+
+
+Events
+Schedule
+Speak at PyCon   
+
+
+ Speakers List
+
+
+Proposals
+
+Proposing a Talk
+
+Submit a Proposal
+
+Recording Release
+
+
+
+
+Sponsors  
+
+
+Support Us
+
+Our Sponsors
+
+
+
+
+Past PyCons
+
+
+
+
+    | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                PyCon Ghana2022
+              
+
+
+October 13 - 15 2022, Accra, Ghana
+
+
+
+Buy Tickets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pycon Ghana is Back, 2022 Edition!
+Excited to welcome everyone back in-person for the first time in about 3 years.
+
+Venue: The Ghana-India Kofi Annan Centre of Excellence in ICT (AITI-KACE), Accra
+        
+
+
+
+
+
+
+
+
+
+                  ADD TO MY CALENDAR
+                  10/13/2022 08:00 AM
+10/15/2022 05:00 PM
+Africa/Accra
+PyCon Ghana 2022
+
+                    Pycon Ghana is the annual gathering for the community using and developing the open-source Python programming language to learn, collaborate, and share experiences. It is hosted by the Python Software Community in Ghana, a non-profit organization that seeks to equip and empower society through technology, with Python and other related technologies.
+                    
+                    Pycon Ghana seeks to bring together professionals, industry experts, students and enthusiasts, core developers, sysadmins, and operations folks to learn about new trends in the python language. During the conference Talks, Tutorial sessions, and Sprints are organized to help train and educate both developers and programming enthusiasts who have an affinity for the Python Programming language.
+                    
+                    The Python programming language has become an essential tool for people from various backgrounds and careers, including programmers, mathematicians, doctors, scientists, security researchers, hardware designers, and many more. We aim to ensure the conference can reflect the diversity of our community and facilitate the exchange of ideas, knowledge, and experiences enriching the community.
+                  
+Accra, Ghana
+Python Software Community Ghana
+pycon@pythonghana.org
+
+
+
+
+
+
+
+
+
+What is PyCon Ghana?
+
+          PyCon Ghana is the annual gathering for the community using and developing the open-source Python programming language and other related technologies.
+        
+
+
+
+
+
+
+
+
+Learning
+ This conferences promises some exciting learning experience to attendees. 
+
+
+
+
+
+
+
+
+
+Networking
+Get to meet and network with some of the industry
+                 experts who are using python in their day-to-day work.
+
+
+
+
+
+
+
+
+
+Exposure
+Attendees will be exposed to new tools in the python ecosystem that 
+                can help in our day-to-day work as developers. 
+
+
+
+
+
+
+
+Conference overview
+        
+
+
+
+
+
+
+
+
+
+
+PreConf/Workshop day -
+
+
+
+            Thursday, 13th October 2022
+          
+
+
+
+
+
+
+
+
+Main conference days -
+
+
+
+            Fri - Sat, 14th - 15th October 2022.
+          
+
+
+
+
+
+
+Tracks
+
+
+
+ PreConf
+ Talks/Workshops
+
+
+
+
+            Diversity 
+          
+
+            Open-source
+          
+
+
+
+            General Python, Web/DevOps
+          
+General community
+Emerging Technologies
+Education
+
+
+
+
+
+
+Our programme
+
+
+
+
+
+  
+Workshops
+
+
+
+
+
+
+  
+ Talks 
+
+
+
+
+
+
+  
+Sprints
+
+
+
+
+
+
+  
+Community
+
+
+
+
+
+Learn more.
+
+
+
+
+
+
+
+
+
+
+
+
+Speakers
+ Meet the speakers for this year's Pycon Ghana.
+
+
+
+
+
+
+
+
+  Keynote Speaker
+
+Prof. Nii Narku Quaynor
+Exec. Chairman, at Ghana Dot Com
+                  
+
+
+
+
+
+
+
+
+
+  Keynote Speaker
+
+Nicholas H. Tollervey
+Principal Engineer at Anaconda Inc.
+                  
+
+
+
+
+
+
+
+
+
+
+  Keynote Speaker
+
+Abdoulaye Diack
+Research Program Manager at Google AI.
+                  
+
+
+
+
+
+
+
+
+
+
+Cheuk Ting Ho
+Developer Advocate at Anaconda Inc
+                  
+              
+
+
+
+
+
+
+
+
+
+
+Omotola Omotayo
+Community Manager at Outreachy
+                  
+              
+
+
+
+
+
+
+
+
+
+
+Ruth Ikegah
+Community Lead at CHAOSS Project Africa
+                  
+              
+
+
+
+
+
+
+
+
+
+
+Bo English-Wiczling
+Global Head of DevRel at Oracle
+                  
+              
+
+
+
+
+
+
+
+
+
+
+Samuel Twum
+Software Engineer at South African Radio Astronomy Observatory
+                  
+              
+
+
+
+
+
+
+
+
+
+
+Paulina Boadiwaa Mensah
+Data Analyst, Medical Doctor
+                  
+              
+
+
+
+
+
+
+
+
+
+
+Abigail Afi Gbadago
+Software Engineer
+                  
+              
+
+
+
+
+
+
+
+
+
+
+Clifford Emmanuel Akai-Nettey
+Data Engineer at Bboxx
+                  
+              
+
+
+
+
+
+
+
+
+
+
+Baah Kusi
+Software Architect at Ejara
+                  
+              
+
+
+
+
+
+
+
+
+View All Speakers
+
+
+
+
+
+
+
+
+
+
+Schedule
+Schedule for Pycon Ghana 2022
+
+ Concurrent Sessions
+  Keynote
+   Panel Discussion
+  Please note: Accra, Kumasi, etc, are just the names of the rooms the sessions will be happening from. Same venue( AITI ), differently labeled rooms
+        
+
+
+
+
+
+
+
+
+ Thursday, Oct. 13
+
+
+
+
+
+08:00AM - 05:00PM
+
+ Registrations
+Room: Venue
+
+
+
+
+
+
+
+09:00AM - 05:00PM
+
+Django Girls
+Room: Tamale
+
+
+
+
+
+
+
+
+PyLadies Ghana
+Diversity Initiative
+
+
+
+
+
+
+
+
+09:00AM - 02:30PM
+
+Open Source Track
+Room: Kumasi
+
+
+
+
+
+
+
+
+Rexford Nkansah
+Software Engineer at EK Brand Consult
+
+
+
+
+
+
+
+Omotola Omotayo
+Community Manager at Outreachy
+
+
+
+
+
+
+
+Francis Billa
+Software Engineer at Turntabl Gh.
+
+
+
+
+
+
+
+Beryl Kanali
+Data Scientist at Data Umbrella
+
+
+
+
+
+
+
+Oliver Mensah
+Developer Relations Contracto… at DigitalOcean
+
+
+
+
+
+
+
+
+09:30AM - 01:00PM
+
+Humble Data
+Room: Takoradi
+
+
+
+
+
+
+
+
+Cheuk Ting Ho
+Developer Advocate at Anaconda Inc
+
+
+
+
+
+
+
+
+
+
+
+Friday, Oct. 14
+
+
+
+
+
+09:00AM - 05:00PM
+
+ Registrations
+Room: Venue
+
+
+
+
+
+
+
+10:00AM - 10:15AM
+
+Welcome address
+Room: Accra
+
+
+
+
+
+
+Pycon Ghana
+Event
+
+
+
+
+
+
+
+
+10:15AM - 11:00AM
+
+ Opening Keynote
+Room: Accra
+ 
+
+
+
+
+
+
+
+Prof. Nii Narku Quaynor
+Exec. Chairman at Ghana Dot Com
+
+
+
+
+
+
+
+
+11:05AM - 11:35AM
+
+Growing your Tech Career in Open Source
+Room: Accra
+
+
+
+
+
+
+Ruth Ikegah
+Community Lead at CHAOSS Project Africa
+
+
+
+
+
+
+
+
+11:40AM - 12:30PM
+
+IOT Based Intruder Detection System
+Room: Accra
+
+
+
+
+
+
+
+
+Enoch Sem
+Student at University of Cape Coast
+
+
+
+
+
+
+
+
+
+
+
+Saturday, Oct. 15
+
+
+
+
+
+09:00AM - 05:00PM
+
+ Registrations
+Room: Venue
+
+
+
+
+
+
+
+10:00AM - 10:15AM
+
+ Highlights for the day
+Room: Accra
+
+
+
+
+
+
+Pycon Ghana
+Event
+
+
+
+
+
+
+
+
+10:15AM - 11:00AM
+
+ Opening Keynote
+Room: Accra
+ 
+
+
+
+
+
+
+
+Nicholas H. Tollervey
+Principal Engineer at Anaconda Inc
+
+
+
+
+
+
+
+
+11:05AM - 11:35AM
+
+I hate writing tests, that's why I use Hypothesis
+Room: Accra
+
+
+
+
+
+
+Cheuk Ting Ho
+Developer Advocate at Anaconda Inc
+
+
+
+
+
+
+
+
+11:40AM - 12:30PM
+
+DJANGO DEPLOYMENT BEST PRACTICES: How to deploy your project using AWS and Railwayapp
+Room: Accra
+
+
+
+
+
+
+
+
+Tim Olayemi
+Junior Software Engineer
+
+
+
+
+
+
+
+
+
+View our full Schedule
+
+
+
+
+
+
+
+Why Should You Attend?
+Some events to expect during PyCon Ghana 2022
+
+
+
+
+
+
+
+
+
+WOSS
+
+
+              Women in Open Source Summit (WOSS), is a forum hosted by PyLadies Ghana aimed at improving the discourse on ladies' participation in open source. Here, talks and open discussions will be held on open source opportunities and how to benefit as an open-source contributor.
+
+WOSS is a great opportunity for women attending the conference who love Python...
+            
+
+
+
+
+
+
+
+
+
+Humble Data Workshop
+
+
+              Beginners' Day - Humble Data Workshop. WE ARE BACK! Following the success of various remote Beginners Data Workshop at PyCon US 2020 and 2021, and successive workshops at PyCon Africa 2020 and PyData Global, we are glad to have it in person this year at PyCon Ghana 2022!
+            
+
+
+
+
+
+
+
+
+
+
+Django Girls
+Join us during PyCon Ghana 2022 for a crash course on building your own website using Python 💕. Django Girls is a free programming workshop for Women.
+
+              Django Girls is an international non-profit organization started by two Polish women, Ola Sitarska and Ola Sendecka, to inspire women from all backgrounds to get interested in technology...
+
+
+
+
+
+
+
+
+
+
+              And more 😊   
+            
+PyCon Ghana 2022 consists of different events rolled into one mega event for 3 days of learning and fun:
+
+              Our PreConf/Workshop day: Thursday, 13 October includes Diversity and Open Source. On the day, attendees will have the opportunity to attend organized workshops, listen to talks and connect with other attendees. During workshops, attendees will...
+
+
+
+
+
+
+
+
+I Want to Register
+See more events
+
+
+
+
+
+
+
+
+Latest Updates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+August 9, 2022
+
+
+ PyCon Ghana 
+
+
+Our 2022 CFP is officially closed!
+
+
+Our CFP is officially closed!
+
+              As PyCon Ghana 2022 approaches, we are ecstatic to have accomplished another milestone.
+              
+              Thank you for your submissions. The Call for Proposals for PyCon Ghana 2022 is ...
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+June 06, 2022
+
+
+ PyCon Ghana 
+
+
+Our 2022 CFP is Open
+
+
+The PyCon Ghana 2022 CFP is open now!
+
+              We are looking for a wide range of presentations from anyone looking to share knowledge! 
+              We want to hear from you, don't hesitate to send in a talk/tutorial proposal.
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 30, 2022
+
+
+ PyCon Ghana 
+
+
+Announcing PyCon Ghana 2022
+
+
+Ayeekoo Pythonistas!
+
+              We are super excited to announce and welcome you to another rendition of PyCon Ghana!
+              
+              We are back, after the lengthy hiatus due to being the host of PyCon Africa and the pandemic.
+
+Read More
+
+
+
+
+
+
+
+Read More News
+
+
+
+
+
+
+
+
+
+
+A Big Thank You to Our Sponsors
+
+Headline
+
+
+
+
+
+
+
+
+
+
+
+
+View more sponsors.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get Your Ticket Now! 
+Buy Ticket
+
+
+
+
+
+
+
+
+
+PyCon Ghana is hosted by the Ghanaian Python Software Community.© 2023 Python Software Community, Ghana.All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please enable JavaScript to view the tickets enabled by eGotickets.
+
+
+

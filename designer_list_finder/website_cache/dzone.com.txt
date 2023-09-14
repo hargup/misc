@@ -1,0 +1,1025 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DZone: Programming & DevOps news, tutorials & tools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thanks for visiting DZone today,
+
+
+
+
+
+
+
+
+Edit Profile
+
+
+Manage Email Subscriptions
+
+
+                                How to Post to DZone
+                            
+
+
+
+                                Article Submission Guidelines
+                            
+
+
+
+Sign Out
+View Profile
+
+
+
+
+
+Post
+
+
+
+
+
+
+
+Post an Article
+
+
+Manage My Drafts
+
+
+
+
+
+
+
+Over 2 million developers have joined DZone.
+
+Log In
+/
+Join
+
+
+
+
+
+
+
+ 
+
+
+Refcards
+Trend Reports
+
+Events
+Video Library
+
+
+                Over 2 million developers have joined DZone. Join Today!
+
+
+Thanks for visiting DZone today, 
+
+
+
+
+
+
+Edit Profile
+Manage Email Subscriptions
+Moderation
+Admin Console
+How to Post to DZone
+Article Submission Guidelines
+View Profile
+Sign Out
+
+
+
+
+
+
+
+Refcards
+
+
+
+Trend Reports
+
+
+
+Events
+
+
+View Events
+Video Library
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+DZone Spotlight
+Thursday, September 14
+
+View All Articles »
+
+
+
+
+
+
+
+
+
+                        Docker and Kubernetes Transforming Modern Deployment
+                    
+
+
+
+        By Sohail Shaikh
+
+
+                    In today's rapidly evolving world of software development and deployment, containerization has emerged as a transformative technology. It has revolutionized the way applications are built, packaged, and deployed, providing agility, scalability, and consistency to development and operations teams alike. Two of the most popular containerization tools, Docker and Kubernetes, play pivotal roles in this paradigm shift. In this blog, we'll dive deep into containerization technologies, explore how Docker and Kubernetes work together, and understand their significance in modern application deployment. Understanding Containerization A containerization is a lightweight form of virtualization that allows you to package an application and its dependencies into a single, portable unit called a container. Containers are isolated, ensuring that an application runs consistently across different environments, from development to production. Unlike traditional virtual machines (VMs), containers share the host OS kernel, which makes them extremely efficient in terms of resource utilization and startup times. Example: Containerizing a Python Web Application Let's consider a Python web application using Flask, a microweb framework. We'll containerize this application using Docker, a popular containerization tool. Step 1: Create the Python Web Application Python # app.py from flask import Flask app = Flask(__name__) @app.route('/') def hello(): return "Hello, Containerization!" if __name__ == '__main__': app.run(debug=True, host='0.0.0.0') Step 2: Create a Dockerfile Dockerfile # Use an official Python runtime as a parent image FROM python:3.9-slim # Set the working directory to /app WORKDIR /app # Copy the current directory contents into the container at /app COPY . /app # Install any needed packages specified in requirements.txt RUN pip install -r requirements.txt # Make port 80 available to the world outside this container EXPOSE 80 # Define environment variable ENV NAME World # Run app.py when the container launches CMD ["python", "app.py"] Step 3: Build and Run the Docker Container Shell # Build the Docker image docker build -t flask-app . # Run the Docker container, mapping host port 4000 to container port 80 docker run -p 4000:80 flask-app This demonstrates containerization by encapsulating the Python web application and its dependencies within a Docker container. The containerized app can be run consistently on various environments, promoting portability and ease of deployment. Containerization simplifies application deployment, ensures consistency, and optimizes resource utilization, making it a crucial technology in modern software development and deployment pipelines. Docker: The Containerization Pioneer Docker, developed in 2013, is widely regarded as the pioneer of containerization technology. It introduced a simple yet powerful way to create, manage, and deploy containers. Here are some key Docker components: Docker Engine The Docker Engine is the core component responsible for running containers. It includes the Docker daemon, which manages containers, and the Docker CLI (Command Line Interface), which allows users to interact with Docker. Docker Images Docker images are lightweight, stand-alone, and executable packages that contain all the necessary code and dependencies to run an application. They serve as the blueprints for containers. Docker Containers Containers are instances of Docker images. They are isolated environments where applications run. Containers are highly portable and can be executed consistently across various environments. Docker's simplicity and ease of use made it a go-to choice for developers and operators. However, managing a large number of containers at scale and ensuring high availability required a more sophisticated solution, which led to the rise of Kubernetes. Kubernetes: Orchestrating Containers at Scale Kubernetes, often abbreviated as K8s, is an open-source container orchestration platform originally developed by Google. It provides a framework for automating the deployment, scaling, and management of containerized applications. Here's a glimpse of Kubernetes' core components: Master Node The Kubernetes master node is responsible for controlling the cluster. It manages container orchestration, scaling, and load balancing. Worker Nodes Worker nodes, also known as Minions, host containers and run the tasks assigned by the master node. They provide the computing resources needed to run containers. Pods Pods are the smallest deployable units in Kubernetes. They can contain one or more containers that share the same network namespace, storage, and IP address. Services Kubernetes services enable network communication between different sets of pods. They abstract the network and ensure that applications can discover and communicate with each other reliably. Deployments Deployments in Kubernetes allow you to declaratively define the desired state of your application and ensure that the current state matches it. This enables rolling updates and automatic rollbacks in case of failures. The Docker-Kubernetes Synergy Docker and Kubernetes are often used together to create a comprehensive containerization and orchestration solution. Docker simplifies the packaging and distribution of containerized applications, while Kubernetes takes care of their deployment and management at scale. Here's how Docker and Kubernetes work together: Building Docker Images: Developers use Docker to build and package their applications into Docker images. These images are then pushed to a container registry, such as Docker Hub or Google Container Registry. Kubernetes Deployments: Kubernetes takes the Docker images and orchestrates the deployment of containers across a cluster of nodes. Developers define the desired state of their application using Kubernetes YAML manifests, including the number of replicas, resource requirements, and networking settings. Scaling and Load Balancing: Kubernetes can automatically scale the number of container replicas based on resource utilization or traffic load. It also manages load balancing to ensure high availability and efficient resource utilization. Service Discovery: Kubernetes services enable easy discovery and communication between different parts of an application. Services can be exposed internally or externally, depending on the use case. Rolling Updates: Kubernetes supports rolling updates and rollbacks, allowing applications to be updated with minimal downtime and the ability to revert to a previous version in case of issues. The Significance in Modern Application Deployment The adoption of Docker and Kubernetes has had a profound impact on modern application deployment practices. Here's why they are crucial: Portability: Containers encapsulate everything an application needs, making it highly portable. Developers can build once and run anywhere, from their local development environment to a public cloud or on-premises data center. Efficiency: Containers are lightweight and start quickly, making them efficient in terms of resource utilization and time to deployment. Scalability: Kubernetes allows applications to scale up or down automatically based on demand, ensuring optimal resource allocation and high availability. Consistency: Containers provide consistency across different environments, reducing the "it works on my machine" problem and streamlining the development and operations pipeline. DevOps Enablement: Docker and Kubernetes promote DevOps practices by enabling developers and operators to collaborate seamlessly, automate repetitive tasks, and accelerate the software delivery lifecycle. Conclusion In conclusion, Docker and Kubernetes are at the forefront of containerization and container orchestration technologies. They have reshaped the way applications are developed, deployed, and managed in the modern era. By combining the simplicity of Docker with the power of Kubernetes, organizations can achieve agility, scalability, and reliability in their application deployment processes. Embracing these technologies is not just a trend but a strategic move for staying competitive in the ever-evolving world of software development. As you embark on your containerization journey with Docker and Kubernetes, remember that continuous learning and best practices are key to success. Stay curious, explore new features, and leverage the vibrant communities surrounding these technologies to unlock their full potential in your organization's quest for innovation and efficiency. Containerization is not just a technology; it's a mindset that empowers you to build, ship, and run your applications with confidence in a rapidly changing digital landscape.
+                    More 
+
+
+
+
+
+
+
+                        [DZone Research] Join Us for Our 5th Annual Kubernetes Survey!
+                    
+
+
+
+        By Caitlin Candelmo
+
+
+
+                    Do you have experience with Kubernetes design and architecture, K8s monitoring and security, or container orchestration? If so, our Kubernetes research survey is for you! We're further investigating areas including: Technical advantages and challenges of Kubernetes Kubernetes cluster usage/traffic patterns Tools/platforms for container management DZone's Trend Report will also explore Kubernetes for CI/CD pipelines, AI for K8s, as well as guidance for securing K8s clusters. Our community members have a direct hand in driving the research covered in the report, and this is where we could use your anonymous insights! We're asking for ~6 minutes of your time to share your experience. (And enter for a chance to win 1 of 5 $100 gift cards!) Participate in Our Research Over the coming weeks, we will compile and analyze data from hundreds of DZone members, and observations will be featured in the "Key Research Findings" of our October Trend Report, Kubernetes in the Enterprise: Redefining the Container Ecosystem. Your responses help shape the narrative of our Trend Reports, so we cannot do this without you. We thank you in advance for your help!–The DZone Publications team
+                    More 
+
+
+
+
+
+
+
+Trend Report
+Development at Scale
+As organizations’ needs and requirements evolve, it’s critical for development to meet these demands at scale. The various realms in which mobile, web, and low-code applications are built continue to fluctuate. This Trend Report will further explore these development trends and how they relate to scalability within organizations, highlighting application challenges, code, and more.
+
+
+                        Download
+                    
+
+
+
+
+
+
+
+Refcard #071
+Core PostgreSQL
+
+        By Kellyn Gorman
+
+ CORE
+            
+
+
+
+                        Download
+                    
+
+
+
+
+
+Refcard #008
+Design Patterns
+
+        By Justin Albano
+
+ CORE
+            
+
+
+
+                        Download
+                    
+
+
+
+
+
+
+More Articles
+
+
+
+
+
+
+
+
+
+How To Verify Database Connection From a Spring Boot Application
+I have recently been working on a self-paced learning course for Spring Data Neo4j and wanted users to be able to test the database connection. Typically, in a Spring Boot application with Spring Data, you set the database credentials as properties in the application.properties file. You can run the application with just these details, but it only fails when the database URI has improper syntax. The application does not actually test the connection to see if it is valid and successfully connects. In this blog post, I will show you how to test the connection to a Neo4j database from a Spring Boot application using the verifyConnectivity() method from the Driver class. Ways To Test the Connection You might ask, "Why doesn't the application test the connection?" This is because it isn't a config property, so we have to test it at runtime. There are a few different ways to go about this. Use a CommandLineRunner with the driver and use the verifyConnectivity() method. Move the CommandLineRunner to its own config class (cleaner). Write a test for that uses the verifyConnectivity() method. Write application functionality (domain, repository, controller classes) that utilize the connection. The last option has been what I have done in the past because I haven't focused on only the connectivity step. However, it is not ideal for testing the connection because it requires you to write a lot of code that you don't need. If the connection is wrong, then we have to troubleshoot a lot more code when something else might actually be causing the problem. We want to only deal with the database connection. The first and second options were my next approach and are pretty good options, but require you to run the whole application. Once you have the test method, it either gets run along with it every time, or you have to comment out/remove that piece of code. The third option is the best because it is a test that you can run at any time. It doesn't increase the overhead of the actual application, and you can run individual tests only when desired. This will be our goal, but I will show you how to write the first and second options, as well. The verifyConnectivity() Method First, let's look at the verifyConnectivity() method. I didn't realize this existed until now, so I did a bit of research. The info in the Java API docs says that it verifies the driver can connect to the database and throws an exception if it fails to connect. This is exactly what we want! The method is part of the Driver class, which is part of the Neo4j Java Driver. So, in order to execute the verifyConnectivity() method, we will need to create a driver object. Setup: Create a Spring Boot Project Let's start by creating a Spring Boot project. I like to do this through the Spring Initializr site. I will use the following settings: Project: Maven Project Language: Java Spring Boot: Latest stable release (currently 3.1.3) Project Metadata: Group: com.jmhreif Artifact: verify-connectivity Dependencies: Spring Data Neo4j Spring Initializr settings Once you have downloaded the project, open it in your preferred IDE. The first thing we will need to do is to set the database credentials in the application.properties file. This will give us something to test. If you don't already have an instance of Neo4j running, you can spin up a free cloud instance of Neo4j Aura in a few minutes. Neo4j Aura is a fully managed cloud database service. Once you have an instance, you can get the connection URI from the Aura console. Next, open the application.properties file and add the following properties: Properties files spring.neo4j.uri=neo4j+s://dbhash.databases.neo4j.io spring.neo4j.authentication.username=neo4j spring.neo4j.authentication.password=test spring.data.neo4j.database=neo4j Note that you will need to update at least the URI and password fields to match your instance (the username and database fields are defaulted unless you customize them later). Now, we can create a CommandLineRunner class to test the connection. Each of the options we will cover in this post is in a separate branch in the accompanying GitHub project. You can follow along by checking out the branch for the option as we walk through each one. The main branch is the preferred solution using a test in the test class. Option 1: Method in main application class Option 2: Method in config class Option 3 (main): Test in test class Option 1: Use CommandLineRunner With our project ready, we can start adding code to test the database connection. Open the main application class (VerifyConnectivityApplication.java, if your project name is verify-connectivity) and add code so it matches the class below: Java @SpringBootApplication public class VerifyConnectivityApplication implements CommandLineRunner { public static void main(String[] args) { SpringApplication.run(VerifyConnectivityApplication.class, args); } final Driver driver; public VerifyConnectivityApplication(@Autowired Driver driver) { this.driver = driver; } public final void run(String... args) { driver.verifyConnectivity(); } } We have our class implement the CommandLineRunner interface so that the bean we create to test our connection is run on application startup. Next, we inject the driver on line 17 and create a constructor that uses the driver on line 19. Line 23 is where we actually test the connection, though. We implement the run() method, which uses the Driver object to call its verifyConnectivity() method. If the connection is successful, then the method will return a 0 success status code. If the connection fails, then the method will throw an exception and the application will exit with an error code. We can test this by running the application. If the output returns the 0 status code, then it works as it's supposed to. You can also test to make sure it fails by putting some bad data into the database properties in the application.properties file and running the app again. Testing the connection in the main application class isn't the best solution because we have cluttered up our main class with the test code. We can make this a bit cleaner by moving this code to its own config class. Option 2: Set Up a Config Class We are not really changing any functionality with this option, but are rather moving a chunk of configuration code to a separate class. This will allow us to keep our main application class clean and focused on the application's main functionality. First, we need to create a new Java class. You can name it anything you like, but I called it Config.java. Open the class and copy/paste the code from the main application class so that your config class looks like the following: Java @Configuration public class Config implements CommandLineRunner { final Driver driver; public Config(@Autowired Driver driver) { this.driver = driver; } public final void run(String... args) { driver.verifyConnectivity(); } } Ensure you remove the copied code from the main class, and then test the application again. It should still work the same as before when a 0 status code means success, but now we have separated the connection test code into its own configuration part of the application. This solution also isn't ideal because we still have to run the whole application to test the connection. We can do better by writing a test in the test class so that it only runs when we need to check that piece of functionality. Option 3: Write a Test The third option is the best one. It doesn't increase the overhead of the actual application, and we can run an individual test as needed. To do this, we need to open the VerifyConnectivityApplicationTests.java file and add the following code: Java @SpringBootTest class VerifyConnectivityApplicationTests { final Driver driver; public VerifyConnectivityApplicationTests(@Autowired Driver driver) { this.driver = driver; } @Test final void testConnection() { driver.verifyConnectivity(); } } You will also need to remove the Config.java class, as we don't need it anymore. Now, we can run the test, and it will verify the connection. If the connection is successful, then the test will pass. If the connection fails, then the test will fail. You can alter the values in the application.properties to verify you get the expected results for both success and failure. This version of the code is much cleaner, and since we want to test a connection, it makes sense to put this in the test class. For more rigorous and comprehensive application testing, we could improve this further by using a test suite such as Neo4j harness or Testcontainers, but that is out of the scope of this blog post. In our case, it is sufficient to create a plain test that verifies our application can connect to the database. Wrap Up! In today's post, we saw how to use the verifyConnectivity() method to test the connection to a Neo4j database from a Spring Boot application. We saw three different ways to do this, and the pros and cons of each. We also discussed why the best option is to utilize the test class and write a test. If the connection succeeds, the test passes. If the connection fails, the test fails, and we can troubleshoot connection details. Happy debugging! Resources Documentation: Java API verifyConnectivity() method
+
+        By Jennifer Reif
+
+ CORE
+            
+
+
+
+
+
+
+
+
+
+
+
+
+How To Optimize Feature Sets With Genetic Algorithms
+Prerequisites Genetic Algorithms is an advanced topic. Even though the content has been prepared to keep in mind the requirements of a beginner, the reader should be familiar with the fundamentals of Programming and Basic Algorithms before starting with this article. Additionally, consider sharpening your mathematical skills; they will greatly aid in comprehending the examples. Introduction to Optimization Optimization entails the art of enhancing performance. In any given process, we encounter a collection of inputs and outputs, as illustrated in the diagram. Optimization involves the search for input values that yield the most favorable output results. The concept of favorable can vary depending on the specific problem at hand, but in mathematical contexts, it typically involves the pursuit of maximizing or minimizing one or more objective functions through adjustments to the input parameters. Let's consider y =f(x); if f’(x)=0 at a point x=x*, then the optimum (max or min) or the inflection point exists at that point. Upon closer examination, it becomes apparent that the first non-zero higher-order derivative is typically denoted as 'n,' such that. If n is an odd number, x* is an inflection point. Otherwise, x* is a local optimum point. Expanding on this idea... If the value of the next high-order derivative is +ve, x* is a local minimum point. If the value of the next high-order derivative is -ve, x* is a local maximum point. For example: Principles of Optimization Consider a constrained optimization problem below: Based on the characteristics of the constraints, a feasible region is identified. Any point situated within this feasible region is considered a potential candidate for the optimal solution. The points located within the feasible region are referred to as free points, while those situated on the boundary of the region are categorized as bound points. Hence, an optimal solution can manifest as either a free point or a bound point within the feasible region. Gradient-based methods, particularly derivative-based approaches, have been a conventional means of addressing unconstrained optimization problems. However, it's important to note that they come with several limitations and drawbacks. What Is a Genetic Algorithm? Throughout history, nature has consistently provided an abundant wellspring of inspiration for humanity. Genetic Algorithms (GAs) are search-based algorithms rooted in the principles of natural selection and genetics. GAs constitute a subset of the broader field of computation known as Evolutionary Computation. Genetic Algorithms (GAs) were originally developed by John Holland, along with his students and colleagues at the University of Michigan, notably including David E. Goldberg. Since their inception, GAs have been applied to a wide array of optimization problems, consistently achieving a high level of success. In Genetic Algorithms (GAs), a population of potential solutions to a given problem is established. These solutions then undergo processes of recombination and mutation, mirroring the principles found in natural genetics, resulting in the creation of new offspring. This iterative process spans multiple generations. Each individual or candidate solution is evaluated based on its fitness value, typically determined by its objective function performance. Fitter individuals are accorded a higher probability of reproducing and generating even more capable offspring. This aligns with the Darwinian Theory of "Survival of the Fittest." In this manner, GAs continually evolve and refine the quality of individuals or solutions across generations until a predefined stopping criterion is met. Genetic Algorithms exhibit a significant degree of randomness in their operations, but they outperform simple random local search methods, as they also incorporate historical information to guide their search for optimal solutions. Why Genetic Algorithm? Genetic Algorithms (GAs) possess the remarkable capability to deliver a "sufficiently good" solution in a timely manner, especially when dealing with large-scale problems where traditional algorithms might struggle to provide a solution. GAs offer a versatile and generic framework for tackling intricate optimization problems. Here are some advantages of using Genetic Algorithms (GAs): Versatility: GAs can be applied to a wide range of optimization problems, making them a versatile choice for various domains, including engineering, finance, biology, and more. Global search: GAs excel at exploring the entire search space, enabling them to find solutions that might be missed by local search algorithms. This makes them suitable for problems with multiple local optima. No need for derivatives: Unlike many optimization techniques, GAs do not require derivatives of the objective function, making them applicable to problems with non-continuous, noisy, or complex fitness landscapes. Parallelism: GAs can be parallelized effectively, allowing for faster convergence on high-performance computing systems. Stochastic nature: The stochastic nature of GAs ensures that they can escape local optima and explore the search space more thoroughly. Adaptability: GAs can adapt and adjust their search strategies over time, which is particularly useful for dynamic or changing optimization problems. Solution diversity: GAs maintain a diverse population of solutions, which can help in finding a wide range of possible solutions and prevent premature convergence. Interpretability: In some cases, GAs can provide insights into the structure of the solution space, helping users better understand the problem. Combinatorial problems: GAs are well-suited for combinatorial optimization problems, such as the traveling salesman problem and job scheduling. Parallel evolution: GAs can be used to evolve multiple solutions simultaneously, which is valuable in multi-objective optimization and other complex scenarios. It's important to note that while GAs offer these advantages, they are not always the best choice for every optimization problem, and their performance can vary depending on the problem's characteristics. Proper problem analysis and algorithm selection are essential for achieving optimal results. Genetic Algorithm Terminology Populations and generations: A population is an array of individuals. For example, if the size of the population is 100 and the number of variables in the fitness function is 3, you represent the population by a 100-by-3 matrix. The same individual can appear more than once in the population. For example, the individual (2, -3, 1) can appear in more than one row of the array. At each iteration, the genetic algorithm performs a series of computations on the current population to produce a new population. Each successive population is called a new generation. Parents and children: To create the next generation, the genetic algorithm selects certain individuals in the current population, called parents, and uses them to create individuals in the next generation, called children. Typically, the algorithm is more likely to select parents that have better fitness values. Individuals: An individual is any point to which you can apply the fitness function. The value of the fitness function for an individual is its score. For example, if the fitness function is: f(x1,x2,x3)=(2x1+1)2+(3x2+4)2+(x3−2)2 The vector (2, -3, 1), whose length is the number of variables in the problem, is an individual. The score of the individual (2, –3, 1) is f(2, –3, 1) = 51. An individual is sometimes referred to as a genome or chromosome, and the vector entries of an individual as genes. Fitness functions: The fitness function is the function you want to optimize. For standard optimization algorithms, this is known as the objective function. Fitness values and best fitness values: The fitness value of an individual is the value of the fitness function for that individual. The best fitness value for a population is the smallest fitness or largest fitness value for any individual in the population, depending on the optimization problem. Convergence: The point at which the GA reaches a solution that meets the termination criteria. This can be an optimal or near-optimal solution. Search space: The set of all possible solutions to the optimization problem. Diversity: Diversity refers to the average distance between individuals in a population. A population has high diversity if the average distance is large; otherwise, it has low diversity. Diversity is essential to the genetic algorithm because it enables the algorithm to search a larger region of space. Genotype: The internal representation of a chromosome (e.g., a binary or numerical string). Phenotype: The actual solution represented by a chromosome. It is obtained by decoding the genotype. Crossover rate: The probability that two parents will undergo crossover to produce offspring in a new generation. Mutation rate: The probability that a gene (or a portion of the chromosome) will undergo mutation in a new generation. Fundamental Genetic Algorithm (GA): Pseudocode Detailed Strategies of a Fundamental Genetic Algorithm (GA) Encoding and Population Chromosome encodes a solution in the search space Usually as strings of 0's and 1's If l is the string length, the number of different chromosomes (or strings) is 2l Population A set of chromosomes in a generation Population size is usually constant Common practice is to choose the initial population randomly. Fitness Evaluation Fitness/objective function is associated with each chromosome. This indicates the degree of goodness of the encoded solution. If the minimization problem is to be solved, then fitness = 1 / objective or fitness = -1 * objective. If the maximization problem is to be solved, then fitness = objective Selection More copies to good strings. Fewer copies to bad string. Proportional selection scheme. Number of copies taken is directly proportional to its fitness. Mimics the natural selection procedure to some extent. Roulette wheel selection and Tournament selection are two frequently used selection procedures. Crossover Exchange of genetic information It takes place between randomly selected parent chromosomes Single-point crossover and Uniform crossover are the most commonly used schemes. Probabilistic operation Mutation Random alteration in the genetic structure Introduces genetic diversity into the population. Exploration of new search areas Mutating a binary gene involves simple negation of the bit Mutating a real coded gene defined in a variety of ways Probabilistic operation Elitism A strategy that involves preserving the best-performing individuals from one generation to the next. The fittest individuals are guaranteed to survive and become part of the next generation without undergoing any genetic operations like crossover or mutation. Elitism ensures that the best solutions found so far are not lost during the evolutionary process and can continue to contribute to the population. It ensures Steady Improvement and Accelerated Convergence. Termination Criteria The cycle of selection, crossover, and mutation is repeated a number of times until one of these occurs The average fitness value of a population is more or less constant over several generations. The desired objective function value is attained by at least one string in the population. Number of generations (or iterations) is greater than some threshold (most commonly used). Variations in Genetic Algorithms (GAs) Differential Evolution (DE): DE is a variant of GAs specifically designed for real-valued optimization problems. It uses vector-based mutation and recombination operators. Estimation of Distribution Algorithms (EDAs): EDAs model and learn the probability distribution of promising solutions in the population and use this distribution to generate new candidate solutions. Self-Adaptive Genetic Algorithms: Allow the algorithm to adapt its genetic operators (mutation rates, crossover types) based on the evolving population's characteristics, leading to efficient convergence. Niching Algorithms: These algorithms focus on finding multiple diverse solutions in a single run, often in multimodal optimization problems where there are multiple peaks or modes in the fitness landscape. Multi-objective Evolutionary Algorithms (MOEAs): MOEAs address problems with multiple conflicting objectives. They aim to find a set of Pareto-optimal solutions representing trade-offs between these objectives. Hybrid Algorithms: Integrate GAs with other optimization techniques, machine learning models, or domain-specific heuristics to enhance performance and robustness. I aimed to provide a concise overview of Genetic Algorithms and Optimisation. However, if you have any particular questions or need more detailed information on this extensive subject, please feel free to ask in the comments. I appreciate your time and attention! You may reach me on LinkedIn.
+
+        By Sayan Chatterjee
+
+
+
+
+
+
+
+
+
+
+
+
+Top Mistakes Made by Product Owners in Agile Projects
+As a Product Owner (PO), your role is crucial in steering an agile project toward success. However, it's equally important to be aware of the pitfalls that can lead to failure. It's worth noting that the GIGO (Garbage In - Garbage Out) effect is a significant factor: No good product can come from bad design. On Agile and Business Design Skills Lack of Design Methodology Awareness One of the initial steps towards failure is disregarding design methodologies such as Story Mapping, Event Storming, Impact Mapping, or Behavioral Driven Development. Treating these methodologies as trivial or underestimating their complexity or power can hinder your project's progress. Instead, take the time to learn, practice, and seek coaching in these techniques to create well-defined business requirements. For example, I once worked on a project where the PO practiced Story Mapping without even involving the end-users... Ignoring Domain Knowledge Neglecting to understand your business domain can be detrimental. Avoid skipping internal training sessions, Massive Open Online Courses (MooCs), and field observation workshops. Read domain reference books and, more generally, embrace domain knowledge to make informed decisions that resonate with both end-users and stakeholders. To continue with the previous example, the PO who was new in the project domain field (although having basic knowledge) missed an entire use-case with serious architectural implications due to a lack of skills, requiring significant software changes after only a few months. Disregarding End-User Feedback Overestimating your understanding and undervaluing end-user feedback can lead to the Dunning-Kruger effect. Embrace humility and actively involve end-users in the decision-making process to create solutions that truly meet their needs. Failure to consider real-world user constraints and work processes can lead to impractical designs. Analyze actual and operational user experiences, collect feedback, and adjust your approach accordingly. Don't imagine their requirements and issues, but ask actual users who deal with real-world complexity all the time. For instance, a PO I worked with ignored or postponed many obvious GUI issues from end-users, rendering the application nearly unusable. These UX issues included the absence of basic filters on screens, making it impossible for users to find their ongoing tasks. These issues were yet relatively simple to fix. Conversely, this PO pushed unasked-for features and even features rejected by most end-users, such as complex GUI locking options. Furthermore, any attempt to set up tools to collect end-user feedback was dismissed. Team Dynamics Centralized Decision-Making Isolating decision-making authority within your hands without consulting IT or other designers can stifle creativity and collaboration. Instead, foster open communication and involve team members in shaping the project's direction. The three pillars of agility, as defined in the Agile Manifesto, are Transparency, Inspection, and Adaptation. The essence of an agile team is continuous improvement, which becomes challenging when a lack of trust hinders the identification of real issues. Some POs unfortunately adopt a "divide and rule" approach, which keeps knowledge and power in their sole hands. I have observed instances where POs withheld information or even released incorrect information to both end-users and developers, and actively prevented any exchange between them. Geographical Disconnection Geographically separating end-users, designers, testers, PO and developers can hinder communication. Leverage modern collaboration tools, but don't rely solely on them. Balance digital tools with face-to-face interactions to maintain strong team connections and enables osmotic communication, which has proven to be highly efficient in keeping everyone informed and involved. The worst case I had to deal with was a project where developers were centralized in the same building as the end-users, while the PO and design team were distributed in another city. Most workshops were done remotely between both cities. In the end, the design result was very poor. It improved drastically when some designers were finally collocated with the end-users (and developers) and were able to conduct in situ formal and informal workshops. Planning and Execution Over-Optimism and Lack of Contingency Plans Hope should not be your strategy. Don't overselling features to end-users. Being overly optimistic and neglecting backup plans can lead to missed deadlines and unexpected challenges. Develop robust contingency plans (Plan B) to navigate uncertainties effectively. Avoid promising unsustainable plans to stakeholders. After two or three delays, they may lose trust in the project. I worked on a project where the main release was announced to stakeholders by the PO every two months over a 1.5-year timeline without consulting the development team. As you can imagine, the effect was devastating over the image of the project. Inadequate Stakeholder Engagement Excluding business stakeholders from demos and delaying critical communications can lead to misunderstandings and misaligned expectations. Regularly engage stakeholders to maintain transparency and gather valuable feedback. As an illustration, in a previous project, we conducted regular sprint demos; however, we failed to invite end-users to most sessions. Consequently, significant ergonomic issues went unnoticed, resulting in a substantial loss of time. Additionally, within the same project, the Product Owner (PO) organized meetings with end-users mainly to present solutions via fully completed mockups, rather than facilitating discussions to precisely identify operational requirements, which inhibited them. Embracing Waterfall Practices Thinking in terms of a waterfall approach, rather than embracing iterative development, can hinder progress, especially on a project meant to be managed with agile methodologies. Minimize misunderstandings by providing regular updates to stakeholders. Break features into increments, leverage Proof of Concepts (POC), and prioritize the creation of Minimal Viable Products (MVP) to validate assumptions and ensure steady progress. As an example, I recently had a meeting with end-users explaining that a one-year coding tunnel period resulted in a first application version almost unusable and worse than the 20-year-old application we were supposed to rewrite. With re-established communication and end-users' involvement, this has been fixed in a few months. Producing Too Much Waste As a designer, avoid creating a large stock of user stories (US) that will be implemented in months or years. This way, you work against the Lean principle to fight the overproduction muda (waste) and you produce many specifications at the worst moment (when knowing the least about actual business requirements), and this work has all chances to be thrown away. I had an experience where a PO and their designer team wrote US until one year before they were actually coded and left almost unmaintained. As expected, most of it was thrown away or, even worse, caused various flaws and misunderstandings among the development team when finally planned for the next sprint. Most backlog refinements and explanations had to be redone. User stories should be refined to a detailed state only one or two sprints before being coded. However, it's a good practice to fill the backlog sandbox with generally outlined features. The rule of thumb is straightforward: user stories should be detailed as close to the coding stage as possible. When they are fully detailed, they are ready for coding. Otherwise, you are likely to waste time and resources. Volatile Objectives Try to set consistent objectives at each sprint. Avoid context switching among developers, which can prevent them from starting many different features but never finishing any. To provide an example, in a project where the Product Owner (PO) interacted with multiple partners, priorities were altered every two or three sprints mainly due to political considerations. This was often done to appease the most frustrated partners who were awaiting certain features (often promised with unrealistic deadlines). Lack of Planning Flexibility Utilize the DevOps methodology toolkit, including tools such as feature flags, dark deployments, and canary testing, to facilitate more streamlined planning and deployment processes. As an architect, I once had a tough time convincing a PO to use canary-testing deployment strategy to learn fast and release early while greatly limiting risks. After a resounding failure when opening the application to the entire population, we finally used canary-testing and discovered performance and critical issues on a limited set of voluntary end-users. It is now a critical aspect of the project management toolkit we use extensively. Extended Delays Between Deployments Even if a product is built incrementally within 2 or 3-week timeframes, many large projects (including all those I've been a part of) tend to wait for several iterations before deploying the software in production. This presents a challenge because each iteration should ideally deliver some form of value, even if it's relatively small, to end-users. This approach aligns with the mantra famously advocated by Linus Torvalds: "Release early, release often." Some Product Owners (PO) are hesitant to push iterations into production, often for misguided reasons. These concerns can include fears of introducing bugs (indicating a lack of automated and acceptance testing), incomplete iterations (highlighting issues with user story estimation or development team velocity), a desire to provide end-users with a more extensive set of features in one go, thinking they'll appreciate it, or an attempt to simplify the user learning curve (revealing potential user experience (UX) shortcomings). In my experience, this hesitation tends to result in the accumulation of various issues, such as bugs or performance problems. Design Considerations Solution-First Mentality Prioritizing solutions over understanding the business needs can lead to misguided decisions. Focus on the "Why" before diving into the "How" to create solutions that truly address user requirements. As a bad practice, I've seen user stories including technical content (like SQL queries) or presenting detailed technical operations or screens as business rules. Oversized User Stories Designing large, complex user stories instead of breaking them into manageable increments can lead to confusion and delays. Embrace smaller, more focused user stories to facilitate smoother development, predictability in planning, and testing. Inexperienced Product Owners (POs) often find it challenging to break down features into small, manageable user stories (US). This is sort of an art, and there are numerous ways to accomplishing it based on the context. However, it's important to remember that each story should deliver value to end-users. As an example, in a previous project, the Product Owner (PO) struggled to effectively divide stories or engaged in purely technical splitting, such as creating one user story (US) for the frontend and another for the backend portion of a substantial feature. Consequently, 50% of the time, this resulted in incomplete user stories that required rescheduling for the subsequent sprint. Neglecting Expertise Avoiding consultation with experts such as UX designers, accessibility specialists, and legal advisors can result in suboptimal solutions. Leverage their insights to create more effective and user-friendly designs. As a case in point, I've observed multiple projects where the lack of a proper user experience (UX) led to inadequately designed graphical user interfaces (GUIs), incurring substantial costs for rectification at a later stage. In specific instances, certain projects demanded legal expertise, particularly in matters of data privacy. Moreover, I encountered a situation where a Product Owner (PO) failed to involve legal specialists, resulting in the final product omitting crucial legal notices or even necessitating significant architectural revisions. Ignoring Performance Considerations Neglecting performance constraints, such as displaying excessive data on screens without filters, can negatively impact user experience. Prioritize efficient design to ensure optimal system performance. I once worked on a large project where the Product Owner (PO) requested the computation of a Gantt chart involving tens of thousands of tasks spanning over 5 years. Ironically, in 99.9% of cases, a single week was sufficient. This unnecessarily intricate requirement significantly complicated the design process and resulted in the product becoming nearly unusable due to its excessive slowness. Using the Wrong Words Failing to establish a shared business language and glossary can create confusion between technical and business teams. Embrace the Ubiquitous Language (UL) Domain-Driven Design principle to enhance communication and clarity. I once worked on a project where PO and designers didn't set up any business terms glossary, used custom vocabulary instead of a business one, and used fuzzy or interchangeable synonyms even for the terms they coined themselves. This created many issues and confusion among the team or end-users and even duplicated work. Postponing Legal and Regulatory Considerations Late discovery of legal, accessibility, or regulatory requirements can lead to costly revisions. Incorporate these considerations early to avoid setbacks during development. I observed a significantly large project where the Social Security number had to be eliminated later on. This led to the need for additional transformation tools since this constraint was not taken into account from the beginning. Code Considerations Interferences Refine business requirements and don't interfere with code organization, which often has its own constraints. For instance, asking the development team to always enforce the reuse (DRY) principle through very generic interfaces comes from a good intention but may greatly overcomplicate the code (which violates the KISS principle). In a recent project, a Product Owner (PO) who had a background in development frequently complicated the design by explicitly instructing developers to extend existing endpoints or SQL queries instead of creating entirely new ones, which would have been simpler. Many developers followed the instructions outlined in the user stories (US) without fully grasping the potential drawbacks in the actual implementation. This occasionally resulted in convoluted code and wasted time rather than achieving efficiency gains. Acceptance Testing Neglecting Alternate Paths Focusing solely on nominal cases (“happy paths”) and ignoring real-world scenarios can result in very incomplete testing. Ensure that all possible paths, including corner cases, are thoroughly tested to deliver a robust solution. In a prior project, a multitude of bugs and crashes surfaced exclusively during the production phase due to testing being limited to nominal scenarios. This led to team disorganization as urgent hotfixes had to be written immediately, tarnishing the project's reputation and incurring substantial costs. Missing Acceptance Criteria Leverage the Three Amigos principle to involve cross-functional team members in creating comprehensive acceptance criteria. Incorporate examples in user stories to clarify expectations and ensure consistent understanding. Example mapping is a great workshop to achieve it. Being able to write down examples ensures many things: firstly that you have at least one realistic case for this requirement and that it is not imaginary; secondly, listing different cases is a powerful tool to gain an estimation of the alternate paths exhaustively (see the previous point) and make them emerge; lastly, it is one of the best common understanding material you can share with developers. By way of illustration, when designers began documenting real-life scenarios using Behavioral Driven Development (BDD) executable specifications, numerous alternate paths emerged naturally. This led to a reduction in production issues (as discussed in the previous section) and a gradual slowdown in their occurrence. Lack of Professional Testing Expertise Incorporating professional testers and testing tools enhances defect detection and overall quality. Invest in thorough testing to identify issues early, ensuring a smoother user experience. Not using tools also makes it more difficult for external stakeholders to figure out what has been actually tested. Conducting rigorous testing is indeed a genuine skill. In a previous project, I witnessed testers utilizing basic spreadsheets to record and track testing scenarios. This approach rendered it difficult to accurately determine what had been tested and what hadn't. Consequently, the Product Owner (PO) had to validate releases without a clear understanding of the testing coverage. Tools like the Open Source SquashTM are excellent for specifying test requirements and monitoring acceptance tests coverage. Furthermore, the testers were not testing professionals but rather designers, which frequently resulted in challenges when trying to obtain detailed bug reports. These reports lacked precision, including crucial information such as the exact time, logs, scenarios, and datasets necessary for effective issue reproduction. Take-Away Summary Symptom Possible Causes and Solutions A solution that is not aligned with end-users' needs. Ineffective Workshops with End-Users:- If workshops are conducted remotely, consider organizing them onsite.- Ensure you are familiar with agile design methods like Story Mapping.Insufficient Attention to End-Users' Needs:- Make sure to understand the genuine needs and concerns of end-users, and avoid relying solely on personal intuitions or managerial opinions.- Gather end-users' feedback early and frequently.- Utilize appropriate domain-specific terminology (Ubiquitous Language). Limited Trust from End-Users and/or Development Team. Centralized Decision-Making:- Foster open communication and involve team members in shaping the project's direction.- Enhance transparency through increased communication and information sharing.Unrealistic Timelines:- Remember that "Hope is not a strategy"; avoid excessive optimism.- Aim for consistent objectives in each sprint and establish a clear trajectory.- Employ tools that enhance schedule flexibility and ensure secure production releases, such as canary testing. Design Overhead. User story overproduction:- Minimize muda (waste) and refine user stories only when necessary, just before they are coded.Challenges in Designer-Development Team Communication:- Encourage regular physical presence of both design and development teams in the same location, ideally several days a week, to enhance direct and osmotic communication.- Focus on describing the 'why' rather than the 'how'. Leave technical specifications to the development team. For instance, when designing a database model, you might create the Conceptual Data Model, but ensure the team knows it's not the Physical Data Model. Discovery of Numerous Production Bugs. Incomplete Acceptance Testing:- Develop acceptance tests simultaneously with the user stories and in collaboration with future testers.- Conduct tests in a professional and traceable manner, involving trained testers who use appropriate tools.- Test not only the 'happy paths' but also as many alternative paths as possible.Lack of Automation:- Implement automated tests, especially unit tests, and equally important, executable specifications (Behavioral Driven Development) derived from the acceptance tests outlined in the user stories. Explore tools like Spock. Conclusion By avoiding these common pitfalls, you can significantly increase the chances of a successful agile project. Remember, effective collaboration, clear communication, and a user-centric mindset are key to delivering valuable outcomes. A Product Owner (PO) is a role, not merely a job. It necessitates training, support, and a readiness to continuously challenge our assumptions. It's worth noting that a project can fail even with good design when blueprints and good coding practices are not followed, but this is an entirely different topic. However, due to the GIGO effect, no good product can ever be released from a bad design phase.
+
+        By Bertrand Florat
+
+
+
+
+
+
+
+
+
+
+
+
+JWT Token Revocation: Centralized Control vs. Distributed Kafka Handling
+Tokens are essential for secure digital access, but what if you need to revoke them? Despite our best efforts, there are times when tokens can be compromised. This may occur due to coding errors, accidental logging, zero-day vulnerabilities, and other factors. Token revocation is a critical aspect of modern security, ensuring that access remains in the right hands and unauthorized users are kept out. In this article, we'll explore how different methods, such as centralized control and distributed Kafka handling, play a vital role in keeping your systems and data safe. Access/Refresh Tokens I described more about using JWTs in this article. JWTs allow you to eliminate the use of centralized token storage and verify tokens in the middleware layer of each microservice. To mitigate the risks associated with token compromises, the lifetime of an Access Token is made equal to a small value of time (e.g., 15 minutes). In the worst case, after the token is leaked, it is valid for another 15 minutes, after which its exp will be less than the current time, and the token will be rejected by any microservice. To prevent users from being logged out every 15 minutes, a Refresh Token is added to the Access Token. This way, the user receives an Access Token/Refresh Token pair after successful authentication. When the Access Token's lifetime expires and the user receives a 401 Unauthorized response, they should request the /refresh-token endpoint, passing the Refresh Token value as a parameter and receiving a new Access Token/Refresh Token pair in response. The previous Refresh Token becomes inactive. This process reduces risk and does not negatively impact user experience. Revocation But there are cases when it is necessary to revoke tokens instantly. This can happen in financial services or, for example, in a user's account when he wants to log out from all devices. Here, we can't do it without token revocation. But how to implement a mechanism for revoking JWTs, which are by nature decentralized and stored on the user's devices? Centralized-Approach The most obvious and easiest way is to organize a centralized storage. It will be a blacklist of tokens, and each auth middleware layer will, besides signature validation and verification of token claims, go to this centralized repository to check whether the token is in the blacklist. And if it is, reject it. The token revocation event itself is quite rare (compared to the number of authorization requests), so the blacklist will be small. Moreover, there is no point in storing tokens in the database forever since they have an exp claim, and after this value, they will no longer be valid. If a token in your system is issued with a lifetime of 30 minutes, then you can store revoked tokens in the database for 30 minutes. Advantages Simplicity: This approach simplifies token revocation management compared to other solutions. Fine-grained control: You have fine-grained control over which tokens are revoked and when. Considerations Single point of failure: The centralized token revocation service can become a single point of failure. You should implement redundancy or failover mechanisms to mitigate this risk. Network overhead: Microservices need to communicate with the central service, which can introduce network overhead. Consider the impact on latency and design accordingly. Security: Ensure that the central token revocation service is securely implemented and protected against unauthorized access. This approach offers centralized control and simplicity in token revocation management, which can be beneficial for certain use cases, especially when fine-grained control over revocation is required. However, it does introduce some network communication overhead and requires careful consideration of security and redundancy. Decentralized-Approach (Kafka-Based) A more advanced approach, without a single point of failure, can be implemented with Kafka. Kafka is a distributed and reliable message log by nature. It permits multiple independent listeners and retention policy configurations to store only actual values. Consequently, a blacklist of revoked tokens can be stored in Kafka. When a token requires revocation, the corresponding service generates an event and adds it to Kafka. Middleware services include a Kafka listener that receives this event and stores it in memory. When authorizing a request, in addition to verifying the token's validity, there is no need to contact a centralized service. Revoked tokens are stored in memory, and locating the token in a suitable data structure is a quick process (if we use HashMap, it will be O(1)). It's unnecessary to store tokens in memory forever either, and they should be periodically deleted after their lifetime. But what if our service restarts and memory is cleared? The Kafka listener allows you to read messages from the beginning. When the microservice is brought back up, it will once again pull all messages from Kafka and use the actual blacklist. Advantages Decentralized: Using a distributed message broker like Kafka allows you to implement token revocation in a decentralized manner. Microservices can independently subscribe to the revocation messages without relying on a central authority. Scalability: Kafka is designed for high throughput and scalability. It can handle a large volume of messages, making it suitable for managing token revocations across microservices in a distributed system. Durability: Kafka retains messages for a configurable retention period. This ensures that revoked tokens are stored long enough to cover their validity period. Resilience: The approach allows microservices to handle token revocation even if they restart or experience temporary downtime. They can simply re-consume the Kafka messages upon recovery. Considerations Complexity: Implementing token revocation with Kafka adds complexity to your system. You need to ensure that all microservices correctly handle Kafka topics, subscribe to revocation messages, and manage in-memory token revocation lists. Latency: There might be a slight latency between the time a token is revoked and the time when microservices consume and process the revocation message. During this window, a revoked token could still be accepted. Scalability challenges: As your system grows, managing a large number of revocation messages and in-memory lists across multiple microservices can become challenging. You might need to consider more advanced strategies for partitioning and managing Kafka topics. The choice between the centralized token revocation approach and the Kafka-based approach depends on your specific use case, system complexity, and preferences. The centralized approach offers simplicity and fine-grained control but introduces network overhead and potential single points of failure. The Kafka-based approach provides decentralization, scalability, and resilience but is more complex to implement and maintain. Conclusion In a world where digital security is paramount, token revocation stands as a critical defense. Whether you prefer centralized control or the distributed handling of Kafka, the core message remains clear: Token revocation is a vital part of robust security. By effectively managing and revoking tokens, organizations can fortify their defenses, safeguard sensitive data, and ensure that access remains in the right hands. As we wrap up our discussion on token revocation, remember that proactive security measures are a must in today's digital landscape. So, embrace token revocation to protect what matters most in our interconnected world.
+
+        By Viacheslav Shago
+
+
+
+
+
+
+
+
+
+
+
+
+Setting up Request Rate Limiting With NGINX Ingress
+In today's highly interconnected digital landscape, web applications face the constant challenge of handling a high volume of incoming requests. However, not all requests are equal, and excessive traffic can put a strain on resources, leading to service disruptions or even potential security risks. To address this, implementing request rate limiting is crucial to preserve the stability and security of your environment. Request rate limiting allows you to control the number of requests per unit of time that a server or application can handle. By setting limits, you can prevent abuse, manage resource allocation, and mitigate the risk of malicious attacks such as DDoS or brute-force attempts. In this article, we will explore how to set up request rate limiting using NGINX Ingress, a popular Kubernetes Ingress Controller. We will also demonstrate how to test the rate-limiting configuration using Locust, a load-testing tool. To provide a clear overview of the setup process, let's visualize the workflow using a flow diagram: Now that we understand the purpose and importance of rate limiting let's dive into the practical steps. Creating a Kubernetes Deployment Before we can configure rate limiting, we need to have a sample application running. For the purpose of this demonstration, we will create a simple NGINX deployment in the default namespace of Kubernetes. NGINX is a widely used web server and reverse proxy known for its performance and scalability. To create the Nginx deployment, save the following YAML content to a file named nginx-deployment.yaml: YAML apiVersion: apps/v1kind: Deploymentmetadata:name: nginx-deploymentspec:selector:matchLabels:app: nginxreplicas: 1template:metadata:labels:app: nginxspec:containers:- name: nginximage: nginx:latestports:- containerPort: 80 Apply the deployment using the kubectl command: Shell kubectl apply -f nginx-deployment.yaml The NGINX deployment is now up and running, and we can proceed to the next step. Creating a Kubernetes Service In order to expose the NGINX deployment to the outside world, we need to create a Kubernetes Service. The Service acts as a stable endpoint for accessing the NGINX deployment and ensures load balancing among the replicas. Save the following YAML content to a file named nginx-service.yaml: YAML apiVersion: v1kind: Servicemetadata:name: nginx-servicespec:selector:app: nginxports:- protocol: TCPport: 80targetPort: 80type: ClusterIP Apply the service using the kubectl command: Shell kubectl apply -f nginx-service.yaml With the service in place, the NGINX deployment is accessible within the Kubernetes cluster. Installing NGINX Ingress Controller Next, we need to install the NGINX Ingress Controller. NGINX is a popular choice for managing ingress traffic in Kubernetes due to its efficiency and flexibility. The Ingress Controller extends Nginx to act as an entry point for external traffic into the cluster. To install the NGINX Ingress Controller, we will use Helm, a package manager for Kubernetes applications. Helm simplifies the deployment process by providing a standardized way to package, deploy, and manage applications in Kubernetes. Before proceeding, make sure you have Helm installed on your system. You can follow the official Helm documentation to install it. Once Helm is installed, run the following command to add the NGINX Ingress Helm repository: Shell helm repo add ingress-nginx https://kubernetes.github.io/ingress-nginx To install the NGINX Ingress Controller, use the following Helm command: Shell helm install my-nginx ingress-nginx/ingress-nginx This command will deploy the NGINX Ingress Controller with default configurations. The controller will handle incoming requests and route them to the appropriate services within the cluster. Now that we have the NGINX Ingress Controller installed let's proceed to configure rate limiting. Creating a Kubernetes Ingress Resource To apply rate limiting using the NGINX Ingress Controller, we will create a Kubernetes Ingress Resource. The Ingress Resource defines how incoming traffic should be routed and what rules should be applied. Create a file named rate-limit-ingress.yaml and add the following YAML content: YAML apiVersion: networking.k8s.io/v1kind: Ingressmetadata:name: rate-limit-ingressannotations:nginx.ingress.kubernetes.io/limit-rps: "10"nginx.ingress.kubernetes.io/limit-rpm: "100"nginx.ingress.kubernetes.io/limit-rph: "1000"nginx.ingress.kubernetes.io/limit-connections: "100"spec:rules:- http:paths:- path: /pathType: Prefixbackend:service:name: nginx-serviceport:number: 80 In this example, we set the following rate limits: 10 requests per second (limit-rps) 100 requests per minute (limit-rpm) 1000 requests per hour (limit-rph) 100 connections (limit-connections) These limits can be adjusted according to your specific requirements. Apply the Ingress Resource using the kubectl command: Shell kubectl apply -f rate-limit-ingress.yaml The NGINX Ingress Controller will now enforce the specified rate limits for the NGINX service. Introduction to Locust UI Before we test the rate-limiting configuration, let's briefly introduce Locust, a popular open-source load-testing tool. Locust is designed to simulate a large number of concurrent users accessing a system and measure its performance under different loads. Locust offers a user-friendly web UI that allows you to define test scenarios using Python code and monitor the test results in real time. It supports distributed testing, making it ideal for running load tests from Kubernetes clusters. To install Locust locally for curiosity purposes, you can use the following pip command: Shell pip install locust Once installed, you can access the Locust UI by running the following command: Shell locust By default, the Locust UI is accessible here. However, please note that for the purposes of this article, we will deploy Locust in Kubernetes to test the rate-limiting configuration. We will cover this in the next section. Running Locust from Kubernetes To test the rate-limiting configuration, we will deploy Locust in the Kubernetes cluster and configure it to target the NGINX service exposed by the NGINX Ingress Controller. First, we need to deploy Locust in Kubernetes. Save the following YAML content to a file named locust-deployment.yaml: YAML apiVersion: apps/v1kind: Deploymentmetadata:name: locust-deploymentspec:replicas: 1selector:matchLabels:app: locusttemplate:metadata:labels:app: locustspec:containers:- name: locustimage: locustio/locust:latestcommand:- locustargs:- -f- /locust-tasks/tasks.py- --host- http://nginx-service.default.svc.cluster.localports:- containerPort: 8089 This deployment will create a single replica of the Locust container, which runs the Locust load testing tool. The container is configured to target the Nginx service by specifying its hostname: http://nginx-service.default.svc.cluster.local. Apply the deployment using the kubectl command: Shell kubectl apply -f locust-deployment.yaml Next, we need to access the Locust UI. Since the Locust deployment is running inside the cluster, we can use port forwarding to access the UI on our local machine. Run the following command to set up port forwarding: Shell kubectl port-forward deployment/locust-deployment 8089:8089 The Locust UI will now be accessible here. Open a web browser and navigate here to access the Locust UI. Now, let's set up a simple test scenario in Locust to verify the rate limiting. In the Locust UI, enter the desired number of users to simulate and the spawn rate. Set the target host to the hostname or public IP associated with the NGINX Ingress Controller. Add a task that sends a GET request to /index.html. Start the test and monitor the results. Locust will simulate the specified number of users, sending requests to the NGINX service. The rate-limiting configuration applied by the NGINX Ingress Controller will control the number of requests allowed per unit of time. Conclusion Implementing request rate limiting is essential for preserving the stability and security of your web applications. In this article, we explored how to set up request rate limiting using NGINX Ingress, a popular Kubernetes Ingress Controller. We also demonstrated how to test the rate-limiting configuration using Locust, a powerful load-testing tool. By following the steps outlined in this article, entry-level DevOps engineers can gain hands-on experience in setting up request rate limiting and verifying its effectiveness. Remember to adjust the rate limits and test scenarios according to your specific requirements and application characteristics. Rate limiting is a powerful tool, but it's important to use it judiciously. While it helps prevent abuse and protect your resources, overly strict rate limits can hinder legitimate traffic and user experience. Consider the nature of your application and the expected traffic patterns, and consult with stakeholders to determine appropriate rate limits. With the knowledge gained from this article, you are well-equipped to implement request rate limiting in your Kubernetes environment and ensure the stability
+
+        By Rob Newsome
+
+
+
+
+
+
+
+
+
+
+
+
+Marco Codes Live: Gavin King and Hibernate 6.3 [Video]
+In the video below, we'll cover the newly released Hibernate 6.3. With its annotation processing capabilities, it offers alternative approaches to frameworks like Spring Data JPA, and we'll explore those with a bit of live coding. What’s in the Video? We'll start off with a tiny story about how this webinar came about. I read the new "Introduction to Hibernate 6" written by Gavin King, which includes many opinions on how to do data persistence with Java in general. I thought it might make sense to not only have a theoretical discussion about this, but take an existing Spring Boot/Spring Data JPA project, and replace its bits and pieces one by one with the new approach offered by Hibernate 6.3. Hence, we'll set the baseline for this video by quickly going over my Google Photos Clone project, which lets you create thumbnails for directories on your hard drive, for example, and display them on a (not yet nice-looking) HTML page. There are just a couple of data queries the application currently executes, mainly to select all photos, check if they already exist in a database, and save them to a database. So we'll go about replacing those one by one. Let's start with the select query. We'll use the newly introduced @HQL annotation to replace the Spring Data JPA select query with it. Along the way, we'll learn that we don't need to encode the query into the method name itself and that we also have the flexibility to use helper objects like Order or Page to customize our queries. Once we restarted our application to find out it is still working, let's take care of the "exists" query. It needs a bit of custom-written HQL, but along the way, we'll learn about compile-time validation of our queries - the Hibernate annotation processor does that out of the box. Once the exists query is working, we'll take care of the last query, saving new images to the database. That gives us room to discuss architectural questions, like "Do we need another abstraction on top of our annotated queries?" and "How do we manage and structure queries in bigger projects?" In the last quarter of the live-stream we'll discuss other popular questions that arise with Hibernate on a day-to-day basis: Should you use sessions vs. stateless sessions? Should you use fetch profiles extensively? Is it ok to use plain SQL with Hibernate? Is it ok to use Hibernate-specific annotations as opposed to JPA ones? And many more All in all, the livestream should be of huge value for anyone using Hibernate in their projects (which the majority of Java projects likely do). Enjoy! Video
+
+        By Marco Behler
+
+ CORE
+            
+
+
+
+
+
+
+
+
+
+
+
+
+Crafting Mazes
+In our previous post, we delved into problems of pathfinding in graphs, which are inherently connected to solving mazes. When I set out to create a maze map for the Wall-E project, I initially expected to find a quick and easy way to accomplish this task. However, I quickly found myself immersed in the vast and fascinating world of mazes and labyrinths. I was unaware of the breadth and depth of this topic before. I discovered that mazes can be classified in seven different ways, each with numerous variations and countless algorithms for generating them. Surprisingly, I couldn't find any algorithmic books that comprehensively covered this topic, and even the Wikipedia page didn't provide a systematic overview. Fortunately, I stumbled upon a fantastic resource that covers various maze types and algorithms, which I highly recommend exploring. I embarked on a journey to learn about the different classifications of mazes, including dimensional and hyperdimensional variations, perfect mazes versus unicursal labyrinths, planar and sparse mazes, and more. How To Create a Maze My primary goal was to generate a 2D map representing a maze. While it would have been enticing to implement various maze-generation algorithms to compare them, I also wanted a more efficient approach. The quickest solution I found involved randomly selecting connected cells. That's precisely what I did with mazerandom. This one-file application creates a grid table of 20 x 20 cells and then randomly connects them using a Depth-First Search (DFS) traversal. In other words, we're simply carving passages in the grid. If you were to do this manually on paper, it would look something like this: To achieve this algorithmically, we apply Depth-First Search to the grid of cells. Let's take a look at how it's done in the Main.cpp. As usual, we represent the grid of cells as an array of arrays, and we use a stack for DFS: C++ vector<vector<int>> maze_cells; // A grid 20x20 stack<Coord> my_stack; // Stack to traverse the grid by DFS my_stack.push(Coord(0, 0)); // Starting from very first cell We visit every cell in the grid and push its neighbors onto the stack for deep traversal: C++ ... while (visitedCells < HORIZONTAL_CELLS * VERTICAL_CELLS) { vector<int> neighbours; // Step 1: Create an array of neighbour cells that were not yet visited (from North, East, South and West). // North is not visited yet? if ((maze_cells[offset_x(0)][offset_y(-1)] & CELL_VISITED) == 0) { neighbours.push_back(0); } // East is not visited yet? if ((maze_cells[offset_x(1)][offset_y(0)] & CELL_VISITED) == 0) { neighbours.push_back(1); } ... // Do the same for West and South... The most complex logic involves marking the node as reachable (i.e., no wall in between) with CELL_PATH_S, CELL_PATH_N, CELL_PATH_W, or CELL_PATH_E: C++ ... // If we have at least one unvisited neighbour if (!neighbours.empty()) { // Choose random neighbor to make it available int next_cell_dir = neighbours[rand() % neighbours.size()]; // Create a path between the neighbour and the current cell switch (next_cell_dir) { case 0: // North // Mark it as visited. Mark connection between North and South in BOTH directions. maze_cells[offset_x(0)][offset_y(-1)] |= CELL_VISITED | CELL_PATH_S; maze_cells[offset_x(0)][offset_y(0)] |= CELL_PATH_N; // my_stack.push(Coord(offset_x(0), offset_y(-1))); break; case 1: // East // Mark it as visited. Mark connection between East and West in BOTH directions. maze_cells[offset_x(1)][offset_y(0)] |= CELL_VISITED | CELL_PATH_W; maze_cells[offset_x(0)][offset_y(0)] |= CELL_PATH_E; my_stack.push(Coord(offset_x(1), offset_y(0))); break; ... // Do the same for West and South... } visitedCells++; } else { my_stack.pop(); } ... Finally, it calls the drawMaze method to draw the maze on the screen using the SFML library. It draws a wall between two cells if the current cell isn't marked with CELL_PATH_S, CELL_PATH_N, CELL_PATH_W, or CELL_PATH_E. However, this maze doesn't guarantee a solution. In many cases, it will generate a map with no clear path between two points. While this randomness might be interesting, I wanted something more structured. The only way to ensure a solution for the maze is to use a predetermined structure that connects every part of the maze in some way. Creating a Maze Using Graph Theory Well-known maze generation algorithms rely on graphs. Each cell is a node in the graph, and every node must have at least one connection to other nodes. As mentioned earlier, mazes come in many forms. Some, called "unicursal" mazes, act as labyrinths with only one entrance, which also serves as the exit. Others may have multiple solutions. However, the process of generation often starts with creating a "perfect" maze. A "perfect" maze, also known as a simply-connected maze, lacks loops, closed circuits, and inaccessible areas. From any point within it, there is precisely one path to any other point. The maze has a single, solvable solution. If we use a graph as the internal representation of our maze, constructing a spanning tree ensures that there is a path from the start to the end. In computer science terms, such a maze can be described as a spanning tree over the set of cells or vertices. Multiple spanning trees may exist, but the goal is to ensure at least one solution from the start to the end, as shown in the example below: The image above depicts only one solution, but there are actually multiple paths. No cell is isolated and impossible to reach. So, how do we achieve this? I discovered a well-designed mazegenerator codebase by @razimantv that accomplishes this, generating mazes in SVG file format. Therefore, I forked the repository and based my solution on it. Kudos to @razimantv for the elegant OOP design, which allowed me to customize the results to create visually appealing images using the SFML library or generate a text file with the necessary map description for my Wall-E project. I refactored the code to remove unnecessary components and focus exclusively on rectangular mazes. However, I retained support for various algorithms to build a spanning tree. I also added comments throughout the codebase for easier comprehension, so I don't need to explain it in every detail here. The main pipeline can be found in \mazegenerator\maze\mazebaze.cpp: C++ /** * \param algorithm Algorithm that is used to generate maze spanning tree. */ void MazeBase::GenerateMaze(SpanningtreeAlgorithmBase* algorithm) { // Generates entire maze spanning tree auto spanningTreeEdges = algorithm->SpanningTree(_verticesNumber, _edgesList); // Find a solution of a maze based on Graph DFS. _Solve(spanningTreeEdges); // Build a maze by removing unnecessary edges. _RemoveBorders(spanningTreeEdges); } I introduced visualization using the SFML graphics library, thanks to a straightforward _Draw_ function.While DFS is the default algorithm for creating a spanning tree, there are multiple algorithms available as options.The result is a handy utility that generates rectangular "perfect" mazes and displays them on the screen: As you can see, it contains exactly one input and one output at the left top and right bottom corners. The code still generates SVG file, which is a nice addition (though, it is the core function of the original codebase). Now, I can proceed with my experiments in the Wall-E project, and I leave you here, hoping that you're inspired to explore this fascinating world of mazes and embark on your own journey.Stay tuned!
+
+        By Anton Yarkov
+
+ CORE
+            
+
+
+
+
+
+
+
+
+
+
+
+
+Unleashing the Power of Microservices With Spring Cloud
+The rise of microservices architecture has changed the way developers build and deploy applications. Spring Cloud, a part of the Spring ecosystem, aims to simplify the complexities of developing and managing microservices. In this comprehensive guide, we will explore Spring Cloud and its features and demonstrate its capabilities by building a simple microservices application. What Is Spring Cloud? Spring Cloud is a set of tools and libraries that provide solutions to common patterns and challenges in distributed systems, such as configuration management, service discovery, circuit breakers, and distributed tracing. It builds upon Spring Boot and makes it easy to create scalable, fault-tolerant microservices. Key Features of Spring Cloud Configuration management: Spring Cloud Config provides centralized configuration management for distributed applications. Service discovery: Spring Cloud Netflix Eureka enables service registration and discovery for better load balancing and fault tolerance. Circuit breaker: Spring Cloud Netflix Hystrix helps prevent cascading failures by isolating points of access between services. Distributed tracing: Spring Cloud Sleuth and Zipkin enable tracing requests across multiple services for better observability and debugging. Building a Simple Microservices Application With Spring Cloud In this example, we will create a simple microservices application consisting of two services: a user-service and an order-service. We will also use Spring Cloud Config and Eureka for centralized configuration and service discovery. Prerequisites Ensure that you have the following installed on your machine: Java 8 or later Maven or Gradle An IDE of your choice Dependencies XML <!-- maven --> <dependency> <groupId>org.springframework.cloud</groupId> <artifactId>spring-cloud-config-server</artifactId> </dependency> <dependency> <groupId>org.springframework.cloud</groupId> <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId> </dependency> <dependency> <groupId>org.springframework.cloud</groupId> <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId> </dependency> <dependency> <groupId>org.springframework.cloud</groupId> <artifactId>spring-cloud-starter-config</artifactId> </dependency> <dependency> <groupId>org.springframework.cloud</groupId> <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId> </dependency> <dependency> <groupId>org.springframework.boot</groupId> <artifactId>spring-boot-starter-web</artifactId> </dependency> OR Groovy //Gradle implementation 'org.springframework.cloud:spring-cloud-config-server' implementation 'org.springframework.cloud:spring-cloud-starter-netflix-eureka-client' implementation 'org.springframework.cloud:spring-cloud-starter-netflix-eureka-server' implementation 'org.springframework.cloud:spring-cloud-starter-config' implementation 'org.springframework.cloud:spring-cloud-starter-netflix-eureka-client' implementation 'org.springframework.boot:spring-boot-starter-web' Step 1: Setting up Spring Cloud Config Server Create a new Spring Boot project using Spring Initializr (https://start.spring.io/) and add the Config Server and Eureka Discovery dependencies. Name the project config-server. Add the following properties to your application.yml file: YAML server: port: 8888 spring: application: name: config-server cloud: config: server: git: uri: https://github.com/your-username/config-repo.git # Replace with your Git repository URL eureka: client: serviceUrl: defaultZone: http://localhost:8761/eureka/ Enable the Config Server and Eureka Client by adding the following annotations to your main class: Java import org.springframework.cloud.config.server.EnableConfigServer; import org.springframework.cloud.netflix.eureka.EnableEurekaClient; @EnableConfigServer @EnableEurekaClient @SpringBootApplication public class ConfigServerApplication { public static void main(String[] args) { SpringApplication.run(ConfigServerApplication.class, args); } } Step 2: Setting up Spring Cloud Eureka Server Create a new Spring Boot project using Spring Initializr and add the Eureka Server dependency. Name the project eureka-server. Add the following properties to your application.yml file: YAML server: port: 8761 spring: application: name: eureka-server eureka: client: registerWithEureka: false fetchRegistry: false Enable the Eureka Server by adding the following annotation to your main class: Java import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer; @EnableEurekaServer @SpringBootApplication public class EurekaServerApplication { public static void main(String[] args) { SpringApplication.run(EurekaServerApplication.class, args); } } Step 3: Creating the User Service Create a new Spring Boot project using Spring Initializr and add the Config Client, Eureka Discovery, and Web dependencies. Name the project user-service. Add the following properties to your bootstrap.yml file: YAML spring: application: name: user-service cloud: config: uri: http://localhost:8888 eureka: client: serviceUrl: defaultZone: http://localhost:8761/eureka/ Create a simple REST controller for the User Service: Java import org.springframework.web.bind.annotation.GetMapping; import org.springframework.web.bind.annotation.PathVariable; import org.springframework.web.bind.annotation.RestController; @RestController public class UserController { @GetMapping("/users/{id}") public String getUser(@PathVariable("id") String id) { return "User with ID: " + id; } } Step 4: Creating the Order Service Create a new Spring Boot project using Spring Initializr and add the Config Client, Eureka Discovery, and Web dependencies. Name the project order-service. Add the following properties to your bootstrap.yml file: YAML spring: application: name: order-service cloud: config: uri: http://localhost:8888 eureka: client: serviceUrl: defaultZone: http://localhost:8761/eureka/ Create a simple REST controller for the Order Service: Java import org.springframework.web.bind.annotation.GetMapping; import org.springframework.web.bind.annotation.PathVariable; import org.springframework.web.bind.annotation.RestController; @RestController public class OrderController { @GetMapping("/orders/{id}") public String getOrder(@PathVariable("id") String id) { return "Order with ID: " + id; } } Step 5: Running the Application Start the config-server, eureka-server, user-service, and order-service applications in the following order. Once all services are running, you can access the Eureka dashboard at http://localhost:8761 and see the registered services. You can now access the User Service at http://localhost:<user-service-port>/users/1 and the Order Service at http://localhost:<order-service-port>/orders/1. Conclusion In this comprehensive guide, we explored Spring Cloud and its features and demonstrated its capabilities by building a simple microservices application. By leveraging the power of Spring Cloud, you can simplify the development and management of your microservices, making them more resilient, scalable, and easier to maintain. Embrace the world of microservices with Spring Cloud and elevate your applications to new heights.
+
+        By Arun Pandey
+
+
+
+
+
+
+
+
+
+
+
+
+Unveiling Vulnerabilities via Generative AI
+Code scanning for vulnerability detection for exposure of security-sensitive parameters is a crucial practice in MuleSoft API development. Code scanning involves the systematic analysis of MuleSoft source code to identify vulnerabilities. These vulnerabilities could range from hardcoded secure parameters like password or accessKey to the exposure of password or accessKey in plain text format in property files. These vulnerabilities might be exploited by malicious actors to compromise the confidentiality, integrity, or availability of the applications. Lack of Vulnerability Auto-Detection MuleSoft Anypoint Studio or Anypoint platform does not provide a feature to keep governance on above mentioned vulnerabilities. It can be managed by design time governance, where a manual review of the code will be needed. However, there are many tools available that can be used to scan the deployed code or code repository to find out such vulnerabilities. Even you can write some custom code/script in any language to perform the same task. Writing custom code adds another complexity and manageability layer. Using Generative AI To Review the Code for Detecting Vulnerabilities In this article, I am going to present how Generative AI can be leveraged to detect such vulnerabilities. I have used the Open AI foundation model “gpt-3.5-turbo” to demonstrate the code scan feature to find the aforementioned vulnerabilities. However, we can use any foundation model to implement this use case. This can be implemented using Python code or any other code in another language. This Python code can be used in the following ways: Python code can be executed manually to scan the code repository. It can be integrated into the CICD build pipeline, which can scan and report the vulnerabilities and result in build failure if vulnerabilities are present. It can be integrated into any other program, such as the Lambda function, which can run periodically and execute the Python code to scan the code repository and report vulnerabilities. High-Level Architecture Architecture There are many ways to execute the Python code. A more appropriate and practical way is to integrate the Python code into the CICD build pipeline. CICD build pipeline executes the Python code. Python code reads the MuleSoft code XML files and property files. Python code sends the MuleSoft code content and prompts the OpenAI gpt-3.5-turbo model. OpenAI mode returns the hardcoded and unencrypted value. Python code generates the report of vulnerabilities found. Implementation Details MuleSoft API project structure contains two major sections where security-sensitive parameters can be exposed as plain text. src/main/mule folder contains all the XML files, which contain process flow, connection details, and exception handling. MuleSoft API project may have custom Java code also. However, in this article, I have not considered the custom Java code used in the MuleSoft API. src/main/resources folder contains environment property files. These files can be .properties or .yaml files for development, quality, and production. These files contain property key values, for example, user, password, host, port, accessKey, and secretAccesskey in an encrypted format. Based on the MuleSoft project structure, implementation can be achieved in two steps: MuleSoft XML File Scan Actual code is defined as process flow in MuleSoft Anypoint Studio. We can write Python code to use the Open AI foundation model and write a prompt that can scan the MuleSoft XML files containing the code implementation to find hardcoded parameter values. For example: Global.xml/Config.xml file: This file contains all the connector configurations. This is standard recommended by MuleSoft. However, it may vary depending on the standards and guidelines defined in your organization. A generative AI foundation model can use this content to find out hardcoded values. Other XML files: These files may contain some custom code or process flow calling other for API calls, DB calls, or any other system call. This may have connection credentials hard-coded by mistake. A generative AI foundation model can use this content to find out hardcoded values. I have provided the screenshot of a sample MuleSoft API code. This code has three XML files; one is api.xml, which contains the Rest API flow. Process.xml has a JMS-based asynchronous flow. Global.xml has all the connection configurations. api.xml process.xml global.xml For demonstration purposes, I have used a global.xml file. The code snippet has many hardcoded values for demonstration. Hardcoded values are highlighted in red boxes: Python Code The Python code below uses the Open AI foundation model to scan the above XML files to find out the hard-coded values. Python import openai,os,glob from dotenv import load_dotenv load_dotenv() APIKEY=os.getenv('API_KEY') openai.api_key= APIKEY file_path = "C:/Work/MuleWorkspace/test-api/src/main/mule/global.xml" try: with open(file_path, 'r') as file: file_content = file.read() print(file_content) except FileNotFoundError: except Exception as e: print("An error occurred:", e) message = [ {"role": "system", "content": "You will be provided with xml as input, and your task is to list the non-hard-coded value and hard-coded value separately. Example: For instance, if you were to find the hardcoded values, the hard-coded value look like this: name=""value"". if you were to find the non-hardcoded values, the non-hardcoded value look like this: host=""${host}"" "}, {"role": "user", "content": f"input: {file_content}"} ] response = openai.ChatCompletion.create( model="gpt-3.5-turbo", messages=message, temperature=0, max_tokens=256 ) result=response["choices"][0]["message"]["content"] print(result) Once this code is executed, we get the following outcome: The result from the Generative AI Model Similarly, we can provide api.xml and process.xml to scan the hard-coded values. You can even modify the Python code to read all the XML files iteratively and get the result in sequence for all the files. Scanning the Property Files We can use the Python code to send another prompt to the AI model, which can find the plain text passwords kept in property files. In the following screenshot dev-secure.yaml file has client_secret as the encrypted value, and db.password and jms.password is kept as plain text. config file Python Code The Python code below uses the Open AI foundation model to scan config files to find out the hard-coded values. Python import openai,os,glob from dotenv import load_dotenv load_dotenv() APIKEY=os.getenv('API_KEY') openai.api_key= APIKEY file_path = "C:/Work/MuleWorkspace/test-api/src/main/resources/config/secure/dev-secure.yaml" try: with open(file_path, 'r') as file: file_content = file.read() except FileNotFoundError: print("File not found.") except Exception as e: print("An error occurred:", e) message = [ {"role": "system", "content": "You will be provided with xml as input, and your task is to list the encrypted value and unencrypted value separately. Example: For instance, if you were to find the encrypted values, the encrypted value look like this: ""![asdasdfadsf]"". if you were to find the unencrypted values, the unencrypted value look like this: ""sdhfsd"" "}, {"role": "user", "content": f"input: {file_content}"} ] response = openai.ChatCompletion.create( model="gpt-3.5-turbo", messages=message, temperature=0, max_tokens=256 ) result=response["choices"][0]["message"]["content"] print(result) Once this code is executed, we get the following outcome: result from Generative AI Impact of Generative AI on the Development Life Cycle We see a significant impact on the development lifecycle. We can think of leveraging Generative AI for different use cases related to the development life cycle. Efficient and Comprehensive Analysis Generative AI models like GPT-3.5 have the ability to comprehend and generate human-like text. When applied to code review, they can analyze code snippets, provide suggestions for improvements, and even identify patterns that might lead to bugs or vulnerabilities. This technology enables a comprehensive examination of code in a relatively short span of time. Automated Issue Identification Generative AI can assist in detecting potential issues such as syntax errors, logical flaws, and security vulnerabilities. By automating these aspects of code review, developers can allocate more time to higher-level design decisions and creative problem-solving. Adherence To Best Practices Through analysis of coding patterns and context, Generative AI can offer insights on adhering to coding standards and best practices. Learning and Improvement Generative AI models can "learn" from vast amounts of code examples and industry practices. This knowledge allows them to provide developers with contextually relevant recommendations. As a result, both the developers and the AI system benefit from a continuous learning cycle, refining their understanding of coding conventions and emerging trends. Conclusion In conclusion, conducting a code review to find security-sensitive parameters exposed as plain text using OpenAI's technology has proven to be a valuable and efficient process. Leveraging OpenAI for code review not only accelerated the review process but also contributed to producing more robust and maintainable code. However, it's important to note that while AI can greatly assist in the review process, human oversight and expertise remain crucial for making informed decisions and fully understanding the context of the code.
+
+        By Ajay Singh
+
+
+
+
+
+
+
+
+
+
+
+
+Building Real-Time Applications to Process Wikimedia Streams Using Kafka and Hazelcast
+In this tutorial, developers, solution architects, and data engineers can learn how to build high-performance, scalable, and fault-tolerant applications that react to real-time data using Kafka and Hazelcast. We will be using Wikimedia as a real-time data source. Wikimedia provides various streams and APIs (Application Programming Interfaces) to access real-time data about edits and changes made to their projects. For example, this source provides a continuous stream of updates on recent changes, such as new edits or additions to Wikipedia articles. Developers and solution architects often use such streams to monitor and analyze the activity on Wikimedia projects in real-time or to build applications that rely on this data, like this tutorial. Kafka is great for event streaming architectures, continuous data integration (ETL), and messaging systems of record (database). Hazelcast is a unified real-time stream data platform that enables instant action on data in motion by combining stream processing and a fast data store for low-latency querying, aggregation, and stateful computation against event streams and traditional data sources. It allows you to build resource-efficient, real-time applications quickly. You can deploy it at any scale from small edge devices to a large cluster of cloud instances. In this tutorial, we will guide you through setting up and integrating Kafka and Hazelcast to enable real-time data ingestion and processing for reliable streaming processing. By the end, you will have a deep understanding of how to leverage the combined capabilities of Hazelcast and Kafka to unlock the potential of streaming processing and instant action for your applications. So, let's get started! Wikimedia Event Streams in Motion First, let’s understand what we are building: Most of us use or read Wikipedia, so let’s use Wikipedia's recent changes as an example. Wikipedia receives changes from multiple users in real time, and these changes contain details about the change such as title, request_id, URI, domain, stream, topic, type, user, topic, title_url, bot, server_name, and parsedcomment. We will read recent changes from Wikimedia Event Streams. Event Streams is a web service that exposes streams of structured event data in real time. It does it over HTTP with chunked transfer encoding in accordance with the Server-Sent Events protocol (SSE). Event Streams can be accessed directly through HTTP, but they are more often used through a client library. An example of this is a “recentchange”. But what if you want to process or enrich changes in real time? For example, what if you want to determine if a recent change is generated by a bot or human? How can you do this in real time? There are actually multiple options, but here we’ll show you how to use Kafka to transport data and how to use Hazelcast for real-time stream processing for simplicity and performance. Here’s a quick diagram of the data pipeline architecture: Prerequisites If you are new to Kafka or you’re just getting started, I recommend you start with Kafka Documentation. If you are new to Hazelcast or you’re just getting started, I recommend you start with Hazelcast Documentation. For Kafka, you need to download Kafka, start the environment, create a topic to store events, write some events to your topic, and finally read these events. Here’s a Kafka Quick Start. For Hazelcast, you can use either the Platform or the Cloud. I will use a local cluster. Step #1: Start Kafka Run the following commands to start all services in the correct order: Markdown # Start the ZooKeeper service $ bin/zookeeper-server-start.sh config/zookeeper.properties Open another terminal session and run: Markdown # Start the Kafka broker service $ bin/kafka-server-start.sh config/server.properties Once all services have successfully launched, you will have a basic Kafka environment running and ready to use. Step #2: Create a Java Application Project The pom.xml should include the following dependencies in order to run Hazelcast and connect to Kafka: XML <dependencies> <dependency> <groupId>com.hazelcast</groupId> <artifactId>hazelcast</artifactId> <version>5.3.1</version> </dependency> <dependency> <groupId>com.hazelcast.jet</groupId> <artifactId>hazelcast-jet-kafka</artifactId> <version>5.3.1</version> </dependency> </dependencies> Step #3: Create a Wikimedia Publisher Class Basically, the class reads from a URL connection, creates a Kafka Producer, and sends messages to a Kafka topic: Java public static void main(String[] args) throws Exception { String topicName = "events"; URLConnection conn = new URL ("https://stream.wikimedia.org/v2/stream/recentchange").openConnection(); BufferedReader reader = new BufferedReader(new InputStreamReader(conn.getInputStream(), StandardCharsets.UTF_8)); try (KafkaProducer<Long, String> producer = new KafkaProducer<>(kafkaProps())) { for (long eventCount = 0; ; eventCount++) { String event = reader.readLine(); producer.send(new ProducerRecord<>(topicName, eventCount, event)); System.out.format("Published '%s' to Kafka topic '%s'%n", event, topicName); Thread.sleep(20 * (eventCount % 20)); } } } private static Properties kafkaProps() { Properties props = new Properties(); props.setProperty("bootstrap.servers", "127.0.0.1:9092"); props.setProperty("key.serializer", LongSerializer.class.getCanonicalName()); props.setProperty("value.serializer", StringSerializer.class.getCanonicalName()); return props; } Step #4: Create a Main Stream Processing Class This class creates a pipeline that reads from a Kafka source using the same Kafka topic, and then it filters out messages that were created by bots (bot:true), keeping only messages created by humans. It sends the output to a logger: Java public static void main(String[] args) { Pipeline p = Pipeline.create(); p.readFrom(KafkaSources.kafka(kafkaProps(), "events")) .withNativeTimestamps(0) .filter(event-> Objects.toString(event.getValue()).contains("bot\":false")) .writeTo(Sinks.logger()); JobConfig cfg = new JobConfig().setName("kafka-traffic-monitor"); HazelcastInstance hz = Hazelcast.bootstrappedInstance(); hz.getJet().newJob(p, cfg); } private static Properties kafkaProps() { Properties props = new Properties(); props.setProperty("bootstrap.servers", "127.0.0.1:9092"); props.setProperty("key.deserializer", LongDeserializer.class.getCanonicalName()); props.setProperty("value.deserializer", StringDeserializer.class.getCanonicalName()); props.setProperty("auto.offset.reset", "earliest"); return props; } Step #5: Enriching a Stream If you want to enrich real-time messages with batch or static data such as location details, labels, or some features, you can follow the next step: Create a Hazelcast Map and load static data into it. Use the Map to enrich the Message stream using mapUsingIMap. Conclusion In this post, we explained how to build a real-time application to process Wikimedia streams using Kafka and Hazelcast. Hazelcast allows you to quickly build resource-efficient, real-time applications. You can deploy it at any scale, from small-edge devices to a large cluster of cloud instances. A cluster of Hazelcast nodes shares the data storage and computational load, which can dynamically scale up and down. Referring to the Wikimedia example, it means that this solution is reliable, even when there are significantly higher volumes of users making changes to Wikimedia. We look forward to your feedback and comments about this blog post!
+
+        By Fawaz Ghali, PhD
+
+
+
+
+
+
+
+
+Culture and Methodologies
+
+
+
+
+
+
+Agile
+
+
+
+
+
+
+
+
+Career Development
+
+
+
+
+
+
+
+
+Methodologies
+
+
+
+
+
+
+
+
+Team Management
+
+
+
+
+
+
+
+Unpacking the 'As-a-Service' Model
+
+
+September 12, 2023
+                                    by Vijayasarathi Balasubramanian
+
+
+
+
+Unpacking the New National Cybersecurity Strategy: Key Takeaways for Developers and Security Experts
+
+
+September 12, 2023
+                                    by Tom Smith
+
+ CORE
+                                        
+
+
+
+
+Operational Testing Tutorial: Comprehensive Guide With Best Practices
+
+
+May 16, 2023
+                                    by Harshit Paul
+
+
+
+
+
+
+
+Data Engineering
+
+
+
+
+
+
+AI/ML
+
+
+
+
+
+
+
+
+Big Data
+
+
+
+
+
+
+
+
+Databases
+
+
+
+
+
+
+
+
+IoT
+
+
+
+
+
+
+
+Building a Cassandra To-Do List ChatGPT Plugin
+
+
+September 12, 2023
+                                    by Patrick McFadin
+
+
+
+
+Why GraphQL API Security Is Unique
+
+
+September 12, 2023
+                                    by Shahar Binyamin
+
+
+
+
+Explainable AI: Making the Black Box Transparent
+
+
+May 16, 2023
+                                    by Yifei Wang
+
+
+
+
+
+
+
+Software Design and Architecture
+
+
+
+
+
+
+Cloud Architecture
+
+
+
+
+
+
+
+
+Integration
+
+
+
+
+
+
+
+
+Microservices
+
+
+
+
+
+
+
+
+Performance
+
+
+
+
+
+
+
+Spring Authentication With MetaMask
+
+
+September 12, 2023
+                                    by Alexander Makeev
+
+
+
+
+Why GraphQL API Security Is Unique
+
+
+September 12, 2023
+                                    by Shahar Binyamin
+
+
+
+
+Low Code vs. Traditional Development: A Comprehensive Comparison
+
+
+May 16, 2023
+                                    by Tien Nguyen
+
+
+
+
+
+
+
+Coding
+
+
+
+
+
+
+Frameworks
+
+
+
+
+
+
+
+
+Java
+
+
+
+
+
+
+
+
+JavaScript
+
+
+
+
+
+
+
+
+Languages
+
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+
+
+Spring Authentication With MetaMask
+
+
+September 12, 2023
+                                    by Alexander Makeev
+
+
+
+
+Why GraphQL API Security Is Unique
+
+
+September 12, 2023
+                                    by Shahar Binyamin
+
+
+
+
+Scaling Event-Driven Applications Made Easy With Sveltos Cross-Cluster Configuration
+
+
+May 15, 2023
+                                    by Gianluca Mardente
+
+
+
+
+
+
+
+Testing, Deployment, and Maintenance
+
+
+
+
+
+
+Deployment
+
+
+
+
+
+
+
+
+DevOps and CI/CD
+
+
+
+
+
+
+
+
+Maintenance
+
+
+
+
+
+
+
+
+Monitoring and Observability
+
+
+
+
+
+
+
+The Essentials of Amazon S3 Glacier for Affordable and Compliant Long-Term Data Archiving
+
+
+September 12, 2023
+                                    by Raghava Dittakavi
+
+
+
+
+Eliminating Bugs Using the Tong Motion Approach
+
+
+September 12, 2023
+                                    by Shai Almog
+
+ CORE
+                                        
+
+
+
+
+Low Code vs. Traditional Development: A Comprehensive Comparison
+
+
+May 16, 2023
+                                    by Tien Nguyen
+
+
+
+
+
+
+
+Popular
+
+
+
+
+
+
+AI/ML
+
+
+
+
+
+
+
+
+Java
+
+
+
+
+
+
+
+
+JavaScript
+
+
+
+
+
+
+
+
+Open Source
+
+
+
+
+
+
+
+Spring Authentication With MetaMask
+
+
+September 12, 2023
+                                    by Alexander Makeev
+
+
+
+
+Building a Cassandra To-Do List ChatGPT Plugin
+
+
+September 12, 2023
+                                    by Patrick McFadin
+
+
+
+
+Five IntelliJ Idea Plugins That Will Change the Way You Code
+
+
+May 15, 2023
+                                    by Toxic Dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABOUT US
+
+About DZone
+Send feedback
+Careers
+Sitemap
+
+
+
+ADVERTISE
+
+Advertise with DZone
+
+
+
+
+
+CONTRIBUTE ON DZONE
+
+Article Submission Guidelines
+Become a Contributor
+Visit the Writers' Zone
+
+LEGAL
+
+Terms of Service
+Privacy Policy
+
+
+
+CONTACT US
+
+3343 Perimeter Hill Drive
+Suite 100
+Nashville, TN 37211
+support@dzone.com
+
+
+
+
+
+Let's be friends:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

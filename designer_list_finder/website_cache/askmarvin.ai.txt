@@ -1,0 +1,803 @@
+
+
+
+
+
+
+
+
+
+
+Marvin - Marvin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Marvin
+          
+
+
+
+            
+              Marvin
+            
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Initializing search
+          
+
+
+
+
+
+
+
+
+
+
+
+
+    GitHub
+  
+
+
+
+
+
+
+
+
+          
+  
+    
+  
+  Getting Started
+
+        
+
+
+
+          
+  
+    
+  
+  Examples
+
+        
+
+
+
+          
+  
+    
+  
+  Docs
+
+        
+
+
+
+          
+  
+    
+  
+  API Reference
+
+        
+
+
+
+          
+  
+    
+  
+  Community
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Marvin 1.3 makes agents easy to debug Read more →
+
+
+
+The AI Engineering Framework
+Marvin is a lightweight AI engineering framework for building natural language interfaces that are reliable, scalable, and easy to trust.
+
+
+
+
+                        Get started
+                    
+
+
+
+                        Star us on Github →
+
+
+
+
+                        pip install marvin 
+                        ✓
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Marvin
+  
+
+
+
+
+
+
+    GitHub
+  
+
+
+
+
+
+
+
+    Getting Started
+  
+
+
+
+
+
+            Getting Started
+          
+
+
+
+
+    Hello, Marvin!
+  
+
+
+
+
+
+    Installation
+  
+
+
+
+
+
+    Quickstart
+  
+
+
+
+
+
+
+
+
+
+    Examples
+  
+
+
+
+
+
+            Examples
+          
+
+
+
+
+    Basic Extraction API
+  
+
+
+
+
+
+    Basic Classification API
+  
+
+
+
+
+
+
+
+
+
+    Docs
+  
+
+
+
+
+
+            Docs
+          
+
+
+
+
+    Overview
+  
+
+
+
+
+
+
+    Configuration
+  
+
+
+
+
+
+            Configuration
+          
+
+
+
+
+    Settings
+  
+
+
+
+
+
+    Providers
+  
+
+
+
+
+
+
+
+
+
+    Components
+  
+
+
+
+
+
+            Components
+          
+
+
+
+
+    Overview
+  
+
+
+
+
+
+    AI Function
+  
+
+
+
+
+
+    AI Model
+  
+
+
+
+
+
+    AI Classifier
+  
+
+
+
+
+
+    AI Application
+  
+
+
+
+
+
+
+
+
+
+    OpenAI API Utilities
+  
+
+
+
+
+
+            OpenAI API Utilities
+          
+
+
+
+
+    Calling LLMs
+  
+
+
+
+
+
+    Building Prompts
+  
+
+
+
+
+
+
+
+
+
+    Deployment
+  
+
+
+
+
+
+            Deployment
+          
+
+
+
+
+
+
+    FastAPI
+  
+
+
+
+
+
+            FastAPI
+          
+
+
+
+
+
+
+
+
+
+
+
+    Examples
+  
+
+
+
+
+
+            Examples
+          
+
+
+
+
+    Slackbot
+  
+
+
+
+
+
+    GitHub Digest
+  
+
+
+
+
+
+
+
+
+
+
+
+
+    API Reference
+  
+
+
+
+
+
+            API Reference
+          
+
+
+
+
+
+    AI Components
+  
+
+
+
+
+
+            AI Components
+          
+
+
+
+
+    ai_application
+  
+
+
+
+
+
+    ai_classifier
+  
+
+
+
+
+
+    ai_function
+  
+
+
+
+
+
+    ai_model
+  
+
+
+
+
+
+
+
+
+
+    LLM Engines
+  
+
+
+
+
+
+            LLM Engines
+          
+
+
+
+
+    base
+  
+
+
+
+
+
+    openai
+  
+
+
+
+
+
+    anthropic
+  
+
+
+
+
+
+
+
+
+
+    Prompts
+  
+
+
+
+
+
+            Prompts
+          
+
+
+
+
+    base
+  
+
+
+
+
+
+    library
+  
+
+
+
+
+
+
+
+
+
+    Settings
+  
+
+
+
+
+
+            Settings
+          
+
+
+
+
+    settings
+  
+
+
+
+
+
+
+
+
+
+    Utilities
+  
+
+
+
+
+
+            Utilities
+          
+
+
+
+
+    async_utils
+  
+
+
+
+
+
+    collections
+  
+
+
+
+
+
+    embeddings
+  
+
+
+
+
+
+    history
+  
+
+
+
+
+
+    logging
+  
+
+
+
+
+
+    messages
+  
+
+
+
+
+
+    strings
+  
+
+
+
+
+
+    types
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Community
+  
+
+
+
+
+
+
+
+
+            Community
+          
+
+
+
+
+    Feedback 💙
+  
+
+
+
+
+
+    Contributing
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marvin
+
+
+
+
+
+
+
+
+
+
+
+

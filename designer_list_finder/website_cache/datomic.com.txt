@@ -1,0 +1,243 @@
+
+
+
+
+Datomic - Overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Datomic Pro
+      and 
+      Datomic Cloud are now FREE!
+
+
+
+
+
+
+
+
+
+Products
+
+
+Datomic ProDatomic Cloud
+
+
+
+Pricing
+
+
+Datomic Pro PricingDatomic Cloud Pricing
+
+
+
+
+Resources
+
+
+
+Product Support
+Videos
+Blog
+Knowledgebase
+
+Datomic Cloud Docs
+
+Datomic Pro Docs
+
+
+
+
+Company
+
+
+ContactCustomers
+
+
+
+
+Careers
+
+
+
+
+
+
+Get Datomic Pro
+
+
+
+
+
+
+
+
+Datomic Pro ›
+Overview
+
+
+
+
+
+
+
+
+Datomic Pro
+Benefits
+Enterprise Support
+Getting Started
+Customers
+
+Documentation
+Release Notes
+Knowledgebase
+Developer Forum
+Blog
+
+Running Datomic on AWS? Check out Datomic Cloud.
+
+
+
+
+
+
+
+
+
+
+Datomic Pro
+The fully transactional, cloud-ready, distributed database.
+Build flexible, distributed systems that can leverage the entire history of your critical data, not just the most current state. Build them on your existing infrastructure or jump straight to the cloud.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Never Forget
+Critical insights come from knowing the full story of your data, not just the most recent state. Datomic stores a record of immutable facts, which gives your applications strong consistency combined with horizontal read scalability, plus built-in caching. Since facts are never update-in-place and all data is retained by default, you get built-in auditing and the ability to query history. All of this with fully ACID-compliant transactions. 
+
+
+
+
+
+
+Build Applications Your Way
+With the Datomic Peer library, you can distribute immutable data to your application nodes to provide in-memory access to your data.  Or, take advantage of the new Client library to create lightweight nodes for your microservice architectures.  Datomic's Transactor now supports unlimited Peers and Clients by default, so your application footprint can flex with your demand. Mix operational and analytical queries against your live data at runtime without affecting performance.
+
+
+
+
+
+
+Choose Your Platform
+Datomic provides rich schema and query capabilities on top of modern scalable storage engines.  If you are ready for the cloud, Datomic was designed and built with AWS and DynamoDB in mind. If you need to take advantage of existing investments in infrastructure and storage, deploy on top of Cassandra,  Oracle and more.
+
+
+
+
+
+
+
+
+
+
+
+
+Datomic Pro
+Benefits
+Get Datomic
+Documentation
+Release Notes
+License Agreement
+
+
+Datomic Cloud
+Product Details
+Pricing
+Documentation
+Release Notes
+License Agreement
+
+
+Resources
+Blog
+Knowledgbase
+Developer Forum
+Product Support
+
+
+CompanyAbout UsContact
+
+
+
+
+
+
+
+
+
+
+
+
+Â©2016-2021 Cognitect, Inc.
+            DatomicÂ® is a registered trademark of Cognitect, Inc.
+            Trademark Guidelines | Privacy Policy
+
+
+
+
+
+
+
+
+

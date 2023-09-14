@@ -1,0 +1,742 @@
+
+
+
+
+
+
+Dion Almaer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Skip to primary navigation Skip to main content Skip to primary sidebarDion AlmaerSoftware, Development, Products@dalmaer
+LinkedIn
+Medium
+RSS
+Show SearchSearch this website Hide SearchPiece Together Your Platform with Lego Blocks, Sets, and Kits
+August 24, 2023 
+I love my layer cakes, and recently spoke about layered design systems that allow for developers to jump in at the layer that makes sense for them, and allows for maximum emergence of value.
+When building a layered platform, I often think of the world of Lego and how utterly fun and creative that universe is. I aspire to enabling developers in the same way.
+I mentally split things up into the concepts of: blocks, sets, and kits.
+
+Blocks
+Lego blocks are the base level primitives that exist for the platform. They offer clear capabilities, and have interfaces that are as universal as possible.
+On the interface side you have the way the the tubes on the bottom interlock with the studs on top of other bricks. This standard allows the composability of the majority of the blocks. It’s all about the interlock and the spacing.
+For capabilities, you get the specialization on top of these interfaces. Think of the engines that can be connected to the car systems to make them drivable. That engine can also be composed in a multitude of ways to deliver force for many ideas.
+In our world of software, we have the same thing, with interface glue such as props with React, JSON for formats, HTTP for networks, and so on. Then when you look at a platform such as Cloudflare, you see that these are composed with infrastructure blocks such as D1 for databases that speak the language of Workers, R2 for distributed object storage, etc.
+Blocks compose with other blocks. Almost anything can be created from this, the lowest of layers. And when you create a new primitive that fits the interfaces, creatively can explode with the possibility.
+
+Sets
+Starting from first principles, from the lowest level of blocks, can be overly complex. In practice, someone can build the next level of abstraction that solves a problem and can share it with others.
+These are patterns, or recipes, or… Sets. With Lego, you most often see people buying sets with instructions on how to build a collection. I remember getting instructions with many ideas that I could reuse blocks to create with.
+In software we often see this grouping of capabilities in various frameworks, that come with their own instructions on how to put things together. At other times you see templates, where you have a starting point of blocks to give you a strong leg up. Vercel does a great job of providing these, making it easy to start building on their platform.
+
+Kits
+There is a slightly different form of abstraction on top of blocks, and that is kits. These are meant to be for a particular purpose and are more restrictive that sets. The blocks and setup fit together much better (are less blocky!) and you wouldn’t take the parts of a kit and use them to make something different.
+In software, an extreme case would be a proprietary language with components that only let’s you build extensions that look and feel like the platform they run on. A kit would make sense if you wanted to be very restrictive on extensibility, and you value making it as easy as possible to do certain things, and hard to break out.
+You only really want to codify kits when you are very sure that they are very common and useful. If you have a scenario where many people will want to clone and tweak, you may be on to something with a kit.
+There are many valid cases for kits, but it is also true that too often companies make the choice to over-invent. It is so very tempting to create a domain specific language, or even a custom programming language. But first, consider codifying constraints using languages and platforms that many developers have spent the time to learn already, where there is community, and answers, and where AI tools have something to have been trained on 😉
+You can poke and make fun of English, in the same way that you can do so with JavaScript, but there is a reason it is still thriving whereas Esperanto isn’t.
+Can you see the blocks, sets, and kits in your platforms? Are they well layered?
+
+NOTE; My good friend and “one of the best platform engineers I know”, Dimitri Glazkov, has written about these layers from a slight different lens in his great piece: 4 layers.
+ai-hints.json: how the ecosystem will help the bots
+June 13, 2023 
+As I use LLMs to help me build software I keep running into situations where there is a missing piece and leverage point, that if injected will dramatically raise the quality of creation: subject expert turtles.
+
+Much of this formed when creating mock.shop and seeing what it takes to go from a demo to production, but let me explain via another recent experience: a web app framework migration.
+Framework migration: switching between Next.js and Remix
+
+LLMs are helpful for tasks such as porting. I have used this often, especially working between Python and JavaScript for some recent AI projects. I wanted to explore taking a web application using Next.js and have it ported to use Remix, or vice versa.
+Out of the box, with ChatGPT, it would get some of the high level changes correct, but it would be very surface level. For example, actions and loaders may be created, but imports would have the form of @/components/foo and next/image.
+Our LLM friend has a galaxy of information, but we don’t know what’s actually in there, and software keeps evolving so the information that may be there is probably outdated to some degree. This is where us humans come in. We can use that juicy context window to share:
+
+The latest information from documentation that maps to our versions. Querying embeddings from this content can be plucked into context.
+Rules and reasoning for translations. What are the steps that someone knowledgeable of both frameworks would write?
+Quality examples of before and after. If you go through these steps what are solid mappings where patterns can be learned?
+
+Depending on the quality of this work, you will see a massive upgrade in the results. They go from “some nice hints but wow so much is wrong” to “this is kinda usable out of the box!”
+At the end of this process, “What are the steps that someone knowledgeable would write?” stuck with me. Someone else was going to go through the same migration, and it doesn’t make sense for them to have to build out all of the mappings. This is a waste of effort!
+Time for the knowledgable turtles, already!
+I have some knowledge of Next.js and Remix, but I am hardly The Expert. What if true experts (core team, folks from the community, etc) were the ones to package the relevant information about their frameworks?
+
+Gonna live stream at 4pm PT (in 2 hours) and migrate an older Next.js application over to the App Router.Will be just coding and playing tunes (strictly bangers) if you wanna hang out.https://t.co/LGZDMJiYzw— Lee Robinson (@leeerob) June 7, 2023
+Lee does great streams like this!
+Lee does a great job showing a conversion from one version of next.js to another (to App Router land). This knowledge can be codified for anyone else doing this.
+Picture an app developer creating a new project and installing all of their dependencies, and this time each one of them comes with hints from the projects themselves. And it’s turtles all the way down as each dependency comes with it’s own dependencies.
+In this world you are building with a world of expertise funneling information into the amazing reasoning engine that is AI via LLMs.
+What knowledge can we funnel?
+
+A `.chat` file in every repo prompting AI assistant (e.g., Ghostwriter) to be most helpful in this project.— Amjad Masad (@amasad) June 5, 2023
+Others are talking about this
+Each project has an ai-hints.json file, which is the router to correct information. It is a simple configuration that links out, or contains some inline information, for the given project.
+It contains items such as:
+
+URL to the source of the library (e.g. GitHub URL)
+URL to the home page of the library
+Description for the library
+URL to issue tracker of the library. Given the variability of quality in here, pinches of salt are included, and can map to answers from trusted folk / voted up
+URL to forums (e.g. StackOverflow / tags)
+URL to documentation site(s)
+URL to high quality community content (e.g. great blogs, YouTube, etc)
+
+Popular libraries often bring in examples, and other projects that use them, and run their test suites as a great way to catch regressions that your consumers will run into. We can follow this pattern to get wisdom from customers not just official content
+
+
+Versioning scheme:
+
+One current issue is that LLMs aren’t aware of the differences between versions and thus you sometimes get feedback that is tied to an old version, which is frustrating!
+
+
+URL or direct inline prompts that can be used to generate great tests
+URL, or inline docs, to prompts and reasoning
+
+This can become a store of knowledge. E.g. it can be where conversion knowledge goes
+
+
+URL to project settings such as package.json in node / js ecosystem to start to find all of the turtles
+Polymath services: URL(s) to polymath services that have knowledge of the project
+Embedding stores: URL to a store, or a local placement of embeddings that can be used and aggregated
+
+This way we can share embeddings versus recreating them time and time again
+
+
+
+Speaking your full language
+There have been some moments where my AI pair has been a true partner. A pattern in most of the best moments has been how the back and forth can be so much more concrete. Often, if you are building something for your own application, you end up following a path of translation.
+You want to do concrete thing X using library Y. This would often resort with finding the documentation in various places and learning the abstract thing closest to X (which may not be easy to even find!) and then working out how to translate this information into what could work for the concrete task.
+Now, you can *explain* the concrete task, explain that you want to use it with your set of tools, and the initial answers can be speaking in that language. And you may not even know which library to use, and you can ask for thoughts and implementations with those thoughts too!
+Being able to aggregate the dependencies is huge.
+One of the reasons I enjoy working on Polymath is it’s federated nature. If I am working on a project that uses Remix with Preact I can write a query that asks for information from both the Remix polymath and the one for Preact.
+More knowledge? More context
+
+Meet LTM-1: LLM with *5,000,000 prompt tokens*That's ~500k lines of code or ~5k files, enough to fully cover most repositories.LTM-1 is a prototype of a neural network architecture we designed for giant context windows. pic.twitter.com/neNIfTVipt— Magic.dev (@magicailabs) June 6, 2023
+Billions of tokens!
+As we build out larger knowledge sets, we need new ways to feed our AI’s creativity. Fortunately, we are seeing various models get significantly larger capacity for prompt tokens, including updates today from OpenAI:
+
+“gpt-3.5-turbo-16k offers 4 times the context length of gpt-3.5-turbo at twice the price: $0.003 per 1K input tokens and $0.004 per 1K output tokens. 16k context means the model can now support ~20 pages of text in a single request.”
+OpenAI announcement on June 13th 2023
+We are also getting smarter with how we can chain reasoning together. Instead of firing off one prompt as a shot, you can do multiple, and ask various questions to drastically improve quality too.
+E.g.
+
+Ask questions differently in parallel
+
+Use different prompts
+With different settings (e.g. multiple temperature values)
+With different context
+And even different models entirely
+
+
+Using the output from above, ask for a critique
+Feed the critique AND the options from above, and ask for a unified solution.
+
+Ecosystem scratches it’s own back
+
+
+Trying out @sourcegraph's Batch Changes to sunset a GitLab CI configuration across bunch of repositories at once. This is trully magic! pic.twitter.com/aWtm72TlIA— Gvntr 零 (@47px) June 8, 2023
+Large refactoring that works
+By coming together and curating the information, we not only scratch the backs of all developers using our products, but in turn we are helping ecosystem health.
+If you have worked on a platform, you know that one of the most important things to do is setup incentives to keep the platform evolving and healthy.
+This is hard to do, and often goes wrong. You have probably worked with tools where updates break things more often than not. What does that teach you to do? Lock in to a particular version that is working, and only do upgrades when you have the time to deal with it.
+If instead, upgrades work well? Then you should be game to continuously keep up to date. Doing well would look like:
+
+Clear understanding of what’s in the upgrade
+Codemods that can run to help you update. We will soon be in a world where our nano bots will see an update, create a PR, run all of our tests, and you will have a strong starting point, or maybe even more. I’m ready for my nanobots to be cleaning things up for me, handling updates, performance improvements, checking for security, for accessibility, etc etc.
+
+We will just need great UX so we don’t feel swamped with this work. I don’t want a poor open source maintainer to be slammed with PRs in a way that it feels like spam. Categorization etc on GitHub will be a big winner here 🙂
+
+
+
+An entirely revolution is happening when the world of developers and shared knowledge combines with the new world of LLMs.
+We don’t want LLMs to use the overall corpus of code that is out there, because if the surface of the code is small, it may not have any great answers, and when the commons is huge, you can end up with a lowest common denominator such as:
+
+Copilot always knows exactly what I'm about to do. pic.twitter.com/iewWWbg0kq— antony  (@antony) June 9, 2023
+The commons sometimes catches div-itis and worse
+When it comes to code, hallucination is the enemy not just because it is very unhelpful, but also due to side effects such as security:
+
+* People ask LLMs to write code* LLMs recommend imports that don't actually exist* Attackers work out what these imports' names are, and create & upload them with malicious payloads* People using LLM-written code then auto-add malware themselves https://t.co/Va9w18RpWu— LLM Security (@llm_sec) June 10, 2023
+Humans write a lot of bad code too, so let’s be more vigilant for all?
+It’s not just about the quality of the code and the ease of use. It’s also about the speed at which we can learn, adapt, and grow as developers. With a wealth of knowledge at our fingertips, we can quickly understand new technologies, make informed decisions about the tools we use, and stay ahead of the curve in an ever-evolving industry. This revolution in software development is empowering us to build better, more efficient, and more innovative applications than ever before.
+I’m very much here for it, and Yet Another robots.txt^H^H^Hjson.
+/fin
+ps. In some time some of the expert turtles will become robot turtles 😉
+The Pursuit of Taller Hills: Lessons from Football and Product Management
+May 23, 2023 
+Management is a story of hill climbing. I started to reflect on this more while thinking about football management, a task that fits into more finite game theory.
+With a Ted Lasso season running, and Manchester City winning a third English Premier League title on the trot, I hope you won’t mind a discussion of the best league in the world. It has triggered thoughts on how timelines and risk aversion ties to management.
+
+The premier league has 20 teams, and this season a record 12 managers have been given the sack. The stakes are particularly high due to the workings of the hierarchy of leagues in the english soccer pyramid, as shown above.
+ASIDE: The term soccer was in fact invented by the Brits! It came from associated football vs. rugby football. I’m not just being a yank!
+The Premier League is known for its fierce competition at the top of the table. However, there’s more at stake than just the coveted top spot. The top four positions in the league standings grant entry into the prestigious and lucrative European Champions League. Additionally, teams that finish fifth through seventh may qualify for the Europa League or Europa Conference, depending on various factors such as winning the FA Cup or previous Champions League winners. While there are numerous edge cases, many top places in the league are highly sought after, making for intense competition throughout the season.
+Then you have the bottom three positions. If that’s where your season ends, you are doomed to go down a division, known as the Championship. Financially, your lose out on all that the premier league offers (TV rights et al), and it’s such a sudden drop that you get an parachute payment to help soften the blow. This leaves a small middle of the division that doesn’t have to sweat too much. Things were in fact so tight this year that teams in positions of 12 to 20 were all fearing a drop. Hence the firings.
+Compare this to franchise leagues such as the NBA, MLS, MLB, or NFL. If you have a bad season you get to regroup for the following year and, in fact, you may even have incentives to do worse if it means getting better draft picks!
+
+↑↑↑ This is Graham Potter. He only lasted 9 months at Chelsea before becoming one of the 12 to go. He was heralded when he left Brighton and Hove Albion, where he had built an amazing system. The recruitment was fantastic, and he had a flywheel that would follow this pattern: bring in new players for ~cheap => bake them into the system => other teams buy them for !cheap => repeat. I can’t tell you how often they would sell a great player for great money, and you would fear that the team would struggle… yet it seemed to somehow get better as someone would stand to be counted.
+He joined a Chelsea operation where they had spent hundreds of millions of dollars, with long contracts (to get around the fair play rules), but weren’t playing like a team at all. No system to be seen here.
+Picture yourself in Graham’s position. The clock starts ticking on day one, and you need to climb your first hill. There is pressure to show results quickly, and you need to find which players work well together, and under which system. 4-4-2? 3-5-2? What are the patterns of play? Do you use a low block? It goes on and on. So much money has been spent on the squad, and the individual players have quality, so expectations are sky high.
+
+↑↑↑ This is Alex Ferguson, the best manager in the history of the premier league (or is it now Pep Guardiola? 🤔). His first few seasons weren’t great, but times were different and the Manchester United owners stuck with him and his system.
+He could take time to explore the hills. How can he get the most from his squad? How can he recruit to fill the gaps and mould the squad to the system he wanted?
+Without this time, todays managers are stuck having to quickly pick a hill and run as fast as they can to the top, with a huge probability that it is a very local maxima.
+Another topic that every new manager will have is: do you go against the traditional style of play of the club you join? change it to your style? or create one that maps to the players?
+
+↑↑↑ This is David Ginola, who personified the traditional swashbuckling style of play of Tottenham Hotspur. Despite the team not having won any silverware for several decades, the fans have still been able to enjoy exciting, entertaining end-to-end matches.
+The last three managers to join Spurs have not followed tradition, and instead employed a much more defensive base. When the team sees success with this change, the fans will grumble but hold their tongue, but as soon as it isn’t working… look out.
+Ok, enough of this footy talk, how does this apply to management in tech?
+Just as I fear for how little time football managers get to find the biggest impact, I often fear the same in corporate life. You often see a ~2 year re-org cycle, especially when there are trade offs around focus.
+
+ok i couldnt resist pic.twitter.com/qGojGjcVkb— swyx (@swyx) May 12, 2020
+Pendulum vs Switchbacks
+One common example is: when do you centralize a function vs. when do you group functions in a business unit? If you are in a function that feels the pendulum you are always waiting for the change. When don’t wrong, you feel like you are oscillating between two very known states without any learning.
+When done better, it is more like climbing a spiral case, or switchbacks as swyx would say. This is where you take the strengths of each approach and bake them into the learnings.
+Let’s take Developer Relations. When I rejoined Google in 2015, there was a centralized function. All tech writers reported through a functional tech writing chain. The same was true for developer advocacy, developer platform engineers, developer programs, partnerships, and more. Time was spent into solidifying what it mean to be great at these roles. On the flip side, if you thought of yourself more a part of the domain that you worked on, you weren’t as attached to the product and engineering world there. Consider yourself an Android expert as a Developer Advocate? Now you are in a hierarchy of DAs. How do the Android DAs, DPEs, Tech Writers, PgMs all coordinate? There was a special role to try to help bring things together. It was a tough role!
+One of the first things I did was to switchback, and have one Android DevRel team, and eventually it went back into the Android product area itself to attach and integrate even closer with the teams there.
+When joining a team as a new leader or manager, you have to make some decisions. After taking some time (hopefully!) listening the team, you will be working out what changes are needed. If you feel a rush to show impact, you may rush up that first local optima hill.
+Through my own errors, I have learned to:
+
+Listen to the natural feel for how orgs work at the company
+Listen to the core problems your teams are facing, and think about potential solutions
+Make some calls on what change solves real problems.
+
+I am loathe to go against the grain of the company unless a) things are really broken with the approach, and b) I have a strong conviction that it’s time to actually create a new default for the company. I don’t want to flip flop, nor do I want to make changes that are surface level just because I am used to them.
+If I was going into Spurs, I would very much lean into creating a Spursy team (hopefully breaking the mould of the losing!). When Manchester City got radically new management at the start of the 2000’s (and have allegedly done a fair amount of cheating I may add!) it was the perfect time to make a big change and create a new identity. The club needs to buy into this, and needs to allow the hunt for a better global maxima by giving the new leadership time.
+The new manager bounce
+
+Well, lcfc’s managerial bounce lasted 5 minutes.— Gary Lineker (@GaryLineker) April 15, 2023
+Well, lcfc’s managerial bounce lasted 5 minutes.
+One of the other reasons for the flurry of sackings is the myth of the “new manager bounce”. The theory is that the players will have some hope, and maybe will fight for their places more with someone new in charge. If the old manager had run out of ideas and left the team with no confidence, and the incoming manager has a series of fresh ideas, this can work! It doesn’t seem to be the case in practice.
+Maybe the same happens in the office. I don’t know about you, but I feel like most of the reorgs I have seen are too frequent, and don’t occur when the ideas are dry. In fact, whenever you have a reorg you spend a lot of time revisiting items such as the strategy, the plan, and how you work. You require time to do the forming of the new way, and it takes time to get into your new stride. At times, a reorg has happened seemingly RIGHT when things were starting to click and execution was cooking with gas.
+Too often real life feels like the CEO and the three envelopes joke.
+Be thoughtful as a new leader, or a boss to a new leader, and make sure that everyone has the time to make sure they aren’t climbing the wrong hill.
+/fin
+Next Page »Primary SidebarTwitter
+My Tweets
+
+Recent Posts
+
+
+
+Piece Together Your Platform with Lego Blocks, Sets, and Kits
+
+
+ai-hints.json: how the ecosystem will help the bots
+
+
+The Pursuit of Taller Hills: Lessons from Football and Product Management
+
+
+Building a modern design system in layers
+
+
+Google A/I/O 2023: In Person Matters
+
+
+
+Follow
+LinkedInMediumRSSTwitter
+Tags
+3d Touch
+2016
+Active Recall
+Adaptive Design
+Agile
+Amazon Echo
+Android
+Android Development
+Apple
+Application
+Apps
+Artificial Intelligence
+Autocorrect
+blog
+Bots
+Brain
+Calendar
+Career Advice
+Cloud Computing
+Coding
+Cognitive Bias
+Commerce
+Communication
+Companies
+Conference
+Consciousness
+Cooking
+Cricket
+Cross Platform
+Deadline
+Delivery
+Design
+Design Systems
+Desktop
+Developer Advocacy
+Developer Experience
+Developer Platform
+Developer Productivity
+Developer Relations
+Developers
+Developer Tools
+Development
+Distributed Teams
+Documentation
+DX
+Ecosystem
+Education
+Energy
+Engineering
+Engineering Mangement
+Entrepreneurship
+Exercise
+Family
+Fitness
+Football
+Founders
+Future
+GenAI
+Gender Equality
+Google
+Google Developer
+Google IO
+Habits
+Health
+Hill Climbing
+HR
+Integrations
+JavaScript
+Jobs
+Jquery
+Kids Stories
+Kotlin
+Language
+Leadership
+Learning
+LLMs
+Lottery
+Machine Learning
+Management
+Messaging
+Metrics
+Micro Learning
+Microservices
+Microsoft
+Mobile
+Mobile App Development
+Mobile Apps
+Mobile Web
+Moving On
+NPM
+Open Source
+Organization
+Organization Design
+Pair Programming
+Paren
+Parenting
+Path
+Performance
+Platform
+Platform Thinking
+Politics
+Product Design
+Product Development
+Productivity
+Product Management
+Product Metrics
+Programming
+Progress
+Progressive Enhancement
+Progressive Web App
+Project Management
+Psychology
+Push Notifications
+pwa
+QA
+Rails
+React
+Reactive
+Remix
+Remote Working
+Resilience
+Ruby on Rails
+Screentime
+Self Improvement
+Service Worker
+Sharing Economy
+Shipping
+Shopify
+Short Story
+Silicon Valley
+Slack
+Soccer
+Software
+Software Development
+Spaced Repetition
+Speaking
+Startup
+Steve Jobs
+Study
+Teaching
+Team Building
+Tech
+Tech Ecosystems
+Technical Writing
+Technology
+Tools
+Transportation
+TV Series
+Twitter
+Typescript
+Uber
+UI
+Unknown
+User Experience
+User Testing
+UX
+vitals
+Voice
+Walmart
+Web
+Web Components
+Web Development
+Web Extensions
+Web Frameworks
+Web Performance
+Web Platform
+WWDC
+Yarn
+
+Subscribe via Email
+
+
+Enter your email address to subscribe to this blog and receive notifications of new posts by email.
+
+
+
+							Email Address						
+
+
+
+
+
+
+
+
+							Subscribe						
+
+
+
+
+Archives
+
+
+August 2023
+June 2023
+May 2023
+March 2023
+February 2023
+January 2023
+September 2022
+June 2022
+May 2022
+April 2022
+March 2022
+February 2022
+November 2021
+August 2021
+July 2021
+February 2021
+January 2021
+May 2020
+April 2020
+October 2019
+August 2019
+July 2019
+June 2019
+April 2019
+March 2019
+January 2019
+October 2018
+August 2018
+July 2018
+May 2018
+February 2018
+December 2017
+November 2017
+September 2017
+August 2017
+July 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+December 2014
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+
+
+Search
+Search this website
+Subscribe
+ RSS - Posts
+
+The right thing to do, is the right thing to do.
+The right thing to do, is the right thing to do.
+Copyright © 2023    · Log in
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading Comments...
+
+
+
+ 
+
+
+Write a Comment...
+
+
+
+
+Email (Required)
+
+
+
+Name (Required)
+
+
+
+Website
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

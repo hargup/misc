@@ -1,0 +1,289 @@
+
+
+
+
+
+	Sourcegraph
+ - Sourcegraph docs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sourcegraph Docs
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Sections
+
+
+
+
+
+
+
+                                    Getting Started
+                                
+
+
+
+
+
+
+
+
+                                    Tutorials
+                                
+
+
+
+Cody
+
+Overview
+
+Cody for VS Code
+Cody for JetBrains
+Cody Desktop App
+Cody with Sourcegraph
+Cody Enterprise
+
+
+Quickstart
+Capabilities
+Explanations
+Cody Use Cases
+Custom Commands
+Troubleshooting
+FAQ
+
+Code Search
+
+Overview
+Tutorials
+How-to guides
+Explanations
+Reference
+
+Code navigation
+
+Overview
+How-to guides
+Explanations
+Reference
+
+Batch Changes
+
+Overview
+Quickstart
+Explanations
+Tutorials
+How-to guides
+References
+
+Code Insights
+
+Overview
+Quickstart
+Explanations
+How-to guides
+References
+
+Notebooks
+
+Overview
+Quickstart
+
+Code monitoring
+
+Overview
+Quickstart
+Explanations
+How-to guides
+
+Integrations
+
+Overview
+Browser extension
+Editors
+Browser search engine
+
+CLI
+
+Overview
+Quickstart
+Explanations
+How-to guides
+References
+
+Administration
+
+Overview
+Deploy
+Upgrade
+Configuration
+Licensing
+Code hosts
+User authentication
+Access control
+Repository permissions
+Observability
+Analytics
+Executors
+FAQ
+Troubleshooting
+How-to guides
+Enterprise getting started guide
+Pricing
+
+Development
+
+Overview
+
+Setup
+
+
+How-to guides
+Contributing
+
+Code Ownership
+
+Overview
+The CODEOWNERS format
+CODEOWNERS ingestion
+Configuration reference
+Assigned ownership
+
+
+
+Cloud
+Dotcom
+★ Search query syntax
+★ Sourcegraph API
+★ Changelog
+
+
+
+External
+
+About Sourcegraph
+Sourcegraph.com
+
+
+
+
+
+Theme
+
+
+
+Auto
+Light
+Dark
+
+
+
+
+
+On this page
+
+
+Usage
+
+Community
+
+
+Edit this page on GitHub 
+
+
+
+
+Sourcegraph
+Sourcegraph makes it easy to read, write, and fix code—even in big, complex codebases.
+
+Code search: Search all of your repositories across all branches and all code hosts.
+Code intelligence: Navigate code, find references, see code owners, trace history, & more.
+Fix & refactor: Roll out & track large-scale changes & migrations across repos at once.
+AI code assistant: Use Cody to read, write, and understand entire codebase faster.
+
+Usage
+
+Download Sourcegraph for macOS and Linux
+Get Cody, the AI coding assistant
+Use Sourcegraph on the cloud or self-hosted
+Sourcegraph.com public code search
+
+
+
+
+
+
+Sourcegraph 101
+Learn how to use Sourcegraph.
+
+
+Sourcegraph Tour
+Take a tour of Sourcegraph’s features using real-world examples and use cases.
+
+
+Community
+
+Blog
+Discord
+Twitter
+Issue tracker
+Contact us
+
+
+
+
+
+
+
+About Sourcegraph
+Sourcegraph.com
+Code (GitHub)
+Terms
+Security
+Privacy
+
+
+
+
+
+

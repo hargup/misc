@@ -1,0 +1,79 @@
+
+
+
+Pengaru git repositories
+
+
+
+
+
+
+
+
+
+Pengaru git repositories
+Clone via `git clone --recursive https://git.pengaru.com/git/$repo_name`
+
+index
+
+
+
+NameDescriptionOwnerIdle
+codex/.gitPoC of a FUSE interface for navigating and reading systemd journal contents
+5 years
+dll_h/.gitDoubly-linked list C header (this is mostly incomplete)
+4 years
+glimmer/.gitglimmer is a GTK+-3.0 frontend for rototiller (WIP-quality)
+17 months
+jio/.gitjio is an experimental systemd-journald journal file tool utilizing io_uring
+23 months
+jittery/.gitOld hack for observing kernel event->user-space wake-up latencies on PCs (requir...5 years
+libansr/.gitlibansr is a minimal ANSI parser intended for use in rendering ANSI/.ans art
+8 weeks
+libiou/.gitsimple async IO-oriented scheduler api for io_uring via liburing
+18 months
+libix2/.git2D spatial index library (quadtree)
+2 weeks
+libix3/.git3D spatial index library (octree)
+2 weeks
+libpad/.gitChunked memory pool allocator library
+3 years
+libplay/.gitThin wrapper around SDL and SDL_Mixer for game development purposes
+11 months
+libplayit/.git.IT file retro music playback library derived from SchismTracker
+4 years
+libpulp/.gitCooperatively scheduled fiber/coroutine library supporting POSIX and Win32
+4 years
+libstage/.gitThin stage manager library (for real-time graphics)
+2 weeks
+pig/.gitpig is a small GLSL viewer for shader development purposes
+24 months
+ps2hub/.gitOld hack for networking PlayStations via UDP/IP using Linux's TUN API
+8 months
+randtest/.gitTest case for WINE fiberized rand() bug repro (WINE bug report supplement)
+4 years
+rmd/.gitMy usable fork of the recordMyDesktop X desktop recording tool
+2 months
+rototiller/.gitCollection of software-rendered graphics hacks supporting libdrm and SDL2
+5 days
+sars/.gitAnother silly gamelet, made for the 24-hour Blender 2020 IRC compo
+2 weeks
+thunk_h/.gitConvenient thunk creation and usage C header
+2 years
+v2f_h/.git2D vector type and common operations C header
+4 years
+v3f_h/.git3D vector type and common operations C header
+4 years
+vwm/.gitMinimalist X11 window manager with built-in visual process monitoring
+7 months
+wavetoy/.gitSmall GUI sound generator toy using GTK+2.0 and ALSA slapped together in 2008 
+3 weeks
+whale/.gitSilly gamelet, made for the 24-hour Blender 2018 IRC compo (winner)
+5 years
+wye/.git`wye` is an input-oriented `tee` analog; PoC quality
+3 years
+ 
+© All Rights Reserved
+ 
+
+

@@ -1,0 +1,514 @@
+
+
+
+
+
+
+Arthur Breitman's blog | ex.rs
+
+Arthur Breitman’s blog | ex.rs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blog
+
+
+About
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ex.rs
+
+        Arthur Breitman's blog. Mostly Tezos.
+    
+
+
+
+
+
+
+Featured
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Crowdsourcing supplements stacks, part 1
+
+Part 1: LLM ideation
+
+
+
+
+
+
+
+
+
+Arthur B.
+25 Jun 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Protocol-level transaction fees?
+
+The following is a collection of thoughts around fee markets in general and mechanism to fold in transaction fees in a protocol, such as the...
+
+
+
+
+
+
+
+Arthur B.
+11 Sep 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+On Supply Caps
+
+This blog post expands on a popular Reddit comment on the benefits and drawbacks of supply caps. This topic is particularly interesting as it touches...
+
+
+
+
+
+
+
+Arthur B.
+02 Sep 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tezos: Philosophy and Values
+
+This is meant to be a concise guide to the principles and values we hope to see embodied by the Tezos network. A longer, more...
+
+
+
+
+
+
+
+Arthur B.
+21 Mar 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All Stories
+
+
+
+
+
+
+
+
+
+
+
+
+Why I am joining the Tezos Foundation council
+
+Seven years ago, I embarked on a mission to bring about a new form of money: bound by algorithmic rules, and yet capable of evolution; decentralized, and yet capable of...
+
+
+
+
+
+
+
+Arthur B.
+24 Feb 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Potential design for a simple, and evolvable, on-chain treasury.
+
+I have been compiling some thought from various community members regarding the design of an on-chain treasury for Tezos chains, and what that might look like. Of course, there is...
+
+
+
+
+
+
+
+Arthur B.
+13 Jun 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A few directions to improve Tezos
+
+In which I outline, for different categories, what seems to me as reasonable, immediate, directions for improving Tezos. The emphasis is on relatively low hanging fruits, nothing earth shattering, just...
+
+
+
+
+
+
+
+Arthur B.
+22 Oct 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Towards Futarchy in Tezos
+
+Futarchy, in a nutshell, is the governance technique of evaluating policies ex post while relying on a prediction market to determine the best policy ex ante.
+
+
+
+
+
+
+
+
+
+Arthur B.
+19 Aug 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It’s a baker’s life for me: being a Tezos validator
+
+What is baking? Bitcoin has mining, Tezos has baking. In Bitcoin, miners compete to publish blocks containing a proof-of-work stamp by repeatedly hashing block headers. In Tezos, block creation is...
+
+
+
+
+
+
+
+Arthur B.
+25 May 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hash-Consing in Tezos
+
+I’ve spoken several times of hash-consing as a way to store contract data efficiently for the Tezos blockchain. Here’s why it’s useful, how it works, and what its limitations are....
+
+
+
+
+
+
+
+Arthur B.
+31 Dec 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+« Prev
+1
+2
+3
+4
+Next »
+
+
+
+
+
+
+
+
+
+
+Explore →
+
+
+
+blockchain (3)
+bitcoin (3)
+math (3)
+economics (1)
+finance (1)
+probability (2)
+tezos (20)
+michelson (1)
+baking (2)
+ethereum (1)
+ai (1)
+bio (1)
+
+
+
+
+
+
+
+
+                Copyright © 2023 ex.rs 
+            
+
+Mediumish Jekyll Theme by WowThemes.net
+            
+
+
+
+
+ 
+
+
+
+
+
+
+
+

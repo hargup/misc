@@ -1,0 +1,197 @@
+
+
+
+Million Integrals
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Mathematics
+Finance
+Programming
+
+
+
+
+
+Sign in
+Subscribe
+
+
+
+
+
+
+
+
+
+It is all about knowledge, isn't it?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Programming
+
+
+ Featured
+
+
+Vel: PyTorch meets baselines
+
+
+I'd like to introduce you to Vel, a collection of high-quality implementations of deep learning models.
+
+
+Oct 7, 2018
+16 min read
+
+
+
+
+
+
+
+
+
+
+
+Finance
+
+
+Introduction to futures
+
+
+Futures are financial instruments that I deal with daily in my professional life, yet to most of my friends, they feel obscure and especially the word "derivative" makes them get goosebumps. I hope that after reading this article, futures will become familiar and straightforward to you.
+
+
+Apr 30, 2017
+13 min read
+
+
+
+
+
+
+
+
+
+
+
+Programming
+
+
+Metaclasses in Python
+
+
+What is a metaclass, someone may ask? In short, a metaclass is to a class, what class is to an object.
+
+
+Mar 31, 2017
+14 min read
+
+
+
+
+
+
+
+
+
+
+
+Finance
+
+
+Kelly criterion and investing
+
+
+Kelly criterion is a mathematical formula used to specify how much a player faced with a series of bets should risk on every single one of them to maximize long-term growth.
+
+
+Feb 28, 2017
+14 min read
+
+
+
+
+
+Page 1 of 1
+
+
+
+
+
+
+Million Integrals © 2023
+
+
+Powered by Ghost
+
+
+
+
+
+
+
+
+
+
+
+
+
+

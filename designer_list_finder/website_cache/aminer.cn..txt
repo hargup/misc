@@ -1,0 +1,32 @@
+AMiner - AI赋能科技情报挖掘-学术搜索-论文检索-论文专利-文献追踪-学者画像
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+对话排名期刊顶会必读论文热点开放平台VIP未登录立即登录学术主页个人账号我的关注论文收藏浏览历史AI帮你理解科学全部高级搜索搜索对话搜索对话AMiner AI并且主题模糊添加检索条件添加时间添加学科重置条件搜 索GPT, Language Model, Human Feedback, CLIP, LLaMA58,468,628科研人员318,822,210论文成果8,796,718知识概念1,147,790,347引用关系关注推荐热点动态添加关键词推送清华大学提出了用于神经网络训练的 4 比特优化器，节省了模型训练的内存开销，同时能达到与全精度优化器相当的准确率。Memory Efficient Optimizers with 4-bit States收藏 Bingrui Li,Jianfei Chen,Jun Zhu大牛学者arXiv · Machine Learning（2023）引用0浏览329引用评分AMiner AI0329谷歌研究团队对RLHF与以AI反馈（RLAIF）进行比较，结果表明，RLAIF可以达到人类水平的性能，为RLHF的可扩展性限制提供了潜在解决方案。RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback收藏Harrison Lee, Samrat Phatale, Hassan Mansoor, Kellie Lu, Thomas Mesnard, Colton Bishop, Victor Carbune, Abhinav RastogiarXiv · Computation and Language（2023）引用0浏览403引用评分AMiner AI0403本文对强化学习与进化算法的整合（即强化学习辅助进化算法（RL-EA））进行了全面研究。Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities收藏 Yanjie Song, Yutong Wu, Yangyang Guo, Ran Yan,P. N. Suganthan大牛学者, Yue Zhang,Witold Pedrycz大牛学者,Yingwu Chen,Swagatam Das大牛学者,Rammohan Mallipeddi, Oladayo Solomon AjaniarXiv · Neural and Evolutionary Computing（2023）引用0浏览641引用评分AMiner AI0641清华大学和华为联合调研了面向计算机视觉的高效深度学习的相关工作。Computation-efficient Deep Learning for Computer Vision: A Survey收藏Yulin Wang,Yizeng Han, Chaofei Wang,Shiji Song,Qi Tian大牛学者,Gao HuangarXiv · Computer Vision and Pattern Recognition（2023）引用0浏览415引用评分AMiner AI0415上海交通大学清源研究院和里海大学提出了一个稳健有效的数据选择器—InstructionGPT-4，在一个仅包含 200 个示例的小型数据集上进行了微调，约占 MiniGPT-4 原始数据集的 6%。InstructionGPT-4: A 200-Instruction Paradigm for Fine-Tuning MiniGPT-4收藏 Lai Wei, Zihao Jiang,Weiran Huang,Lichao SunarXiv · Machine Learning（2023）引用0浏览549引用评分AMiner AI0549Meta 的开源了Code Llama—专攻代码生成的基础模型，基于特定的代码数据集在 Llama 2上进一步微调训练而成，免费用于研究以及商用目的。Code Llama: Open Foundation Models for Code收藏Baptiste Rozière,Jonas Gehring, Fabian Gloeckle, Sten Sootla,Itai Gat, Xiaoqing Ellen Tan, Yossi Adi, Jingyu Liu, Tal Remez, Jérémy Rapin,  Artyom Kozhevnikov,  Ivan Evtimov,Meta AI （2023）引用0浏览782引用评分AMiner AI0782再推荐几条看看查看更多推荐内容再推荐几条看看添加订阅关键词设定感兴趣领域，获取更精准推送 立即登录定制科研兴趣追踪学术影响力- -关注领域- -关注学者- -收藏- -浏览历史AMiner AI对话式文献知识库选择论文开启对话KDD2023华人学者库热门必读论文合集
+7月人工智能方向热门论文6月人工智能方向热门论文5月人工智能方向热门论文ICLR2023 收录的Top5%论文AIGC—AI生成图像10年史必读论文国内外“ChatGPT"必读论文ChatGPT背后技术—RLHF必读论文
+扩散模型分布式计算全部必读论文© 2005-2023 AMiner 京公网安备11010802035176号京ICP备20011824号-11用户协议隐私政策使用手册联系我们关于我们加入我们智谱.AI联系我们在提交您的问题之前，可以访问我们的常见问题，也许里面能找到有用的信息。联系邮箱：Report@aminer.cn
+
+
+
+
+
+
+
+
+
+
+

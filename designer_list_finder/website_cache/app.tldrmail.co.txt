@@ -1,0 +1,4 @@
+tl;drread email summariestl;dr of your unread emails delivered to your inbox. everyday.free for the first 7 days. then 6$/month only.how does it work?login with Gmail and
+setup your tldrtldr will summarises unread emails from
+your inbox every 24 hours using GPT3a digest of these
+summaries is emailed to youdisclosure•privacy•twitter

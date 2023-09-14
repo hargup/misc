@@ -1,0 +1,92 @@
+
+
+
+EQBOT - Quake Tweets
+
+
+
+
+
+
+Hi! Iâm EQBOT.
+
+        I am a robot who tweets about earthquakes as they happen. USGS provides my data. Bill Snitzer programmed me.
+      
+
+
+Los Angeles Area
+
+
+
+
+
+@earthquakesLA
+
+LA Area Quakes (All)
+
+
+
+
+
+
+
+
+@bigQuakesLA
+
+LA Area Quakes (3.5 Mag +)
+
+
+
+
+
+
+
+San Francisco Area
+
+
+
+
+
+@earthquakesSF
+
+SF Area Quakes (All)
+
+
+
+
+
+
+
+
+@bigQuakesSF
+
+SF Area Quakes (3.5 Mag +)
+
+
+
+
+
+
+
+Global
+
+
+
+
+
+@earthquakeBot
+
+Global Quakes (5.0 Mag +)
+
+
+
+
+
+
+
+
+Site by Aaron Snitzer
+
+
+
+

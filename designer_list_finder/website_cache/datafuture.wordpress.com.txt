@@ -1,0 +1,933 @@
+
+
+
+
+
+
+
+
+Datafuture
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+  
+  
+
+
+
+
+
+
+Datafuture
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+Search for:
+
+
+
+ 
+
+
+
+
+
+ Datafuture
+
+
+
+
+
+
+
+
+Posted on April 28, 2018April 28, 2018 by Ravi Theja 
+Update 
+
+First things first, I shifted my blogging platform to medium. Please follow me here to get further updates about my work.
+I joined master’s program at IIIT Bangalore and pursuing my interests in deep learning.
+I won Global NIPS paper implementation 2017 challenge and my work is covered on medium. You can find blog post here.
+I have been selected as International fellow for fast.ai course.
+And I am happy to reach 59th position in Analytics Vidhya rankings after participating in various different ML competitions for over an year.
+
+ 
+
+
+
+
+Posted on February 14, 2017February 19, 2017 by Ravi Theja 
+Skill tests 
+
+After two months of perseverance in participating in skill tests conducted by Analytics Vidhya in various areas of Data Science finally I stood 6th of 242 participants in skill test on ensemble learning. It is really a good opportunity for me to learn various concepts through these skill tests and I really recommend to participate in these competitions as it makes you updated on different algorithms. Thank you Analytics Vidhya for conducting these skill tests.
+Note: You can find the questions and solutions to ensemble learning skill test here.
+
+
+
+
+
+Posted on December 21, 2016 by Ravi Theja 
+Google Cloud Instance 
+
+In this article I will be discussing about creating a Google cloud instance.
+While participating in kaggle Santander recommendation competition, I used to wonder how to deal with 2.3GB training dataset rather than how to solve problem, GOOGLE CLOUD came to my rescue in this situation.
+Google will be giving you $300 free usage for the first two months. Maximum of 8 core instance can be created during free usage period. You just need to follow following steps to create an instance.
+Creating Instance: –
+You need to sign up here and provide Debit or Credit card details before creating instance. Google will charge 67 rupees initially after you sign up but don’t worry Google will again credit it into your account and will not charge you until $300 worth usage is completed.
+You need to first create a project. Here I have created a project with testing as project name. Project ID will be testing-153211.
+ 
+After creating project it will be available in projects folder on top right position of the projects section as shown below.
+
+Select testing project or any other project where you need to create your instance. Here I have chosen testing as my project.
+Now go to Compute Engine.
+
+Click on Create instance to create your first instance. IT will be directed to the page as shown below.
+
+Give a name to your instance. Here I have given Santander as its name. Select a zone, the cost will be differed with zone, machine type and storage selection. Here I have selected us-west1-a, 8 core 30gb memory standard machine.
+In Boot disk select the type of OS you want. Here I have selected Ubuntu 16.04 LTS OS and 30gb SSD hard disk. Following images will give you idea about these things.
+
+Select Compute Engine Default service account and allow default API access.
+
+Click on create button to create your instance.
+
+Congratulations!!! you have finally created Google cloud instance. Click on SSH to connect to your instance where you will be directed to the terminal of your instance.
+
+Feels thrilling right. Now go and explore your instance. In the next post I will be discussing about how to setup R server in your instance.
+Stay tuned!!
+
+
+
+
+
+Posted on December 18, 2016December 18, 2016 by Ravi Theja 
+Lasso And Ridge Regression 
+
+In this article I will be demystifying why some of the co-efficients of the predictor variables in Lasso regression will be equal to zero while in Ridge regression none of the co-efficients of the predictor variables will approach  zero(but will not be equal to zero).
+If you are new to Ridge and Lasso Linear regression concepts you can check out this article about regression on Analytics Vidhya.
+In short Lasso and Ridge regression are used in case there is multicollinearity and to reduce overfitting , so that some of the co-efficients will die down to zero(Lasso) or will approach zero(Ridge).
+But after checking out the cost functions for Lasso and Ridge Regression you may get doubt why one cost function reduces the co-efficients to zero and other approaches to zero.
+Cost Function for Lasso Regression:-
+
+Let’s say minimising term as A and constraint term as B.
+Cost Function for Ridge Regression:-
+
+Let’s say constraint term as C and as said earlier minimising term as A.
+So we need to minimise least squares subject to some constraints in Lasso and Ridge Regression. Let us solve this using some graphs.
+Let us use two predictor variables, beta1 and beta2 are their co-efficients in regression.
+B follows a diamond shaped graph and C follows a circle shaped graph, minimising term A follows a ellipse.
+Graph of cost function for Lasso Regression(Figure1)
+
+
+Graph of cost function for Ridge Regression(Figure2)
+As you can see in Lasso the minimising function and constraint can intersect on any one of the axes making their co-efficient values zero while in Ridge the minimising function and constraint cannot intersect on any one of the axes so the co-efficient values will approach zero but will not be equal to zero.
+Reference: http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+Posted on July 6, 2016 by Ravi Theja 
+Apache Impala 
+
+In this post I will be discussing about Apache Impala.
+Apache Impala is a incubating project which provides  high-performance, low-latency SQL queries on data stored in Apache Hadoop file formats.
+So the next question that gets into your mind is why Impala if Hive,Pig which are already existing.
+Let us go to the origins of Hive and Pig.
+Origins of Pig and Hive:
+Hadoop was used extensively at Yahoo! and Facebook to store, process, analyze huge amounts of data and to process data they used Map reduce. Both the companies spent lot of time writing Java code to run under Map Reduce.
+Both wanted to work faster and to let non-programmers get at their data directly. Yahoo! invented a language of its own, called Apache Pig, for that purpose. Facebook, likely thinking about using existing skills rather than training people with new ones, built the SQL system called Hive.
+Both hive and pig work similarly.A user types a query in either Pig or Hive. A parser reads the query, figures out what the user wants and runs a series of MapReduce jobs that do the work.
+( Ofcourse Hive is a declarative language and Pig is a programming language.I don’t want to get into differences between hive and pig now.)
+A criticism of Hadoop is that, MapReduce is a batch data processing engine. It turns out to be a hugely useful batch data processing engine that’s drastically changed the data management industry, but it’s a fair criticism: By design, MapReduce is a heavyweight, high-latency execution framework. Jobs are slow to start and have all kinds of overhead.
+Hive and Pig carry these properties.
+But users expect to get the result of a query in very less time which is not possible through Hive and Pig since both of them use Map Reduce which takes lot of time to process a query.
+The answer to this problem is Apache Impala.
+Apache Impala :
+Impala has its own MPP (massive parallel processing) unlike hive and pig which uses Map Reduce.As a result, Impala doesn’t suffer the latencies that those operations impose. An Impala query begins to deliver results right away. Because it’s designed from the ground up for SQL query execution, not as a general-purpose distributed processing system like MapReduce, it’s able to deliver much better performance for that particular workload.
+Every node in a Cloudera cluster has Impala code installed, waiting for SQL queries to execute. That code lives right alongside the MapReduce engine on every node and the Apache HBase engine (not based on MapReduce),and Apache Spark that users may choose to deploy. Those engines all have access to exactly the same data, and users can choose which of them to use, based on the problem they’re trying to solve.
+Impala Binaries And Architecture :
+Impala ships as a few binaries :
+1. Impalad : Impala daemon. Installed on N instances of an N node cluster
+Impala daemons are the one that do “real work”. They form the core of the Impala execution engine and are the ones reading data from HDFS/HBase and aggregating it. All Impalads are equivalent.
+2. StateStored : Statestore daemon. Installed on 1 instance of an N node cluster. StateStore daemon is a name service i.e. it keeps track of which Impalad’s are up and running, and relays this information to all the Impalads in the cluster so they are aware of this information when distributing tasks to other impalads. This isn’t a single point of failure since Impala daemons still continue to function even when statestored dies, albeit with stale name service data.
+3. Catalogd : Catalog daemon. Installed on 1 instance of an N node cluster.  It distributes metadata (table names, column names, types, etc.) to Impala daemons via the statestored (which acts as a pub-sub mechanism). This isn’t a single point of failure since impala daemons still continue to function. The user has to manually run a command to invalidate the metadata if there is an update to it.
+Architecture : 
+An impala daemon can be divided into 3 parts : planner, coordinator and executor.
+1. Planner : It is responsible for parsing out the query and creating a Directed Acyclic Graph of operators from it. An operator is something that operates on the data; select, where, group by, are all examples of operators. The planning happens in 2 parts. First, a single node plan is made, as if all the data in the cluster resided on just one node, and secondly, this single node plan is converted to a distributed plan based on the location of various data sources in the cluster (thereby leveraging data locality).
+2. Coordinator : It is responsible for coordinating the execution of the entire query. In particular, it sends requests to various executors to read and process data. It then receives the data back from these executors and streams it back to the client via JDBC/ODBC.
+3. Executor : It is responsible for reading the data from HDFS/HBase and/or doing aggregations on data (which is read locally or if not available locally could be streamed from executors of other Impala daemons).
+Refer to following diagram for getting overview of Impala architecture.
+
+With my personal experience Impala almost reduces the execution time to one-sixth of what Hive takes.
+Since , Impala is in incubating stage there are many things which Impala does not support compared to Hive.
+Some of them include:
+1)Slower performance of join operations. ( You can tune before performing join operation to reduce execution time like compute stats of tables used so that impala knows the statistics of tables and can optimize the join operation itself)
+2)It does not support setting of variables.
+3)It does not have many inbuilt functions which we generally use in PL-SQL like to_char .
+4)It does not support insertion into avro format tables but supports insertion into parquet format tables.
+Note : 
+YARN is disabled for impala internally.So memory limit can be set manually for impala.But once YARN is enabled, allocation of memory by YARN will override our manual setting.
+Hope this article give you basic understanding on Apache Impala.
+ 
+ 
+ 
+ 
+
+
+
+
+
+Posted on December 4, 2015 by Ravi Theja 
+Bias-variance Tradeoff 
+
+Often people get confused with the bias-variance concept.So rather than going by the definitions of bias-variance tradeoff concept here I try to explain them in a general  way.
+The main goal of supervised learning is prediction.
+Prediction error consists of irreducible error and reducible error.
+Prediction error = Irreducible error + Reducible error.
+Irreducible error is due to noise in data set,we cannot minimise the irreducible error.
+Reducible error is due to Bias error and Variance error.
+We can minimise the reducible error to minimise the prediction error.
+Bias Error:
+Bias error is due to restrictions/assumptions we make while building a model.
+Let’s take the example in which the training data is quadratic in nature as shown in figure.(Kindly ignore the X and Y labels,just assume that our training data set is spread over as shown)
+
+If we assume that the model is linear then it does not fit the training data set exactly and the error due to this restriction is known as Bias error.
+So,if there are high restrictions lead to high bias error.
+Variance Error:
+Error due to variance is error due to sampling of training data set.
+Let us once again refer to the above shown figure,if we model with few restrictions and model the quadratic data with a polynomial then the variance is high,low bias.Since if we use this model for prediction on testing data then there will be high variance.
+Bias-variance tradeoff:
+Its clear now low bias which mean few restrictions on model will give you high variance,on the contrary more restrictions on model which lead to high bias and low variance.This is called Bias-variance tradeoff.
+We call a model with high variance overfitting and with low bias underfitting.
+Since if we go with high variance the model fits absolutely for training data but fails to fit for test data which leads to overfitting that means it is almost memorising the training data set,on the other side if we go with low bias the model neither fits absolutely for training data nor test data which leads to underfitting.
+Hope you got clarity on this concept.
+Post your questions in the comment section if you have any.
+Happy learning 🙂
+
+
+
+
+
+Posted on November 24, 2015December 3, 2015 by Ravi Theja 
+Word cloud using R 
+
+Last week I have learned making a word cloud using R.
+Here I will be discussing step by step procedure to create a word comparison cloud.
+NOTE: You need to get your twitter API access secret keys and token secret keys before starting.
+Following R packages are used for the project.So install and explore them.
+1)twitteR
+2)ROAuth
+3)RCurl
+4)stringr
+5)RJSONIO
+6)wordcloud
+7)tm
+Let me first tell you what are the smaller steps involved in creating it.You need to first extract the data(tweets) from twitter,get text from the extracted tweets,clean the tweets which means removing extra spaces.punctuations,unnecessary numbers and then joining the texts into a single vector,remove stop words,creating corpus,creating term document matrix and then we make a word comparison cloud.
+Here I took tweets from TATA DOCOMO and IDEA CELLULAR and built a word comparison cloud.
+R Code:
+#Collecting tweets from mobile companies
+library(twitteR)
+library(“ROAuth”)
+library(RCurl)
+library(stringr)
+library(RJSONIO)
+library(wordcloud)
+library(tm)
+# Declare Twitter API Credentials
+api_key <- ########
+api_secret <- ######
+token <- #########
+token_secret <- ####
+# Create Twitter Connection
+setup_twitter_oauth(api_key, api_secret, token, token_secret)
+# Idea Cellular tweets
+idea_tweets = userTimeline(“ideacellular”, n=500)
+# Tata Docomo tweets
+tata_tweets = userTimeline(“TataDocomo”, n=500)
+# get text
+tata_txt = sapply(tata_tweets, function(x) x$getText())
+idea_txt = sapply(idea_tweets, function(x) x$getText())
+##clean text
+clean.text = function(x)
+{
+# tolower
+x = tolower(x)
+# remove rt
+x = gsub(“rt”, “”, x)
+# remove at
+x = gsub(“@\\w+”, “”, x)
+# remove punctuation
+x = gsub(“[[:punct:]]”, “”, x)
+# remove numbers
+x = gsub(“[[:digit:]]”, “”, x)
+# remove links http
+x = gsub(“http\\w+”, “”, x)
+# remove tabs
+x = gsub(“[ |\t]{2,}”, “”, x)
+# remove blank spaces at the beginning
+x = gsub(“^ “, “”, x)
+# remove blank spaces at the end
+x = gsub(” $”, “”, x)
+return(x)
+}
+##apply function clean.text
+# clean texts
+tata_clean = clean.text(tata_txt)
+idea_clean = clean.text(idea_txt)
+##Join texts in a vector for each company
+tata = paste(tata_clean, collapse=” “)
+idea = paste(idea_clean, collapse=” “)
+# put everything in a single vector
+final= c(tata,idea)
+final
+##remove stop-words
+final = removeWords(all,c(stopwords(“english”),”amazon”,”flipkart”))
+# create corpus
+corpus = Corpus(VectorSource(final))
+# create term-document matrix
+tdm = TermDocumentMatrix(corpus)
+# convert as matrix
+tdm = as.matrix(tdm)
+# add column names
+colnames(tdm) = c(“tata”, “idea”)
+# plot comparison cloud
+comparison.cloud(tdm, random.order=FALSE, colors = c(“#00B2FF”, “red”),title.size=1.5, max.words=300)
+#pot commonality cloud
+commonality.cloud(tdm, random.order=FALSE, colors = brewer.pal(8, “Dark2”),title.size=1.5)
+Word comparison cloud:
+
+Commonality cloud:
+
+Hope you enjoyed learning it 🙂
+
+
+
+
+
+Posted on November 17, 2015November 17, 2015 by Ravi Theja 
+How to show plots of different variables in single graph in R? 
+
+While working with scatter plots,box plots and how to visualise and analyse the data,I stuck up with this question.
+How can I combine two different plots where in the each plot is between different variables.
+This can be done using the package gridExtra in R.
+Let’s take an example.
+First lets create a data frame which contains information about age,salary,experience of employees of a company.
+company=data.frame(list(“name”=LETTERS[1:25],”age”=sample(c(21:30),25,replace=T),”salary”=sample(25000:40000,25,replace=T),”experience”=sample(0:8,25,replace=T)))
+Let’s create two different plots
+q1=qplot(company$age,company$salary,geom = “boxplot”)
+
+q2=qplot(company$experience,company$salary,geom = “point”)
+and then add gridExtra package
+library(gridExtra)
+q1 and q2 plots can be combined into a single graph with grid.arrange function.
+grid.arrange(q1,q2,ncol=2)
+##ncol=2 will show you the plots in two different columns
+
+Note:You can even mention nrow if you want to show a number of plots in a specified number of rows and columns.
+
+
+
+
+
+Posted on November 6, 2015 by Ravi Theja 
+Confusion Matrix 
+
+Confusion Matrix,as it goes with the name people get confused with the terms used in the matrix.Probably you will not feel the same after reading this post.
+A clear cut understanding of confusion matrix is needed in statistics part of data science.
+So let’s start with definition of confusion matrix and then will explain the terms involved with an example,at the end we will discuss which parameter is important with respect to this example.
+A confusion matrix is a table that is often used to describe the performance of a classification model (or “classifier”) on a set of test data for which the true values are known.
+Let’s take the following example and the required details were mentioned in the table.
+
+
+
+
+A retail stores marketing team uses analytics to predict who is likely to buy a newly introduced high-end (expensive) product.
+
+
+
+
+Buyer or not
+Actual Negative
+Actual Positive
+Total
+
+
+Predicted Negative
+725
+158
+883
+
+
+Predicted Positive
+75
+302
+377
+
+
+Total
+800
+460
+1260
+
+
+
+The above matrix tells the following things.
+
+725 people are not likely to buy the product in reality and the team also predicted the same.
+75 people are not likely to buy the product in reality and the team predicted in opposite way.
+158 people are likely to buy the product in reality and the team predicted in opposite way.
+302 people are likely to buy the product in reality and the team also predicted the same.
+
+Let’s now define the basic terms, which are whole numbers (not rates)
+True positive (TP): These are cases in which the team predicted positively (they are likely to buy), and they are buying in reality.
+True negative (TN): These are cases in which the team predicted negatively(they are not likey to buy), and they are not buying in reality.
+False positive (FP): These are cases in which the team predicted positively(they are likey to buy), and they are not buying in reality.
+False negative (FN): These are cases in which the team predicted negatively(they are not likey to buy), and they are buying in reality.
+Note: FP is generally known as type-I error and FN is known as type-II error.
+
+Following is a list of rates that are often computed from a confusion matrix:
+Accuracy: This tells us , how often is the classifier correct?
+
+
+
+
+Accuracy = (TP+TN)/(TP+TN+FP+FN) = 81.5%
+Recall: When they are actually buying, how often does they predict correctly?
+
+
+
+
+Recall = TP/(TP+FN)= 65.6%
+This is also known as true positive rate or sensitivity.
+Specificity: When they are actually not buying, how often does they predict that they are not buying?
+
+Specificity = (TN)/(TN+FP) = 90.6%
+Precision: When they predicted that they are buying, how often is it correct?
+Precision = (TP)/(TP+FP) = 80.1%
+
+F1-Score: This is a weighted average of the recall and precision.
+F1-Score = (2*Recall*Precision)/(Recall+Precision) = 72.1%
+So now here comes the big challenge.
+About which parameter should the team be worried?
+
+
+
+
+About FP or FN or equally worried about both of them?
+Ans:FN
+Why?
+
+
+
+
+If the model predicts that the person will not buy, the product will not be marketed to him/her, and the team will lose customers,money,business. FP is not such a big worry since only the cost of a phone call, SMS or sending a catalog will be lost.
+and What is more important: Recall, Precision or Accuracy?
+Ans:Recall.
+But this will not be same with every case.It varies from case to case.
+So a through understanding of case is required before concluding which parameter is important.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Posted on October 5, 2015February 10, 2018 by Ravi Theja  · 
+14 Comments
+
+INSOFE Fellowship Competition(IFC) 
+
+For people who don’t know about INSOFE fellowship competition(IFC) I recommend you to know about INSOFE here.
+In this post I will be discussing about the pattern of the fellowship test and how you can prepare for it.
+The total process will be scheduled in two rounds.
+First round: It is a 4 hour exam in which they test Maths,Statistics,basic programming knowledge for 2 hours and then followed by testing the individual’s programming skills for 2 hours.
+You will be given a compiler to compile the programme.
+A total of 19 questions were given in the two hour exam.
+There were around 12 to 14 questions from math and statistics. The level of questions in math and statistics was from basic to medium.I suggest you to brush up all your engineering math (Linear algebra,probability,calculus) and statistics concepts before attending the exam.
+The remaining questions are on testing your programming knowledge on c-language,big-o-notations,SQL.
+The level of programming question was from medium to difficult.In my case they asked to compile a problem similar to 8-queens.I suggest you to go through intermediate level problems at codechef.
+Second round:
+After first round around 10-15 people will be shortlisted for second round.
+Second round will consist of a GD and interview.
+GD will be just like a normal GD on current affairs,social issues.In my case the topic was “Should A.P.J. Abdul Kalam’s image be on Indian currency note”.Remember GD is not a elimination round.
+In the interview they just asked us only one question “Tell me about yourself”.
+NOTE: But be prepared for programming,math,SQL related questions also.
+Please be cautious about this question as it may change the fate of the people who will be getting internship finally.Don’t be under the impression that if you compile the code,you will be getting the internship.Each part of the process carries marks,so be confident while answering the question and speak about your failures and success in your life till now and how did  you overcome your failures,what are your career goals? showing large amount of confidence and energy.
+That’s it.
+All the best.
+
+
+
+
+
+
+
+Search for:
+
+
+
+
+
+Recent Posts
+
+
+Update
+
+
+Skill tests
+
+
+Google Cloud Instance
+
+
+Lasso And Ridge Regression
+
+
+Apache Impala
+
+
+Recent Comments 
+niksawlanikhil on INSOFE Fellowship Competition(…Anush on INSOFE Fellowship Competition(…Rakesh on INSOFE Fellowship Competition(…Ravi Theja on INSOFE Fellowship Competition(…Ravi Theja on INSOFE Fellowship Competition(… 
+Archives
+
+April 2018
+February 2017
+December 2016
+July 2016
+December 2015
+November 2015
+October 2015
+
+Categories
+
+Uncategorized
+
+
+Meta
+
+Register Log in
+Entries feed
+Comments feed
+WordPress.com
+
+ 
+
+
+Search for:
+
+
+
+
+
+Recent Posts
+
+
+Update
+
+
+Skill tests
+
+
+Google Cloud Instance
+
+
+Lasso And Ridge Regression
+
+
+Apache Impala
+
+
+Recent Comments 
+niksawlanikhil on INSOFE Fellowship Competition(…Anush on INSOFE Fellowship Competition(…Rakesh on INSOFE Fellowship Competition(…Ravi Theja on INSOFE Fellowship Competition(…Ravi Theja on INSOFE Fellowship Competition(… 
+Archives
+
+April 2018
+February 2017
+December 2016
+July 2016
+December 2015
+November 2015
+October 2015
+
+Categories
+
+Uncategorized
+
+
+Meta
+
+Register Log in
+Entries feed
+Comments feed
+WordPress.com
+
+
+
+
+Blog at WordPress.com.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+		Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:
+				
+			Cookie Policy		
+
+
+ 
+
+
+
+Follow
+
+
+Following
+
+
+
+
+
+
+
+				Datafuture			
+
+
+
+
+
+
+
+
+
+ 
+
+												Sign me up											
+
+
+
+
+											Already have a WordPress.com account? Log in now. 
+
+
+
+
+
+
+ 
+
+
+
+
+
+				Datafuture			
+
+
+
+ Customize
+
+
+
+
+Follow
+
+
+Following
+
+
+Sign up
+Log in
+
+
+											Report this content										
+
+
+
+											View site in Reader										
+
+
+Manage subscriptions
+
+Collapse this bar
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading Comments...
+
+
+
+ 
+
+
+Write a Comment...
+
+
+
+
+Email (Required)
+
+
+
+Name (Required)
+
+
+
+Website
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+

@@ -1,0 +1,1 @@
+{"status_code":404,"request_id":"request-id-live-caaba809-cf75-4722-8bf7-f1c37dbacfe5","error_type":"route_not_found","error_message":"The route provided is not supported.","error_url":"https://stytch.com/docs/api/errors/404#route_not_found"}

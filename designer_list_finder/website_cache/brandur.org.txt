@@ -1,0 +1,8 @@
+brandur.org â Brandur Leach
+
+
+
+
+
+
+â³ArticlesAtomsFragmentsNewsletterNowAboutAboutI'm @brandur, an occasional writer, and engineer on Crunchy Bridge, previously Stripe and Heroku.I most often talk about web APIs, Postgres, Rust, software safety and resilience, efficient human interfaces, and running.ArticlesOn Using Go's `t.Parallel()`How and why we started annotating all our Go tests with t.Parallel(), and why you might want to consider doing so too. AugustÂ 26,Â 2023Soft Deletion Probably Isn't Worth ItThe traditional soft deletion pattern using deleted_at columns leaks into code, curbs the usefulness of foreign keys, and makes data removal difficult. Luckily, there’s an alternative. JulyÂ 19,Â 2022Postgres: Boundless `text` and Back AgainThe text type in Postgres, why it’s awesome, and why you might want to use varchar anyway. Also, a story about trying to get string parameters bounded at Stripe. SeptemberÂ 10,Â 2021Older articles available here.FragmentsWhy to prefer `t.Cleanup` to `defer` in tests with subtests using `t.Parallel`Go’s defer and t.Cleanup have similar semantics, but there’s a good reason to prefer the use of t.Cleanup specifically in the presence of parallel subtests. SeptemberÂ 5,Â 2023Older fragments available here.â³ArticlesAtomsFragmentsNewsletterNowAbout

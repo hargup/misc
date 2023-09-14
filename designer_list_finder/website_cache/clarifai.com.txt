@@ -1,0 +1,1967 @@
+
+
+
+
+
+
+The Generative AI Developer Platform: Production Computer Vision & LLMs 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Platform
+
+
+
+
+
+AI PLATFORM
+
+
+Platform Overview New
+The Production AI Platform
+
+
+
+
+AI Lake New
+A single place to track all your AI projects
+
+
+Data Preparation
+
+
+Automated data labeling - Scribe
+AI speeds labeling, LabelForce assures quality
+
+
+
+
+Data search & management - Spacetime
+Patented tech streamlines data management
+
+
+Model Building
+
+
+Model training & evaluation - Enlight 
+Scalable AI training with user-friendly UI
+
+
+
+
+
+
+Model Operationalization
+
+
+Serverless inference - Armada
+Elastic inference optimizes compute costs
+
+
+
+
+AI workflows - Mesh
+Drag and drop engine links models
+
+
+
+
+Edge AI - Flare
+Edge version for low-power inference
+
+
+
+
+Modules - UI Modules New
+Make reusable web apps
+
+
+
+
+
+
+TECHNOLOGY
+
+Computer Vision
+
+
+
+Generative AI New
+
+
+
+Foundation Models New
+
+
+
+Natural Language Processing
+
+
+PROFESSIONAL SERVICES
+
+AI Lab New
+Generative AI Consulting Services
+
+
+
+LabelForce
+Data labeling services
+
+
+
+ModelForce
+Custom model building services
+
+
+
+
+
+
+
+
+
+Government
+
+
+
+Solutions
+
+
+
+
+
+BY INDUSTRY
+
+Government
+
+
+
+Manufacturing
+
+
+
+Media & Entertainment
+
+
+
+Retail & E-Commerce
+
+
+
+Transportation
+
+
+
+See all Industries
+
+
+
+
+
+
+BY USE CASE
+
+Content Moderation
+
+
+
+Digital Asset Management
+
+
+
+Intelligence, Surveillance
+
+
+
+Product Discovery
+
+
+
+Visual Inspection
+
+
+
+See all use cases
+
+
+
+
+
+
+
+
+E-book
+Computer Vision 101 for Business Professionals
+Download E-book
+
+
+
+
+
+
+
+
+Explore Community
+
+
+
+
+
+
+
+Explore
+
+
+
+Image Models
+
+
+
+Text Models
+
+
+
+Audio Models
+
+
+
+Workflows
+
+
+
+
+
+
+
+
+LLM Hackathon: September 5-19, 2023
+Build innovative LLM-based Streamlit apps using leading LLM technologies: Clarifai, LangChain, AssemblyAI, Weaviate, or LlamaIndex.
+Join now
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+
+About
+
+
+
+Careers We’re hiring!
+
+
+
+Customers
+
+
+
+Events
+
+
+
+Partners
+
+
+
+Press
+
+
+
+Tech Awards
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+Featured
+Fine-tune LLMs now available in release 9.7
+Learn more
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+
+API Status
+
+
+
+Blog
+
+
+
+Docs
+
+
+
+Resource Library
+
+
+
+
+Slack
+
+
+
+YouTube 
+
+
+
+Support
+
+
+
+
+
+
+
+
+E-book 
+Ultimate Generative AI Glossary: Your Comprehensive Guide to the Vocabulary of Generative AI
+Download Now
+
+
+
+
+
+
+
+
+Pricing
+
+
+
+
+
+
+
+
+
+
+          Menu
+        
+
+
+
+
+            Request a demo
+          
+
+
+
+            Start for free
+          
+
+
+
+
+
+
+
+
+Platform
+
+
+
+AI PLATFORM
+
+
+Platform Overview New
+The Production AI Platform
+
+
+
+
+AI Lake New
+A single place to track all your AI projects
+
+
+Data Preparation
+
+
+Automated data labeling - Scribe
+AI speeds labeling, LabelForce assures quality
+
+
+
+
+Data search & management - Spacetime
+Patented tech streamlines data management
+
+
+Model Building
+
+
+Model training & evaluation - Enlight 
+Scalable AI training with user-friendly UI
+
+
+
+
+Model Operationalization
+
+
+Serverless inference - Armada
+Elastic inference optimizes compute costs
+
+
+
+
+AI workflows - Mesh
+Drag and drop engine links models
+
+
+
+
+Edge AI - Flare
+Edge version for low-power inference
+
+
+
+
+Modules - UI Modules New
+Make reusable web apps
+
+
+
+
+TECHNOLOGY
+
+Computer Vision
+
+
+
+Generative AI New
+
+
+
+Foundation Models New
+
+
+
+Natural Language Processing
+
+
+PROFESSIONAL SERVICES
+
+AI Lab New
+Generative AI Consulting Services
+
+
+
+LabelForce
+Data labeling services
+
+
+
+ModelForce
+Custom model building services
+
+
+
+
+
+
+
+Government
+
+
+
+Solutions
+
+
+
+BY INDUSTRY
+
+Government
+
+
+
+Manufacturing
+
+
+
+Media & Entertainment
+
+
+
+Retail & E-Commerce
+
+
+
+Transportation
+
+
+
+See all Industries
+
+
+
+
+BY USE CASE
+
+Content Moderation
+
+
+
+Digital Asset Management
+
+
+
+Intelligence, Surveillance
+
+
+
+Product Discovery
+
+
+
+Visual Inspection
+
+
+
+See all use cases
+
+
+
+
+
+
+
+
+
+
+Explore Community
+
+
+
+
+
+Explore
+
+
+
+Image Models
+
+
+
+Text Models
+
+
+
+Audio Models
+
+
+
+Workflows
+
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+About
+
+
+
+Careers We’re hiring!
+
+
+
+Customers
+
+
+
+Events
+
+
+
+Partners
+
+
+
+Press
+
+
+
+Tech Awards
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+API Status
+
+
+
+Blog
+
+
+
+Docs
+
+
+
+Resource Library
+
+
+
+
+Slack
+
+
+
+YouTube 
+
+
+
+Support
+
+
+
+
+
+
+
+
+
+Pricing
+
+
+
+Join our community of Clarifai users. Explore and share models, workflows and more.
+
+
+                Learn more
+              
+
+
+
+
+
+
+              Login
+            
+
+
+
+              Start for free
+            
+
+
+
+
+            Schedule a Demo
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+📣 LLM Hackathon with Streamlit and Clarifai: September 5-19, 2023. 🚀 
+
+          Join now
+        
+
+
+
+
+Join Slack Group  
+
+
+
+
+            Login
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The World's AITM
+
+
+IDC Leader
+Forrester Leader
+Computer Vision
+NLP
+Audio Recognition
+
+
+
+
+Clarifai was named a Computer Vision AI Platform Leader by IDC MarketScape. Read their vendor assessment.
+
+
+            Download IDC report
+          
+
+            Request a demo
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The World's AI™ 
+            
+
+
+Generative AI
+
+
+Production AI
+
+
+Computer Vision
+
+
+Foundation Models
+
+
+LLMs
+
+
+Auto Data Labeling
+
+
+Model Building
+
+
+Model Ops
+
+
+AI Lake
+
+
+AI Strategy
+
+
+
+
+
+
+Where developers unleash Production AI with an enterprise-grade Generative AI platform for computer vision & LLMs
+
+
+
+            Request a demo
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Image classification
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Semantic segmentation
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Object tracking
+              
+
+
+
+
+
+
+
+Awarded by
+
+
+
+
+
+
+
+
+
+                IDC MarketScape Computer Vision AI Software Platforms 2022 Leader
+              
+
+
+
+
+
+
+
+
+                Best Innovation in Computer Vision - Best AI Product in Government 2022
+              
+
+
+
+
+
+
+
+
+                G2 Easiest Admin Summer 2023
+              
+
+
+
+
+
+
+
+
+                The Forrester New WaveTM Leader - Computer Vision Platforms
+              
+
+
+
+
+
+
+
+
+                AI 100 - Emerging private companies working on ground braking AI Tech
+              
+
+
+
+
+
+
+
+
+
+
+
+
+                IDC MarketScape Computer Vision AI Software Platforms 2022 Leader
+              
+
+
+
+
+
+
+
+
+                Best Innovation in Computer Vision - Best AI Product in Government 2022
+              
+
+
+
+
+
+
+
+
+                G2 Easiest Admin Summer 2023
+              
+
+
+
+
+
+
+
+
+                The Forrester New WaveTM Leader - Computer Vision Platforms
+              
+
+
+
+
+
+
+
+
+                AI 100 - Emerging private companies working on ground braking AI Tech
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The fastest, production-grade, deep learning AI platform for developers and ML engineers
+
+
+
+For Developers
+Build intelligent apps faster with pre-built AI models and powerful machine learning AI. Create an account to access our API and get started today
+
+          Learn more 
+
+
+
+
+
+For ML Engineers
+Use one data store with unlimited customization for data prep, visual exploration, inference orchestration, workflow/chain development, model fine tuning.
+
+
+
+
+For Enterprises
+Use AI to turn your big data into knowledge. Drive profitable growth. Increase productivity. Make AI a core competency within your organization.
+
+          Learn more 
+
+
+
+
+
+For Government
+Build secure, trustworthy and explainable AI. Increase the value of your unstructured data gain the fastest time to knowledge.
+
+          Learn more 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unified lifecycle platform to accelerate AI Building and Generative AI in production
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Input
+Label
+Search
+Train
+Predict
+Workflows
+Edge
+
+
+Overview 
+
+
+
+
+
+
+
+
+
+Input
+All your data in one place 
+Process any volume of unstructured image, video, text and audio data. AI indexes your data as they are added. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scribe Automated Data Labeling
+Label data 100x faster 
+Auto-annotate your input data. Label with AI Assist. Train, eval, iterate and deploy - all in one integrated tool. 
+
+
+
+          Learn more 
+
+
+
+
+
+
+
+
+
+
+
+
+Spacetime Data Management and Search
+Find and manage your data at scale 
+Fuse AI and search to manage your unstructured data at scale. See inside your data to identify where and when objects appear in images, videos , audio, and text. 
+
+
+
+          Learn more 
+
+
+
+
+
+
+
+
+
+
+
+
+Enlight Train and Eval
+Custom AI for any use case 
+Train and evaluate models using user-friendly tools that make it fast for your business to develop custom AI. 
+
+
+
+          Learn more 
+
+
+
+
+
+
+
+
+
+
+
+
+Armada Elastic Inference
+MLOps without DevOps (you're welcome) 
+Use AI to see what's in your unstructured data. Scale up and down as needed. Deploy anywhere. 
+
+
+
+          Learn more 
+
+
+
+
+
+
+
+
+
+
+
+
+Mesh Workflows
+Connect AI models to perform complex operations 
+Transform your data with configurable workflows.  
+
+
+
+          Learn more 
+
+
+
+
+
+
+
+
+
+
+
+
+Flare Edge
+AI at the edge 
+Analyze video feeds faster and more accurately on-premise, air-gapped, or off the grid. 
+
+
+
+          Learn more 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Start building AI applications today 
+
+
+
+    Create a free account 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Python
+Java
+Node.js
+PHP
+Go
+Rust
+C++
+c#
+Swift
+
+
+
+
+response = stub.PostModelOutputs(
+    service_pb2.PostModelOutputsRequest(
+        model_id="{THE_MODEL_ID}",
+        inputs=[
+            resources_pb2.Input(
+                data=resources_pb2.Data(
+                    image=resources_pb2.Image(
+                        url="https://samples.clarifai.com/metro-north.jpg"
+                    )
+                )
+            )
+        ]
+    ),
+    metadata=metadata
+)
+print("Predicted concepts:")
+for concept in response.outputs[0].data.concepts:
+    print(concept.name + " " + str(concept.value))
+
+
+MultiOutputResponse response = stub.postModelOutputs(    PostModelOutputsRequest.newBuilder()        .setModelId("aaa03c23b3724a16a56b629203edc62c")        .addInputs(            Input.newBuilder().setData(                Data.newBuilder().setImage(                    Image.newBuilder().setUrl("YOUR_IMAGE_URL")                )            )        )        .build());
+
+
+const request = new service.PostModelOutputsRequest();
+request.setModelId("aaa03c23b3724a16a56b629203edc62c");
+request.addInputs(
+    new resources.Input()
+        .setData(
+            new resources.Data()
+                .setImage(
+                    new resources.Image()
+                        .setUrl("https://samples.clarifai.com/dog2.jpeg")
+                )
+        )
+)
+
+
+[$response, $status] = $client->PostModelOutputs(    new PostModelOutputsRequest([        'model_id' => 'aaa03c23b3724a16a56b629203edc62c',          'inputs' => [            new Input([                'data' => new Data([                    'image' => new Image([                        'url' => 'https://samples.clarifai.com/dog2.jpeg'                    ])                ])            ])        ]    ]),    $metadata)->wait();
+
+
+var GeneralModelId = "aaa03c23b3724a16a56b629203edc62c"response, err := client.PostModelOutputs(    ctx,    &api.PostModelOutputsRequest{        ModelId: GeneralModelId,        Inputs: []*api.Input{            {                Data: &api.Data{                    Image: &api.Image{                        Url: "https://samples.clarifai.com/dog2.jpeg",                    },                },            },        },    },)
+
+
+const GENERAL_MODEL_ID: &str = "aaa03c23b3724a16a56b629203edc62c";let request = service::PostModelOutputsRequest {    model_id: GENERAL_MODEL_ID.to_string(),    inputs: RepeatedField::from(vec![resources::Input {        data: SingularPtrField::some(resources::Data {            image: SingularPtrField::some(resources::Image {                url: "https://samples.clarifai.com/dog2.jpeg".to_string(),                ..Default::default()            }),            ..Default::default()        }),        ..Default::default()    }]),    ..Default::default()};
+
+
+string GENERAL_MODEL_ID = "aaa03c23b3724a16a56b629203edc62c";PostModelOutputsRequest request;request.set_model_id(GENERAL_MODEL_ID);Input* input = request.add_inputs();Data* data = input->mutable_data();Image* image = data->mutable_image();image->set_url("https://samples.clarifai.com/dog2.jpeg");MultiOutputResponse response;grpc::Status status = stub->PostModelOutputs(context.get(), request, &response);if (!status.ok()) {    cout << "Failure: " << status.error_code() << " " << status.error_message() << endl;    exit(1);}if (response.status().code() != status::StatusCode::SUCCESS) {    cout << "Error response: " << response.status().code() << " " << response.status().description() << " " << response.status().details() << endl;    exit(1);}Data response_data = response.outputs(0).data();cout << "Predicted concepts:" << endl;for (int i = 0; i < response_data.concepts_size(); i++) {    const Concept& c = response_data.concepts(i);    cout << "\t" << c.name() << ": " << c.value() << endl;}
+
+
+var response = client.PostModelOutputs(new PostModelOutputsRequest(){ModelId = "aaa03c23b3724a16a56b629203edc62c",Inputs ={new List<Input>(){new Input(){Data = new Data(){Image = new Image(){Url = "https://samples.clarifai.com/dog2.jpeg"}}}}}},metadata);
+
+
+let response = try client.postModelOutputs(    Clarifai_Api_PostModelOutputsRequest.with {        $0.modelID = "aaa03c23b3724a16a56b629203edc62c";        $0.inputs = [            Clarifai_Api_Input.with {                $0.data = Clarifai_Api_Data.with {                    $0.image = Clarifai_Api_Image.with {                        $0.url = "https://samples.clarifai.com/dog2.jpeg"                    }                }            }        ]    }).response.wait()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Build AI solutions for all your use cases
+
+
+
+
+
+
+ Metadata Generation
+Improve content organization and search and discovery with computer vision AI.
+
+
+
+
+
+ Product Recommendations
+Suggest similar, relevant product suggestions.
+
+
+
+
+
+ Visual Search
+Search for assets and products using images rather than text.
+
+
+
+
+
+ Content Moderation
+Monitor user-generated content for offensive or toxic content.
+
+
+
+
+ Demographics Analysis
+Gain customer and audience insights.
+
+
+
+
+ Sentiment Analysis
+Analyze user reviews and social media for better customer understanding.
+
+
+
+
+
+ Document and Media Exploitation
+Extract, translate, analyze and use seized physical and digital documents, and media.
+
+
+
+
+
+
+
+
+
+ Document Question & Answer
+Chat with or query your private documents with Generative AI. 
+
+
+
+
+
+ Visual Inspection
+Monitor the performance and condition of equipment to reduce failures.
+
+
+
+
+
+ Intelligence, Surveillance and Reconnaissance
+Detect and identify people and activity with full motion video analysis.
+
+
+
+
+
+ Broad Area Search
+Scan large geographical areas for objects or events of interest using SAR and multispectral imagery.
+
+
+
+
+
+ Full Motion Video Analysis
+Detect objects and track people faster in video streams.
+
+
+
+
+
+ Facial Recognition
+Match human faces across images and videos at scale.
+
+
+
+
+ Video Security
+Identify threats, faces, vehicles, weapons and objects on top of live or asynchronous video streams.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The world’s best teams build with Clarifai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“Clarifai provides an end-to-end platform with the easiest to use UI and API in the market. They’ve accelerated our AI development at scale allowing 1,000's of workers to label data and train 100,000's of AI models with significantly less development effort, and expedited go-to-market.”
+
+
+Sr. Director of Catalog OperationsE-commerce Unicorn
+
+
+
+
+
+
+“We evaluated the trillion dollar companies and a few niche retail players for our customer facing visual search use case. Clarifai was much easier to use than the trillion dollar companies, and their AI significantly outperformed both the niche players and the big guys in accuracy while having inference speeds 7x faster. The performance and the flexibility of the Clarifai platform has our executives exploring numerous other use cases to be powered by the Clarifai platform.”
+
+
+Director of Product ManagementFortune 500 Retailer
+
+
+
+
+
+
+“A pioneer in deep learning-based computer vision, Clarifai can tackle near-real-time visual search, facial recognition use cases, and deployment in the most secure, air-gapped environments that nearly all other vendors can’t match."
+
+
+
+
+
+
+
+
+
+
+"Clarifai is a true leader in AI applications for DAM and serves our users by improving the searchability and discoverability of their content. Today, Widen users gain the ability to search by image, which is a game-changer during time-sensitive projects. By saving countless hours for users, this partnership with Clarifai improves the Widen experience and delivers true ROI for our customers."
+
+
+Jamie LiechtyWiden
+
+
+
+
+
+
+
+"My organization has worked with Clarifai for almost three years, close to a daily basis, and the engagements and collaboration are top notch. The Clarifai platform and capabilities can be adapted, trained, integrated and deployed to a variety of problem sets with stellar performance. We chose Clarifai over Microsoft, Google, AWS and IBM because of their production functionality and performance, product vision and their strong consulting partnership."
+
+
+Head of CatalogFortune 500 Company
+
+
+
+
+
+
+"The team was a pleasure to work with. We had a highly dynamic (some would say chaotic) deployment schedule, but the Clarifai team did their best to be malleable to our needs. They were professional, engaging and collaborative. Through constant interaction with us, they iterated on their solution and developed novel approaches to our problem."
+
+
+Head of TechOpsGlobal 2000 Airline
+
+
+
+
+
+
+Customers trust Clarifai to solve their most challenging business use cases.Read Customer Stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INDUSTRIES
+
+
+
+
+Aviation
+Ecommerce
+Manufacturing
+Public Sector
+Retail
+View more industries
+
+
+
+
+
+
+SOLUTIONS
+
+
+
+
+Content Moderation
+Digital Asset Management
+Facial Recognition
+Full Motion Video
+ISR
+Predictive Maintenance
+Visual Search
+
+
+
+
+
+
+PLATFORM
+
+
+
+
+Armada Predict
+Custom Model Building
+Data Labeling Services
+Enlight Train
+Flare Edge
+Mesh Workflows
+Platform Overview
+Pricing
+Scribe Label
+Spacetime Search
+
+
+
+
+
+
+COMPANY
+
+
+
+
+About Clarifai
+Awards
+Blog
+Careers
+Contact us
+Customers
+Events
+Partners
+Press
+Resources
+
+
+
+
+
+
+SUPPORT
+
+
+
+
+API Status
+Clarifai Community
+Contact Support
+Documentation
+Help Center
+Slack Group 
+
+
+
+
+
+
+
+
+
+© 2023 Clarifai, Inc. Terms of Service Content TakedownPrivacy Policy
+
+
+
+866.464.7326
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

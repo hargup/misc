@@ -1,0 +1,320 @@
+
+
+Artur Grigorev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artur Grigorev
+
+
+                      Hello!
+                      
+
+                      I am a Ph.D. student at the Max Planck ETH Center for Learning Systems (CLS), 
+                      jointly supervised by Otmar Hilliges (ETH)
+                      and Michael J. Black (MPI).
+                      
+                      My research interests lay in the area of building photo-realistic human avatars.
+                      Currently, I am focused on the task of modelling and reconstructing human clothing. 
+                      I am most interested in the challenging task of modelling loose garments, such as skirts, dresses and unbuttoned shirts
+                      
+
+                      Prior to my Ph.D., I was working as a research engineer at 
+                      Samsung AI Center Moscow. 
+                      
+                      I obtained my Master's Degree in Data Science from 
+                      
+                        Skolkovo Institute of Science and Technology 
+                        and my Bachelor's Degree in Software Engineering from 
+                        Higher School of Economics Moscow
+
+
+                      You can get in touch with me using the following links:
+                    
+
+
+
+
+
+
+
+
+
+
+
+PROJECTS
+
+
+
+
+
+
+
+
+
+
+
+
+
+HOOD: Hierarchical Graphs for Generalized Modelling of Clothing Dynamics
+CVPR 2023
+
+                    
+                          We propose a method that leverages graph neural
+                          networks, multi-level message passing, and unsupervised
+                          training to enable real-time prediction of realistic clothing
+                          dynamics. 
+                          
+                          Whereas existing methods based on linear blend
+                          skinning must be trained for specific garments, our method
+                          is agnostic to body shape and applies to tight-fitting garments as well as loose, free-flowing clothing. Our method
+                          furthermore handles changes in topology (e.g., garments
+                          with buttons or zippers) and material properties at inference time. 
+                          
+                          As one key contribution, we propose a hierarchical message-passing scheme that efficiently propagates stiff
+                          stretching modes while preserving local detail. We empirically show that our method outperforms strong baselines
+                          quantitatively and that its results are perceived as more realistic than state-of-the-art methods
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Point-Based Modeling of Human Clothing
+ICCV 2021
+
+A new approach to human clothing modeling based on point clouds. 
+                              
+                              Within this approach, we learn a deep model that can predict point clouds of various outfits, 
+                              for various human poses, and for various human body shapes. 
+                              Notably, outfits of various types and topologies can be handled by the same model. 
+                              Using the learned model, we can infer the geometry of new outfits from as little as a single image, 
+                              and perform outfit retargeting to new bodies in new poses. 
+                              
+                              We complement our geometric model with appearance modeling that uses the point cloud geometry 
+                              as a geometric scaffolding and employs neural point-based graphics to 
+                              capture outfit appearance from videos and to re-render the captured outfits. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+StylePeople: A Generative Model of Fullbody Human Avatars
+CVPR 2021
+
+We propose a new type of full-body human avatars, 
+                              which combines parametric mesh-based body model with a neural texture. 
+                              
+                              We show that with the help of neural textures, such avatars can successfully model clothing and hair, 
+                              which usually poses a problem for mesh-based approaches. 
+                              We also show how these avatars can be created from multiple frames of a video using backpropagation. 
+                              
+                              We then propose a generative model for such avatars that can be trained from datasets of images 
+                              and videos of people. The generative model allows us to sample random avatars as well 
+                              as to create dressed avatars of people from one or few images.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coordinate-based Texture Inpainting for Pose-Guided Image Generation
+CVPR 2019
+A deep learning approach to pose-guided resynthesis of human photographs. 
+                                At the heart of the approach is the estimation of the complete body surface texture based on a single 
+                                photograph. Since the input photograph always observes only a part of the surface, 
+                                we suggest a new inpainting method that completes the texture of the human body. 
+                                
+
+                                Rather than working directly with colors of texture elements, the inpainting network estimates 
+                                an appropriate source location in the input image for each element of the body surface. 
+                                This correspondence field between the input image and the texture is then further warped 
+                                into the target image coordinate frame based on the desired pose, 
+                                effectively establishing the correspondence between the source and the target 
+                                view even when the pose change is drastic. 
+                                
+                                The final convolutional network then uses the established correspondence and all other 
+                                available information to synthesize the output image using a fully-convolutional 
+                                architecture with deformable convolutions. 
+                                
+                                We show the state-of-the-art results 
+                                for pose-guided image synthesis at the time of publishing. 
+                                Additionally, we demonstrate the performance of our system for garment transfer and 
+                                pose-guided face resynthesis.
+                            
+
+
+
+
+
+
+
+
+
+
+
+EXPERIENCE & EDUCATION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ph.D. Student
+Max Planck ETH Center for Learning Systems (CLS)
+                                Since May 2022
+Co-supervised by Otmar Hilliges 
+                              and Michael J. Black. 
+                              
+                              My main research interest are photo-realistic human avatars.
+                              My current project concerns modelling and reconstruction of human clothing. 
+                              I am especially interested in handling loose garments, such as skirts, dresses, unbuttoned shirts etc.,
+                              that do not follow the human body closely.
+                              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Research Engineer
+Samsung AI Canter (SAIC) Moscow
+                                May 2018 - Apr 2022
+I was a research engineer at Vision, Learning & Telepresence (VIOLET) 
+                                lab under the supervision of 
+                                  Victor Lempitsky. I was doing research in the area of photorealistic human avatars, 
+                                  which resulted in two first-author CVPR papers.
+                                I also co-authored one CVPR paper and one ICCV paper (see the list of projects above for details).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+M.Sc., Data Science
+Skolkovo Institute of Science and Technology (Skoltech)2017 - 2018
+Graduate Studies with focus on Data Analysis and Computer Vision. 
+                              Finished with exellence under the supervision of 
+                              Victor Lempitsky.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+B.Sc., Software Engineering
+Higher School of Economics (HSE) Moscow2013 - 2017
+Undergraduate studies focused on programming, software engineering and project management.
+
+
+
+
+
+
+
+
+
+
+ GET IN TOUCH 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

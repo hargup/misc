@@ -1,0 +1,45 @@
+Claypot AI | Platform for Real-time ML
+
+
+
+
+
+Work with usUnify Datafor Real-time AI.Latency costs money. Data staleness costs money.We unify your streaming and batch data to optimize for latency, cost, and correctness.Weâre still building, but we can keep you updated.Thank you! Your submission has been received!Oops! Something went wrong while submitting the form.Latency, cost, and correctnessData teams often start with batch processing because of cost and correctness. Over time, streaming is added for latency.Claypot works with both streaming and batch data, allowing you to choose to the best-performing data for each use case. If one-hour delay is good enough, we'll switch to batch. Things are changing fast and you need reaction in milliseconds?Â We'll switch to streaming.Our unified data abstraction makes it easy for you to leverage any data source to quickly experiment and deploy new AIÂ models. We especially shine for use cases where latency is critical such as customer support, fraud detection, dynamic pricing, and personalization.Improve business metrics, enable more use cases, while reducing computation and operational cost!Real-time Machine Learning: Challenges and SolutionsRead the articleWe're experienced in scalingMake data engineering more efficient and data science more powerfulChip Huyen
+
+
+
+
+
+
+
+
+
+
+
+
+Author of Designing Machine Learning Systems (Amazon #1 bestseller in AI)Zhenzhong Xu
+
+
+
+
+
+
+
+
+
+
+
+
+Led the streaming data platform team that serves over 2,000 data use cases at Netflix.Backed bywith founders and executives atIs latency hurting your business?Book a meetingWe learn from15,000+Â ML practitionersJoin our favourite communityWeâre not out yet,but we can keep you updated!Thank you! Your submission has been received!Oops! Something went wrong while submitting the form.Â©2023 by Claypot AIinfo@claypot.ai
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,458 @@
+
+
+
+
+
+
+Welcome! — Anaconda documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Ctrl+K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Site Navigation
+  
+
+
+
+                        Free
+                      
+
+
+
+                        Starter
+                      
+
+
+
+                        Pro
+                      
+
+
+
+                        Business
+                      
+
+
+
+                        Enterprise
+                      
+
+
+
+                        Excel
+                      
+
+
+
+                        Reference
+                      
+
+
+
+                    More
+                
+
+
+
+                        API
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Site Navigation
+  
+
+
+
+                        Free
+                      
+
+
+
+                        Starter
+                      
+
+
+
+                        Pro
+                      
+
+
+
+                        Business
+                      
+
+
+
+                        Enterprise
+                      
+
+
+
+                        Excel
+                      
+
+
+
+                        Reference
+                      
+
+
+
+                    More
+                
+
+
+
+                        API
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome!#
+Whether you want to build data science/machine learning models, deploy your work to production, or securely manage a team of engineers, Anaconda provides the tools necessary to succeed. This documentation is designed to aid in building your understanding of Anaconda software and assist with any operations you may need to perform to manage your organization’s users and resources.
+
+The following table lists the capabilities available for each tier of Anaconda for individuals and organizations. Depending on your set of problems, one bundle of capabilities may be better suited to your needs.
+
+
+
+
+
+
+
+
+
+
+Capabilities
+Free
+Starter
+Pro
+Business
+Enterprise
+
+
+
+Distribution & Packages
+Yes
+Yes
+Yes
+Yes
+Yes
+
+Navigator
+Yes
+Yes
+Yes
+Yes
+Yes
+
+Anaconda Community
+Yes
+Yes
+Yes
+Yes
+Yes
+
+Cloud Notebooks
+5GB
+10GB
+20GB
+20GB
+20GB
+
+Anaconda Learning
+Limited
+Yes
+Yes
+Yes
+Yes
+
+Curated Repository
+—
+—
+Yes
+Yes
+Yes
+
+Signature Verification
+—
+—
+Yes
+Yes
+Yes
+
+CVE Visibility
+—
+—
+—
+Yes
+Yes
+
+Policy Filters
+—
+—
+—
+Yes
+Yes
+
+Virtual Channels
+—
+—
+—
+Yes
+Yes
+
+Collaboration
+—
+—
+—
+—
+Yes
+
+Deployment
+—
+—
+—
+—
+Yes
+
+
+
+
+
+Distribution & Packages#
+Anaconda® Distribution is a Python/R data science distribution containing conda. Conda is an environment and package manager that helps users manage the other 7,500+ open-source packages made available to them through the distribution.
+
+
+Navigator#
+Anaconda Navigator is a desktop graphical user interface (GUI) included in Anaconda® Distribution that allows you to launch applications and manage conda packages, environments, and channels without using command line interface (CLI) commands. Navigator can search for packages on Anaconda.org or in a local Anaconda Repository. It is available for Windows, macOS, and Linux.
+
+
+Anaconda Community#
+Engage with others in the Anaconda Community Forum and learn the basics and beyond with instructor-guided walkthroughs and lessons from Anaconda Learning.
+
+
+Cloud Notebooks#
+Anaconda Notebooks allows anyone, anywhere to begin their data science journey. Spin up awesome data science projects directly from your browser with all the packages and computing power you need.
+
+
+Anaconda Learning#
+Master the foundations of data science through a full library of structured, on-demand courses. Code along with your course instructors, develop projects, and save your progress directly inside Anaconda Learning.
+
+
+Curated Repository#
+Gain access to a curated, premium repository designed for business and enterprises. Includes tokenized access and guaranteed uptime SLAs.
+
+
+Signature Verification#
+Signature verification certifies the integrity and authenticity of packages downloaded from the Anaconda Repository.
+
+
+CVE Visibility#
+View CVE (Common Vulnerabilities and Exposures) data associated with your channels’ packages. Anaconda regularly pulls its CVE databases from the National Vulnerability Database (NVD) and the US National Institute of Standards and Technology (NIST) to minimize the risk of vulnerable software in our applications and web pages. Anaconda has an extensive and well-established process for curating CVEs, assessing whether or not packages that Anaconda built are affected by any CVEs, determining which versions in our repository are affected, and mitigating the vulnerability.
+
+CVE documentation for Business (Cloud)
+CVE documentation for Business (On-prem) and Enterprise
+
+
+
+Policy Filters#
+Apply policy filters to a channel to restrict the available packages that channel can source. You can filter packages by license, common vulnerability and exposure (CVE) score, CVE status, package age, and by using the conda spec.
+
+Policy filter documentation for Business (Cloud)
+Mirroring filter documentation for Business (On-prem) and Enterprise
+
+
+
+Virtual Channels#
+Customize virtual copies of Anaconda-curated and -maintained repositories for your organization with policy filters, allowing for multiple variances of a repository’s package set.
+
+Channel documentation for Business (Cloud)
+Channel documentation for Business (On-prem)
+Channel documentation for Enterprise
+
+
+
+Collaboration#
+Share your projects with authorized users for increased collaboration on enterprise-level efforts. Connect to an external version control repository and fine-tune user access on the individual project and repository level.
+
+
+Deployment#
+Publish your interactive data visualizations, live notebooks, and machine learning models in a self-contained deployment with all the necessary dependencies. View activity and system logs to gain insights into your user services and troubleshoot issues.
+
+
+
+
+
+
+
+
+
+
+
+next
+Free tier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+      © Copyright 2018, Anaconda, Inc.
+      
+
+
+
+
+    Created using Sphinx 5.0.2.
+    
+
+
+
+
+
+  Built with the PyData Sphinx Theme 0.13.3.
+
+
+
+
+

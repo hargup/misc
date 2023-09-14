@@ -1,0 +1,700 @@
+
+
+
+
+
+	BDD Testing & Collaboration Tools for Teams | Cucumber
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open Source
+
+
+
+
+
+
+
+
+Pro
+
+
+
+
+
+
+Cucumber Open
+Validate executable specifications against your code on any
+                                            modern development stack
+Contribute
+Sponsors
+Slack
+
+
+CucumberStudio
+Empower your team to collaborate and harness the power of
+                                            BDD
+Cucumber for Jira
+Strengthen BDD collaboration and create living documentation
+                                            in Jira
+
+
+
+
+
+
+
+Docs
+
+
+
+Cucumber Open Docs
+GETTING STARTED
+
+
+Installation
+Gherkin Syntax
+
+API Docs
+3rd Party Tools
+
+
+
+
+PRO DOCUMENTATION
+CucumberStudio
+
+
+
+
+Support
+
+
+Community
+
+
+BDD School
+
+
+Cucumber for Jira
+
+
+
+
+
+Learn BDD
+
+
+Resources
+
+
+
+Resources
+
+
+
+
+Case Studies
+
+
+Webinar
+
+
+
+
+Ebook
+
+
+Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Login
+
+
+Try CucumberStudio
+
+
+
+
+Follow us on Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tools & techniques that elevate teams to greatness
+It’s simple. Whether open source or commercial, our collaboration tools will boost your engineering team's performance by employing Behavior-Driven Development (BDD). And with our world-class training, take it to places it’s never been. 
+  View Docs Explore Tools
+
+
+
+
+
+
+
+
+
+Take your automated UI tests further with VisualTest
+Achieve developer visibility with your apps during the design-and-build phase with next-generation machine learning and artificial intelligence.
+Free plans available here
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cucumber Open
+Validate executable specifications against your code on any modern development stack. 40+ million open source downloads, the #1 tool for BDD.  
+Get Started Now
+
+
+
+CucumberStudio
+Formerly HipTest: CucumberStudio is the leading collaboration platform for BDD - an easy-to-use tool to define ideas, test code, and learn in production from real-time insight.
+Start Free Trial
+Learn More
+
+
+
+Cucumber School
+Develop the skills and confidence your team needs to make the most of BDD and Cucumber, with world-class training and online tutorials.
+Learn More
+
+
+
+
+
+
+
+Loved by all • Big & Small
+Thousands of teams worldwide trust Cucumber to deliver better products, faster.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+Strengthen your collaboration with Cucumber.
+Define the feature files with all your stakeholders using Behavior-Driven Development (BDD). Automatically create documentation that’s up to date and easily shareable.
+
+
+Explore Tools  
+
+
+
+    CollaborationBridge the gap between business and technical people by collaborating on executable specifications.  Learn about CucumberStudio      BDDLearn how to encourage collaboration across roles and work in rapid, small iterations to increase feedback and flow.  Sign up for Cucumber School      Automation Accelerate development using BDD specifications that double as automated tests.  Learn about Cucumber Open      Living DocumentationGet your team aligned with living documentation defining how your software will work. Learn about Cucumber for Jira      Git IntegrationCucumberStudio connects to your source control system, for BDD documentation that's always up to date. Learn about CucumberStudio       GherkinEmpower everyone on the team to collaborate with our integrated Gherkin editor.  Learn about CucumberStudio 
+
+
+1
+2
+3
+4
+5
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why Cucumber?
+Cucumber Open is the world’s leading tool for BDD. Work faster and smarter than your competition by supporting a team-centric, cross-functional workflow. 
+
+
+Cucumber Community
+Cucumber School
+Integrations
+
+Cucumber CommunityCucumber SchoolIntegrations
+
+
+ Slack The Cucumber community Slack is a friendly and helpful resource. Chat with other users and get help and feedback quickly. Join Slack Channel    SmartBear Community A group of more than 80,000 development, quality, and operations experts just like you. Join Us   Open Source Follow the development of Cucumber Open on GitHub. We're always looking for new contributors. Browse Repos 
+
+
+1
+2
+3
+
+
+
+
+
+ Cucumber School Online Develop the skills and confidence you need to make the most of BDD and Cucumber, with FREE world-class training and online tutorials. Learn More    Cucumber School Live This hands-on day gives developers and test engineers the practical grounding to use Cucumber to validate and automate requirements. Learn More    Public Courses  When you want to learn a new technique, having regular contact with an expert coach is the proven way to do it. Learn More    Events Making the transition to BDD across an enterprise can be daunting. We've been there, and can provide you with guidance. Learn more 
+
+
+1
+2
+3
+4
+
+
+
+
+
+ Zephyr for Jira Create, plan, execute, and track your BDD test scenarios to any JIRA Cloud project  Learn More    TestComplete Importing BDD scenarios from CucumberStuido into your TestComplete project. Learn More    Jira Navigate seamlessly between Jira issues and CucumberStudio scenarios. Learn More    Slack Improve communication and track test execution progress. Learn More 
+
+
+1
+2
+3
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Success Stories
+See Why Teams Choose Cucumber For BDD
+
+
+“The way the course was tailored to us was terrific - Seb continually asked if we were going in the right direction and flexed the course to account for our feedback. You could almost say it was iterative :-) I can’t think of anything I’d suggest to improve the course.”
+
+Toby Dykes
+Production Director
+
+
+
+
+Case Studies
+
+Discover how Flowbird successfully used Behavior-Driven Development and CucumberStudio for a huge project for the city of Helsinki.
+Read Case Study
+
+Learn how Ouest France leverages Behavior-Driven Development with CucumberStudio to completely redesign their website and eliminate hotfixes.
+Read Case Study
+
+
+
+
+
+
+
+
+
+
+
+
+
+SmartBear is committed to Open Source development. Create more with us.
+Join the SmartBear Community
+
+
+
+
+  
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Start your free trial today
+Build quality, don’t just test for it. Try CucumberStudio for free.
+
+
+Bridge the gap between business and development using BDD 
+Decrease rework with test automation 
+
+
+Get real-time insights with living documentation 
+Seamless integration with Git 
+
+
+Try CucumberStudio
+14-day trial, no credit card required
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Explore SmartBear Products
+                                
+
+
+
+
+
+
+
+
+AlertSite
+                                            
+
+
+AQTime Pro
+                                            
+
+
+BitBar
+
+
+BugSnag
+
+
+Capture for Jira
+
+
+Collaborator
+
+
+
+
+Cucumber for Jira
+
+
+Cucumber Open
+
+
+LoadNinja
+
+
+Pact
+
+
+PactFlow
+
+
+ReadyAPI
+
+
+
+
+SoapUI
+
+
+Swagger
+
+
+SwaggerHub
+
+
+SwaggerHub Explore
+
+
+TestComplete
+
+
+TestEngine
+
+
+
+
+TestLeft
+
+
+VisualTest
+
+
+Zephyr
+
+
+
+
+
+
+
+
+
+
+
+
+About Us |
+                                    
+Careers
+                                        | 
+Solutions
+                                        | 
+Partners
+                                        | 
+
+Responsibility
+
+
+
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+
+
+ | 
++1 617-684-2600 USA |
+                                    
++353 91 398300 EUR |
+                                    
++61 391929960 AUS |
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2023 SmartBear Software. All Rights Reserved.
+
+
+Privacy | 
+Terms of Use | 
+Site Map | 
+Website Terms of Use | 
+Security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

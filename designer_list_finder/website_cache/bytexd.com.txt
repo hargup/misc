@@ -1,0 +1,621 @@
+
+
+
+
+
+
+
+ByteXD - Practical Linux, Web Dev & AI Tools Tutorials
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Home
+Linux Tutorials
+
+Linux Commands
+Ubuntu
+RHEL
+Debian
+
+
+General Tutorials
+
+Miscellaneous
+Website Setup
+Machine Learning
+
+
+Knowledge Hubs
+
+Desktop Environments
+
+
+Hardware
+tl;dr AI News
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Home
+Linux Tutorials
+
+Linux Commands
+Ubuntu
+RHEL
+Debian
+
+
+General Tutorials
+
+Miscellaneous
+Website Setup
+Machine Learning
+
+
+Knowledge Hubs
+
+Desktop Environments
+
+
+Hardware
+tl;dr AI News
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search for:
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+WWeb Hosting 
+4 Best Cheap High-RAM VPS (2023)
+byEdXDAugust 27, 2023
+
+The digital landscape is rapidly evolving, but RAM remains a key factor for optimal website and application performance.…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LLinux
+
+
+
+
+ 
+
+Read More
+8 minute read 
+
+
+
+
+
+
+How to Connect to a VPS (Linux & Windows) with RDP or SSHbyEdXDAugust 16, 2023 
+
+
+Connecting remotely to your VPS or dedicated server is an essential skill for managing your online projects and… 
+
+
+
+
+
+
+WWeb Hosting
+
+
+
+
+ 
+
+Read More
+38 minute read 
+
+
+
+
+
+
+7 Types of Web Hosting Explained: Uses & Key DifferencesbyEdXDAugust 9, 2023 
+
+
+You probably want to launch your own website but you’re stuck at the part where you have to… 
+
+
+
+
+
+
+AAI
+
+
+
+
+ 
+
+Read More
+5 minute read 
+
+
+
+
+
+
+Get Started with OpenAI Shap-E to Generate 3D Objects from Text & ImagesbyEdXDMay 6, 2023 
+
+
+OpenAI has just released Shap-E, a generative model for creating 3D assets based on text prompts and images.… 
+
+
+
+
+
+
+MMachine Learning
+
+
+
+
+ 
+
+Read More
+7 minute read 
+
+
+
+
+
+
+Get Started With The ChatGPT API: What Is It & How To Use ItbyEdXDApril 17, 2023 
+
+
+ChatGPT is an advanced language model developed by OpenAI, based on the powerful GPT-4 architecture. It is designed… 
+
+
+
+
+
+
+MMachine Learning
+
+
+
+
+ 
+
+Read More
+9 minute read 
+
+
+
+
+
+
+Get Started Using BabyAGI for Beginners: Setup & UsagebyEdXDApril 15, 2023 
+
+
+BabyAGI is an easy-to-use Python script that helps automate brainstorming and task management. Given a specific goal (objective)… 
+
+
+
+
+
+
+MMachine Learning
+
+
+
+
+ 
+
+Read More
+15 minute read 
+
+
+
+
+
+
+Getting Started with Auto-GPT for Beginners: Setup & UsagebyEdXDMay 12, 2023 
+
+
+Auto-GPT is an experimental open-source application that shows off the abilities of the well-known GPT language model from… 
+
+
+
+
+
+
+MMiscellaneous
+
+
+
+
+ 
+
+Read More
+2 minute read 
+
+
+
+
+
+
+Resolving Git Authentication Issues Despite Successful ‘gh auth login’ in GitHub CLIbyGeorge A.April 10, 2023 
+
+
+The gh command asks for authentication even though gh auth login was successfully used, and the machine is… 
+
+
+
+
+
+
+MMachine Learning
+
+
+
+
+ 
+
+Read More
+3 minute read 
+
+
+
+
+
+
+Get Started with Facebook Segment Anything (SAM) in ColabbyEdXDApril 14, 2023 
+
+
+Facebook’s Segment Anything Model (SAM) is a new and open-source state of the art computer vision model designed… 
+
+
+
+
+
+
+LLinux
+
+
+
+
+ 
+
+Read More
+3 minute read 
+
+
+
+
+
+
+Fix Virtualenvwrapper workon/mkvirtualenv: command not foundbyEdXDApril 9, 2023 
+
+
+In this tutorial we’ll cover how to fix the mkvirtualenv: command not found or workon: command not founderror… 
+
+
+
+
+
+
+WWebsite Setup
+
+
+
+
+ 
+
+Read More
+3 minute read 
+
+
+
+
+
+
+Nginx: Laravel App in a Reverse Proxy, Preserve URLbyGeorge A.May 7, 2023 
+
+
+In this tutorial, we’ll explain how to access a remote Laravel 10 app through a reverse proxy, from… 
+
+
+
+
+
+
+LLinux
+
+
+
+
+ 
+
+Read More
+6 minute read 
+
+
+
+
+
+
+How To Use Find with atime, ctime, mtime, amin, cmin, mminbyEdXDFebruary 17, 2023 
+
+
+In this article you will learn how to find files based on the last time they were accessed,… 
+
+
+
+
+
+
+MMachine Learning
+
+
+
+
+ 
+
+Read More
+25 minute read 
+
+
+
+
+
+
+Get Started with Scikit-Learn: A Machine Learning GuidebyMahmud Hasan SaikotJanuary 24, 2023 
+
+
+Scikit-learn, sometimes referred to as sklearn, is a Python machine learning framework that simplifies and speeds up the… 
+
+
+
+
+
+
+
+Posts navigation
+1
+2
+…
+29
+Next
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+© 2023 ByteXD.com 
+
+
+Contact
+About Us
+Sitemap
+Privacy Policy
+Terms and Conditions
+Affiliate Disclosure
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

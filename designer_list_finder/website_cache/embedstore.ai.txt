@@ -1,0 +1,1969 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GitHub - embedchain/embedchain: Framework to easily create LLM powered bots over any dataset.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+
+
+
+
+
+
+            Sign up
+          
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Product
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Actions
+        Automate any workflow
+      
+
+
+
+
+
+
+
+Packages
+        Host and manage packages
+      
+
+
+
+
+
+
+
+Security
+        Find and fix vulnerabilities
+      
+
+
+
+
+
+
+
+Codespaces
+        Instant dev environments
+      
+
+
+
+
+
+
+
+Copilot
+        Write better code with AI
+      
+
+
+
+
+
+
+
+Code review
+        Manage code changes
+      
+
+
+
+
+
+
+
+Issues
+        Plan and track work
+      
+
+
+
+
+
+
+
+Discussions
+        Collaborate outside of code
+      
+
+
+
+
+Explore
+
+
+
+      All features
+
+    
+
+
+
+      Documentation
+
+    
+
+
+
+
+
+      GitHub Skills
+
+    
+
+
+
+
+
+      Blog
+
+    
+
+
+
+
+
+
+
+
+
+        Solutions
+        
+
+
+
+
+
+For
+
+
+
+      Enterprise
+
+    
+
+
+
+      Teams
+
+    
+
+
+
+      Startups
+
+    
+
+
+
+      Education
+
+    
+
+
+
+
+
+
+By Solution
+
+
+
+      CI/CD & Automation
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+
+
+      DevSecOps
+
+    
+
+
+
+
+
+
+Resources
+
+
+
+      Customer Stories
+
+    
+
+
+
+      White papers, Ebooks, Webinars
+
+    
+
+
+
+
+
+      Partners
+
+    
+
+
+
+
+
+
+
+
+
+        Open Source
+        
+
+
+
+
+
+
+
+
+
+GitHub Sponsors
+        Fund open source developers
+      
+
+
+
+
+
+
+
+
+The ReadME Project
+        GitHub community articles
+      
+
+
+
+
+Repositories
+
+
+
+      Topics
+
+    
+
+
+
+      Trending
+
+    
+
+
+
+      Collections
+
+    
+
+
+
+
+
+
+Pricing
+
+
+
+
+
+
+
+
+
+
+
+
+Search or jump to...
+
+
+
+
+
+
+
+Search code, repositories, users, issues, pull requests...
+
+ 
+
+
+
+
+        Search
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+              Search syntax tips
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Provide feedback
+      
+
+
+
+
+
+
+
+
+ 
+We read every piece of feedback, and take your input very seriously.
+
+
+Include my email address so I can be contacted
+
+     Cancel
+
+    Submit feedback
+
+
+
+
+
+
+
+
+
+
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Query
+
+
+
+            To see all available qualifiers, see our documentation.
+          
+ 
+
+
+
+
+     Cancel
+
+    Create saved search
+
+
+
+
+
+
+
+
+              Sign in
+            
+
+
+              Sign up
+            
+
+
+
+
+
+
+
+
+
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+
+ 
+
+
+ Dismiss alert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        embedchain
+ 
+/
+
+embedchain
+
+Public
+
+
+
+
+
+ 
+
+Notifications
+
+
+
+ 
+
+Fork
+    917
+
+
+
+
+ 
+
+
+          Star
+ 5k
+  
+
+
+
+
+
+
+
+
+
+
+        Framework to easily create LLM powered bots over any dataset.
+      
+
+
+
+
+
+embedchain.ai
+
+
+License
+
+
+
+
+
+     Apache-2.0 license
+    
+
+
+
+
+
+
+5k
+          stars
+ 
+
+
+
+917
+          forks
+ 
+
+
+
+Activity
+ 
+
+
+
+ 
+
+
+          Star
+
+  
+
+
+
+
+
+ 
+
+Notifications
+
+
+
+
+
+
+
+
+
+
+
+
+Code
+
+
+
+
+
+
+
+Issues
+94
+
+
+
+
+
+
+Pull requests
+26
+
+
+
+
+
+
+Discussions
+
+
+
+
+
+
+
+Actions
+
+
+
+
+
+
+
+Projects
+0
+
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+Insights
+
+
+
+ 
+ 
+
+
+
+More
+
+
+
+
+
+
+                  Code
+ 
+
+
+                  Issues
+ 
+
+
+                  Pull requests
+ 
+
+
+                  Discussions
+ 
+
+
+                  Actions
+ 
+
+
+                  Projects
+ 
+
+
+                  Security
+ 
+
+
+                  Insights
+ 
+
+
+
+
+
+
+
+embedchain/embedchain
+
+
+
+
+
+
+
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+
+
+
+
+
+
+
+
+
+
+
+main
+
+
+
+
+
+Switch branches/tags
+
+
+
+
+
+
+
+
+
+
+Branches
+Tags
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View all branches
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View all tags
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name already in use
+
+
+
+
+
+
+
+
+
+      A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+
+
+
+    Cancel
+
+    Create
+
+
+
+
+
+
+
+
+24
+branches
+
+
+
+
+
+35
+tags
+
+
+
+
+
+
+
+ 
+Code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Local
+
+
+
+ Codespaces
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  Clone
+
+
+
+
+
+            HTTPS
+ 
+            GitHub CLI
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Use Git or checkout with SVN using the web URL.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Work fast with our official CLI.
+      Learn more about the CLI.
+    
+
+
+
+
+
+
+
+
+    Open with GitHub Desktop
+
+
+
+
+
+
+    Download ZIP
+
+
+
+ 
+Sign In Required
+
+                Please
+                sign in
+                to use Codespaces.
+              
+
+
+
+
+Launching GitHub Desktop
+
+    If nothing happens, download GitHub Desktop and try again.
+  
+
+
+
+
+Launching GitHub Desktop
+
+    If nothing happens, download GitHub Desktop and try again.
+  
+
+
+
+
+Launching Xcode
+
+    If nothing happens, download Xcode and try again.
+  
+
+
+
+
+
+Launching Visual Studio Code
+Your codespace will open once ready.
+There was a problem preparing your codespace, please try again.
+
+
+
+
+
+
+
+
+
+
+
+
+Latest commit
+
+
+
+
+
+
+ 
+
+
+
+
+subhadip001
+     and 
+    Subhadip
+
+Changed Tesla url to Forbes Url (#615)
+
+
+
+
+        …
+      
+
+
+
+
+        b1af82e
+      
+
+Sep 14, 2023
+
+
+
+
+
+Changed Tesla url to Forbes Url (#615)
+
+Co-authored-by: Subhadip <mnhacker2001@gmail.com>
+
+b1af82e
+
+
+
+Git stats
+
+
+
+
+
+
+
+343
+
+                      commits
+                    
+
+
+
+
+
+
+
+Files
+Permalink
+
+
+
+
+    Failed to load latest commit information.
+
+
+  
+ 
+
+
+Type
+Name
+Latest commit message
+Commit time
+
+
+
+
+
+
+
+
+.github
+
+
+
+fix: improve CTA of book meeting (#496)
+
+
+
+August 28, 2023 08:19
+
+
+
+
+
+
+
+
+
+docs
+
+
+
+Changed Tesla url to Forbes Url (#615)
+
+
+
+September 14, 2023 08:57
+
+
+
+
+
+
+
+
+
+embedchain-js
+
+
+
+feat: add embedchain javascript package (#576)
+
+
+
+September 7, 2023 05:52
+
+
+
+
+
+
+
+
+
+embedchain
+
+
+
+Fix/dont print the entire text when data type is text (#605)
+
+
+
+September 14, 2023 02:06
+
+
+
+
+
+
+
+
+
+examples
+
+
+
+feat: Slack bot (#469)
+
+
+
+September 5, 2023 13:48
+
+
+
+
+
+
+
+
+
+notebooks
+
+
+
+docs: app config instead of init config (#308)
+
+
+
+July 18, 2023 12:46
+
+
+
+
+
+
+
+
+
+tests
+
+
+
+fix: elastic search (#600)
+
+
+
+September 13, 2023 23:28
+
+
+
+
+
+
+
+
+
+.env.example
+
+
+
+Add project tools and contributing guidelines (#281)
+
+
+
+July 15, 2023 21:08
+
+
+
+
+
+
+
+
+
+.gitignore
+
+
+
+docs: setup docs for embedchain (#287)
+
+
+
+July 16, 2023 16:33
+
+
+
+
+
+
+
+
+
+.pre-commit-config.yaml
+
+
+
+Add project tools and contributing guidelines (#281)
+
+
+
+July 15, 2023 21:08
+
+
+
+
+
+
+
+
+
+CITATION.cff
+
+
+
+Add citation (#137)
+
+
+
+July 5, 2023 16:21
+
+
+
+
+
+
+
+
+
+CONTRIBUTING.md
+
+
+
+docs: setup docs for embedchain (#287)
+
+
+
+July 16, 2023 16:33
+
+
+
+
+
+
+
+
+
+LICENSE
+
+
+
+Create LICENSE
+
+
+
+June 20, 2023 17:27
+
+
+
+
+
+
+
+
+
+Makefile
+
+
+
+chores: run lint and format (#284)
+
+
+
+July 15, 2023 21:34
+
+
+
+
+
+
+
+
+
+README.md
+
+
+
+Changed Tesla url to Forbes Url (#615)
+
+
+
+September 14, 2023 08:57
+
+
+
+
+
+
+
+
+
+poetry.toml
+
+
+
+Add project tools and contributing guidelines (#281)
+
+
+
+July 15, 2023 21:08
+
+
+
+
+
+
+
+
+
+pyproject.toml
+
+
+
+feat: bump version to 0.0.58 (#617)
+
+
+
+September 14, 2023 02:20
+
+
+
+
+    View code
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+embedchain
+Community
+🤝 Schedule a 1-on-1 Session
+🔧 Quick install
+🔍 Demo
+📖 Documentation
+💻 Usage
+Data Types Supported
+Queries
+🤝 Contributing
+Citation
+
+
+
+
+
+README.md
+
+
+
+
+embedchain
+
+
+
+
+
+
+Embedchain is a framework to easily create LLM powered bots over any dataset. If you want a javascript version, check out embedchain-js
+Community
+
+Join embedchain community on slack by accepting this invite
+
+🤝 Schedule a 1-on-1 Session
+Book a 1-on-1 Session with Taranjeet, the founder, to discuss any issues, provide feedback, or explore how we can improve Embedchain for you.
+🔧 Quick install
+pip install --upgrade embedchain
+🔍 Demo
+Try out embedchain in your browser:
+
+📖 Documentation
+The documentation for embedchain can be found at docs.embedchain.ai.
+💻 Usage
+Embedchain empowers you to create chatbot models similar to ChatGPT, using your own evolving dataset.
+Data Types Supported
+
+Youtube video
+PDF file
+Web page
+Sitemap
+Doc file
+Code documentation website loader
+Notion
+
+Queries
+For example, you can use Embedchain to create an Elon Musk bot using the following code:
+import os
+from embedchain import App
+
+# Create a bot instance
+os.environ["OPENAI_API_KEY"] = "YOUR API KEY"
+elon_bot = App()
+
+# Embed online resources
+elon_bot.add("https://en.wikipedia.org/wiki/Elon_Musk")
+elon_bot.add("https://www.forbes.com/profile/elon-musk")
+elon_bot.add("https://www.youtube.com/watch?v=MxZpaJK74Y4")
+
+# Query the bot
+elon_bot.query("How many companies does Elon Musk run and name those?")
+# Answer: Elon Musk currently runs several companies. As of my knowledge, he is the CEO and lead designer of SpaceX, the CEO and product architect of Tesla, Inc., the CEO and founder of Neuralink, and the CEO and founder of The Boring Company. However, please note that this information may change over time, so it's always good to verify the latest updates.
+🤝 Contributing
+Contributions are welcome! Please check out the issues on the repository, and feel free to open a pull request.
+For more information, please see the contributing guidelines.
+For more reference, please go through Development Guide and Documentation Guide.
+
+
+
+Citation
+If you utilize this repository, please consider citing it with:
+@misc{embedchain,
+  author = {Taranjeet Singh},
+  title = {Embedchain: Framework to easily create LLM powered bots over any dataset},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/embedchain/embedchain}},
+}
+
+
+
+
+
+
+
+
+
+
+About
+
+      Framework to easily create LLM powered bots over any dataset.
+    
+
+
+
+
+
+embedchain.ai
+
+
+Topics
+
+
+
+  python
+
+
+  ai
+
+
+  chatbot
+
+
+  hacktoberfest
+
+
+  llm
+
+
+  chatgpt
+
+
+
+Resources
+
+
+
+
+
+      Readme
+ 
+License
+
+
+
+
+
+     Apache-2.0 license
+    
+
+
+
+
+
+
+
+
+Activity
+
+Stars
+
+
+
+
+
+5k
+    stars
+
+Watchers
+
+
+
+
+
+42
+    watching
+
+Forks
+
+
+
+
+
+917
+    forks
+
+
+
+        Report repository
+ 
+
+
+
+
+
+
+    Releases
+      35
+
+
+
+
+
+
+
+0.0.58
+
+          Latest
+ 
+Sep 13, 2023
+
+ 
+
+        + 34 releases
+
+
+
+
+
+
+
+    Packages
+      0
+
+
+        No packages published 
+
+
+
+
+
+
+
+        Used by 56
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            + 48
+          
+
+
+
+
+
+
+
+    Contributors
+      40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      + 29 contributors
+
+
+
+
+
+Languages
+
+
+
+
+
+
+
+
+
+
+
+
+
+Python
+89.1%
+
+
+
+
+
+
+
+TypeScript
+8.1%
+
+
+
+
+
+
+
+Jupyter Notebook
+2.3%
+
+
+
+
+
+
+
+Other
+0.5%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer
+
+
+
+
+
+
+
+ 
+        © 2023 GitHub, Inc.
+        
+
+
+
+Footer navigation
+
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    You can’t perform that action at this time.
+  
+
+
+
+
+
+
+
+
+
+
+

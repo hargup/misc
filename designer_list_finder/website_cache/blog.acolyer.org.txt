@@ -1,0 +1,165 @@
+
+
+
+
+
+the morning paper | a random walk through Computer Science research, by Adrian Colyer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Skip to content
+
+
+ the morning paper
+
+				a random walk through Computer Science research, by Adrian Colyer				
+				Made delightfully fast by strattic
+
+
+
+Menu
+About
+Archives
+InfoQ QR Editions
+Subscribe
+Tags
+Privacy
+
+
+
+Search for:
+
+
+ 
+
+
+
+
+
+
+The ants and the pheromones 
+
+February 8, 2021February 7, 2021 ~ Adrian Colyer  ~ Leave a comment 
+
+		TLDR; this is the last edition of The Morning Paper for now. Plus: one strand of research you won’t want to miss! I was listening to a BBC Radio 4 podcast recently (More or Less: Behind the Stats - Ants and Algorithms) in which the host Tim Harford is interviewing David Sumpter about his recent ... Continue Reading 
+
+
+
+An overview of end-to-end entity resolution for big data 
+
+December 14, 2020December 10, 2020 ~ Adrian Colyer  ~ Leave a comment 
+
+		An overview of end-to-end entity resolution for big data, Christophides et al., ACM Computing Surveys, Dec. 2020, Article No. 127 The ACM Computing Surveys are always a great way to get a quick orientation in a new subject area, and hot off the press is this survey on the entity resolution (aka record linking) problem. ... Continue Reading 
+
+
+
+Bias in word embeddings 
+
+December 8, 2020December 7, 2020 ~ Adrian Colyer  ~ Leave a comment 
+
+		Bias in word embeddings, Papakyriakopoulos et al., FAT*’20 There are no (stochastic) parrots in this paper, but it does examine bias in word embeddings, and how that bias carries forward into models that are trained using them. There are definitely some dangers to be aware of here, but also some cause for hope as we ... Continue Reading 
+
+
+
+Seeing is believing: a client-centric specification of database isolation 
+
+November 30, 2020November 27, 2020 ~ Adrian Colyer  ~ Leave a comment 
+
+		Seeing is believing: a client-centric specification of database isolation, Crooks et al., PODC’17. Last week we looked at Elle, which detects isolation anomalies by setting things up so that the inner workings of the database, in the form of the direct serialization graph (DSG), can be externally recovered. Today’s paper choice, ‘Seeing is believing’ also ... Continue Reading 
+
+
+
+Elle: inferring isolation anomalies from experimental observations 
+
+November 23, 2020November 21, 2020 ~ Adrian Colyer  ~ Leave a comment 
+
+		Elle: inferring isolation anomalies from experimental observations, Kingsbury & Alvaro, VLDB’20 Is there anything more terrifying, and at the same time more useful, to a database vendor than Kyle Kingsbury’s Jepsen? As the abstract to today’s paper choice wryly puts it, “experience shows that many databases do not provide the isolation guarantees they claim.” Jepsen ... Continue Reading 
+
+
+
+Achieving 100Gbps intrusion prevention on a single server 
+
+November 16, 2020November 14, 2020 ~ Adrian Colyer  ~ Leave a comment 
+
+		Achieving 100 Gbps intrusion prevention on a single server, Zhao et al., OSDI'20 Papers-we-love is hosting a mini-event this Wednesday (18th) where I’ll be leading a panel discussion including one of the authors of today’s paper choice: Justine Sherry. Please do join us if you can. We always want more! This stems from a combination ... Continue Reading 
+
+
+
+Virtual consensus in Delos 
+
+November 9, 2020November 7, 2020 ~ Adrian Colyer  ~ Leave a comment 
+
+		Virtual consensus in Delos, Balakrishnan et al. (Facebook, Inc.), OSDI’2020 Before we dive into this paper, if you click on the link above and then download and open up the paper pdf you might notice the familiar red/orange splash of USENIX, and appreciate the fully open access. USENIX is a nonprofit organisation committed to making ... Continue Reading 
+
+
+
+Helios: hyperscale indexing for the cloud & edge (part II) 
+
+November 2, 2020October 31, 2020 ~ Adrian Colyer  ~ Leave a comment 
+
+		Helios: hyperscale indexing for the cloud & edge, Potharaju et al., PVLDB'20 Last time out we looked at the motivations for a new reference blueprint for large-scale data processing, as embodied by Helios. Today we're going to dive into the details of Helios itself. As a reminder: Helios is a distributed, highly-scalable system used at ... Continue Reading 
+
+
+
+Helios: hyperscale indexing for the cloud & edge – part 1 
+
+October 26, 2020October 25, 2020 ~ Adrian Colyer  ~ Leave a comment 
+
+		Helios: hyperscale indexing for the cloud & edge, Potharaju et al., PVLDB'20 On the surface this is a paper about fast data ingestion from high-volume streams, with indexing to support efficient querying. As a production system within Microsoft capturing around a quadrillion events and indexing 16 trillion search keys per day it would be interesting ... Continue Reading 
+
+
+
+The case for a learned sorting algorithm 
+
+October 19, 2020August 9, 2021 ~ Adrian Colyer  ~ Leave a comment 
+
+		The case for a learned sorting algorithm, Kristo, Vaidya, et al., SIGMOD’20 With thanks to Babur Muradov of pngset, a Russian translation of this post is now available at https://pngset.com/ru-learned-sorting-algorithm We’ve watched machine learning thoroughly pervade the web giants, make serious headway in large consumer companies, and begin its push into the traditional enterprise. ML, ... Continue Reading 
+
+
+Posts navigation
+
+Previous
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

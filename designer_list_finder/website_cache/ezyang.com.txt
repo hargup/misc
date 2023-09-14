@@ -1,0 +1,117 @@
+
+
+
+Edward Z. Yang
+
+
+
+
+
+
+
+
+
+Edward Z. Yang
+ezyang@mit.educs.stanford.edufb.com
+
+Research Engineer, Facebook AI Research
+    PhD, Stanford University 2017
+    BS, Massachusetts Institute of Technology 2012
+
+RÃ©sumÃ© â Curriculum Vitae â Scholar
+Blog â Twitter â G+ â FB â Tumblr â GitHub â LP
+
+
+
+            I'm currently working at Facebook NY, thinking about the intersection
+            of programming languages and machine learning.  I'm also primarily
+            responsible for the implementation in GHC of Backpack, a new mix-in module system for Haskell.
+
+(I use a ThinkPad X61 Tablet. Find me on freenode as ezyang,
+    or on Strava, Stack Overflow, Wikipedia, Tripit, Reddit, LinkedIn, Mendeley.)
+
+
+Recent publications and pre-prints
+
+Edward Z. Yang.  Backpack: Towards Practical Mix-in Linking in Haskell. Thesis.  June 2017.
+Edward Z. Yang, Giovanni Campagna, Ãmer AÄacan, Ahmed El-Hassany, Abhishek Kulkarni, Ryan Newton. Efficient communication and Collection with Compact Normal Forms. In Proceedings of the 20th ACM SIGPLAN International Conference on Functional Programming. September 2015.
+    [ paper | slides ]
+Stefan Heule, Deian Stefan, Edward Z. Yang, John C. Mitchell, Alejandro Russo. IFC Inside: Retrofitting Languages with Dynamic Information Flow Control. In Proceedings of 4th International Conference on Principles of Security and Trust.  April 2015.
+    [ paper (ext) ]
+Deian Stefan, Edward Z. Yang, Petr Marchenko, Alejandro Russo, Dave Herman, Brad Karp, and David MaziÃ¨res. Protecting Users by Confining JavaScript with COWL. In Proceedings of 11th Symposium on Operating Systems Design and Implementation. October 2014.
+    [ paper | bibtex ]
+Edward Z. Yang, David MaziÃ¨res. Dynamic Space Limits for Haskell. In Proceedings of the 35th annual ACM SIGPLAN conference on Programming Language Design and Implementation. June 2014.
+    [ paper | bibtex | reviews/rebuttal (aec, icfp13/rebuttal) | slides ]
+See more...
+
+Teaching
+
+CS242 Programming Languages
+Basic concepts and design tradeoffs related to programming languages. The first half of the course focuses on functions, types, scope, storage management, exceptions, and continuations. The second half covers object-oriented features and concurrency. Concludes with a few special-topics in programming languages.  I was awarded distinction in teaching for this class.
+    
+Fall 2016
+Fall 2015
+Fall 2014, co-taught with Deian Stefan
+Fall 2013, co-taught with Deian Stefan
+This class was taught previously by John Mitchell and Steve Cooper.
+
+
+
+Some projects I'm associated with...
+
+GHC
+a compiler for the functional language Haskell
+Cabal
+a build system and package manager for Haskell
+HTML Purifier
+a standards compliant HTML filter
+Metro Mapsof the News
+a visual metaphor for interconnected story lines(joint work with Dafna Shahaf, Russell Chou and Jacob Jensen)
+hp/D3.js
+an interactive GHC heap profile pastebin
+Logitext
+an interactive textbook for teaching the sequent calculus
+COWL
+a confinement system for the web
+Wizard
+a distributed autoinstall management system
+CSRF Magic
+automatic protection against Cross-Site Request Forgery
+Monad.Reader
+a magazine about all things Haskell(Iâm editor: send me a note if you want to write something!)
+
+
+Plover
+git-ftp
+WikiStatus
+ldap-haskell
+OfflineIMAP
+Ur/Web
+Coq
+containers
+scheme-hamt
+Hoopl
+html5lib
+scripts.mit.edu
+groom
+System.Posix.Redirect
+hackage-query
+scheme-hamt
+mutsleuth
+hamt
+pyafs
+SimpleTest
+XHTML Compiler
+CSSTidy
+Laundry
+phpgit
+phpv
+Sup
+Xournal
+Stroop
+Projectiles
+Boats
+
+
+
+

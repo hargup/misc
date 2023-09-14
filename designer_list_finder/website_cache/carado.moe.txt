@@ -1,0 +1,318 @@
+
+
+
+
+
+
+
+
+
+
+
+carado.moe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+carado.moe
+
+
+tammy's blog about
+					
+AI alignment,
+					utopia,
+					anthropics,
+					and more;
+				
+
+					also on
+					twitter,
+					lesswrong,
+					rss, and at
+					
+
+
+
+
+top posts â
+2023-06-10 Â· â formalizing the QACI alignment formal-goal
+2023-06-10 Â· â an Evangelion dialogue explaining the QACI alignment plan
+2023-03-20 Â· â the QACI alignment plan: table of contents
+2022-12-31 Â· â end of 2022: my life so far
+2022-12-14 Â· â all claw, no world â and other thoughts on the universal distribution
+2022-11-01 Â· â a casual intro to AI doom and alignment
+2022-10-03 Â· â my current outlook on AI risk mitigation
+2022-08-21 Â· â everything is okay
+
+all posts
+
+2023-07-10 Â· epistemic range
+2023-06-15 Â· a short chat about realityfluid
+2023-06-10 Â· â formalizing the QACI alignment formal-goal
+2023-06-10 Â· â an Evangelion dialogue explaining the QACI alignment plan
+2023-05-06 Â· Orthogonal's Formal-Goal Alignment theory of change
+2023-04-22 Â· the multiverse argument argument against automated alignment
+2023-03-25 Â· opinions on the consequences of AI
+2023-03-23 Â· continue working on hard alignment! don't give up!
+2023-03-20 Â· â the QACI alignment plan: table of contents
+2023-03-19 Â· you can't simulate the universe from the beginning?
+2023-03-19 Â· QACI blob location: an issue with firstness
+2023-03-13 Â· your terminal values are complex and not objective
+2023-03-12 Â· the quantum amplitude argument against ethics deduplication
+2023-03-11 Â· problems for formal alignment
+2023-03-09 Â· QACI blobs and interval illustrated
+2023-03-08 Â· QACI blob location: no causality & answer signature
+2023-03-06 Â· before the sharp left turn: what wins first?
+2023-03-05 Â· QACI: the problem of blob location, causality, and counterfactuals
+2023-03-03 Â· state of my alignment research, and what needs work
+2023-03-01 Â· on strong/general coherent agents
+2023-02-26 Â· some thoughts about terminal alignment
+2023-02-25 Â· clarifying formal alignment implementation
+2023-02-23 Â· Hello, Elua.
+2023-02-16 Â· don't censor yourself, silly !
+2023-02-15 Â· a narrative explanation of the QACI alignment plan
+2023-02-14 Â· explaining "."
+2023-02-13 Â· is intelligence program inversion?
+2023-02-12 Â· fuzzies & utils: check that you're getting either
+2023-02-11 Â· my takeoff speeds? depends how you define that
+2023-02-11 Â· GPT is dangerous because it is useful at all
+2023-02-09 Â· CEV can be coherent enough
+2023-02-07 Â· tabooing "AGI"
+2023-02-07 Â· so you think you're not qualified to do technical alignment research?
+2023-02-07 Â· word report #3
+2023-01-29 Â· formal alignment: what it is, and some proposals
+2023-01-29 Â· a guess at my intrinsic values
+2023-01-29 Â· communicating with successful alignment timelines
+2023-01-27 Â· to me, it's instrumentality that is alienating
+2023-01-19 Â· nostalgia: a value pointing home
+2022-12-31 Â· â end of 2022: my life so far
+2022-12-28 Â· making decisions as our approximately simulated selves
+2022-12-22 Â· one-shot AI, delegating embedded agency and decision theory, and one-shot QACI
+2022-12-22 Â· being only polynomial capabilities away from alignment: what a great problem to have that would be!
+2022-12-21 Â· the scarcity of moral patient involvement
+2022-12-19 Â· our deepest wishes
+2022-12-15 Â· how far are things that care?
+2022-12-14 Â· â all claw, no world â and other thoughts on the universal distribution
+2022-12-11 Â· a rough sketch of formal aligned AI using QACI
+2022-11-22 Â· just enough spoilers for a fire upon the deep to read a yudkowsky fanfic
+2022-11-20 Â· CYOAs and futurism
+2022-11-20 Â· let's stick with the term "moral patient"
+2022-11-19 Â· wonky but good enough alignment schemes
+2022-11-19 Â· logical vs indexical dignity
+2022-11-18 Â· "humans aren't aligned" and "human values are incoherent"
+2022-11-18 Â· generalized wireheading
+2022-11-13 Â· a safer experiment than quantum suicide
+2022-11-12 Â· fully aligned singleton as a solution to everything
+2022-11-01 Â· â a casual intro to AI doom and alignment
+2022-10-31 Â· publishing alignment research and exfohazards
+2022-10-30 Â· love, not competition
+2022-10-28 Â· counterfactual computations in world models
+2022-10-24 Â· QACI: question-answer counterfactual intervals
+2022-10-12 Â· some simulation hypotheses
+2022-10-11 Â· outer alignment: two failure modes and past-user satisfaction
+2022-10-06 Â· confusion about alignment requirements
+2022-10-03 Â· â my current outlook on AI risk mitigation
+2022-09-27 Â· surprise! you want what you want
+2022-09-27 Â· existential self-determination
+2022-09-16 Â· ordering capability thresholds
+2022-09-15 Â· clippy in panpsychia
+2022-09-09 Â· ethics and anthropics of homomorphically encrypted computations
+2022-09-08 Â· AI alignment curves
+2022-09-07 Â· ethics juice and anthropic juice
+2022-09-05 Â· program searches
+2022-08-21 Â· â everything is okay
+2022-08-20 Â· PreDCA: vanessa kosoy's alignment protocol
+2022-08-17 Â· alignment researchspace is potentially malign
+2022-08-17 Â· carmack predictions
+2022-08-17 Â· guiding your brain: go with your gut!
+2022-08-17 Â· alignment research is very weird
+2022-08-15 Â· essential inequality vs functional inequivalence
+2022-08-15 Â· trading with superintelligence: a wonky proto-alignment scheme
+2022-08-14 Â· why my timelines are short: all roads lead to doom
+2022-08-13 Â· goal-program bricks
+2022-08-13 Â· anthropic mindfulness
+2022-08-13 Â· the foundation book
+2022-08-12 Â· future paths
+2022-08-12 Â· what does it mean to value our survival?
+2022-08-12 Â· scopes of utopia
+2022-08-11 Â· unviable moral patients
+2022-08-11 Â· the Insulated Goal-Program idea
+2022-08-10 Â· ruling out intuitions about materially acausal things
+2022-08-07 Â· probability under potential hardware failure
+2022-08-07 Â· quantum immortality and local deaths under X-risk
+2022-08-04 Â· tiling the cosmos might be unavoidable
+2022-08-03 Â· isn't it weird that we have a chance at all?
+2022-07-27 Â· an anthropics example
+2022-07-02 Â· generalized values: testing for patterns in computation
+2022-06-21 Â· recommending Hands and Cities
+2022-06-18 Â· generalized computation interpretability
+2022-06-18 Â· anthropic reasoning coordination
+2022-06-18 Â· solonomonoff induction, time penalty, the universal program, and deism
+2022-06-10 Â· outer alignment: politics & philosophy
+2022-06-10 Â· where are your alignment bits?
+2022-06-10 Â· "AI risk drone"
+2022-06-10 Â· diversity vs novelty
+2022-05-29 Â· concentric rings of illiberalism
+2022-05-28 Â· say "AI risk mitigation" not "alignment"
+2022-05-28 Â· plausible vs likely
+2022-05-23 Â· implementing the platonic realm
+2022-05-22 Â· AI boxing could be easy
+2022-05-19 Â· predictablizing ethic deduplication
+2022-05-19 Â· generalized adding reality layers
+2022-05-16 Â· smaller X-risk
+2022-05-14 Â· cognitive biases regarding the evaluation of AI risk when doing AI capabilities work
+2022-05-13 Â· life refocus
+2022-05-12 Â· hope for infinite compute
+2022-05-12 Â· AI risk plans
+2022-04-30 Â· the uncertainty of 2+2=4
+2022-04-30 Â· a unit for utils
+2022-04-13 Â· finding earth in the universal program
+2022-04-12 Â· The Peerless
+2022-04-10 Â· bracing for the alignment tunnel
+2022-03-30 Â· should we implement free will?
+2022-03-22 Â· goals for emergency unaligned AI
+2022-03-21 Â· the word "syntax" in programming, linguistics and LISP
+2022-03-21 Â· values system as test-driven development
+2022-03-21 Â· are there finitely many moral patients?
+2022-03-21 Â· making the UD and UDASSA less broken: identifying time steps
+2022-03-06 Â· experience/moral patient deduplication and ethics
+2022-03-04 Â· recognition
+2022-03-02 Â· do not hold on to your believed intrinsic values â follow your heart!
+2022-02-23 Â· my current pyramid of needs
+2022-02-06 Â· forking bitrate and entropy control
+2022-02-04 Â· balancing utilitarianism
+2022-02-04 Â· political technology
+2022-02-03 Â· hackable multiverse
+2022-02-02 Â· a cognitively hazardous idea
+2022-01-11 Â· how timelines fall
+2022-01-11 Â· uploading people for alignment purposes
+2022-01-07 Â· questions about the cosmos and rich computations
+2022-01-05 Â· brittle physics and the nature of X-risks
+2021-12-27 Â· less quantum immortality?
+2021-12-25 Â· yes room above paperclips?
+2021-12-25 Â· non-scarce compute means moral patients might not get optimized out
+2021-12-25 Â· thinking about psi: as a more general json
+2021-12-25 Â· database transactions: you guessed it, it's WASM again
+2021-12-09 Â· psi rewriting
+2021-12-09 Â· unoptimal superintelligence doesn't lose
+2021-12-09 Â· emotionally appreciating grand political visions
+2021-12-09 Â· freedom and diversity in Albion's Seed
+2021-12-09 Â· non-interfering superintelligence and remaining philosophical progress: a deterministic utopia
+2021-12-05 Â· the deobfuscation conjecture
+2021-12-04 Â· think in what ?
+2021-11-21 Â· Genuineness, Existential Selfdetermination, Satisfaction: pick 2
+2021-11-21 Â· the two-vtable problem
+2021-11-20 Â· unoptimal superintelligence loses
+2021-11-20 Â· endiannesses
+2021-11-20 Â· rust & wasm, without wasm-pack
+2021-11-20 Â· no room above paperclips
+2021-11-08 Â· against AI alignment ?
+2021-11-08 Â· psi: a universal format for structured information
+2021-11-01 Â· saving the server-side of the internet: just WASM, again
+2021-10-25 Â· lamenting nerds
+2021-10-23 Â· alignment is an optimization processes problem
+2021-10-22 Â· to wasm and back again: the essence of portable programs
+2021-10-14 Â· cosmic missing outs
+2021-10-13 Â· exact minds in an exact world
+2021-10-11 Â· meta-tracking
+2021-09-12 Â· do not form your own opinion
+2021-08-31 Â· âV: A Utopia For Ever
+2021-08-25 Â· what happens when you die?
+2021-08-23 Â· right to death, therefore
+2021-08-16 Â· kolmogorov complexity objectivity and languagespace
+2021-08-15 Â· book recommendation: Greg Egan's Axiomatic
+2021-07-25 Â· what is value?
+2021-07-21 Â· culture tribes and legitimacy
+2021-07-21 Â· systems and diversity
+2021-07-19 Â· botched alignment and alignment awareness
+2021-07-18 Â· when in doubt, kill everyone
+2021-07-18 Â· AI alignment timeline codes
+2021-07-17 Â· AI alignment and wolfram physics
+2021-07-16 Â· universal complete
+2021-07-10 Â· estimating the amount of populated intelligence explosion timelines
+2021-07-09 Â· purposes for art
+2021-06-30 Â· we're all doomed
+2021-06-29 Â· disclosing subjectivity
+2021-06-25 Â· classifying computational frameworks
+2021-06-25 Â· degrees of runtime metaprogrammability
+2021-06-20 Â· cm21, a pixel art editor
+2021-06-18 Â· categories of knowledge representation
+2021-06-16 Â· the systematic absence of libertarian thought
+2021-06-16 Â· my answer to the fermi paradox
+2021-06-16 Â· the many faces of chaos magick
+2021-06-16 Â· the persistent data structure argument against linear consciousness
+2021-06-16 Â· refusing to answer â  giving a negative answer
+2021-06-05 Â· I'm creating a world simulation video game
+2021-06-04 Â· Overcoming Narratives
+2021-05-16 Â· Saving The Client-Side Web: just WASM and the DOM
+2021-05-03 Â· The Unsatisfactorily Far Reach Of Property
+2021-05-03 Â· Video Games Needs A Platform
+2021-04-28 Â· Plausible Quantum Suicide
+2021-04-24 Â· CC_ -1
+2021-04-24 Â· Let's not generalize over people
+2021-04-01 Â· Value and Earning
+2021-03-31 Â· "4=5"
+2021-03-28 Â· Cultural and Memetic Hygiene
+2021-03-04 Â· From-above vs Fine-grain diversity
+2021-03-04 Â· Value Crystallization
+2021-03-04 Â· Normies Are in Hell Too
+2021-03-04 Â· Symbology for Topia
+2021-03-04 Â· Growth Doesn't Care About Crises
+2021-01-22 Â· Communicating Clearly
+2021-01-14 Â· A canonical bit-encoding for ranged integers
+2021-01-01 Â· Non-solving ideologies
+2020-12-31 Â· Core values: Defining freedom
+2020-12-29 Â· A canonical and efficient byte-encoding for ints
+2020-12-25 Â· You are your information system
+2020-12-24 Â· CSS for pixeley images
+2020-12-23 Â· Unfair feedback loops
+2020-12-22 Â· Rationalist by necessity
+2020-12-21 Â· Against Unicode
+2020-12-20 Â· Cringe as prejudice
+2020-11-18 Â· A Prototypeness Hierarchy of Realities
+2020-11-15 Â· Two Principles For Topia
+2020-10-04 Â· Gender Bootstrappism
+2020-10-04 Â· Word Report #2
+2020-10-04 Â· Socialism as a conspiracy theory
+2020-10-04 Â· For UBI
+2020-10-04 Â· Real quick, on free will
+2020-10-04 Â· Where next for piracy ?
+2020-09-09 Â· Determining core values & existential self-determination
+2020-07-19 Â· Cool linguistic purisms
+2020-07-18 Â· Progress/decline in fields
+2020-06-28 Â· Song Pairs that can be listened to together
+2020-06-02 Â· Word Report #1
+2020-04-30 Â· the Economic Compass
+2020-04-27 Â· Limiting Real Universes
+2020-04-16 Â· A Collection Of Compasses
+2020-03-31 Â· Book Review: 12 Rules For Life
+2020-03-30 Â· Topia: Layer 0
+2020-03-29 Â· the Belief In Society compass
+2020-03-28 Â· On Economics
+2019-12-31 Â· KOLSITAN, a tiny video game
+2019-08-27 Â· Building The Castle vs Finding The Monolith
+2019-07-28 Â· Some post- words for the future
+2019-04-11 Â· Semantics: Primes and Universals, a book review
+2019-03-26 Â· The Last Global Era
+2017-09-26 Â· Analogpunk
+ 
+
+ unless otherwise specified on individual pages, all posts on this website are licensed under the CC_-1 license.
+				
+				unless explicitely mentioned, all content on this site was created by me; not by others nor AI.
+			
+
+
+

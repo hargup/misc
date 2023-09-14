@@ -1,0 +1,676 @@
+
+
+
+
+Everyday Scientist 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Everyday Scientist
+remarking on the unremarkable
+
+
+
+
+Science Blog
+About
+Shop
+
+
+
+
+
+
+
+
+
+
+
+
+eLife’s new publishing policy
+October 21, 2022 at 10:25 am | sam | literature, science community, scientific integrity, Uncategorized
+Let me preface this post with the admission that I’m likely wrong about my concerns about eLife’s new model. I was actually opposed to preprints when I first heard about them in 2006!
+The Journal eLife and Mike Eisen announced it’s new model for publishing papers:
+Authors post preprint.Authors submit preprint to eLife.eLife editorial board decides whether to reject the manuscript or send out for review.After reviews, the paper will be published no matter what the reviews say. The reviews and an eLife Assessment will be published alongside the paper. At this point, the paper has a DOI and is citable.Authors then have a choice of whether to revise their manuscript or just publish as-is.When the authors decide the paper is finalized, that will become the “Version of Record” and the paper will be indexed on Pubmed.
+Very interesting and bold move. The goal is to make eLife and its peer review not a gatekeeper of truth, but instead a system of evaluating and summarizing papers. Mike Eisen hopes that readers will see “eLife” and no longer think “that’s probably good science” and instead think “oh, I should read the reviews to see if that’s a good paper.”
+Potential problems
+But here are my primary concerns
+This puts even more power in the hands of the editors to effectively accept/reject papers. And this process is currently opaque, bias-laden, and authors have no recourse when editors make bad decisions.The idea that the eLife label will no longer have prestige is naive. The journal has built a strong reputation as a great alternative to the glam journal (Science, Nature, Cell) and that’s not going away. For example, people brag when their papers are reviewed in F1000, and I think the same will apply to eLife Assessments: readers will automatically assume that a paper published in eLife is high-impact, regardless of what the Assessment says.The value that eLife is adding to the process is diminishing, and the price tag is steep ($2000).The primary problem I have with peer review is that it is simultaneously overly burdensome and not sufficiently rigorous. This model doesn’t substantially reduce the burden on authors to jump through hoops held by the reviewers (or risk a bad eLife Assessment). It also is less rigorous by lowering the bar to “publication.”
+Solutions
+Concern #1: I think it’s a step in the wrong direction to grant editors even more power. Over the years, editors haven’t exactly proven themselves to be ideal gatekeepers. How can we ensure that the editors will act fairly and don’t get attracted by shiny objects? That said, this policy might actually put more of a spotlight on the desk-rejection step and yield change. eLife could address this concern in various ways:
+The selection process could be a lottery (granted, this isn’t ideal because finding editors and reviewers for a crappy preprint will be hard).Editors could be required to apply a checklist or algorithmic selection process.The editorial process could be made transparent by publishing the desk rejection/acceptace along with the reasons.
+Concern #2 might resolve itself with time. Dunno. Hard to predict how sentiment will change. But I do worry that eLife is trying to change the entire system, while failing to modify any of the perverse incentives that drive the problems in the first place. But maybe it’s better to try something than to do nothing.
+Concern #3 is real, but I’m sure that Mike Eisen would love it if a bunch of other journals adopted this model as well and introduced competition. And honestly, collating and publishing all the reviews and writing a summary assessment of the paper is more than what most journals do now.
+Journals should be better gatekeepers
+But #4 is pretty serious. The peer review process has always had to balance being sufficiently rigorous to avoid publishing junk science with the need to disseminate new information on a reasonable timescale. Now that preprinting is widely accepted and distributing results immediately is super easy, I am less concerned with latter. I believe that the new role of journals should be as more exacting gatekeepers. But it feels like eLife’s policy was crafted exclusively by editors and authors to give themselves more control, reduce the burden for authors, and shirk the responsibility of producing and vetting good science.
+There are simply too many low-quality papers. The general public, naive to the vagaries of scientific publishing, often take “peer-reviewed” papers as being true, which is partially why we have a booming supplement industry. Most published research findings are false. Most papers cannot be replicated. Far too many papers rely on pseudoreplication to get low p-values or fail to show multiple biological replicates. And when was the last time you read a paper where the authors blinded their data acquisition or analysis?
+For these reasons, I think that the role of a journal in the age of preprints is to better weed out low-quality science. At minimum, editors and peer reviewers should ensure that authors followed the 3Rs (randomize, reduce bias, repeat) before publishing. And there should be a rigorous checklist to ensure that the basics of the scientific process were followed.
+Personally, I think the greatest “value-add” that journals could offer would be to arrange a convincing replication of the findings before publishing (peer replication), then just do away with the annoying peer review dog-and-pony show altogether.
+Conclusion
+We’ll have to wait and see how this new model plays out, and how eLife corrects stumbling blocks along the way. I have hope that, with good editorial team and good practices/rules around the selection process, eLife might be able to pull this off. Not sure if it’s a model that will scale to other, less trustworthy journals.
+But just because this isn’t my personal favorite solution to the problem of scientific publishing, that doesn’t mean that eLife’s efforts won’t help make a better world. I changed my mind about the value of preprints, and I’ll be happy to change my mind about eLife’s new publishing model if it turns out to be a net good!
+| No Comments | 
+
+
+
+Checklist for Experimental Design
+October 25, 2021 at 9:42 am | sam | everyday science, scientific integrity
+experimental design checklistDownload
+One of the worst feelings as a scientist is to realize that you performed n-1 of the controls you needed to really answer the question you’re trying to solve.
+My #1 top recommendation when starting a new set of experiments is to write down a step-by-step plan. Include what controls you plan to do and how many replicates. Exact details like concentrations are less important than the overarching experimental plan. Ask for feedback from your PI, but also from a collaborator or labmate.
+Here are some things I consider when starting an experiment. Feel free to leave comments about things I’ve missed.
+Randomization and Independence
+Consider what “independent” means in the context of your experiment.Calculate p-value using independent samples (biological replicates), not the total number of cells, unless you use advanced hierarchical analyses (see: previous blog post and Lord et al.: https://doi.org/10.1083/jcb.202001064).Pairing or “blocking” samples (e.g. splitting one aliquot into treatment and control) helps reduce confounding parameters, such as passage number, location in incubator, cell confluence, etc.
+Power and Statistics
+Statistical power is to the ability to distinguish small but real differences between conditions/populations.Increasing the number of independent experimental rounds (AKA “biological replicates”) typically has a much larger influence on power than the cells or number of measurements per sample (see: Blainey et al.: https://doi.org/10.1038/nmeth.3091).If the power of an assay is known, you can calculate the number of samples required to be confident you will be able to observe an effect.Consider preregisteringPlanning the experimental and analysis design before starting the experiment substantially reduces the chances false positives.Although formal preregistration is not typically required for cell biology studies, simply writing the plan down for yourself in your notebook is far better than winging it as you go.Plan the number of biological replicates before running statistical analysis. If you instead check if a signal is “significant” between rounds of experiment and stop when p < 0.05, you’re all but guaranteed to find a false result.Similarly, don’t try several tests until you stumble upon one that gives a “significant” p-value.
+Blocking
+“Blocking” means to subdivide samples into similar units and running those sets together. For example, splitting a single flask of cells into two, one treatment and one control.Blocking can help reveal effects even when experimental error or sample-to-sample variability is large.Blocked analyses include paired t-test or normalizing the treatment signal to the control within each block.
+Controls
+Sledgehammer controlsThese controls are virtually guaranteed to give you zero or full signal, and are a nice simple test of the system.Examples include wild type cells, treating with DMSO, imaging autofluorescence of cells not expressing GFP, etc.Subtle controlsThese controls are more subtle than the strong controls, and might reveal some unexpected failures.Examples include: using secondary antibody only, checking for bleed-through and crosstalk between fluorescence channels, and using scrambled siRNA.Positive & negative controlsThe “assay window” is a measure of the range between the maximum expected signal (positive control) and the baseline (negative control).A quantitative measure of the assay window could be a standardized effect size, like Cohen’s d, calculated with multiple positive and negative controls.In practice, few cell biologist perform multiple control runs before an experiment. So a qualitative estimate of the assay window should be considered using the expected signal and expected variability sample to sample. In other words, consider carefully if an experiment can possibly workConcurrent vs historical controlsRunning positive and/or negative control in the same day’s experimental run as the samples that receive real treatment helps eliminate additional variability.Internal controls“Internal” controls are cells within the same sample that randomly receive treatment or control. For example, during a transient transfection, only a portion of the cells may actually end up expressing, while those that aren’t can act as a negative control.Because cells with the same sample experience the same perturbations (such as position in incubator, passage number, media age) except for the treatment of interest, internal controls can remove many spurious variables and make analysis more straightforward.
+Bias
+Blinding acquisitionOften as simple as having a labmate put tape over labels on your samples and label them with a dummy index. Confirm that your coworker actually writes down the key, so later you can decode the dummy index back to the true sample information.In cases where true blinding is impractical, the selection of cells to image/collect should be randomized (e.g. set random coordinates for the microscope stage) or otherwise designed to avoid bias (e.g. selecting cells using transmitted light or DAPI).Blinding analysisIdeally, image analysis would be done entirely by algorithms and computers, but often the most practical and effective approach is old-fashioned human eye.Ensuring your manual analysis isn’t biased is usually as simple as scrambling filenames. For microscopy data, Steve Royle‘s macro, which works well: https://github.com/quantixed/imagej-macros#blind-analysisI would highly recommend copying all the data to a new folder before you perform any filename changes. Then test the program forward and backwards to confirm everything works as expected. Maybe perform analysis in batches, so in case something goes awry, you don’t lose all that work.
+Resources
+Great primer on experimental design and analysis, especially for the cell biologist or microscopist: Stephen Royle, “The Digital Cell: Cell Biology as a Data Science” https://cshlpress.com/default.tpl?action=full&–eqskudatarq=1282
+Advanced, detailed (but easily digestible) book on experimental design and statistics: Stanley Lazic, “Experimental Design for Laboratory Biologists” https://stanlazic.github.io/EDLB.html
+I like this very useful and easy-to-follow stats book: Whitlock & Schluter, “The Analysis of Biological Data” https://whitlockschluter.zoology.ubc.ca
+Alex Reinhart, “Statistics Done Wrong”
+SuperPlots: Communicating reproducibility and variability in cell biology. (HTML, PDF)Lord, S. J.; Velle, K. B.; Mullins, R. D.; Fritz-Laylin, L. K. J. Cell Biol.2020, 219(6), e202001064.
+| 1 Comment | 
+
+
+
+Replace Peer Review with “Peer Replication”
+October 13, 2021 at 1:35 pm | sam | literature, science and the public, science community, scientific integrity
+As I’ve posted before and many others have noted, there is a serious problem with lack of adequate replication in many fields of science. The current peer review process is a dreadful combination of being both very fallible and also a huge hurdle to communicating important science.
+Instead of waiting for a few experts in the field to read and apply their stamp of approval to a manuscript, the real test of a paper should be the ability to reproduce its findings in the real world. (As Andy York has pointed out, the best test of a new method is not a peer reviewing your paper, but a peer actually using your technique.) But almost no published papers are subsequently replicated by independent labs, because there is very little incentive for anyone to spend time and resources testing an already published finding. That is precisely the opposite of how science should ideally operate.
+Let’s Replace Traditional Peer Review with “Peer Replication”
+Instead of sending out a manuscript to anonymous referees to read and review, preprints should be sent to other labs to actually replicate the findings. Once the key findings are replicated, the manuscript would be accepted and published.
+(Of course, as many of us do with preprints, authors can solicit comments from colleagues and revise a manuscript based on that feedback. The difference is that editors would neither seek such feedback nor require revisions.)
+Along with the original data, the results of the attempted replication would be presented, for example as a table that includes which reagents/techniques were identical. The more parameters that are different between the original experiment and the replication, the more robust the ultimate finding if the referees get similar results.
+A purely hypothetical example of the findings after referees attempt to replicate. Of course in reality, my results would always have green checkmarks.
+Incentives
+What incentive would any professor have to volunteer their time (or their trainees’ time) to try to reproduce someone else’s experiment? Simple: credit. Traditional peer review requires a lot of time and effort to do well, but with zero reward except a warm fuzzy feeling (if that). For papers published after peer replication, the names of researchers who undertook the replication work will be included in the published paper (on a separate line). Unlike peer review, the referees will actually receive compensation for their work in the form of citations and another paper to include on their CV.
+Why would authors be willing to have their precious findings put through the wringer of real-world replication? First and foremost, because most scientists value finding truth, and would love to show that their findings hold up even after rigorous testing. Secondly, the process should actually be more rewarding than traditional peer review, which puts a huge burden on the authors to perform additional experiments and defend their work against armchair reviewers. Peer replication turns the process on its head: the referees would do the work of defending the manuscript’s findings.
+Feasible Experiments
+There are serious impediments to actually reproducing a lot of findings that use seriously advanced scientific techniques or require long times or a lot of resources (e.g. mouse work). It will be the job of editors—in collaboration with the authors and referees—to determine the set of experiments that will be undertaken, balancing rigor and feasibility. Of course, this might leave some of the most complex experiments unreplicated, but then it would be up to the readers to decide for themselves how to judge the paper as a whole.
+What if all the experiments in the paper are too complicated to replicate? Then you can submit to JOOT.
+Ancillary Benefits
+Peer replication transforms the adversarial process of peer review into a cooperation among colleagues to seek the truth. Another set of eyes and brains on an experiment could introduce additional controls or alternative experimental approaches that would bolster the original finding.
+This approach also encourages sharing experimental procedures among labs in a manner that can foster future collaborations, inspire novel approaches, and train students and postdocs in a wider range of techniques. Too often, valuable hands-on knowledge is sequestered in individual labs; peer replication would offer an avenue to disseminate those skills.
+Peer replication would reduce fraud. Often, the other authors on an ultimately retracted paper only later discover that their coworker fabricated data. It would be nearly impossible for a researcher to pass off fabricated data or manipulated images as real if other researchers actually attempt to reproduce the experimental results. 
+Potential Problems
+One serious problem with peer replication is the additional time it may take between submission and ultimate publication. On the other hand, it often takes many months to go through the traditional peer review process, and replicating experiments may not actually add any time in many cases. Still this could be mitigated by authors submitting segments of stories as they go. Instead of waiting until the entire manuscript is polished, authors or editors could start arranging replications while the manuscript is still in preparation. Ideally, there would even be a  journal-blind mechanism (like ReviewCommons) to arrange reproducing these piecewise findings.
+Another problem is what to do when the replications fail. There would still need to be a judgement call as to whether the failed replication is essential to the manuscript and/or if the attempt at replication was adequately undertaken. Going a second round at attempting a replication may be warranted, but editors would have to be wary of just repeating until something works and then stopping. Pre-registering the replication plan could help with that. Also, including details of the failed replications in the published paper would be a must.
+Finally, there would still be the problem of authors “shopping” their manuscript. If the replications fail and the manuscript is rejected, the authors could simply submit to another journal. I think the rejected papers would need to be archived in some fashion to maintain transparency and accountability. This would also allow some mechanism for the peer replicators to get credit for their efforts.
+Summary of Roles:
+Editor:Screen submissions and reject manuscripts with obviously flawed science, experiments not worth replicating, essential controls missing, or seriously boring results.Find appropriate referees.With authors and referees, collaboratively decide which experiments the referees should attempt to replicate and how.Ultimately conclude, in consultation with referees, whether the findings in the papers are sufficiently reproducible to warrant full publication.Authors:Write the manuscript, seek feedback (e.g. via bioRxiv), and make revisions before submitting to the journal.Assist referees with experimental design, reagents, and even access to personnel or specialized equipment if necessary.Referees:Faithfully attempt to reproduce the experimental results core to the manuscript.Optional: Perform any necessary additional experiments or controls to close any substantial flaws in the work.Collate results.Readers:Read the published paper and decide for themselves if the evidence supports the claims, with the confidence that the key experiments have been independently replicated by another lab.Cite reproducible science.
+How to Get Started
+While it would be great if a journal like eLife simply piloted a peer replication pathway, I don’t think we can wait for Big Publication to initiate the shift away from traditional peer review. Maybe the quickest route would be for an organization like Review Commons to organize a trial of this new approach. They could identify some good candidates from bioRxiv and, with the authors, recruit referees to undertake the replications. Then the entire package could be shopped to journals.
+I suspect that once scientists see peer replication in print, it will be hard to take seriously papers vetted only by peer review. Better science will outcompete unreproduced findings.
+(Thanks Arthur Charles-Orszag for the fruitful discussions!)
+| 3 Comments | 
+
+
+
+Nobel predictions over the years
+October 6, 2021 at 1:16 pm | sam | nobel
+2008 Tsien (predicted 2008)
+2010 Suzuki & Heck (predicted among others in 2010)
+2012 Kobilka (among my 6 predictions in 2012)
+2013 Higgs (among my 2 predictions in 2013)
+2014 Moerner (among my 3 predictions in 2013); Betzig & Hell (predicted among others in 2010)
+2018 Allison (predicted in 2018)
+2019 Goodenough (predicted 2019)
+2020 Doudna & Charpentier (predicted 2020)
+| No Comments | 
+
+
+
+2021 Nobel Prize Predictions
+September 16, 2021 at 8:07 am | sam | nobel
+Medicine: Adenovirus vector vaccines
+Medicine (alternate): A second Nobel Prize for Ivermectin ;)
+Chemistry: Katalin Karikó, Drew Weissman, Ugur Sahin, Özlem Türeci, & Robert Malone, for developing mRNA & liposome vaccine technology.
+Peace: Mike Pence, for following his oath of office and standing up to pressure and physical threats to carry out his Constitutional duties on January 6.
+| No Comments | 
+
+
+
+2020 Nobel prize predictions
+September 20, 2020 at 4:11 pm | sam | nobel
+CRISPR: Jennifer Doudna, Emmanuelle Charpentier, Francisco Mojica, Virginijus Siksnys EDIT: Announcement.
+(This year, I’m only predicting the chemistry prize.)
+| 2 Comments | 
+
+
+
+avoiding bias by blinding
+July 3, 2020 at 11:15 am | sam | literature, scientific integrity
+Key components of the scientific process are: controls, avoiding bias, and replication. Most scientists are great at controls, but without the other two, we’re simply not doing science.
+The lack independent samples (and thus improper inflation of n) and the failure to blind experiments are too common. The implications of these mistakes, especially when combined in one study, mean that many published cell biology results are likely artifact. Generating large datasets, even with a slight bias, can quickly yield “significant” results out of noise. For example, see the “NHST is unsuitable for large datasets” section of:
+Szucs D, Ioannidis JPA. When Null Hypothesis Significance Testing Is Unsuitable for Research: A Reassessment. Front Hum Neurosci. 2017;11:390. https://pubmed.ncbi.nlm.nih.gov/28824397/
+Now combine these common false positives with the inclination to publish flashy results, and we’ve made a recipe for unreliable scientific literature.
+I do not condemn authors for these problems. Most of us have made one or all of these mistakes. I have. And I probably will again in the future. Science is hard. There is no shame in making honest mistakes. But we can all strive to be better (see my last section).
+Failing to perform the data collection blinded
+Blinding is just basic scientific rigor, and skipping this should be considered almost as bad as skipping controls.
+Blinding samples during data collection and analysis is ideal. For data collection, it is usually as simple as having a labmate put tape over labels on your samples and label them with a dummy index. Insist that your coworker writes down the key, so later you can decode the dummy index back to the true sample information.
+In cases where true blinding is impractical, the selection of cells to image/collect should be randomized (e.g. set random coordinates for the microscope stage) or otherwise designed to avoid bias (e.g. selecting cells using transmitted light if fluorescence the readout).
+Failing to perform the data analysis blinded
+Blinding during data analysis is generally very practical, even when the original data was not collected in a bias-free fashion. Ideally, image analysis would be done entirely by algorithms and computers, but often the most practical and effective approach is old-fashioned human eye. Ensuring your manual analysis isn’t biased is usually as simple as scrambling the image filenames.
+I stumbled upon these ImageJ macros for randomizing and derandomizing image filenames, written by Martin Höhne: http://imagej.1557.x6.nabble.com/Macro-for-Blind-Analyses-td3687632.html
+More recently, Christophe Leterrier directed me to Steve Royle‘s macro, which works very well: https://github.com/quantixed/imagej-macros#blind-analysis
+There are probably some excellent solution using Python. Regardless of the approach you take, I would highly recommend copying all the data to a new folder before you perform any filename changes. Then test the program forward and backwards to confirm everything works as expected. Maybe perform analysis in batches, so in case something goes awry, you don’t lose all that work.
+My “blind and dumb” experiment
+There are many stories about unintended bias leading to false conclusions. Here’s mine: I was testing to see whether a drug treatment inhibited cells from crawling through a porous barrier by counting the number of cells that made it through the barrier to an adjacent well.
+My partner in crime had labeled the samples with dummy indices, so I didn’t know which wells were treated and which were control. But I immediately could tell that there were more cells in one set of wells, so I presumed those were the control set. Fortunately, I had taken the extra precaution of randomizing the stage positions, so I didn’t let my bias alter the data collection. We then blinded the analysis by relabeling the microscopy images. I manually counted all the cells in each image.
+We then unblinded the samples. At first, we were disappointed that the wells I had assumed were control turned out to be treated. Then we looked at the results. SURPRISE! My snap judgement at the beginning of the experiment had been precisely backwards: the wells I thought looked like they had sparser cells actually had significantly more on average. So it turned out that the drug treatment had indeed worked. Thankfully, I didn’t rely on my snap judgement nor allow that bias to influence the results.
+Treating each cell as an n in the statistical analysis
+This error plagues the majority of cell biology papers. Go scan a recent issue of your favorite journal and count the number of papers that have minuscule P values; invariably, the authors aggregated all the cell measurements from multiple experiments and calculated the t-test or ANOVA based on those dozens or hundreds of measurements. This is a fatal error.
+It is patently absurd to consider neighboring cells in the same dish all treated simultaneously with the same drug as independent tests of a hypothesis.
+If your neighbor told you that he ate a banana peal and it reversed his balding, you might be a little skeptical. If he further explained that he measured 1000 of his hair follicles before and after eating a banana peel and measured a P < 0.05 difference in growth rate, would you be convinced? Maybe it was just a fluke or noise that his hairs started growing faster. You would want him to repeat the experiment a few times (maybe even with different people) before you started believing.
+Similarly, there are many reasons two dishes of cells might be different. To start believing that a treatment is truly effective, we all understand that we should repeat the experiment a few times and get similar results. Counting each cell measurement as the sample size n all but guarantees a small—but meaningless—P value.
+Observe how dramatically different scenarios (on the right) yield the same plot and P value when you assume each cell is a separate n (on the left):
+
+Elegant solutions include “hierarchical” or “nested” or “mixed effect” statistics. A simple approach is to separately pool the cell-level data from each experiment, then compare experiment-level means (n the case above, the n for each condition would be 3, not 300). For more details, please read my previous blog post or our paper:
+Lord SJ, Velle KB, Mullins RD, Fritz-Laylin LK. SuperPlots: Communicating reproducibility and variability in cell biology. J Cell Biol. 2020;219(6):e202001064.https://pubmed.ncbi.nlm.nih.gov/32346721
+How do we fix this?
+Professors need to teach their trainees the very basics about how to design experiments (see Stan Lazic’s book: Experimental Design for Laboratory Biologists) and perform analysis (see Mike Whitlock and Dolph Schluter’s book: The Analysis of Biological Data). PIs need to provide researchers with the tools to blind their experiments or otherwise remove bias. They need to ask for multiple biological replicates and correctly calculated P values. This does not require advanced understanding of statistics, just the basic understanding of the importance of repeating an experiment multiple times to ensure an observation is real.
+Editors and referees need to demand correct data analysis. While asking researchers to redo an experiment isn’t really acceptable, requiring a reanalysis of the data after blinding or recalculating P values based on biological replicates seems fair. Editors should not even send manuscripts to referees if the above errors are not corrected or at least addressed in some fashion. Editors can offer the simple solutions listed above.
+UPDATE: Also read my proposal to replace peer review with peer “replication.”
+| 1 Comment | 
+
+
+
+unbelievably small P values?
+November 18, 2019 at 9:56 am | sam | literature, scientific integrity
+Check out our newest preprint at arXiv:
+
+If your P value looks too good to be true, it probably is: Communicating reproducibility and variability in cell biologyLord, S. J.; Velle, K. B.; Mullins, R. D.; Fritz-Laylin, L. K. arXiv 2019, 1911.03509. https://arxiv.org/abs/1911.03509
+
+UPDATE: Now published in JCB: https://doi.org/10.1083/jcb.202001064
+I’ve noticed a promising trend away from bar graphs in the cell biology literature. That’s great, because reporting simply the average and SD or SEM or an entire dataset conceals a lot of information. So it’s nice to see column scatter, beeswarm, violin, and other plots that show the distribution of the data.
+But a concerning outcome of this trend is that, when authors decide to plot every measurement or every cell as a separate datapoint, it seems to trick people into thinking that each cell is an independent sample. Clearly, two cells in the same flask treated with a drug are not independent tests of whether the drug works: there are many reasons the cells in that particular flask might be different from those in other flasks. To really test a hypothesis that the drug influences the cells, one must repeat the drug treatment multiple times and check if the observed effect happens repeatably.
+I scanned the latest issues of popular cell biology journals and found that over half the papers counted each cell as a separate N and calculated P values and SEM using that inflated count.
+Notice that bar graphs—and even beeswarm plots—fail to capture the sample-to-sample variability in the data. This can have huge consequences: in C, the data is really random, but counting each cell as its own independent sample results in minuscule error bars and a laughably small P value.
+
+But that’s not to say the the variability cell-to-cell is unimportant! The fact that some cells in a flask react dramatically to a treatment and others carry on just fine might have very important implications in an actual body.
+So we proposed “SuperPlots,” which superimpose sample-to-sample summary data on top of the cell-level distribution. This is a simple way to convey both variability of the underlying data and the repeatability of the experiment. It doesn’t really require any complicated plotting or programming skills. On the simplest level, you can simply paste two (or more!) plots in Illustrator and overlay them. Play around with colors and transparency to make it visually appealing, and you’re done! (We also give a tutorial on how we made the plots above in Graphpad Prism.)
+Let me know what you think!
+UPDATE: We simplified the figure:
+
+Figure 1. Drastically different experimental outcomes can result in the same plots and statistics unless experiment-to-experiment variability is considered. (A) Problematic plots treat N as the number of cells, resulting in tiny error bars and P values. These plots also conceal any systematic run- to-run error, mixing it with cell-to-cell variability. To illustrate this, we simulated three different scenarios that all have identical underlying cell-level values but are clustered differently by experiment: (B) shows highly repeatable, unclustered data, (C) shows day-to-day variability, but a consistent trend in each experiment, and (D) is dominated by one random run. Note that the plots in (A) that treat each cell as its own N fail to distinguish the three scenarios, claiming a significant difference after drug treatment, even when the experiments are not actually repeatable. To correct that, “SuperPlots” superimpose summary statistics from biological replicates consisting of independent experiments on top of data from all cells, and P values were calculated using an N of three, not 300. In this case, the cell-level values were separately pooled for each biological replicate and the mean calculated for each pool; those three means were then used to calculate the average (horizontal bar), standard error of the mean (error bars), and P value. While the dot plots in the “OK” column ensure that the P values are calculated correctly, they still fail to convey the experiment-to-experiment differences. In the SuperPlots, each biological replicate is color-coded: the averages from one experimental run are yellow dots, another independent experiment is represented by gray triangles, and a third experiment is shown as blue squares. This helps convey whether the trend is observed within each experimental run, as well as for the dataset as a whole. The beeswarm SuperPlots in the rightmost column represent each cell with a dot that is color coded according to the biological replicate it came from. The P values represent an unpaired two-tailed t-test (A) and a paired two-tailed t-test for (B-D). For tutorials on making SuperPlots in Prism, R, Python, and Excel, see the supporting information.
+| 2 Comments | 
+
+
+
+2019 Nobel prize prediction
+October 2, 2019 at 2:19 pm | sam | nobel
+OK, it’s Nobel season again, and time for my annual blog post. (Quite literally this year, unfortunately.)
+Chemistry: Lithium-ion batteries (John Goodenough) EDIT: Yay! Finally!Medicine: DNA fingerprinting and blotting (Edwin Southern, Alec Jefferys, George Stark, Harry Towbin)Physics: Two-photon microscopy (Watt Webb, Winfried Denk, Jim Strickler)
+Last year, I correctly predicted Jim Allison. And I think I have to stop predicting Vale/Sheetz/Spudich, or my posts will look like copy-pastes. With the lawsuits in apparent stand-still, maybe this is the year for CRISPR, but I think the committee will wait a few more years until treatments come out of clinical trials.
+Many sites are predicting metal-organic frameworks winning, namely Omar Yaghi. Maybe. Yaghi won the Wolf prize in 2018. And a Nobel for this work would put a spotlight on carbon capture and catalysis that might help fight global warming. But since no wide-scale efforts have actually been made to capture carbon or produce alternative fuels, I doubt MOFs will win.
+The other climate-change related chemistry prize could conceivably be battery technology, especially John Goodenough, for the development of the lithium-ion battery. Given that he is 97, this would be the year to award it. Given that Alfred Nobel intended his prize to go to those who convey the “greatest benefit on mankind,” I think batteries would be fitting. (Note that I also thought it would be fitting back in 2016. I never learn.)
+Another perennial prediction is DNA blotting and fingerprinting. In 2014, I predicted Southern, Jefferys, and Burnette. I’m repeating the prediction again this year. Southern and Jefferys won the Lasker award way back in 2005, and their techniques are widely used in the lab and in forensics. I’m tweaking my prediction to include Towbin, who more accurately invented Western blotting (although Neal Burnette was a genius at naming). I think these techniques have proved themselves invaluable to so many medical researchers, it would be a shame to not recognize their originators. (I acknowledge that the Nobel committee will not award this to 4 people. But I don’t know who to leave out.)
+Another technique ubiquitous in biomedical imaging is two-photon microscopy. While super-resolution imaging won a few years ago, I think it would be OK to recognize the central importance of microscopy in many fields of science. By offering the capability to image deep into tissues and even live organisms, two-photon microscopy has given researchers amazing views of what would otherwise be unseeable. It is a powerful and popular technique that clearly should be recognized.
+Well, that’s it for 2019. I’ve made many predictions in the past, which you can browse here.
+| 2 Comments | 
+
+
+
+2018 nobel prize predictions
+September 20, 2018 at 2:01 pm | sam | nobel
+It’s approaching Nobel season again, and here are my predictions:
+Chemistry: Cytoskeletal motor proteins (Ron Vale, Mike Sheetz, Jim Spudich)
+Medicine: T-cell and cancer immunotherapy (Jim Allison, Stephen Rosenberg, Philippa Marrack)
+Physics: Dark matter (Sandra Faber, Margaret Geller, Jerry Ostriker, Helen Quinn)
+I know I’ve made this prediction before, but I think it’s high time that the discovery of kinesin and early observations of single myosin activity is recognized by the Nobel committee. UPDATE: Darn. Wrong again. Phage display and protein engineering by directed evolution. Cool!
+In 2016, I predicted T-cell receptor, but in the meantime cancer immunotherapy has continued to grow, so I’m tweaking the predicted winners a little. I’m not naive enough to think that we’re on the cusp of curing cancer, but it’s the first time that I thought it might be possible to—someday—conquer the disease. UPDATE: I got 1/2 of the prize correct.
+Unfortunately, Vera Rubin was never awarded a Nobel Prize, but the committee could honor her memory by awarding some other deserving astrophysicists with the prize this year. UPDATE: Nope. It went to laser tweezers and ultrafast laser pulses. Interesting: these are reminiscent of some late-90s awards to Zewail and Chu.
+OTHER PREDICTIONS:
+My past predictions: I’ve made (partially) correct predictions in 2008, 2010, 2012, 2013, and 2017. Other predictions ended up coming to fruition in subsequent years, such as gravitational waves, super-resolution and single-molecule microscopy,
+Citation Laureates
+C&E News
+ChemistryWorld
+ChemistryViews voting
+PhysicsWorld
+InsideScience
+| 12 Comments | 
+
+
+
+update on Nikon objective immersion oils
+August 30, 2018 at 8:41 am | sam | everyday science, hardware, review
+A few years ago, I compared different immersion oils. I concluded that Nikon A was the best for routine fluorescence because: (A) it had low autofluorescence, (B) it didn’t smell, (C) it was low viscosity, and (D) the small plastic dropper bottles allowed for easy and clean application.
+Unfortunately, my two favorites, Nikon A and NF, were both discontinued. The oil Nikon replaced these with is called F. But I don’t love this oil for a few reasons. First, it’s fairly stinky. Not offensive, but I still don’t want my microscopes smelling if I can help it. Second, I’ve heard complaints from others that Nikon F can have microbubbles (or maybe crystals?) in the oil, making image quality worse. Finally, dried F oil hardens over time, and can form a lacquer unless it is cleaned off surfaces very well. That said, F does have very low fluorescence, so that’s a good thing.
+I explored some alternatives. Cargille LDF has the same optical properties as Nikon F (index of refraction = 1.518 and Abbe Ve = 41). But LDF smells terrible. I refuse to have my microscope room smell like that! Cargille HF doesn’t smell and has similar optical properties, but HF is autofluorescent at 488 and 405 nm excitation, so it adds significant background and isn’t usable for sensitive imaging.
+At the recommendation of Kari in the UCSF microscopy core (and Caroline Mrejen at Olympus), I tried Olympus Type F, which also has an index of refraction of 1.518 and an Abbe number of 40.8, which is compatible with Nikon. The Olympus oil had very low autofluorescence, on par with Nikon A, NF, and F. (I also tested low-fluorescence oils Leica F and Zeiss 518F, but their dispersion numbers are higher (Ve = 45-46), which can cause chromatic aberration and may interfere with Perfect Focus.)
+I used to love the low viscosity of Nikon A (150 cSt), because it allowed faster settling after the stage moved and was less likely to cause Perfect Focus cycling due to mechanical coupling to thin or light samples, plus it was easier to apply and clean. Nikon NF was higher viscosity (800 cSt). Olympus F is higher than Nikon A (450 cSt), but acceptable.
+Finally, Olympus F comes is an easy to use applicator bottle: instead of a glass rod that can drip down the side of the vial if you’re not careful, the Olympus F is in a plastic bottle with a dropper. It’s not quite as nice as the 8 cc dropper bottles that Nikon A used to come in, and I don’t love the capping mechanism on the Olympus F, but I’ll survive.
+I plan to finish up our last bottle of Nikon A, then switch over to Olympus F. We also have a couple bottles of Nikon NF remaining, which I will save for 37C work (the higher viscosity is useful at higher temperatures).
+UPDATE:
+Some people claim that type A was simply renamed type N. I don’t think that’s true. First of all, I couldn’t get Perfect Focus on our Ti2 to work with Nikon type N oil. Second, the autofluorescence of Nikon type N (right) was way higher than Olympus type F (left) or the old Nikon type A, at least at 405 and 488 nm:
+
+So I’ll stick with Olympus type F. :)
+UPDATE 2:
+Here are some example images. These are excited with 640 (red), 561 (red), 488 (green), and 405 nm (blue) and the display ranges are the same for each sample. (The dots are single fluorophores on the glass.) You can see that Cargille HF is slightly more autofluorescent (especially at 405 nm) than either the old Nikon A or Olympus type F. This matches what Cargille states for HF: “Slightly more fluorescent than Type LDF.”
+
+| 12 Comments | 
+
+
+
+Belkin Conserve Switch is great for scopes
+February 23, 2018 at 10:47 am | sam | hardware, review
+I thought I’d pass along one of my favorite tips: I have several of these Belkin Conserve Switch power strips in lab. I use them to turn on a scope and all its peripherals with a flip of one single switch!
+
+You can set one switch to power multiple strips. It’s so much better than flipping on each piece of equipment (and inevitably forgetting one)! You just need to check with the equipment manufacturer if it’s safe to power on/off the item by basically unplugging it.
+| No Comments | 
+
+
+
+2017 nobel prize predictions
+September 20, 2017 at 10:14 am | sam | nobel
+It’s approaching Nobel season again, and here are my predictions:
+Chemistry: CRISPR (Doudna, Charpentier, Zhang) [awarded in 2020]
+Medicine: Unfolded protein response (Walter, Mori)
+Physics: Gravitational waves (Kip Thorne, Rainer Weiss, Ronald Drever, or maybe Barry Barish and the entire LIGO collaboration)
+Last year, I think the detection gravitational waves happened a little too late to actually be selected for 2016. But now it’s a year later! Unfortunately, Ronald Drever passed away in the meantime.
+In years past, I think CRISPR’s potential had not been actualized enough to win, but by this time it’s obvious that the technology works and is already impacting science. Lithium batteries have changed the world, and John Goodenough deserves the prize. But he recently announced a new battery technology that some scientists are skeptical will work. Maybe that’s too much controversy for the Nobel committee?
+I considered optogenetics (Deisseroth, Zemelman, Miesenböck, Isacoff), but I didn’t want to predict both that and CRISPR in one year. Since Peter Walter and Kazutoshi Mori won a Lasker prize a few years ago now, I think it’s their time.
+OTHER PREDICTIONS:
+My past predictions
+Clarivate (formerly Thompson) Citation Laureates
+C&E News webinar
+Sigma-Xi
+Stat News
+As always, excellent prediction and discussion at Curious Wavefunction
+| 15 Comments | 
+
+
+
+Photometrics Prime95B demo number 2
+September 13, 2017 at 2:49 pm | sam | hardware, review
+Technical Instruments loaned me a Photometrics Prime95B back-thinned CMOS camera. I had demoed this camera before, but I was able to put it on our scope this time. Our spinning disk confocal has two camera ports, so I installed a tube lens that made the effective pixel size on the Prime95B approximately the same as our 512×512 Andor iXon EMCCD. The Prime95B looked beautiful for a moderately bright sample:
+
+
+(Note that I cropped the Prime95B images by approximately 60% both laterally and axially, because the illumination area on the microscope was restricted to the center of the field of view. Uncropped, the Prime95B field of view would be over twice as big in each dimension!)
+At very low light imaging, I had to set the EMCCD gain very high to get an image with good signal-to-noise. The Prime95B had slightly lower sensitivity in this imaging regime, but honestly, I was surprised that its images looked that good:
+
+The only problems I ran into had to do with the PVCAM driver for the camera having some issues in Micro-Manager (mainly with having trouble shuttering the lasers correctly), but I was able to find moderately acceptable workarounds.
+If I were buying a camera for spinning disk, TIRF, epifluorescence, etc. (really, anything except single-fluorophore microscopy), I would probably get a Prime95B. I hope other sensor manufacturers and scientific camera companies follow suit and release more excellent back-thinned CMOS cameras.
+| 3 Comments | 
+
+
+
+review of Point Grey camera for microscopy
+February 28, 2017 at 5:40 pm | sam | hardware, review
+I bought a $500 camera from Point Grey that has the Sony IMX249 chip. It is a fairly large field of view with intermediate sized pixels (5.86 um), so it has a great dynamic range. The great thing is that it has low dark/read noise of 7-14 electrons per frame and a very high quantum efficiency of 80%. At it runs at up to 40 fps!
+While this camera can’t fully compete with scientific CMOS cameras like the Andor Zyla or Hamamatsu Flash4 (and definitely not with the Photometrics Prime95B), because these scientific cameras do a better job cooling (reducing dark counts) and on-chip correction of dead pixels or other pixel-to-pixel variability. But I wondered if this Point Grey camera could be a very cheap replacement for our old interline CCD (a Hamamatsu Orca-ER model C4742-80-12AG).
+
+
+Recently, Nico wrote a Micro-Manager device adapter for USB3 Point Grey cameras, so I quickly bought the Blackfly BFLY-U3-23S6M-C and was happy to get beautiful images! The picture on the bottom is from the Point Grey and the one on the top is from the old interline camera. At the same exposure time, the images were very similar. And the Point Grey camera could run 4x faster if necessary. In addition, the Point Grey outputs 16-bit-images with much higher dynamic range than the old 12-bit interline CCD. I misread the specs: the video output is 16 bit, but the A/D converter is still only 12 bit.
+So I plan to replace the interline camera with this Point Grey camera for day-to-day microscopy. I’ll let you know if we run into any problems in the future.
+Also, Kurt tested a different Point Grey camera with great results.
+UPDATE:
+Here are two more images, zoomed in and cropped. Top is Hamamatsu Orca-ER and bottom is the Point Grey Blackfly camera:
+
+
+These were the same exposure time (200 ms) and the same magnification. I’ve decided to replace the Hamamatsu with the Point Grey camera.
+| 3 Comments | 
+
+
+Next Page > 
+
+
+
+
+
+
+
+Categories:
+
+blogs (12)
+
+cartoons (6)
+
+conferences (20)
+
+cool results (23)
+
+crazy figure contest (46)
+
+EDSELs (9)
+
+everyday science (98)
+
+grad life (67)
+
+great finds (25)
+
+hardware (65)
+
+help me (7)
+
+history (13)
+
+how-to (3)
+
+job search (1)
+
+journal club (6)
+
+lab safety (30)
+
+literature (166)
+
+nerd (92)
+
+news (111)
+
+nobel (21)
+
+open thread (22)
+
+political science (13)
+
+postdoc life (4)
+
+pseudoscience (6)
+
+review (11)
+
+science and the public (103)
+
+science community (123)
+
+science@home (35)
+
+scientific integrity (17)
+
+seminars (14)
+
+single molecules (17)
+
+software (33)
+
+stipends (11)
+
+stupid technology (56)
+
+teaching (4)
+
+tutorial (11)
+
+Uncategorized (2)
+
+wild web (78)
+
+
+
+
+Authors:
+
+Charles (30)david (4)ilya (30)jordan (8)kendall (47)nick (5)sam (476)william (13) 
+
+
+
+Archives:
+
+October 2022 (1)
+October 2021 (3)
+September 2021 (1)
+September 2020 (1)
+July 2020 (1)
+November 2019 (1)
+October 2019 (1)
+September 2018 (1)
+August 2018 (1)
+February 2018 (1)
+September 2017 (2)
+February 2017 (1)
+October 2016 (1)
+September 2016 (2)
+August 2016 (2)
+July 2016 (1)
+May 2016 (1)
+October 2015 (1)
+September 2015 (1)
+April 2015 (1)
+March 2015 (2)
+February 2015 (2)
+January 2015 (1)
+December 2014 (1)
+October 2014 (2)
+September 2014 (1)
+August 2014 (3)
+July 2014 (4)
+June 2014 (2)
+April 2014 (3)
+September 2013 (1)
+June 2013 (1)
+April 2013 (5)
+March 2013 (1)
+February 2013 (2)
+January 2013 (1)
+October 2012 (5)
+September 2012 (1)
+August 2012 (1)
+June 2012 (3)
+May 2012 (3)
+April 2012 (2)
+March 2012 (2)
+October 2011 (2)
+September 2011 (1)
+July 2011 (1)
+May 2011 (2)
+April 2011 (1)
+March 2011 (8)
+February 2011 (2)
+January 2011 (4)
+December 2010 (3)
+November 2010 (4)
+October 2010 (7)
+September 2010 (6)
+August 2010 (8)
+July 2010 (7)
+June 2010 (1)
+May 2010 (4)
+April 2010 (4)
+March 2010 (6)
+February 2010 (5)
+January 2010 (8)
+December 2009 (8)
+November 2009 (8)
+October 2009 (6)
+September 2009 (10)
+August 2009 (8)
+July 2009 (4)
+June 2009 (8)
+May 2009 (7)
+April 2009 (14)
+March 2009 (11)
+February 2009 (7)
+January 2009 (8)
+December 2008 (7)
+November 2008 (11)
+October 2008 (8)
+September 2008 (9)
+August 2008 (9)
+July 2008 (4)
+June 2008 (3)
+May 2008 (9)
+April 2008 (13)
+March 2008 (9)
+February 2008 (9)
+January 2008 (12)
+December 2007 (7)
+November 2007 (3)
+October 2007 (9)
+September 2007 (12)
+August 2007 (12)
+July 2007 (21)
+June 2007 (11)
+May 2007 (12)
+April 2007 (9)
+March 2007 (8)
+February 2007 (10)
+January 2007 (9)
+December 2006 (9)
+November 2006 (9)
+October 2006 (12)
+September 2006 (6)
+August 2006 (25)
+July 2006 (13)
+June 2006 (12)
+May 2006 (11)
+April 2006 (25)
+March 2006 (8)
+
+
+
+
+Subscribe:
+
+
+
+
+
+
+
+
+
+Powered by WordPress, Theme Based on "Pool" by Borja Fernandez
+Entries and comments feeds. 
+Valid XHTML and CSS.^Top^
+
+
+
+
+
+
+
+

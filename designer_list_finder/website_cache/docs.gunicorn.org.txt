@@ -1,0 +1,274 @@
+
+
+
+  
+
+
+
+Gunicorn - WSGI server — Gunicorn 21.2.0 documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Gunicorn
+          
+
+          
+          
+
+                stable
+              
+
+
+
+
+
+
+
+
+
+
+Installation
+Running Gunicorn
+Configuration Overview
+Settings
+Instrumentation
+Deploying Gunicorn
+Signal Handling
+Custom Application
+Design
+FAQ
+Community
+Changelog
+
+
+
+
+
+
+
+Gunicorn
+
+
+
+
+
+Docs »
+Gunicorn - WSGI server
+
+ Edit on GitHub
+
+
+
+
+
+
+
+Gunicorn - WSGI server¶
+
+
+
+
+
+Website:http://gunicorn.org
+
+Source code:https://github.com/benoitc/gunicorn
+
+Issue tracker:https://github.com/benoitc/gunicorn/issues
+
+IRC:#gunicorn on Libera Chat
+
+Usage questions:
+ https://github.com/benoitc/gunicorn/issues
+
+
+
+Gunicorn ‘Green Unicorn’ is a Python WSGI HTTP Server for UNIX. It’s a pre-fork
+worker model ported from Ruby’s Unicorn project. The Gunicorn server is broadly
+compatible with various web frameworks, simply implemented, light on server
+resources, and fairly speedy.
+
+Features¶
+
+Natively supports WSGI, Django, and Paster
+Automatic worker process management
+Simple Python configuration
+Multiple worker configurations
+Various server hooks for extensibility
+Compatible with Python 3.x >= 3.5
+
+
+
+Contents¶
+
+
+Installation
+From Source
+Async Workers
+Extra Packages
+Debian GNU/Linux
+Ubuntu
+
+
+Running Gunicorn
+Commands
+Integration
+
+
+Configuration Overview
+Command Line
+Configuration File
+Framework Settings
+
+
+Settings
+Config File
+Debugging
+Logging
+Process Naming
+SSL
+Security
+Server Hooks
+Server Mechanics
+Server Socket
+Worker Processes
+
+
+Instrumentation
+Deploying Gunicorn
+Nginx Configuration
+Using Virtualenv
+Monitoring
+Logging
+
+
+Signal Handling
+Master process
+Worker process
+Reload the configuration
+Upgrading to a new binary on the fly
+
+
+Custom Application
+Direct Usage of Existing WSGI Apps
+
+
+Design
+Server Model
+Choosing a Worker Type
+How Many Workers?
+How Many Threads?
+
+
+FAQ
+WSGI Bits
+Server Stuff
+Worker Processes
+Kernel Parameters
+Troubleshooting
+
+
+Community
+Project Management & Discussions
+IRC
+Issue Tracking
+Security Issues
+
+
+Changelog
+21.2.0 - 2023-07-19
+21.1.0 - 2023-07-18
+21.0.1 - 2023-07-17
+21.0.0 - 2023-07-17
+History
+
+
+
+
+
+
+
+
+
+
+Next 
+
+
+
+
+        © Copyright 2009-2023, Benoit Chesneau
+      
+        
+          Revision ab9c8301.
+        
+
+
+  Built with Sphinx using a theme provided by Read the Docs. 
+
+
+
+
+
+
+
+
+ Read the Docs
+      v: stable
+      
+
+
+
+Versions
+latest
+stable
+21.2.0
+21.1.0
+21.0.1
+20.x
+20.1.0
+20.0.4
+19.x
+19.10.0
+19.9.0
+
+
+Downloads
+
+
+On Read the Docs
+
+Project Home
+
+
+Builds
+
+
+
+      Free document hosting provided by Read the Docs.
+
+    
+
+
+

@@ -1,0 +1,156 @@
+
+
+
+Home - Erik Bjäreholt - Personal website
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+erik.bjareholt.com
+
+
+
+
+
+
+
+
+ Blog
+
+
+
+
+
+ Wiki
+
+
+
+
+
+ About
+
+
+
+
+
+ Jobs
+
+
+
+
+
+
+
+ Contact
+
+
+
+
+
+
+
+
+
+Hi! I'm Erik 👋🏼
+
+
+
+I build free and open source software for fun and the betterment of mankind 🌎🌍🌏. I also do things with markets for 💸.
+I'm hiring! Check out the jobs page.
+Projects
+
+Founder and maintainer of ActivityWatch 📊 (GitHub)
+        
+"The worlds best free and open-source automated time-tracker"
+
+
+Maintainer of uniswap-python 📈
+        
+Python wrapper for the Uniswap contracts.
+
+
+Maintainer of eeg-notebooks 🧠
+        
+"Democratizing the cognitive neuroscience experiment"
+A collection of EEG experiments & notebooks.
+
+
+My MSc thesis about classifying brain activity (EEG) of developers 🧠
+And lots of other stuff ✨
+
+This website
+Here you can read my blog where I (used to) write about things I enjoy thinking about. You can also learn more about me by checking out the about page or visit some of my various profiles online as listed below.
+Note: Unfortunately the blog and wiki haven't been updated in a long time, and that's probably not going to change anytime soon.
+Latest blog posts
+
+20th April 2014 » VR: Looking the other way
+11th April 2014 » What would you do with your data?
+18th March 2014 » Humble beginnings
+
+Selected wiki pages
+
+The Importance of Open Recommender Systems
+Quantified Self
+
+Check out the wiki index for a full list of pages.
+
+
+
+Follow me
+ Twitter
+ GitHub
+ LinkedIn
+I'm also on
+ Keybase
+ Reddit
+ Facebook
+ StackOverflow
+ Quora
+ Wikipedia
+ YouTube
+
+
+
+
+
+
+
+
+    Erik Bjäreholt
+     2014-2021
+  
+
+
+

@@ -1,0 +1,74 @@
+
+
+
+
+
+
+
+
+
+
+
+On algorithmic fairness, discrimination and disparate impact.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+Algorithmic Fairness
+
+
+On algorithmic fairness, discrimination, and disparate impact.
+
+Blog
+About
+Press
+Who We Are
+
+
+
+
+
+
+
+
+What is algorithmic fairness and why is it important?
+
+This site serves to collect articles and research that will help to answer these questions.
+
+
+Our own take on the research questions behind these issues can be found in this paper.  More research is collected at fatml.org.
+
+New: Could your data discriminate? -- Our entry in the Knight News Challenge. Stay tuned!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

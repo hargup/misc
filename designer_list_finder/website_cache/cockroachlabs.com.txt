@@ -1,0 +1,1219 @@
+
+
+
+
+
+
+
+
+
+
+
+    
+      Cockroach Labs, the company building CockroachDB
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Join Kate O'Neill and speakers from Santander, Booking.com, DoorDash, and more at RoachFest, Oct 3-4 in NYC!  Register → 
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Product
+                    
+
+
+
+
+
+
+
+
+
+
+            A distributed SQL database designed for speed, scale,and survival
+        
+
+Learn more
+Pricing
+
+Compare deployment options 
+
+
+
+
+
+
+Capabilities
+
+
+Elastic Scale
+                
+
+
+
+
+
+Cloud-Native & Kubernetes
+                
+
+
+
+
+
+Built-in Survivability
+                
+
+
+
+
+
+
+
+ 
+
+
+Familiar, Consistent SQL
+                    
+
+
+
+
+
+Global Data
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Solutions
+                    
+
+
+
+
+
+
+
+By Industries
+
+
+Finance
+                
+
+
+
+
+
+Gaming
+                
+
+
+
+
+
+Manufacturing & Logistics
+                
+
+
+
+
+
+Media and Streaming
+                
+
+
+
+
+
+
+
+ 
+
+
+Real-Money Gaming
+                    
+
+
+
+
+
+Retail & eCommerce
+                    
+
+
+
+
+
+SaaS
+                    
+
+
+
+
+
+Startups
+                    
+
+
+
+
+
+
+
+Customer Stories
+
+
+            See how our customers use CockroachDB to handle their critical workloads.
+        
+
+Read case studies
+
+
+
+
+
+
+
+
+
+
+
+                        Resources
+                    
+
+
+
+
+
+
+
+
+
+Cockroach UniversityWorld-class training and tutorials for beginners and advanced use cases.
+        
+
+Sign up for free
+
+
+
+
+Learn
+
+
+Resource center
+                
+
+
+
+
+
+Blog
+                
+
+
+
+
+
+Developers
+                
+
+
+
+
+
+Webinars
+                
+
+
+
+
+
+Podcast
+                
+
+
+
+
+
+
+
+Support
+
+
+Forum
+                    
+
+
+
+
+
+GitHub
+                    
+
+
+
+
+
+Slack
+                    
+
+
+
+
+
+Support Portal
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Docs
+                    
+
+
+
+
+
+
+
+
+
+Docs Hub Access tutorials, guides, example applications, and much more.
+        
+
+Explore
+
+
+
+
+ 
+
+
+Quickstart
+                
+
+
+
+
+
+FAQ
+                
+
+
+
+
+
+Example applications
+                
+
+
+
+
+
+Architecture Overview
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Customers
+                    
+
+
+
+
+
+
+
+Featured stories
+
+
+AllSaints
+                
+
+
+
+
+
+Hard Rock Digital
+                
+
+
+
+
+
+Netflix
+                
+
+
+
+
+
+Shipt
+                
+
+
+
+
+
+Starburst
+                
+
+
+
+
+
+All customer stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blog
+
+
+
+
+
+
+Contact us
+
+
+
+
+
+
+Sign In
+
+
+
+
+
+
+
+Product
+
+
+
+
+
+
+
+            A distributed SQL database designed for speed, scale,and survival
+        
+
+Learn more
+Pricing
+
+Compare deployment options 
+
+
+
+
+
+
+Capabilities
+
+
+Elastic Scale
+                
+
+
+
+
+
+Cloud-Native & Kubernetes
+                
+
+
+
+
+
+Built-in Survivability
+                
+
+
+
+
+
+
+
+ 
+
+
+Familiar, Consistent SQL
+                    
+
+
+
+
+
+Global Data
+                    
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+
+
+By Industries
+
+
+Finance
+                
+
+
+
+
+
+Gaming
+                
+
+
+
+
+
+Manufacturing & Logistics
+                
+
+
+
+
+
+Media and Streaming
+                
+
+
+
+
+
+
+
+ 
+
+
+Real-Money Gaming
+                    
+
+
+
+
+
+Retail & eCommerce
+                    
+
+
+
+
+
+SaaS
+                    
+
+
+
+
+
+Startups
+                    
+
+
+
+
+
+
+
+Customer Stories
+
+
+            See how our customers use CockroachDB to handle their critical workloads.
+        
+
+Read case studies
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+
+Cockroach UniversityWorld-class training and tutorials for beginners and advanced use cases.
+        
+
+Sign up for free
+
+
+
+
+Learn
+
+
+Resource center
+                
+
+
+
+
+
+Blog
+                
+
+
+
+
+
+Developers
+                
+
+
+
+
+
+Webinars
+                
+
+
+
+
+
+Podcast
+                
+
+
+
+
+
+
+
+Support
+
+
+Forum
+                    
+
+
+
+
+
+GitHub
+                    
+
+
+
+
+
+Slack
+                    
+
+
+
+
+
+Support Portal
+                    
+
+
+
+
+
+
+
+
+
+
+Docs
+
+
+
+
+
+
+Docs Hub Access tutorials, guides, example applications, and much more.
+        
+
+Explore
+
+
+
+
+ 
+
+
+Quickstart
+                
+
+
+
+
+
+FAQ
+                
+
+
+
+
+
+Example applications
+                
+
+
+
+
+
+Architecture Overview
+                
+
+
+
+
+
+
+
+
+
+
+Customers
+
+
+
+
+Featured stories
+
+
+AllSaints
+                
+
+
+
+
+
+Hard Rock Digital
+                
+
+
+
+
+
+Netflix
+                
+
+
+
+
+
+Shipt
+                
+
+
+
+
+
+Starburst
+                
+
+
+
+
+
+All customer stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Contact us
+
+
+
+Sign In
+
+
+
+
+
+
+
+
+
+Start instantly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The latest release of our distributed SQL database is here
+
+Run your data-intensive applications anywhere and everywhere
+/* Announcing Microsoft Azure support for CockroachDB dedicated, on-demand global clusters, version 23.1, and more.
+                                */
+Get all the details
+
+
+
+
+
+
+
+
+Scale fast.
+
+
+Survive disaster.
+
+
+Thrive everywhere.
+
+
+
+
+
+
+
+
+
+
+
+True elastic scale
+CockroachDB makes scale so simple, you don't have to think about it. It automatically distributes data and workload demand. Break free from manual sharding and complex workarounds.
+
+                    
+
+
+
+
+
+
+
+
+
+
+
+Indestructible data
+Downtime isn’t an option, and data loss destroys companies. CockroachDB is architected to handle unpredictability and survive machine, datacenter, and region failures.
+
+
+
+
+
+
+
+
+
+
+
+Local and global data
+CockroachDB lets you scale across multiple regions and tie data to a location to ensure peak performance for local and global deployments. Row-level controls also help safeguard your business against ever-changing data privacy laws.
+
+
+
+
+
+
+
+
+
+
+Built for you
+
+
+
+
+
+
+
+Developers
+
+
+                                Build fast.Built to last.
+                            
+Learn more  
+
+
+
+
+
+
+
+
+Architects
+
+
+                                Data made easy.Delivery made seamless.
+                            
+Learn more  
+
+
+
+
+
+
+
+
+DevOps / SRE
+
+
+                                Eliminate data toil.Operate at scale.
+                            
+Learn more  
+
+
+
+
+
+
+
+Startup friendly. Enterprise ready.
+Trusted by innovators, big and small
+
+
+
+
+
+
+
+“With CockroachDB, we can pick and choose where data is stored, satisfying both data sovereignty concerns and the need to have a global view of data.”
+
+Rob Reid, Principal Engineer
+Lush
+
+
+
+
+
+
+
+
+
+
+“We have a highly complex transaction environment where we are continually searching for simplicity, scalability, and robustness. Fortunately we also have CockroachDB.”
+
+Gabriel Melo, Engineering Manager
+nu bank
+
+
+
+
+
+
+
+
+
+>
+                                “We have literally been unable to kill this thing. No matter what we’ve thrown at it.”
+
+Dylan O’Mahony
+Bose
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View customer stories 
+
+
+
+
+
+
+
+Get started for free
+Get started 
+Compare products 
+
+
+
+
+
+
+
+
+
+
+
+Product
+
+
+ CockroachDB 
+
+
+ CockroachDB Dedicated 
+
+
+ Pricing 
+
+
+ Get CockroachDB 
+
+
+ Sign In 
+
+
+ Download
+
+
+
+
+Resources
+
+
+ Guides 
+
+
+ Video & Webinars 
+
+
+ Podcast 
+
+
+Compare
+
+
+ Architecture Overview 
+
+
+ FAQ 
+
+
+ Security 
+
+
+
+
+Learn more
+
+
+ Docs 
+
+
+ University 
+
+
+ GitHub 
+
+
+
+Support Channels
+
+
+ Forum 
+
+
+ Slack 
+
+
+ Support Portal 
+
+
+ Contact us 
+
+
+
+
+Company
+
+
+ About 
+
+
+ Blog 
+
+
+ Careers 
+
+
+ Customers 
+
+
+ Partners 
+
+
+ Events 
+
+
+ News 
+
+
+ Trust 
+
+
+ Privacy 
+
+
+ Legal Notices 
+
+
+
+
+
+
+
+
+
+
+
+
+

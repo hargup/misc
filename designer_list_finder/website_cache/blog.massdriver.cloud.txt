@@ -1,0 +1,658 @@
+
+
+
+
+
+
+Massdriver Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+massdriver
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Massdriver Blog
+
+Platform Engineering and Cloud Operations
+
+
+
+
+
+
+
+
+
+
+
+
+Announcing our $8m Series Seed
+
+
+
+
+ Posted on August 21, 2023
+  
+  
+     |  3 minutes
+  
+  
+     |  446 words
+  
+  
+    
+
+    
+      
+      
+        
+         | Cory O'Daniel
+
+
+
+        
+        We are excited to announce our $8m Series Seed Led by Builders VC The round was led by Ting Ting Liu of Builders VC. They are founders and operators with a fantastic track record of helping turn bold ideas into great companies. The round also included 1984 VC (previous investor in Square, Posthog), Y Combinator, Preston-Werner Ventures, Uncorrelated Ventures, Page One Ventures, Soma Capital, Hack VC, and technical/founder angels with experience starting their own successful businesses.
+        [Read More]
+
+
+startup 
+        
+        fundraising 
+        
+    
+
+
+
+The Changing Face of Open-Source
+
+
+
+
+ Posted on August 16, 2023
+  
+  
+     |  5 minutes
+  
+  
+     |  998 words
+  
+  
+    
+
+    
+      
+      
+        
+         | Cory O'Daniel
+      
+    
+      
+      
+        
+         | Dave Williams
+
+
+
+        
+        Note Read our commitment to OpenTF here Disclaimer: We support the OpenTF initiative, but these opinions do not reflect the views of the initiative. Dave & I speak very plainly.
+In this curiously deleted YouTube video, HashiCorp’s co-founders, Armon and Mitchell, passionately championed the virtues of open-source software. Their words resonated with many who believed that open source wasn’t just a coding philosophy but a way of life that fostered collaboration, innovation, and community.
+        [Read More]
+
+
+hashicorp 
+        
+        open-source 
+        
+        busl 
+        
+        opentf 
+        
+    
+
+
+
+Massdriver pledges support for the Future of Terraform: OpenTF
+
+
+
+ Posted on August 14, 2023
+  
+  
+     |  2 minutes
+  
+  
+     |  251 words
+  
+  
+    
+
+    
+      
+      
+        
+         | Dave Williams
+
+
+
+        
+        Last week, HashiCorp announced a change in Terraform’s licensing from the open source MPL 2.0 (Mozilla Public License 2.0) to the restrictive BSL (Business Source License 1.1). This shocked the infrastructure engineering community, as it threatens to undermine the contributions of so many companies seeking to improve the Terraform experience. At this time, Massdriver and our users are unaffected by this change. While Massdriver supports Terraform, we build our tooling agnostically to work with any infrastructure as code solution, giving users the freedom to choose their preferred tool - whether Terraform, Helm, CloudFormation, or plain Bash scripts.
+        [Read More]
+
+
+IaC 
+        
+        Terraform 
+        
+        Open Source 
+        
+    
+
+
+
+Changelog - First Deployment Onboarding Flow
+
+
+
+
+ Posted on June 1, 2023
+  
+  
+     |  3 minutes
+  
+  
+     |  479 words
+  
+  
+    
+
+    
+      
+      
+        
+         | Dave Williams
+
+
+
+        
+        Features New First Time Users Onboarding Flow As with any expert system, the first interaction can be daunting. We want to make sure that your first experience with Massdriver shows you the power of the platform in as short a time as possible. To that end, we have created a new onboarding flow which will deploy a demo app for you to experiment with before trying your hand at your own infrastructure.
+        [Read More]
+
+
+devops 
+        
+        idp 
+        
+        developer platforms 
+        
+        cloud infrastructure 
+        
+        platform engineering 
+        
+        platform orchestration 
+        
+    
+
+
+
+Kubeflow guide: Part 1
+
+
+
+
+ Posted on May 18, 2023
+  
+  
+     |  7 minutes
+  
+  
+     |  1294 words
+  
+  
+    
+
+    
+      
+      
+        
+         | Michael Lacore
+
+
+
+        
+        Developing a machine learning model needs end-to-end thinking. From data collection to model deployment, productionizing an ML model is a journey. After the final step - model deployment, ML engineers and data scientists should not stop there but keep measuring the model performance and monitoring model drift. Due to the complexity and wide areas to cover, people working in the ML domain rely on software like Kubeflow that can streamline the ML process.
+        [Read More]
+
+
+devops 
+        
+        kubeflow 
+        
+        developer platforms 
+        
+        cloud infrastructure 
+        
+        platform engineering 
+        
+        machine learning 
+        
+        docker 
+        
+        kubernetes 
+        
+        ai 
+        
+    
+
+
+
+Changelog - App First Design 2023-04-06
+
+
+
+
+ Posted on April 6, 2023
+  
+  
+     |  2 minutes
+  
+  
+     |  410 words
+  
+  
+    
+
+    
+      
+      
+        
+         | Dave Williams
+
+
+
+        
+        Features Application Bundle Generation in the UI A solid operational solution must help reduce the coveted time to production (TTP). To aid in this task we have created a wizard directly in the UI that allows engineers to start with the thing they know best, their application. Before releasing this feature, getting an application in to massdriver required building files at the command line, editing IaC and publishing by hand. Now you can create your application bundle visually.
+        [Read More]
+
+
+devops 
+        
+        idp 
+        
+        developer platforms 
+        
+        cloud infrastructure 
+        
+        platform engineering 
+        
+    
+
+
+
+Dilating GitHub Actions using Dialyzer
+
+
+
+
+ Posted on March 17, 2023
+  
+  
+     |  4 minutes
+  
+  
+     |  701 words
+  
+  
+    
+
+    
+      
+      
+        
+         | Andreas Kasprzok
+
+
+
+        
+        Elixir is a strong dynamic language: it checks types at run time, enabling some of its most powerful features like pattern matching and macros. The “strong” part tells us that type conversion needs to be explicit, unlike JavaScript, which aims to always do “something” with your code, and happily converts between types.
+These properties make Elixir a flexible and productive language, but open the possibility for bugs such as passing the wrong type to a function during run time, crashing the process.
+        [Read More]
+
+
+elixir 
+        
+        erlang 
+        
+        github 
+        
+        gha 
+        
+        ci 
+        
+        static analysis 
+        
+    
+
+
+
+Changelog - Metrics and Connections Recommendations
+
+
+
+
+ Posted on March 8, 2023
+  
+  
+     |  3 minutes
+  
+  
+     |  592 words
+  
+  
+    
+
+    
+      
+      
+        
+         | Dave Williams
+
+
+
+        
+        News State of Production Survey 2023 Massdriver is on a mission to make the cloud much simpler and easier for engineers. In order to fulfill that goal, we need your help! We are currently running our State of Production Survey.
+Survey respondents will be entered to win one of the following prizes. Prize drawing is March 28th, 2023.
+(1) Moonlander Mark I (1) Amazon Gift Card $250 (1) Massdriver Swag Box (Miir Water bottle, Bella Hoodie, Moleskin Dot Grid Notebook) Features Metrics Integration Visualizing your cloud infrastructure is important but monitoring is even more important.
+        [Read More]
+
+
+devops 
+        
+        idp 
+        
+        developer platforms 
+        
+        cloud infrastructure 
+        
+        platform engineering 
+        
+        observability 
+        
+        metrics 
+        
+    
+
+
+
+The CIDR problem, and how we fixed it
+
+
+
+
+ Posted on March 6, 2023
+  
+  
+     |  4 minutes
+  
+  
+     |  788 words
+  
+  
+    
+
+    
+      
+      
+        
+         | Michael Lacore
+
+
+
+        
+        Who needs CIDR? Who are we kidding? We do. You likely already know that CIDR notation is a necessary evil for DevOps and operations teams. However, for those who don’t have experience in the networking field, CIDR notation may seem confusing, irrelevant, and potentially devastating when done incorrectly.
+What is CIDR notation? CIDR notation allows us to express a range of IP addresses using a single number, called the subnet mask.
+        [Read More]
+
+
+devops 
+        
+        networking 
+        
+        cidr 
+        
+        developer platforms 
+        
+        cloud infrastructure 
+        
+        platform engineering 
+        
+        cidr calculator 
+        
+        terraform 
+        
+        vpc peering 
+        
+        vnet peering 
+        
+    
+
+
+
+Changelog - Preview Environments 2023-01-19
+
+
+
+
+ Posted on January 19, 2023
+  
+  
+     |  3 minutes
+  
+  
+     |  436 words
+  
+  
+    
+
+    
+      
+      
+        
+         | Cory O'Daniel
+
+
+
+        
+        Hi all, it’s Cory from Massdriver. We have had a busy month of shipping features at Massdriver. So much so that I’m going to send you the other half of this changelog next week! 💖
+Before we hop into the features, here is some big news! We moved to usage-based pricing with a generous free tier (for life).
+Preview Environments for Apps & Infrastructure! Parity is the heart of Massdriver. We’ve always supported replicating applications and infrastructure to other environments and regions.
+        [Read More]
+
+
+devops 
+        
+        idp 
+        
+        developer platforms 
+        
+        cloud infrastructure 
+        
+        platform engineering 
+        
+    
+
+
+
+
+Older Posts →
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Massdriver, Inc.
+            
+          
+
+           • ©
+          
+            2023
+          
+
+          
+             • 
+            massdriver
+
+
+Hugo v0.105.0 powered  •  Theme Beautiful Hugo adapted from Beautiful Jekyll
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

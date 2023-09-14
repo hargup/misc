@@ -1,0 +1,756 @@
+
+
+
+Roboflow Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Product
+
+
+
+
+
+Platform
+
+Universe
+
+
+Annotate
+
+
+Train
+
+
+Deploy
+
+
+Integrations
+
+
+
+Ecosystem
+
+Notebooks
+
+
+Autodistill
+
+
+Supervision
+
+
+
+
+
+
+
+Solutions
+
+
+
+
+
+BY INDUSTRY
+
+Aerospace & Defence
+
+
+Agriculture
+
+
+Healthcare & Medicine
+
+
+Automotive
+
+
+Banking & Finance
+
+
+Government
+
+
+Oil & Gas
+
+
+
+ 
+
+Retail & Ecommerce
+
+
+Safety & Security
+
+
+Telecommunications
+
+
+Transportation
+
+
+Manufacturing
+
+
+Utilities
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+
+Forum
+
+
+Inference Templates
+
+
+Blog
+
+
+Contact Sales
+
+
+
+
+
+
+Pricing
+
+
+Docs
+
+Book a demo
+
+
+
+Sign In
+
+Sign Up
+
+
+
+
+
+
+
+
+
+
+Product
+
+
+
+
+
+Platform
+
+Universe
+
+
+Annotate
+
+
+Train
+
+
+Deploy
+
+
+Inference
+
+
+Integrations
+
+
+
+Ecosystem
+
+Notebooks
+
+
+Autodistill
+
+
+Supervision
+
+
+
+
+
+
+
+Solutions
+
+
+
+
+
+BY INDUSTRY
+
+Aerospace & Defence
+
+
+Agriculture
+
+
+Healthcare & Medicine
+
+
+Automotive
+
+
+Banking & Finance
+
+
+Government
+
+
+Oil & Gas
+
+
+
+
+Retail & Ecommerce
+
+
+Safety & Security
+
+
+Telecommunications
+
+
+Transportation
+
+
+Manufacturing
+
+
+Utilities
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+
+Forum
+
+
+Inference Templates
+
+
+Blog
+
+
+Contact Sales
+
+
+
+
+
+
+Pricing
+
+
+Docs
+
+
+Contact Sales
+
+
+
+Sign In
+
+
+Try It Now
+
+
+
+
+
+
+
+
+
+
+
+
+Collections
+
+
+
+
+Latest Posts
+Tutorials
+Case Studies
+Product Updates
+Greatest Hits
+Categories
+
+
+
+Latest Posts
+Tutorials
+Case Studies
+Product Updates
+Greatest Hits
+Categories
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+How to Use the Segment Anything Model (SAM)
+
+Discover the incredible potential of Meta AI's Segment Anything Model (SAM) in this comprehensive tutorial! We dive into SAM, an efficient and promptable model for image segmentation, which has revolutionized computer vision tasks.
+
+
+Piotr Skalski
+
+
+
+Apr 12, 2023
+
+
+
+
+
+
+
+
+
+Roboflow Community Passes 200k Open Source Datasets
+
+Roboflow’s mission is to democratize access to computer vision. We aim to actively help accelerate the world toward a future where everyone can build with computer vision. As a
+
+
+Trevor Lynn
+
+
+
+Mar 27, 2023
+
+
+
+
+
+
+
+
+
+
+
+THE LATEST
+
+View All
+
+
+
+
+
+
+
+
+
+
+Roboflow Inference: Effortless Local Computer Vision Deployment with Python
+
+
+
+Reed Johnson
+
+
+
+Sep 8, 2023
+
+
+
+
+
+
+
+
+
+Making a Traffic Sign Snap Lens with Roboflow and Lens Studio
+
+
+
+Nathan Marraccini
+
+
+
+Sep 8, 2023
+
+
+
+
+
+
+
+
+
+How to Monitor a Video with Computer Vision
+
+
+
+James Gallagher
+
+
+
+Sep 8, 2023
+
+
+
+
+
+
+
+
+
+Pool Table Analytics Using Object Detection
+
+
+
+James Gallagher
+
+
+
+Sep 8, 2023
+
+
+
+
+
+
+
+
+
+How to Use Kaggle for Computer Vision
+
+
+
+Leo Ueno
+
+
+
+Sep 6, 2023
+
+
+
+
+
+
+
+
+
+How to Run Inference with UDP on Roboflow Inference
+
+
+
+James Gallagher
+
+
+
+Aug 31, 2023
+
+
+
+
+
+
+
+
+
+How to Use SAHI to Detect Small Objects
+
+
+
+James Gallagher
+
+
+
+Aug 31, 2023
+
+
+
+
+
+
+
+
+
+Label Data, Train, and Deploy a Vision Model in One Command
+
+
+
+James Gallagher
+
+
+
+Aug 31, 2023
+
+
+
+
+
+
+
+
+View All Posts
+
+
+
+
+
+Get our latest content delivered directly to your inbox.
+
+
+
+
+
+
+
+
+
+                Unsubscribe at any time. Review ourPrivacy Policy.
+              
+
+
+
+
+
+
+
+
+
+
+
+
+Want to learn more about Roboflow? Email sales@roboflow.com or book a demo with our sales team.
+
+
+
+
+©
+             Roboflow, Inc.  All rights reserved.
+          
+
+For sales inquiries:sales@roboflow.comBook a demo
+
+
+
+PRODUCT
+
+
+Sign In / Sign Up
+
+
+Universe
+
+
+Annotate
+
+
+Train
+
+
+Deploy
+
+
+Integrations
+
+
+Pricing
+
+
+ECosystem
+
+
+Notebooks
+
+
+Autodistill
+
+
+Supervision
+
+
+Roboflow
+
+
+
+
+DEVELOPERS
+
+
+User Forum
+
+
+Templates
+
+
+Blog
+
+
+Contact Sales
+
+
+Learn Computer Vision
+
+
+Convert Annotation Formats
+
+
+Computer Vision Models
+
+
+Computer Vision Utilities
+
+
+Industries
+
+
+Manufacturing
+
+
+Oil & Gas
+
+
+Retail
+
+
+Safety & Security
+
+
+Transportation
+
+
+All Industries
+
+
+
+
+COMPANY
+
+
+About Us
+
+
+Careers
+
+
+Press
+
+
+Media Kit
+
+
+Terms of Service
+
+
+Privacy Policy
+
+
+Sitemap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

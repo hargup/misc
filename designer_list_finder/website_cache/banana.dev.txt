@@ -1,0 +1,14 @@
+Banana - Machine Learning Model Deployment on Serverless GPUs
+
+Banana
+
+
+
+
+
+
+
+
+PlaygroundPricingDocsBlogSign InDeploy NowMenuPlaygroundPricingDocsBlogSign InDeploy NowServerless GPUs, for AI.Scale from zero to the moon (and back) in seconds. Only pay for what you use.Deploy a ModelBook a Call with the CEODeploy AI models with ease.Banana is built for custom model deployment.Build your ApplicationUse our simple Python framework to build your API handlers.
+You can run inference, connect to data stores, call third-party APIs, whatever you need to get the job done.Push to GitHubBanana has built in CI/CD, building your app into a Docker image, and deploying it to our serverless GPU infrastructure.Scale. A lot.Banana autoscales your app from zero, with minimal cold boot times.
+Sleep soundly knowing any traffic patterns will be handled quickly and cost-effectively.Read the QuickstartGPU PricingPer HourPer Second1x A100 (40GB)per active replica$7.4868 / hr$0.00208 / sAutoscalingScales to ZeroUp to 40% Volume DiscountsGet StartedGet Started8x A100 (40GB)Contact SalesContact SalesLet's ChatLet's ChatUse Banana for scale.Enjoy 1 hour of free hosting on us 🍌Get Started© 2023 Booste CorporationProductServerless GPUsPricingTalk to SalesCompanyAbout UsCareersPress KitContactOtherPrivacy PolicyTerms of Service

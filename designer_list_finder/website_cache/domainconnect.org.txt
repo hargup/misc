@@ -1,0 +1,120 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+About
+Getting Started
+Service Providers
+DNS Providers
+Get Involved
+Code & Examples
+News & Blog
+
+
+
+
+
+
+
+
+
+About
+
+
+
+
+
+
+
+
+
+Summary
+Domain Connect is an open standard that makes it easy for a user to configure DNS for a domain running at a DNS provider to work with a Service running at an independent Service Provider. The user can do so without understanding any of the complexities of DNS.
+The Spec
+The latest version of the Domain Connect specification can be found here: https://github.com/Domain-Connect/spec/blob/master/Domain%20Connect%20Spec%20Draft.adoc
+The latest version (this may lag the specification above) submitted to the IETF Informational Internet Draft: https://datatracker.ietf.org/doc/draft-carney-regext-domainconnect/
+Who Owns Domain Connect?
+Domain Connect is an open standard published under the MIT license. It was designed and is being maintained by a community of developers across multiple companies. The standard was submitted to the IETF as a draft.
+Details
+Configuring a service such as mail or web hosting to work with a domain name is a complex and difficult task for users. This is because most services require changes to the DNS settings associated with a domain, and users don’t understand DNS.
+Domain Connect is a protocol that makes this easier for the user, and more consistent across providers.
+The protocol involves two parties.  DNS Providers who run DNS for a domain, and Service Providers who provide the services and applications attached to domains.
+A typical use case is as follows.
+Often a customer will try to configure a service at a Service Provider by entering their domain name.  The Service Provider then uses a number of techniques to discover the DNS Provider. This might include trying to figure out the registrar/DNS owner by doing DNS queries for the nameservers.
+The Service Provider then maps the nameserver to a DNS Provider, and typically gives the customer instructions for proper configuration of DNS.  This might include help text, screen shots, or even links to the appropriate tools.
+This often presents a number of things to the user that they don’t understand. DNS record types, TTLs, HostNames, etc. are all confusing to many users.  And the instructions authored by the Service Provider are often out of date, further confusing the issue.
+Domain Connect was created to solve this problem. The protocol presents a simple experience to the user, isolating them from the details of DNS settings and its complexity. By implementing a standard interaction between all Service Providers and all DNS Providers it eliminates the need for each relationship between a Service Provider and DNS Provider to be customized.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright © 2023 
+
+
+
+
+
+
+
+
+
+
+
+

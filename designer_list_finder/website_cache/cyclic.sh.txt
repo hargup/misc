@@ -1,0 +1,170 @@
+
+
+
+Cyclic.sh - Fullstack Javascript Apps - Deploy and Host in Seconds
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          cyclic  
+  pricing
+ 
+  blog
+ docs 
+  investors
+ 
+  vs Heroku
+ 
+  updates
+    
+            login
+           sign up Cyclic at Work  
+        We are growing and looking for design partners. Part of a team that could use Cyclic at work?
+        
+          let's talk
+                     cyclic 
+        pricing
+       
+        blog
+       
+        investors
+       
+        vs heroku
+       
+        updates
+       
+        docs
+         
+        login
+       sign up 
+  Launch with confidence
+ 
+      Escape infrastructure. Unleash ideas.
+     
+      Build and run modern cloud-native serverless applications without piling on to the full stack.
+                 
+      deploy now
+     
+      Read Docs
+      
+  Git push to go live in under 10 seconds
+ 
+    1
+   99912345
+        
+        
+        
+        
+        
+        
+        
+         Use what you know 
+    2
+    git push 
+    3
+     Go live 
+    supported languages & frameworks
+                   
+  Build better
+ 
+      Why deploy on Cyclic
+     
+      Modern web applications out of the box. Cost efficient, secure, fault tolerant, scalable and fast.
+      No sleep  Cyclic Apps are available immediately and on demand. No waiting 30 seconds for containers to be spun up. Even on free tier.  Worldwide  Code is deployed to where you are. Smart caching helps you deliver the best performance globally.  Hyperscale  Scale up and down instantly. 1GB serverless compute handles EACH individual request.  Spike resistant  Up to 100 concurrent requests per second per app. Up to 10gb compute per request - thats 1TB per second of available compute.  Roll forward, roll back  Switch to different versions of your deployments with built in CI/CD for every app.  Match cost and value  Pay for what you use. Translate between cost and business value with consumption based pricing. 
+  Developers love us
+ 
+      Trusted by tens of thousands of developers
+     
+      We have a thriving and growing developer community. Become part of it. Join our Discord and say hi!
+                                       5,600+ Developers active this week  95,000+ Developers on Cyclic  1,000,000+ Builds triggered   
+    Shoutouts to @cyclic_sh, I got a little emotional today thinking about how awesome it is I can spin up a server for testing and exploring with full stack projects on the free tier. Legends for the community 💯 💯💯
+    Andrew S. Software Engineer 
+    @cyclic_sh is the best! I find they are very easy to work with! If you need help, I could try and troubleshoot with you 🙏
+    Mike Jakuszewski Full Stack Software Engineer 
+    Used cyclic for my latest app, it's incredibly intuitive & easy to work with plus I love the way they show individual transactions so you can pinpoint any errors that may occur during requests.
+    Shahzaib Khan Web / Mobile App Developer 
+    Just deployed my Catlog app to Cyclic 🥳 
+    https://catlog.cyclic.app
+    The process was super easy. To me, it's a great Heroku alternative. And they hired our 
+    @SchipThatCode
+     from #100devs ❤️
+    Bitian Software Engineer @HackForLA 
+    Cyclic.sh is my favorite. Was very straight forward to get my first node.js web-apps up and running.
+    GottaBeTheJuice Software Engineer 
+    I'm super positive impressed I've deployed app on the go :)
+    Aleks Developer 
+    Deployed my CRUD app to @cyclic_sh and all I got to say is WOW, the team crushed it! What an awesome and easy client experience! Kudos 👏 #100devs #hosting #technology
+    Mike Jakuszewski Software Engineer 
+    I had the same issue few weeks back while hosting an express api on both vercel and netlify, @cyclic_sh worked like a charm!
+    Ishaan Bedi Developer 
+    Deploying private repos is a game changer 🙌🏽 I tried every other platforms and I always come back to @cyclic_sh so easy to deploy no more headaches 🥰
+    nora Software Engineer @100Devs 
+  A free tier that's actually useful
+ 
+      Researching Cyclic? Just want the specs?
+     
+      Get started now. Here is what you get with the Free tier:
+     Inactivity Delay None - Apps Never Sleep  Hourly Limit None - Unlimited  Compute 1024 MB RAM  Autoscaling 100 x 1024 MB  API Requests 10,000 / month / app  Languages JavaScript TypeScript Python Go  Integrated Database 1 GB (AWS DynamoDB)  Integrated Object Storage 1 GB (AWS S3)  Builds Unlimited  Edge Locations Closest of 18+ Regions  Smart Caching 300+ Locations  Precision Cron 3 jobs / app  Logs History - Application 7 Days  Logs History - Network 7 Days  SSL Certificates ✓  Custom Subdomains ✓  Build on git push ✓           
+      deploy now
+     
+      Get more features
+     
+  Behind the scenes
+ 
+      Your code on AWS-backed infrastructure
+     
+      Let us handle everything or target Cyclic deployments at your own AWS account for complete control.
+      Route53  Cloud Formation  API Gateway  Cloud Front  Cloud Watch  Lambda  S3  Dynamo DB  Step Functions  SQS  Event Bridge  Certificate Manager  Code Build 
+  Wait...there's more
+ 
+      The best code is the code you don't have to write.
+     
+      Focus on building, let us handle the rest.
+      Run locally, run in the cloud. An execution environment that feels familiar on both local and in the cloud. Optimize for speed from idea to live in production.  Build and Deploy in seconds. The fastest build system you have ever seen. Seriously, you will be shocked. We sometimes refresh the page because we think we are seeing cached results. For real, it is that fast.  Scale up and Scale out. Built and deployed with global scale enterprise grade serverless primates. Go from proof of concept to global load without re-architecting your app.  
+  Want a demo?
+ 
+      Watch our product tour
+     
+      Join our CEO Kam, for a quick tour of Cyclic.
+      Bring Cyclic to Work  
+        We are growing the product for teams and are looking for design partners. Are you part of a team that could use Cyclic at work?
+       
+        let's talk
+         Company 
+            Pricing
+           
+            Blog
+           
+            Documentation
+           
+            Terms of Service
+           
+            Privacy Policy
+           Share 
+            GitHub  
+            Discord  
+            Twitter  
+            LinkedIn  
+            Youtube  Products 
+            vs Heroku
+           
+            Product Updates
+            
+        © 2021-2023 Cyclic Software
+
+

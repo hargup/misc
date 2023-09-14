@@ -1,0 +1,170 @@
+
+
+
+
+
+Gautam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Projects
+Portfolio
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gautam Hi, I'm gautam. 
+Full stack developer
+React/JS/TS/Python
+
+
+
+
+
+Projects
+Here are some of my projects, you may like.
+
+
+
+
+
+
+ 
+Swordbattle.io
+
+
+
+
+ 
+Wordle Clone
+
+
+
+ 
+Spicywar.io
+
+
+
+ 
+Tic Tac Toe AI
+
+
+
+ 
+Sudoku Solver
+
+
+
+
+
+Portfolio
+Here's a timeline of all the cool stuff I've done!
+
+
+inBDPA
+Aug 2023 - Won 1st Place
+I led a team that created a website called "qOverflow" for the annual BDPA High School Coding Competition. The website is similar to LinkedIn, where anyone can post articles, discover job opportunities, and grow a network of like-minded professionals. It also included advanced moderation and admin tooling, generative AI integration, and a fast network graph optimized with a graph DB. We won 1st place.
+
+
+
+
+qOverflow
+Aug 2022 - Won 2nd Place
+I led a team that created a website called "qOverflow" for the annual BDPA High School Coding Competition. The website is similar to Quora or Stackoverflow, where anyone can ask or answer questions. There are badges, private messaging, and a level system with privileges. We won 2nd place.
+
+
+
+
+Replit Live Follower Count
+Jul 2022 - Won Replit Creator Fund
+I created a website that tracks the live follower count of a Replit User. It won the July Replit Creator Fund.
+
+
+
+
+Spicywar.io
+Apr 2022 - Won Kajam 2022 Crowdpleaser award
+I created a multiplayer game called Spicywar for Replit's Kajam 2022. It won the crowdpleaser award.
+
+
+
+
+Doodles Game Development
+Mar-Jun 2022 - Developer 
+I'm part of the team that created a multiplayer game for the Doodles NFT project
+
+
+
+
+Advent of Code
+Nov 2021 - Ranked #3 in Rochester, MN
+I participated in an annual programming challenge called Advent of Code. I was able to finish all the 25 challenges and placed #3 in Rochester, MN.
+
+
+
+
+Swordbattle.io
+Oct 2021 - Kajam 2021 Special mention
+I made a multiplayer game for Replit's Kajam 2022. Currently, this game has over 10K registered users, and over 100K unregistered. It is being updated to this day.
+
+
+
+
+CPS Test App
+Oct 2021
+I made an app to test your CPS, or Clicks Per Second. The app is avaliable on the Google Play Store, and is still growing to this day, and currently has over 7K+ downloads.
+
+
+
+
+Coder Gautam YouTube Channel
+Aug 2018
+I started my first YouTube channel called Coder Gautam where I post coding and tech videos. I continue to upload here from time to time. The channel is now with over 2K+ subscribers. 
+
+
+
+
+Guessing Game
+Jan 2018
+This was my first mobile app on the Google Play Store. Garnering a whopping 5 installs, this motivated me to continue coding.
+
+
+
+
+
+
+
+Contact.
+I am always looking forward to learning new things, and meeting new people!You can contact me via email:gautam@codergautam.devOr using these platforms:
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,265 @@
+
+
+
+Almar Klein
+
+
+
+
+
+
+
+
+BlogAbout meCodePublicationsConsultingArchive
+
+
+
+
+
+                TimeTagger - an open source time tracker for individuals.
+
+
+Blog
+python, viz  -  2023-02-04
+On WebGPU, wgpu-py, and pygfx
+
+
+
+I'm part of a team building a novel render engine based on WebGPU (the successor to OpenGL). In this post I explain what WebGPU is, how it came about, and how we're using it to power our graphics. 
+
+
+read more ...
+
+GTD  -  2023-01-02
+Using LogSeq to make notes and organize my thoughts
+
+
+
+I've been trying LogSeq for organizing my notes and thoughts for a few months.
+I'm blown away and am now moving my previous notes into the system.
+
+
+read more ...
+
+Python, viz  -  2022-09-29
+Gamma and sRGB in visualisation
+
+
+
+Gamma correction and the sRGB colorspace are an often undervalued topic in computer graphics. Yet it's important to understand it if you work with colors. In this post I first give a brief explanation, and then dive deeper to explain different facets, and also explain how it affects render engines.
+
+
+read more ...
+
+web  -  2021-08-03
+What I learned about collecting payments for digital goods in Europe
+
+
+
+Selling (digital) products internationally is hard because of the complicated VAT rules. Fortunately there are services (MOR's) that make it easy to collect payments. 
+
+
+read more ...
+
+web, js  -  2021-03-10
+An effective approach to do Progressive Web Apps
+
+
+
+This post explains the approach that I took to make TimeTagger a PWA (Progressive Web Application). There are many ways to implement a PWA (or in particular the Service Worker), and I don't claim that this approach is the best. But this approach is relatively simple and should be applicable in many cases.
+
+
+read more ...
+
+programming, python, wasm  -  2018-12-02
+Python and WebAssembly
+
+
+
+Despite its name, WebAssembly is not limited to the browser. In fact,
+it's potential outside of the browser is at least as interesting. In
+this post I talk about some experimental work that we have done in
+combining WebAssembly with Python.
+
+
+
+read more ...
+
+programming, python, julia, wasm  -  2017-06-21
+The thee language problem, and how Web Assembly will help solve it
+
+
+
+Historically, languages are either easy to use *or* fast. Julia has
+shown us that we can have both. I argue that in this day and age, we
+may *also* aspire a language to run on the web and mobile devices. I'll
+explain how I think that Web Assembly will bring us closer to this goal.
+
+
+
+read more ...
+
+python, legacy, flexx  -  2016-02-12
+Write Python 3, while supporting Python 2.7
+
+
+
+In this post I discuss an approach for writing code in Python 3,
+and still support Python 2.7. I've recently used this approach in one
+of my own projects. Most projects should get away with only minor
+modifications and an automatic translation step during package-build.
+However, there are some pitfalls (bytes/str) that might need special
+attention.
+
+
+read more ...
+
+visualization, python, web, opengl  -  2015-10-20
+We need more visualization libs - and a protocol to bind them
+
+
+
+We have a rich ecosystem of visualization libraries, each with their
+own API. By splitting our libraries in a user-facing part and a
+rendering backend, and defining a standard to allow all these to
+connect, we can have a rich visualization ecosystem while users only
+have to learn one API.
+
+
+read more ...
+
+visualization, python, web, opengl  -  2015-08-02
+The future of visualization in Python - are we going where we want to be?
+
+
+
+Bokeh and VisPy are both awesome projects. However, I wonder
+whether we need to change where things are currently going. While Bokeh
+is great at 2D and the browser, 3D is not supported. While Vispy is
+super-fast and good at 3D and custom visualizations, it's support for
+the browser is poor. I don't want to tell scientists that they need two
+or three visualization libraries. I want it all in one library.
+
+
+
+read more ...
+
+visualization, opengl, web, python  -  2015-06-26
+Performance gain for combining multiple GL objects into a single buffer
+
+
+
+Rendering a set of 100.000 vertices with OpenGL is very fast. However,
+rendering 100 sets of 1000 vertices is significantly slower (even though
+the total number of vertices is the same). Therefore, in visualization
+libraries, collecting multiple objects in a single buffer can help
+increase performance. In this post I try to get a grip on how much this
+really matters. Result: it depends.
+
+
+read more ...
+
+web  -  2015-04-02
+Comparing methods for box-layout in HTML
+
+
+
+This post describes a small experiment that compares a few methods for
+doing a box-layout in HTML. On a variety of browsers the result was
+validated, and performance measured. The results show that the CSS
+``display: flex`` method is the way to go.
+
+
+
+read more ...
+
+visualization, python  -  2015-01-28
+Volume rendering in Vispy
+
+
+
+We recently added volume rendering to [Vispy](http://vispy.org). In
+this post I'll describe the method that is used, what the advantages
+of this method are, and possible future additions. I tried to be gentle
+and explain the method without giving too much boring details. Plus
+there is some fancy footage to demonstrate the new functionality.
+
+
+
+read more ...
+
+knowledge  -  2014-11-19
+New task: don't forget to organize your ideas and knowledge too!
+
+
+
+Like many people, I use todo lists to organize my tasks. Iâve tried
+different todo-list solutions and even made a few apps myself. In this
+post I try to explain what I learned from these tools, why organizing
+knowledge and ideas may be more important than organizing tasks, and
+why I like [Trello](http://trello.com) so much.
+
+
+read more ...
+
+Python, science, Matlab  -  2014-09-20
+Scientists need a dynamic programming language
+
+
+
+Dynamic programming languages provide great advantages due to
+their interactive workflow, especially in science where algorithms are
+complex and take many iterations to get right. Developer time is more
+important than CPU time; writing all your code in a static language is
+(often) a bad case of premature optimization.
+
+This post is a story about how I learned the importance of dynamic
+languages the hard way. I am sharing it here so that others might learn
+from it too. It also touches on some of the benefits of Python compared
+to Matlab.
+
+
+read more ...
+
+pyzo, debugging, python  -  2014-09-03
+The power of post-mortem debugging
+
+
+
+Post-mortem debugging refers to the concept of entering debug mode
+*after* something has broken. There is no setting of breakpoints
+involved, so it's very quick and you *can* inspect the full stack
+trace, making it an effective way of tracing errors.
+
+This post explains some of the benefits and how it can be used from 
+IEP and other environments.
+
+
+
+read more ...
+
+open source, science  -  2014-07-30
+The importance of open source software in science
+
+
+
+For the first post in this blog I wanted to write something that really
+matters. At least to me. I tried to get at the core drivers behind what
+I do: what are the fundamental reasons why I love open source software
+so much?
+
+Here's why I think that open source is *necessary* to improve/fix the
+current scientific system and to guarantee our freedom to seek knowledge.
+
+
+read more ...
+
+
+
+Â© Copyright 2014-2021, Almar Klein -
+            CC BY 4.0
+
+
+
+
+

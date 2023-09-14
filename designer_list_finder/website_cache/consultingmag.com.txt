@@ -1,0 +1,138 @@
+
+
+
+News & Events for Management Consultants | Consulting Magazine
+
+
+   Sign-up For Consulting Magazine Newsletters Today →    Newsletters Sign In   EventsHonors & RankingsThought LeadershipNewsIndustry Intelligence  ALM | Consulting Magazine  
+Mergers and Acquisitions
+ 
+J.S. Held Acquires TechPats
+   
+Moves and Promotions
+ 
+Mercer Appoints Olaolu Aganga as US Chief Investment Officer
+   
+Moves and Promotions
+ 
+BRG Bolsters Forensic Accounting Practice with Addition of Frank Dery
+     
+Moves and Promotions
+ 
+KPMG Establishes New AI and Digital Innovation Group
+ 
+KPMG LLP, the U.S. audit, tax and advisory firm, has announced the establishment of an AI and Digital Innovation group led by a newly named Vice Chair,…
+   
+Moves and Promotions
+ 
+Jennifer Gagnier to Lead Health, Safety, Environment and Quality at WSP in the U.S.
+   
+Women Leaders In Consulting
+ 
+Women Leaders in Consulting: The 2023 Honorees
+   
+Mergers and Acquisitions
+ 
+Accenture Acquires Leading Digital Health Care Consultancy Nautilus
+   
+Moves and Promotions
+ 
+BRG Launches European Competition Practice in Brussels and Paris
+   
+Mergers and Acquisitions
+ 
+UST Acquires MobileComm
+   
+Moves and Promotions
+ 
+WSP Adds Transportation, Diversity Transformation Leaders
+    Events   View All Events  November 02, 2023 | New York Women Leaders in Consulting Awards 2023 Women Leaders in Consulting Awards honors the industry standouts and rising stars who are making a mark within the profession.  
+See event details
+ UPCOMING    View All Events    Honors & Rankings   View All Honors & Rankings   
+Women Leaders In Consulting
+ 
+Women Leaders in Consulting: The 2023 Honorees
+    
+Best Firms To Work For
+ 
+The Best Firms to Work For: The 2023 Honorees
+   
+Awards
+ 
+Event Photos! The 2023 Top Consultants Awards
+   
+Top Consultants
+ 
+2023 Top Consultants: Alix Weikhard
+   
+Top Consultants
+ 
+2023 Top Consultants: Anmol Jain
+    
+Top Consultants
+ 
+2023 Top Consultants: Tess Ng
+     View All Honors & Rankings    Thought Leadership   View All Thought Leadership   
+Conferences
+ 
+Technology Meets Human Behavior - Using AI to Measure Inclusion in the Workplace
+   
+Conferences
+ 
+ESG Under Fire: Navigating Political Volatility, Lagging Legislation and Current Market Challenges
+   
+Conferences
+ 
+The Future of Work is Here Now: Applying a Human First Approach to the Workforce
+     View All Thought Leadership    Industry Intelligence   View All Industry Intelligence     
+Mercer Appoints Olaolu Aganga as US Chief Investment Officer
+ 
+Moves and Promotions
+ 
+Mercer, a global advisory leader and a business of Marsh McLennan (NYSE: MMC), has announced the appointment of Olaolu Aganga as Partner, US Chief Investment…
+    
+Moves and Promotions
+ 
+KPMG Establishes New AI and Digital Innovation Group
+    
+Mergers and Acquisitions
+ 
+J.S. Held Acquires TechPats
+    
+Moves and Promotions
+ 
+Jennifer Gagnier to Lead Health, Safety, Environment and Quality at WSP in the U.S.
+     View All Industry Intelligence  Debug Screen: mobile       
+queries
+
+query
+
+data
+         [
+  {
+    "type": "package",
+    "label": "package",
+    "slug": "home-featured-consultingmag",
+    "siteName": "consultingmag.com",
+    "cache": true
+  },
+  {
+    "type": "future-events",
+    "label": "futureEvents",
+    "publication": "Consulting Magazine",
+    "cache": true
+  },
+  {
+    "type": "past-events",
+    "label": "pastEvents",
+    "publication": "Consulting Magazine",
+    "cache": true
+  }
+]
+         ABOUT About Us Advertise With Us Contact Us Sitemap Asset & Logo Licensing SUBSCRIPTIONS Newsletters Sign In   FOLLOW US Twitter LinkedIn RSS Feed Terms of UsePrivacy Policy 
+Copyright © 2023 ALM Global, LLC. All Rights Reserved.
+  
+Copyright © 2023 ALM Global, LLC. All Rights Reserved.
+ 
+
+

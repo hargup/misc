@@ -1,0 +1,813 @@
+
+
+
+
+
+
+Deploy app servers close to your users · Fly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open main menu
+
+
+
+
+
+
+
+
+
+        Articles
+      
+
+
+
+
+          Blog
+        
+
+          Phoenix Files
+        
+
+          Laravel Bytes
+        
+
+          Ruby Dispatch
+        
+
+          Django Beats
+        
+
+          JavaScript Journal
+        
+
+
+
+
+        Articles
+      
+
+
+          Blog
+        
+
+          Phoenix Files
+        
+
+          Laravel Bytes
+        
+
+          Ruby Dispatch
+        
+
+          Django Beats
+        
+
+
+
+      Docs
+    
+
+      Community
+    
+
+      Status
+    
+
+      Pricing
+    
+
+        Sign In
+      
+
+        Sign Up
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Launch Apps
+          
+          Near Users
+        
+
+          Fly.io transforms containers into micro-VMs that run on our hardware in 30+ regions on six continents.*
+
+
+          Launch an App for Free
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Antarctica coming soon.
+
+
+
+
+
+
+
+
+
+            Ready, Set, Go!
+          
+
+            Speedrun Your App Onto Fly.io
+          
+
+            We’ll deploy straight from your source code. You’ll be up and running in just minutes.
+          
+
+            Learn More
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+> Install flyctl on GNU/Linux
+$ curl -L https://fly.io/install.sh | sh
+
+> Ship a Docker image
+$ fly launch
+ 
+> Run it on three continents
+$ fly scale count 3 --region ams,hkg,sjc
+
+
+
+            Not on GNU/Linux? Install flyctl for your platform.
+
+
+
+
+
+
+
+
+            Sandboxing at Scale
+          
+
+            Meet Fly Machines
+          
+
+            Full Linux micro-VMs running on our metal, built from your own containers with a single command or API call.
+          
+
+            Learn More
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Launch Instantly
+              
+
+                Fly Machines boot in around 300ms, fast enough to start in response to HTTP requests.
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Clone Globally
+              
+
+                Use machines as templates to place your app in any region we serve. 
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Scale to Zero
+              
+
+                Pause machines when they’re not in use, paying only for machines that actually run. 
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Zero-Config Secure Networking
+              
+
+                Machines automatically connect to our global Anycast network and to IPv6 private networks.
+              
+
+
+
+
+
+
+
+
+
+            We’ve got you covered
+          
+
+            Enterprise-Ready Security
+          
+
+            Apps running on Fly Machines have KVM hardware isolation, built on a memory-safe stack and running directly on our metal.
+          
+
+            Learn More
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Single Sign-On and MFA
+            
+
+
+
+
+
+
+
+              Secure-by-default private networking
+            
+
+
+
+
+
+
+
+              Memory-safe Rust and Go stack
+            
+
+
+
+
+
+
+
+              E2EE with A-grade TLS and WireGuard
+            
+
+
+
+
+
+
+
+              SOC2 attested
+            
+
+
+
+
+
+
+
+          No Poster Board Necessary
+        
+
+          Globally Distributed Databases Without the Science Project
+        
+
+          Fly Anycast HTTP lets apps control routing, enabling single-writer multi-reader clusters for super-fast reads.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+                Fast nVME Storage
+              
+
+                Create Fly Volumes from 1 to 500 gigabytes with a single command; they show up as directories in your VMs, use them however you like.
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Automated Backups
+              
+
+                Fly Volumes are snapshotted to off-network durable encrypted storage, no extra config required.
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Postgres Cluster Management
+              
+
+                Automatic leader election, fail-over, and member management, built on standard Postgres tooling. 
+              
+
+
+
+
+
+
+
+
+            Use our automated Postgres, or bring your own database, like CockroachDB or Mongo.
+            
+
+
+
+
+
+
+
+
+
+
+            Comfort Zone Approved
+          
+
+            Use the Tech You Love
+          
+
+            Build with your favorite framework. No Dockerfile? No problem: our CLI generates containers for most popular frameworks, including Rails, Phoenix, Django, Node, Laravel, and .NET. 
+          
+
+            Learn More
+            
+
+
+
+
+
+
+
+
+
+
+
+
+Phoenix Framework
+
+
+
+
+
+
+
+
+
+
+Remix
+
+
+
+
+
+
+
+
+
+Ruby on Rails
+
+
+
+
+
+
+
+
+
+Docker
+
+
+
+
+
+
+
+
+
+Go
+
+
+
+
+
+
+
+
+
+Rust
+
+
+
+
+
+
+
+
+
+Django
+
+
+
+
+
+
+
+
+
+Laravel
+
+
+
+
+
+
+
+
+
+NextJS
+
+
+
+
+
+
+
+
+
+
+
+
+Supabase
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tailscale
+
+
+
+
+
+
+
+
+
+Fanatics
+
+
+
+
+
+
+
+
+
+Cars.com
+
+
+
+
+
+
+
+
+Apollo
+
+
+
+
+
+
+
+
+Glide
+
+
+
+
+
+
+
+
+Glitch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About
+
+            Pricing
+          
+Jobs
+
+
+
+Articles
+
+Blog
+
+            Phoenix Files
+          
+
+            Laravel Bytes
+          
+
+            Ruby Dispatch
+          
+
+            Django Beats
+          
+
+            JavaScript Journal
+          
+
+
+
+Resources
+
+Docs
+Support
+
+            Status
+          
+
+
+
+Contact
+
+
+            GitHub
+          
+
+            Twitter
+          
+
+            Community
+          
+
+
+
+Legal
+
+Security
+
+            Privacy policy
+          
+
+            Terms of service
+          
+
+
+
+
+
+    Copyright © 2023 Fly.io
+  
+
+

@@ -1,0 +1,78 @@
+
+AI Grant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AI Grant
+
+
+
+AI Grant — grants for open source projects
+Looking for our accelerator program? Check out aigrant.com!
+
+
+$5,000 - $50,000 in grants for open source projects, no strings attached.
+Grants can come in the form of compute or cash.
+
+        Latest grants: 
+        
+abetlen – for their work on llama-cpp-python.
+philpax – for their work on the GGUF file format.
+TySam – for their work on 10-second models.
+        
+
+
+Prior grants
+
+Russell Kaplan and Christopher Sauer, to build and open source an RL agent that learns faster because you can talk to it based on our prototype that beats most other approaches to Montezuma’s Revenge (paper).
+Kevin Kwok, a fast cross-platform library for hardware-accelerated deep learning in the browser using WebGL (video).
+Jordi Pons, the freesound datasets project (video).
+Patrick Slade, machine learning for motion recognition and trajectory generation of human movement for rehabilitation (video).
+Oliver Hennigh, predicting steady state fluid flow using deep neural networks (video).
+Manasi Vartak, a system to manage machine learning models (video).
+Juan Carrasquilla,
+            simulation of many-body quantum systems with neural networks (video).
+Liam Patrick Atkinson, a neural network to generate puns (video).
+Natalia Mykhaylova, training datasets and source identification algorithms for sensor networks that improve public health (video).
+Mark Wronkiewicz, Majid Mirbagheri and Nicholas Foti, to simulate human brain activity using tools recently development in machine learning (video).
+Zbigniew Wojna (co-author of Inception-v3, one of the first better-than-humans perception models), object detection and instance segmentation for small objects (paper).
+Flora Ponjou Tasse, turning hand-drawn sketches into 3D objects using generative models (video).
+Radim Rehurek, is going to make gensim (hugely popular open-source library for topic modeling) support many of the latest-and-greatest research papers (video).
+Byron Knoll, author of cmix, a library that uses deep learning to compress files (video).
+Brian Nord, for using AI to model the physics of strong gravitational lensing (video).
+Samuel Lee, Neal Jean, Tracey Hong and Feiya Shao, Bob Zheng, will make neural networks that detect child abuse in X-Rays (video).
+Darius Barušauskas, AI to assist doctors interpreting brain stroke scans with 3D Computerized Tomography (video).
+Hannah Davis, creating a dataset of sceneries that evoke different emotional responses (video).
+David Koes, AI that checks for docking of various drugs to accelerate structure-based drug design (video).
+A. Mira Chung and Hooyeon Lee, use DL to generate art for video games (video).
+Sarah Newman, a series of thought experiments about human values in speculative AI futures (video).
+Alex Wang, AI that protects you from face recognition systems (video).
+Aidan Gomez, cipher cracking(!) using generative adversarial neural networks (video).
+Ranjay Krishna, extracting object and relationship classifications from video (video).
+Kaden Hazzard, predicting quantum dynamics from short-time dynamics using machine learning (video).
+Ariel Kanevsky, a DNN algorithm capable of analyzing free tissue transfers and detect abnormal vascular flow within blood vessels (video).
+Jake Bian, Firebug, for deep learning (video).
+Daniel Soudry, a neural network that predicts the validation error of another neural network (video).
+Tejpal Virdi, John Guibas and Peter Li, use GANs to generate usable and privacy preserving training data.
+Ekta Prashnani, a metric to assess image quality consistent with human perception of image quality.
+
+
+
+Established in 2017 by Nat Friedman and Daniel Gross.
+

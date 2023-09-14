@@ -1,0 +1,668 @@
+
+
+
+
+The MIT CDM Guardian Angel Project
+
+
+
+
+
+
+
+
+
+Contents
+
+
+Manifesto, Project
+                      and History
+
+
+PING/Indivo/Dossia
+
+
+HealthConnect
+
+
+W3-EMRS
+
+
+Gestational Diabetes
+
+
+Related Work
+
+
+Old Material 
+
+
+
+
+
+ 
+
+  Guardian
+
+
+
+                      Angel 
+Personal Lifelong Active Medical Assistant 
+ 
+This is a historical archive of an important project
+                begun in 1994, but no longer running. Many of the
+                references to outside material are outdated, and
+                unfortunately many URLs that led to useful sites have
+                become "dead" links. We make no attempt to fix these or
+                to update the site with new links.
+
+
+
+
+
+Shortcuts
+
+
+Extended Manifesto
+
+
+New Scientist
+                      report
+
+
+PING
+
+
+
+                      Overview from BMJ
+
+
+PING
+
+
+
+                      Architecture paper
+                      from Int. J. Med. Inf.
+
+
+
+
+
+
+
+Guardian Angel is a collaborative
+      project, currently between the MIT Lab for Computer
+        Science's Clinical Decision Making Group (MEDG) and The Children's Hospital Informatics
+        Program (CHIP), begun in 1994 to put power and
+      responsibility for health care more into the hands of
+      patients.  The informal arguments for this are simple: 
+
+
+Multidisciplinary and multi-institutional health
+          care means that every patient will encounter many care
+          providers over a lifetime.
+
+
+Providers and their institutions seem not to
+          have incentives to share their data with others (e.g., they
+          might fear competition), hence it is practically impossible
+          for a patient to reconstruct a lifetime of health data.
+
+
+Consider the following questions:  
+
+Who cares most about your health?
+Who is always around to pay attention to your health on an
+            ongoing basis, not just at scheduled office visits?
+Who constantly observes how you're feeling, how your body
+            reacts to interventions?
+Who best knows how you would trade off different risks,
+            pain, bother, costs?
+Who charges least for providing these services?
+
+Of course, the answer to all of these is you! 
+          (Or perhaps your mother.)
+
+Growing abilities of decision support systems can help both
+        patients and providers better interpret data, continually check
+        to see that new data "make sense", and monitor ongoing care to
+        suggest times when the patient's status needs to be
+        re-evaluated. 
+
+Therefore, we should provide you the tools to collect and manage
+      your health data, to educate you about your relevant personal and
+      family health conditions, to help you manage your own treatment,
+      to augment your ability to observe the effects of diseases and
+      treatments on your body, to communicate more effectively with your
+      health care providers and with other communities of patients,
+      researchers, etc. 
+The Manifesto, the
+        Project and History
+The Guardian Angel vision is more fully explained in a technical
+      report we call the manifesto, Guardian Angel: Patient-Centered
+        Health Information Systems. This contains most of the text
+      of a proposal submitted in March, 1994 to ARPA in response to BAA
+      94-13, for the Health Information Infrastructure Program.
+Our specific proposal was to build and test comprehensive systems
+      for patients suffering from insulin-dependent diabetes,
+      hypertension, or undergoing anticoagulation therapy.  The
+      project was star-crossed, as it ran into the national debate about
+      whether ARPA should or should not play a MITI-like role in the
+      US.  Our proposal was initially funded under ARPA's Health
+      Information Infrastructure Project.  The funding was then
+      delayed, however, by ARPA's internal wranglings about whether the
+      medical foci we chose were really relevant to the needs of the
+      military; after all, diabetics are not accepted into the services.
+      Oddly, our program manager eventually assigned our application
+      area to be the care of high-risk pregnancy--another condition rare
+      among active-duty military, though common among their
+      dependents.  We began a cooperative project to support women
+      with gestational diabetes at Bethesda Naval Hospital.  At
+      this time, the Congressional elections of 1994 brought a much more
+      conservative leadership to power, ARPA was renamed DARPA
+      (D=defense), and its director discouraged any projects that "did
+      not go BOOM."  Our effort was scaled back and then cut
+      off.  Our early  efforts and results on the
+        gestational diabetes problem are described below.
+After early 1995, we sought support from NIH and from private
+      health-related foundations for development of our overall
+      vision.  Although we generally found a very favorable
+      reception to the ideas, funding was not forthcoming (though we
+      were encouraged by several close calls).  Mainly, reviewers
+      were skeptical that we could achieve all our objectives with any
+      reasonable amount of funding, and wanted empirical proof that our
+      ideas would work before they would invest in supporting it. 
+      Eventually, we have tried to resolve this "chicken and egg"
+      problem by decomposing our efforts into various components that,
+      together, will constitute the Guardian Angel.  With this
+      strategy, we have succeeded in attracting partial funding, and are
+      working on various components of the overall project.  The
+      following sections describe these components. 
+PING/Indivo/Dossia
+Personal Internetworked Notary and
+          Guardian
+          Indivo Health
+          Dossia 
+Every other component of Guardian Angel depends on having a
+      comprehensive life-long record of the individual's health-related
+      information.  In our view, this records needs to have the
+      following characteristics: 
+
+owned, controlled by, and managed by the patient
+universally available (via the World Wide Web),
+but with access controlled by the patient, who can make data
+        available to selected others, and can enable selected others to
+        annotate or augment data
+able to capture, in some form, absolutely any kind of
+        information relevant to the patient's health; this means inputs
+        via structured, standardized protocols such as HL7 or DICOM, but
+        also by fax, scanning paper or film, dictation, email,
+        observation via video cameras, etc.
+secure and authenticated, to assure that only those reliably
+        known to be allowed access can get at or augment the data
+based on public standards and protocols, to help support
+        life-long persistence and utility
+
+Our approach and its architectural implications are described in
+    
+ Mandl, K. D., Szolovits, P., Kohane, I. S., et al.
+      (2001). Public
+
+
+
+
+        standards and patients' control: how to keep electronic medical
+        records accessible but private. British Medical Journal
+322(7281): 283-287. 
+A description of our initial architecture and implementation is 
+
+Riva A., Mandl K. D., Oh D. H., Szolovits P., Kohane I. S.
+        (2001) The Personal Internetworked
+          Notary and Guardian.  International Journal of Medical
+          Informatics. 62: 27-40. 
+Simons, W. W., Mandl, K. D, Kohane, I. S. (2004) The
+          PING personally controlled electronic medical record system:
+          technical architecture. Journal of the American
+          Medical Informatics Association. 12:1:47-54.
+
+Our colleagues at Children's Hospital Informatics Program (CHIP) have led development of
+      this project, developed a prototype implementation originally
+      named PING (for Personal Internetworked Notary and Guardian), and
+      deployed a number of small pilot studies based on this technology.
+      In 2006, that system was renamed Indivo, and in 2007 it has been
+      adopted as the technical basis for the Dossia personally
+      controlled health records system. Dossia was a non-profit
+      consortium of large employers who have banded together to provide
+      long-term health records for each of their employees, as a bet
+      that such records will improve health care and perhaps reduce
+      costs. The consortium consists of Applied Materials, AT&T
+      Inc., BP America Inc., Cardinal Health, Intel Corporation, Pitney
+      Bowes Inc., sanofi-aventis, and Wal-Mart, and covers about eight
+      million employees. Walmart rolled out deployment of the system to
+      its 1.4 million employees and their dependents in October 2008. It
+      was discontinued
+        in 2016.
+
+The Guardian Angel project has had a significant influence on the
+      development of personal health records, and has been acknowledged
+      by some as the inspiration for their subsequent efforts. Among
+      these are:
+
+PatientSite, a
+        patient portal that gives patients full access to their
+        electronic medical records at the Beth Israel Deaconess Medical
+        Center in Boston 
+My HealtheVet, a
+        patient portal created by the Department of Veterans Affairs
+        (VA) 
+
+These are typically "tethered" systems, in that they rely on the
+      underlying institutional information systems of their provider
+      organization. Thus, unlike Indivo, they do not really give
+      patients effective control over their records and they don't
+      support any easy way to move records to a new location or
+      provider. They do, at least, provide comprehensive access to all
+      clinical data that exist in electronic form. In 2007, a number of
+      large organizations have adopted or re-discovered the
+      patient-conrolled model:
+
+The Dossia collaborative, as described above
+Microsoft's HealthVault
+Google Health, which launched in 2008 and failed
+          in 2012. 
+
+
+Since 2006, there was an annual meeting on Personally Controlled Health Record
+        Infrastructure hosted by Harvard Medical School, which has
+      brought together many advocates and developers of such systems. 
+HealthConnect
+Communication between a patient and providers is, of course,
+      critical to health care and maintenance.  Under the
+      leadership of Dr. Ken Mandl and in collaboration with W3Health,
+      Inc., in 1998 we built a system that provides follow-up
+      information and help for patients who have visited the Children's
+      Hospital Emergency Department.  For example, (the parents of)
+      a child who has had stitches to repair a laceration get a Web
+      address and password that gives customized, day-by-day follow-up
+      information for this visit.  It reminds the patient to
+      continue taking the prescribed antibiotics, teaches how and when
+      to change the dressing, describes and shows how the healing wound
+      should look after various lengths of time and demonstrates
+      conditions under which medical attention should be sought. 
+      This content in fact changed from day to day, as different actions
+      and concerns became appropriate during the follow-up period. 
+      We created Web content appropriate for about two weeks of
+      follow-up care for conditions that account for about half the ED
+      visits.  For each patient, the ED doctor could customize the
+      daily content, typically by adding or modifying advice about
+      unusual conditions specific to the patient.
+One of the critical factors in designing a Web-based health
+      delivery system is the "digital divide"--impoverished access to
+      computer and communication technology for impoverished members of
+      society.  We have found that access does in fact vary with
+      economic status, but we also see year-to-year improvements in
+      access even by the hospital's poorest clients.  Anecdotally,
+      we were pleased when a mother living in a homeless shelter was
+      delighted to receive her access instructions, happy that she
+      finally had some reason to try out the computer at her
+      shelter.  The system provides all its functionality through a
+      Web browser and uses SSL encryption, so information is encrypted
+      in transit and no confidential information is stored on the user's
+      machine.  This enables private communication even over public
+      terminals such as those many find at schools, libraries, employers
+      or shelters.  To make this possible, "email" in the system is
+      not actually delivered as email but as messages accessible to the
+      user when visiting their custom site.
+HealthConnect is described in
+
+Mandl, K. D., Kohane, I. S. HealthConnect:
+          clinical grade patient-physician communication.  Proc
+          AMIA Symp 1999;(1-2)849-53.
+
+More general doctor-patient email communications and related
+      social equity issues are discussed in
+
+Mandl, K. D., Katz, S. B., Kohane, I. S. Social
+
+            equity and access to the World Wide Web and E-mail:
+            implications for design and implementation of medical
+            applications. Proc AMIA Symp 1998:215-9.
+Mandl, K. D., Kohane, I. S., Brandt, A. M.
+          
+            Electronic patient-physician communication: problems and
+            promise. Ann Intern Med 1998;129(6):495-500.
+Mandl, K. D., Feit, S., Pena, B. M. G., Kohane,
+          I. S. Growth
+            and determinants of access in patient e-mail and Internet
+            use. Arch Pediatr Adolesc Med 2000;154:508-11.
+
+W3-EMRS: World Wide
+        Web based Electronic Medical Record System
+W3-EMRS is a virtual medical record that can be assembled from
+      data about a patient held in various forms by a number of
+      different institutions.  Our initial foray into medical
+      record systems architecture and development began in 1994, at
+      about the same time as our initial work on Guardian Angel. 
+      We had observed that many institutions were collecting more and
+      more clinical data about patients, but each in its often unique,
+      proprietary, historically-developed, incompatible forms. 
+      Inspired by the rocketing success of the early World Wide Web, we
+      believed that the records sharing part of the Guardian Angel
+      vision could be solved by using the same kinds of methods as the
+      Web to provide a seamless virtual shared record that any patient
+      (or any provider caring for the patient) could assemble on-the-fly
+      from whatever institutional systems held those records.  To
+      accomplish this, we used four architectural principles:
+
+Deal only with a modest subset of all possible records, so
+        that most source systems would be likely to contain and support
+        them.  Our initial demonstrations systems included the
+        following:
+
+demographics
+allergies
+problem list
+visit history
+notes, letters and discharge summaries
+medications
+
+
+immunizations
+laboratory
+reports on other tests, such as radiology
+images (though this was not implemented)
+
+Assemble and display data as needed, and do not create a
+        permanent centralized repository of clinical information about
+        patients.  We felt that issues of data confidentiality,
+        proprietary interests, and a history of political opposition to
+        "national medical databases" required this distributed,
+        ephemeral treatment of data.
+Use a common communication standard for representing and
+        communicating clinical content.  We adopted HL7 whenever it
+        proved comprehensive and unambiguous, and several extensions
+        where it was (at that time) inadequate.  Because most
+        existing systems did not provide HL7 as an output option, we
+        developed customized site servers for each source site
+        that could translate our queries into local retrieval operations
+        on the information system and could then encode the responses
+        into HL7 for use by other components of our system.
+Use Web Consortium (W3C)
+        standards to leverage rapid development and deployment of
+        advanced technologies, mostly driven by non-health uses. 
+        For example, our user interface is a Web browser, we rely on
+        communication security provided by SSL, and we adopt the
+        stateless communication model popularized by the Web.
+
+These choices made our implementation efforts enormously easier
+      than that experienced by earlier projects, and freed us from
+      problems of software distribution and installation, the need for
+      sophisticated client computers, etc.  The references describe
+      the architecture, implementation choices, policy development for
+      controlling the privacy of information to be shared, extensions of
+      the architecture to real-time monitoring scenarios, etc.
+Ultimately, this architecture was successfully adopted by several
+      projects that operate internally to a single controlling
+      institution.  Despite having built a working prototype of a
+      system to share clinical data among Boston-area emergency
+      departments, however, we found institutional suspicion and
+      resistance impossible to overcome, because no institution wanted
+      to give access to its patients' records to other, competing
+      institutions.  This observation has led us to our current
+      PING concept: all institutions owe access to data to the patient,
+      so if the patient effectively controls the data, it cannot be
+      denied by anyone else to providers the patient selects.
+
+Kohane, I. S., Greenspun, P., Fackler, J., et al.
+        (1996). Building
+          National Electronic Medical Record Systems via the World Wide
+          Web. J Am Med Inform Assoc 3(3): 191-207.
+Kohane, I. S., van Wingerde, F. J., Fackler, J. C., et al.
+        (1996). Sharing
+          electronic medical records across multiple heterogeneous and
+          competing institutions. Proc AMIA Annu Fall Symp:
+        608-12.
+van Wingerde, F. J., Schindler, J., Kilbridge, P., et al.
+        (1996). Using
+          HL7 and the World Wide Web for unifying patient data from
+          remote databases. Proc AMIA Annu Fall Symp: 643-7.
+Wang, K., van Wingerde, F. J., Bradshaw, K., et al.
+        (1997). A
+          Java-based multi-institutional medical information retrieval
+          system. Proc AMIA Annu Fall Symp: 538-42.
+Fraser, H. S. F., Kohane, I. S. and Long, W. J. (1997). Using
+          the technology of the world wide web to manage clinical
+          information. BMJ 314(7094): 1600-.
+Rind, D. M., Kohane, I. S., Szolovits, P., et al.
+        (1997). Maintaining
+          the Confidentiality of Medical Records Shared over the
+          Internet and the World Wide Web. Ann Intern Med 1997(127):
+        138-141.
+Halamka, J. D., Szolovits, P., Rind, D. and Safran, C. (1997).
+         A
+          WWW implementation of national recommendations for protecting
+          electronic health information. J Am Med Inform Assoc
+4(6): 458-64.
+
+More
+        details on this project, are still on-line, though
+      unfortunately a machine failure makes the demonstration database
+      no longer accessible.
+The Gestational Diabetes
+        Prototype
+Our initial ARPA-funded effort, in 1994-5, was to develop a suite
+      of tools for use by women with gestational diabetes being cared
+      for at the Bethesda Naval Hospital.  Gestational diabetes is
+      a condition that sometimes develops during pregnancy, and usually
+      clears up after delivery.  Treatment is aimed toward limiting
+      the patient's hyperglycemia (high blood sugar) by diet or drug
+      treatment.  The objective is both to protect the mother's
+      health and to prevent two dangerous conditions for the baby: an
+      abnormal increase in the amount of amniotic fluid that can induce
+      early labor, and the baby's overproduction of insulin to process
+      extra sugar from the mother, which can lead to a rebound effect
+      where the newborn becomes hypoglycemic after birth.
+We planned to build two major components, one to be used by the
+      mother, the other for the clinic.  The home system was to
+      support the following:
+
+A dietary module that would allow the user to collect data
+        about her eating habits, calculate exchange units, and suggest
+        generic or specific diet changes that would be likely to control
+        mild gestational diabetes.
+A glucometer module that communicates with a glucometer to
+        collect serum glucose data from women for whom early dietary
+        intervention did not control their diabetes.  This module
+        uploaded data from a modern glucometer, displayed and analyzed
+        the temporal pattern for the patient, and communicated these
+        data to the clinic.
+An insulin prescription module that calculated and suggested
+        appropriate doses of short and long-term insulin preparations
+        based on glucose levels, diet and exercise.
+Educational and motivational material to explain how to use
+        the glucometer and how to inject insulin. This included text,
+        diagrams and 
+Links to other educational material that explains the
+        physiology of diabetes, its effects on the developing fetus, the
+        logic behind strategies of control, etc.
+A communication module that downloaded lab test results and
+        other analytical data from the clinic to the patient.
+Scheduling features to manage planned clinic visits and tests
+        to be performed.
+A secure patient/provider pseudo-email system to facilitate ad
+        hoc communication with the clinic nurse, dietician and OB/GYN
+        specialists.
+
+The clinic system was to provide the following:
+
+An overview of the status of all patients currently being
+        followed by the clinic.  This was to be superposed on a
+        timeline that indicated gestational age of the fetus, expected
+        delivery date, and planned visits, coordinated with the clinic
+        schedule.
+Drill-down to specific records of the individual patient,
+        allowing both "at a glance" and detailed examination of the
+        records for a case.
+Communications to support the exchange of data with the home
+        system.
+Analysis functions to permit aggregate study of the experience
+        of cohorts of patients and the effectiveness of various
+        intervention strategies.
+
+Although we built many parts of the home system, the project
+      ended before the clinic system could be built and before the
+      entire system could be integrated and deployed.  As a result,
+      no publications resulted.  Nevertheless, internal notes are available that discuss
+      some of the design issues and show at least static images of parts
+      of what got built.
+Related Work
+Patient-centered medical care has been a hot topic in medical
+      computing circles for a number of years.  The annual meeting
+      of AMIA in 1993, for example, was subtitled "Patient Centered
+      Computing."  Alas, much of this focus is more hype than
+      reality.  For example, one innovation claimed by a presenter
+      at that meeting was to recognize that data about a single patient
+      from different departmental systems at a hospital should all be
+      accessible together.  This is certainly a useful and
+      long-overdue capability, but "patient-centered" in only the
+      weakest sense.  Below, we mention a few of the efforts we
+      know that come closer to the spirit.  We do not here attempt
+      to survey the field.
+Several companies have been early to create systems that allow a
+      patient to store and retrieve personal health records on a Web
+      server.  For example, the initial record system created
+      by VitalWorks gave patients a convenient way to record information
+      about their health, doctor's visits, medications, etc.  The
+      difficulty in most such systems, including theirs, is that all
+      information must be put into the system by hand, and there are no
+      facilities to deliver these data in any systematic way to
+      providers.  VitalWorks' business model apparently changed,
+      and as of 2007 seem no longer to be operating. Other companies
+      that support collection of patient data now also often couple this
+      activity with some other use of the data.  For example,
+      Doctor Global enables a patient-contributed health record in order
+      to support remote consultations (or second opinions) by their
+      medical staff. Most similar efforts known to us have also suffered
+      from the closed, proprietary nature of their record systems,
+      including such well-known ones as WebMD, which at
+      one time also offered a personal health record but today mainly
+      supplied generic medical information.  There is no easy way
+      to extract data entered into one of these for subsequent use in a
+      different system, and the facilities and motivations to enter data
+      seemed not to be enough to get the systems used.  Our Boston
+      colleagues Schoenberg and Safran proposed a 
+        Web-based record keeping system architecturally similar to
+      PING.
+Integrating record keeping with other aspects of the ongoing
+      activities of health care is a more difficult challenge, and is
+      required to achieve the goals of Guardian Angel.  A few
+      projects that more closely approximate these goals have
+      incorporated many of its patient education and communication
+      functions, typically focused on specific diseases.  An early
+      effort at IBM Research developed educational laser disks and a
+      home computer system to educate and support parents of leukemic
+      children in administering their therapy at home.  Some
+      systems have focused on patient (or caretaker) communications for
+      mutual support and education.  For example, Brennan's system
+      in Cleveland supported a community of caregivers for Alzheimer's
+      patients.  Our Boston colleagues' Baby CareLink system
+      provided visual communication between a hospitalized baby and his
+      or her parents, and educational material to prepare the parents
+      for later home care (Gray, J. E., Safran, C., Davis, R. B., et
+        al. (2000). Baby CareLink:
+        using the internet and telemedicine to improve care for
+        high-risk infants. Pediatrics 106(6):
+      1318-24.).  An interesting but incomplete system at
+      Pittsburgh supported patients who had questions about their
+      neurological condition (Buchanan, B. G., Carenini, G., Mittal, V.
+      O. and Moore, J. D. (1998). Designing
+        computer-based frameworks that facilitate doctor-patient
+        collaboration. Artif Intell Med 12(2):
+      169-91.).
+Note: This section is quite
+        incomplete and out of date.  Caveat emptor!
+The material below is from Jon Doyle's construction of the "old"
+      (1990's) GA page, and undoubtedly contains useful material that
+      should be incorporated or linked to the new version, but thus far
+      are just presented as they were.
+
+--Peter Szolovits, Feb. 1, 2001
+      Slightly updated Sep. 30, 2016
+
+
+The Guardian Angel Consortium
+MIT, Tufts NEMC,
+        Childrens Hospital (Boston)
+GA-INFO@GA.ORG
+http://www.ga.org/ga
+
+
+
+
+
+What's New!
+
+Manifesto
+Project Status
+
+
+People
+Publications
+Other links
+
+
+Patient
+                Education Materials 
+
+
+Internal
+
+
+
+                Information (MIT sites only) 
+
+
+
+
+ 
+
+Current health information systems are built for the convenience
+      of health care providers and consequently yield fragmented patient
+      records in which medically relevant lifelong information is
+      sometimes incomplete, incorrect, or inaccessible. We are
+      constructing information systems centered on the individual
+      patient instead of the provider, in which a set of guardian
+        angel (GA) software agents integrates all health-related
+      concerns, including medically-relevant legal and financial
+      information, about an individual (its subject). This
+      personal system will help track, manage, and interpret the
+      subject's health history, and offer advice to both patient and
+      provider. Minimally, the system will maintain comprehensive,
+      cumulative, correct, and coherent medical records, accessible in a
+      timely manner as the subject moves through life, work assignments,
+      and health care providers. Each GA is an active process that
+      performs several important functions: it collects patient data; it
+      checks, interprets, and explains to the subject medically-relevant
+      facts and plans; it adapts its advice based on the subject's prior
+      experiences and stated preferences; it performs sanity checks
+      on both medical efficacy and cost-effectiveness of diagnostic
+      conclusions and therapeutic plans; it monitors progress; it
+      interfaces to software agents of providers, insurers, etc.; and it
+      helps educate, encourage, and inform the patient. All this serves
+      to improve the quality of medical decision-making, increase
+      patient compliance, and minimize iatrogenic disease and medical
+      errors.
+For more information, write to ga-info@ga.org.
+
+
+ 
+
+ Last modified: 10/1/2008
+     
+Fern DeOliveira
+Accessibility
+ Back to Top 
+ CDM
+          Projects
+
+

@@ -1,0 +1,533 @@
+
+
+
+
+
+
+
+
+
+Homepage | Cerebras
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Product
+
+Cloud
+Cluster
+
+Condor Galaxy 1 AI Supercomputer
+Andromeda AI Supercomputer
+
+
+System
+
+CS-2 Virtual Product Tour
+
+
+Processor
+Software
+
+
+Applications
+
+Natural Language Processing
+Computer Vision
+High-Performance Computing
+Industries
+
+Health & Pharma
+Energy
+Government
+Scientific Computing
+Financial Services
+Web and Social Media
+
+
+
+
+Resources
+
+Customer Spotlights
+Blog
+Publications
+Events
+White Papers
+Model Lab
+
+
+Developers
+
+Community
+Documentation
+Cerebras Model Zoo
+Request Access to SDK
+
+
+Company
+
+About
+In the News
+Awards
+Press Releases
+Press Kit
+
+
+Join Us
+
+Life at Cerebras
+All openings
+
+
+Contact Us
+
+Search
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Your Model. Your Data.Generative AI for Your Business.Train and fine tune production AI models quickly and easily.
+Use your data and own your model.
+Train in the cloud or on-premises, pain-free.
+
+
+  
+
+
+Jais: a New Pinnacle in Open Arabic NLP
+
+
+
+Cerebras, G42’s Inception, and MBZUAI introduce Jais: the world’s best performing Arabic LLM
+
+
+
+Cerebras and Opentensor introduce BTLM-3B-8K: 7B Performance in a 3 Billion Parameter Model
+
+
+
+Cerebras and G42 Unveil Condor Galaxy 1, a 4 ExaFLOP, 54 Million Core AI Supercomputer
+
+
+
+SlimPajama: the largest deduplicated, multi-corpora, open-source dataset for training LLMs
+
+
+
+Silicon Valley Business Journal: Huge chips. Big AI advantage. Hitting the market at the right time
+ 
+ 
+
+
+
+
+
+
+
+“By releasing seven GPT models, Cerebras not only demonstrates the power of its CS-2 systems and Andromeda supercomputer as being amongst the premier training platforms, but elevates Cerebras researchers to the upper echelon of AI practitioners,”Karl Freund, Principal, Cambrian AI Research“The wafer-scale approach is unique and clearly better for big models than much smaller GPUs. ... Cerebras has created what should be the industry’s best solution for training very large neural networks.”Linley Gwennap, President and Principal Analyst, The Linley Group“Cerebras’ ability to bring large language models to the masses with cost-efficient, easy access opens up an exciting new era in AI. It gives organizations that can’t spend tens of millions an easy and inexpensive on-ramp to major league NLP.”Dan Olds, Chief Research Officer, Intersect360 Research“Cerebras is not your typical AI chip company. And that's a good thing.”Karl Freund, Principal, Cambrian AI Research“Years later, [Cerebras] is still perhaps the most differentiated competitor to NVIDIA’s AI platform. It takes a lot to go head-to-head with NVIDIA on AI training, but Cerebras has a differentiated approach that may end up being a winner.”Patrick Kennedy, Serve the HomeWhat our customers are saying
+
+
+
+
+Jasper"Partnering with Cerebras enables us to invent the future of generative AI, by doing things that are impractical or simply impossible with traditional infrastructure. Our collaboration with Cerebras accelerates the potential of generative AI, bringing its benefits to our rapidly growing customer base around the globe.”
+
+Dave RogenmoserCEO of Jasper
+
+
+
+
+GlaxoSmithKline"The Cerebras CS-2 is a critical component that allows GSK to train language models using biological datasets at a scale and size previously unattainable. These foundational models form the basis of many of our AI systems and play a vital role in the discovery of transformational medicines."
+
+Kim BransonSVP Global Head of AI and MLGlaxoSmithKline
+
+
+
+
+TotalEnergies"TotalEnergies’ roadmap is crystal clear: more energy, less emissions. To achieve this, we need to combine our strengths with those who enable us to go faster, higher, and stronger… We count on the CS-2 system to boost our multi-energy research and give our research ‘athletes’ that extra competitive advantage."
+
+Vincent SaubestreCEO & PresidentTotalEnergies Research & Technology USA
+
+
+
+
+AstraZeneca"Training which historically took over 2 weeks to run on a large cluster of GPUs was accomplished in just over 2 days — 52hrs to be exact — on a single CS-1. This could allow us to iterate more frequently and get much more accurate answers, orders of magnitude faster."
+
+Nick BrownHead of AI & Data ScienceAstrazeneca
+
+
+
+
+Argonne National Laboratory"Cerebras allowed us to reduce the experiment turnaround time on our cancer prediction models by 300x, ultimately enabling us to explore questions that previously would have taken years, in mere months."
+
+Dr. Rick StevensAssociate Laboratory Director of Computing, Environment and Life SciencesArgonne National Laboratory
+
+
+
+
+National Energy Technology Laboratory"We used the original CS-1 system, which features the WSE, to successfully perform a key computational fluid dynamics workload more than 200 times faster and at a fraction of the power consumption than the same workload on the Lab’s supercomputer JOULE 2.0.”
+
+Dr. Dirk Van EssendelftML and Data Science EngineerNETLOur unique technology
+
+Wafer-Scale ClusterThe Cerebras Wafer-Scale Cluster delivers unprecedented near-linear scaling and a remarkably simple programming model.
+
+
+
+Learn more
+
+CS-2 SystemPurpose built for AI and HPC, the field-proven CS-2 replaces racks of GPUs. Gone are the challenges of parallel programming and distributed training.
+Learn more
+
+Wafer-Scale EngineThe revolutionary central processor for our deep learning computer system is the largest computer chip ever built and the fastest AI processor on Earth.
+Learn more
+
+Software PlatformThe Cerebras Software Platform integrates with TensorFlow and PyTorch, so researchers can effortlessly bring their models to CS-2 systems and clusters.
+Learn more
+
+Flexible DeploymentOn or off-premises, Cerebras Cloud meshes with your current cloud-based workflow to create a secure, multi-cloud solution.
+
+Learn more
+
+
+
+
+
+
+Explore more ideas in less time. Reduce the cost of curiosity.Subscribe to our newsletter
+
+
+
+
+info@cerebras.net
+1237 E. Arques Ave
+Sunnyvale, CA 94085
+FollowProductCluster
+System
+Chip
+Software
+Cloud
+ApplicationsNatural Language Processing
+Computer Vision
+High Performance Computing
+IndustriesHealth & Pharma
+Energy
+Government
+Scientific Computing
+Financial Services
+Web & Social Media
+ResourcesCustomer Spotlight
+Blog
+Publications
+Event Replays
+Whitepapers
+DevelopersCommunity
+Developer Blog
+Documentation
+ML Public Repository
+Request Access to SDK
+
+
+CompanyAbout Cerebras
+In the News
+Press Releases
+Privacy
+Legal
+Careers
+Contact
+
+
+© 2023 Cerebras. All rights reserved
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Privacy Preference Center
+
+
+
+
+
+
+
+Privacy Preferences
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ × 
+
+
+
+
+Manage Cookie Consent
+
+
+
+
+
+
+To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+
+
+
+
+
+Functional
+
+
+
+Functional
+
+								Always active							
+
+
+
+
+
+
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+
+
+
+
+
+Preferences
+
+
+Preferences
+
+
+
+
+
+
+
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+
+
+
+
+
+Statistics
+
+
+Statistics
+
+
+
+
+
+
+
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+
+
+
+
+
+Marketing
+
+
+Marketing
+
+
+
+
+
+
+
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+
+
+
+
+
+Manage options
+Manage services
+Manage vendors
+Read more about these purposes
+
+
+
+Accept
+Deny
+View preferences
+Save preferences
+View preferences
+
+
+{title}
+{title}
+{title}
+
+
+
+Manage consent
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+

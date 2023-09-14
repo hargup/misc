@@ -1,0 +1,913 @@
+
+
+
+
+
+Federal Reserve Economic Data | FRED | St. Louis Fed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Economic Research Resources
+        
+
+
+
+
+
+
+
+Explore resources provided by the Research Division at the Federal Reserve Bank of St. Louis
+
+research.stlouisfed.org 
+
+
+
+
+
+Research News
+
+
+Economists
+
+
+Publications
+
+
+Working Papers
+
+
+Information Services
+
+
+
+
+
+
+ 
+
+
+ Switch Products
+    
+
+
+
+
+
+
+
+FRED
+
+
+
+
+
+AL
+FRED
+
+
+
+
+
+FRASER
+
+
+
+
+
+ECONLOWDOWN
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Release Calendar
+
+
+FRED Tools
+                            
+
+
+
+FRED Blog
+
+
+FRED News
+
+
+About FRED
+                            
+
+
+
+My Account
+
+
+
+
+
+                            Switch Products
+
+
+
+
+                            Economic Research Resources
+
+Explore resources provided by the Research Division at the Federal Reserve Bank of St. Louis.
+
+
+
+
+
+
+
+                        About FRED
+                    
+
+ What is FRED
+
+
+ Tutorials
+
+
+
+                        Data Literacy
+                        
+
+
+ Contact Us
+
+
+
+
+
+
+
+                            FRED Tools
+                    
+
+ FRED Add-in for Excel
+
+
+ FRED API
+
+
+ FRED Mobile Apps
+
+
+
+
+
+
+
+
+                            Economic Research Resources
+                        
+
+
+ Research News
+
+
+ Economists
+
+
+ Publications
+
+
+ Working Papers
+
+
+ Information Services
+
+
+
+
+
+
+
+                            Switch Products
+                    
+
+
+
+
+FRED
+
+
+
+
+
+AL
+FRED
+
+
+
+
+
+FRASER
+
+
+
+
+
+ECONLOWDOWN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Release Calendar
+
+
+
+FRED Tools
+    
+
+
+
+
+
+
+FRED Add-in for Excel
+
+
+FRED API
+
+
+FRED Mobile Apps
+
+
+
+ 
+
+FRED News
+
+
+FRED Blog
+
+
+
+About FRED
+    
+
+
+
+
+
+
+
+            What is FRED
+          
+
+
+
+            Tutorials
+          
+
+
+
+            Data Literacy
+          
+
+
+
+            Contact Us
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Welcome to FRED, your trusted source for economic data since 1991.
+      
+
+
+
+
+
+
+          Download, graph, and track
+          823,000 US and international time series
+          from 114
+          sources.
+      
+
+
+        Welcome to FRED, your trusted source for economic data since 1991. Download, graph, and track
+        823,000 US and international time series
+        from 114
+        sources.
+    
+
+
+ 
+
+
+
+          Welcome to FRED, your trusted source for economic data since 1991.
+          Download, graph, and track
+          823,000 US and international time series
+          from 114
+          sources.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          EXPLORE
+        
+
+
+
+Trending Search Terms:
+
+cpi
+gdp
+real gdp
+unemployment rate
+inflation
+m2
+consumer price index
+unemployment
+m1
+gross domestic product
+
+
+
+
+
+Browse Data By:
+
+Category
+Release
+Source
+Tag
+Release Calendar
+
+
+
+
+
+
+
+
+
+FRED News
+
+FRED Adds Macroeconomic Uncertainty Index Data
+FRED Adds Wage Growth Tracker Data
+
+FRED Blog
+
+Strong and weak currencies
+
+Research News
+
+COVID-19 Resources
+
+
+
+
+
+
+
+
+
+
+AT A GLANCE
+POPULAR SERIES
+LATEST RELEASES
+TOOLS
+NEED HELP?
+
+
+
+
+
+
+
+
+
+Consumer Price Index for All Urban Consumers: All Items
+
++3.7 % Chg. from Yr. Ago
+                        on Aug 2023
+
+
+
+
+
+
+
+Real Gross Domestic Product
+
+2.1 % Chg. from Preceding Period
+                        on Q2 2023
+
+
+
+
+
+
+
+Industrial Production Index
+
++1.0 % Chg.
+                        on Jul 2023
+
+
+
+
+
+
+
+10-Year Treasury Constant Maturity Rate
+
+4.29 %
+                        on 2023-09-11
+
+
+
+
+
+
+
+
+
+U.S. / Euro Foreign Exchange Rate
+
+1.0709 U.S. $ to  1 Euro
+                        on 2023-09-08
+
+
+
+
+
+
+
+Unemployment Rate
+
+3.8 %
+                        on Aug 2023
+
+
+
+
+
+
+
+All Employees: Total Nonfarm Payrolls
+
++187 Chg., Thous. of Persons
+                        on Aug 2023
+
+
+
+
+
+
+
+Initial Claims
+
+216,000
+on 2023-09-02
+
+
+
+
+
+
+
+
+
+
+
+
+
+10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity
+7 hours ago
+
+
+
+
+
+
+
+
+
+30-Year Fixed Rate Mortgage Average in the United States
+6 days ago
+
+
+
+
+
+
+
+
+
+Federal Funds Effective Rate
+Sep 1
+
+
+
+
+
+
+
+
+
+Consumer Price Index for All Urban Consumers: All Items in U.S. City Average
+15 hours ago
+
+
+
+
+
+
+
+
+
+Assets: Total Assets: Total Assets (Less Eliminations from Consolidation): Wednesday Level
+6 days ago
+
+
+
+
+
+
+
+
+
+
+
+10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity
+7 hours ago
+
+
+
+
+
+
+
+
+
+Unemployment Rate
+Sep 1
+
+
+
+
+
+
+
+
+
+ICE BofA US High Yield Index Option-Adjusted Spread
+14 hours ago
+
+
+
+
+
+
+
+
+
+M2
+Aug 22
+
+
+
+
+
+
+
+
+
+Gross Domestic Product
+Aug 30
+
+
+
+
+
+
+
+
+
+
+More Popular Series
+
+
+
+
+
+Consumer Price Index
+15 hours ago
+H.15 Selected Interest Rates
+8 hours ago
+Average Price Data
+15 hours ago
+Interest Rate Spreads
+7 hours ago
+Spot Prices
+10 hours ago
+
+
+Economic Policy Uncertainty
+15 hours ago
+Inflation Expectations
+8 hours ago
+Recession Indicators Series
+5 hours ago
+Sticky Price CPI
+11 hours ago
+Commercial Paper
+11 hours ago
+
+
+
+Release Calendar
+
+
+
+
+ My Data Lists
+ Published Data Lists
+ FRED Add-In for Microsoft Excel
+
+
+ Developer API
+ FRED Mobile
+ ALFRED®
+
+
+
+
+
+
+
+Tutorials
+FAQs
+Contact Us
+
+
+
+
+
+
+
+
+Filter 0
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+SERVICES
+
+FRED®
+ALFRED®
+FRASER®
+
+
+
+RESEARCH
+
+Eighth District Economy
+Working Papers
+Events
+Publications
+
+
+
+TOOLS
+
+FRED Mobile Apps
+FRED Add-In for Excel®
+Embeddable FRED Widget
+Developer/APIs
+
+
+
+ABOUT
+
+Careers
+Contact
+Legal
+Privacy Notice & Policy
+
+
+
+OUR SITES
+
+St. Louis Fed
+Research Division
+Education Resources
+
+
+
+
+
+Need Help?
+
+Questions or
+                Comments
+
+
+FRED Help
+
+
+
+
+Subscribe to the FRED newsletter
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+Follow us
+
+
+
+
+
+
+
+
+
+Back to Top
+
+
+
+        Federal Reserve Bank of St. Louis,
+        One Federal Reserve Bank Plaza,
+        St. Louis, MO 63102
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

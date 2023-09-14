@@ -1,0 +1,35 @@
+
+
+
+
+
+Floppy Bird by GPT-4
+
+
+
+Flappy Bird by GPT-4
+
+Use space to jump
+
+Select difficulty
+
+
+Easy
+
+
+
+Medium
+
+
+
+Hard
+
+Start Game
+
+
+Score: 0
+Play Again
+
+
+
+

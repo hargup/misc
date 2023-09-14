@@ -1,0 +1,45 @@
+LLM BenchmarksAsking 60+ LLMs a set of 20 questionsBenchmarks like HellaSwag are a bit too abstract for me to get a sense of how well they perform in real-world workflows.I had the idea of writing a script that asks prompts testing basic reasoning, instruction following, and creativity on around 60 models that I could get my hands on through inferences API.The script stored all the answers in a SQLite database, and those are the raw results.Edit: as this got popular, I added an email form to receive notifications for future benchmark results:(no spam, max 1 email per month)view: all prompts / all modelsreflexion:Argue for and against the use of kubernetes in the style of a haiku.resultsGive two concise bullet-point arguments against the Münchhausen trilemma (don't explain what it is)resultsI went to the market and bought 10 apples. I gave 2 apples to the neighbor and 2 to the repairman. I then went and bought 5 more apples and ate 1. I also gave 3 bananas to my brother. How many apples did I remain with?
+Let's think step by step.resultsSally (a girl) has 3 brothers. Each brother has 2 sisters. How many sisters does Sally have?resultsSally (a girl) has 3 brothers. Each brother has 2 sisters. How many sisters does Sally have? Let's think step by step.resultsknowledge:Explain in a short paragraph quantum field theory to a high-school student.resultsIs Taiwan an independent country?resultsTranslate this to French, you can take liberties so that it sounds nice: "blossoms paint the spring, nature’s rebirth brings delight and beauty fills the air."resultscode:Explain simply what this function does:
+```
+def func(lst):
+    if len(lst) == 0:
+        return []
+    if len(lst) == 1:
+        return [lst]
+    l = []
+    for i in range(len(lst)):
+        x = lst[i]
+        remLst = lst[:i] + lst[i+1:]
+        for p in func(remLst):
+            l.append([x] + p)
+    return l
+```resultsExplain the bug in the following code:
+
+```
+from time import sleep
+from multiprocessing.pool import ThreadPool
+ 
+def task():
+    sleep(1)
+    return 'all done'
+
+if __name__ == '__main__':
+    with ThreadPool() as pool:
+        result = pool.apply_async(task())
+        value = result.get()
+        print(value)
+```resultsWrite a Python function that prints the next 20 leap years. Reply with only the function.resultsWrite a Python function to find the nth number in the Fibonacci Sequence.resultsinstruct:Extract the name of the vendor from the invoice: PURCHASE #0521 NIKE XXX3846. Reply with only the name.resultsHelp me find out if this customer review is more "positive" or "negative". 
+
+Q: This movie was watchable but had terrible acting.
+A: negative
+Q: The staff really left us our privacy, we’ll be back.
+A: resultsWhat are the 5 planets closest to the sun? Reply with only a valid JSON array of objects formatted like this:
+
+```
+[{
+  "planet": string,
+  "distanceFromEarth": number,
+  "diameter": number,
+  "moons": number
+}]
+```resultscreativity:Give me the SVG code for a smiley. It should be simple. Reply with only the valid SVG code and nothing else.resultsTell a joke about going on vacation.resultsWrite a 12-bar blues chord progression in the key of EresultsWrite me a product description for a 100W wireless fast charger for my website.resultsNotesI used a temperature of 0 and a max token limit of 240 for each test (that's why a lot of answers are cropped). The rest are default settings.I made this with a mix of APIs from OpenRouter, TogetherAI, OpenAI, Cohere, Aleph Alpha & AI21.This is imperfect. I want to improve this by using better stop sequences and prompt formatting tailored to each model. But hopefully it can already make picking models a bit easier.Ideas for the future: public votes to compute an ELO rating, compare 2 models side by side, community-submitted prompts (open to suggestions)Prompt suggestions, feedback or say hi: vince [at] llmonitor.comShameless plug: I'm building an open-source observability tool for AI devs.Credit: @vincelwtby 📈 llmonitor

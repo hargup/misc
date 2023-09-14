@@ -1,0 +1,1317 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discover gists · GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+All gists
+Back to GitHub
+
+      Sign in
+
+
+        Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Sign in
+ 
+          Sign up
+ 
+
+
+
+
+
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+
+ 
+
+
+ Dismiss alert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Instantly share code, notes, and snippets.
+      
+
+
+
+
+
+
+
+
+
+
+        Discover gists
+      
+
+
+
+
+
+
+
+
+
+
+
+All gists
+
+
+
+
+
+
+Forked
+
+
+
+
+
+
+Starred
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              1 file
+            
+
+
+
+
+
+
+              5 forks
+            
+
+
+
+
+
+
+              1 comment
+            
+
+
+
+
+
+
+              3 stars
+            
+
+
+
+
+
+
+
+
+codigoconjuan
+                / style.css
+
+
+              Created
+              November 9, 2022 16:55
+
+
+                Style.css para Crear un Tema nuevo
+              
+
+
+
+
+
+View style.css
+ 
+
+
+
+
+
+
+
+/*
+
+
+
+ Theme Name: Gym Fitness
+
+
+
+ Theme URI: 
+
+
+
+ Author: Juan Pablo De la torre Valdez
+
+
+
+ Author URI: http://twitter.com/codigoconjuan
+
+
+
+ Description: Theme Diseñado para el Gimnasio GymFitness
+
+
+
+ Version: 1.0
+
+
+
+ License: GNU General Public License v2 or later
+
+
+
+ License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+
+
+ Tags: Gym, gimnasio, flexbox, css grid, mobile first
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              1 file
+            
+
+
+
+
+
+
+              0 forks
+            
+
+
+
+
+
+
+              0 comments
+            
+
+
+
+
+
+
+              2 stars
+            
+
+
+
+
+
+
+
+
+l619534951
+                / log4j2.xml
+
+
+              Created
+              September 28, 2020 22:18
+— forked from evil0th/log4j2.xml
+
+
+                Log4j2配置（控制台颜色参照springboot配置）
+              
+
+
+
+
+
+View log4j2.xml
+ 
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<configuration status="OFF">
+
+
+
+    <Properties>
+
+
+
+        <Property name="LOG_HOME">${sys:user.home}/logs</Property>
+
+
+
+ <!--<Property name="LOG_HOME">../logs</Property>-->
+
+
+
+ <!--<Property name="PATTERN">[%date{DEFAULT}] [%thread] [%-5level] TC:%x %logger{1.}.%method:%line - %msg%xEx%n</Property>-->
+
+
+
+        <Property name="LOG_EXCEPTION_CONVERSION_WORD">%xEx</Property>
+
+
+
+        <Property name="LOG_LEVEL_PATTERN">%5p</Property>
+
+
+
+        <Property name="LOG_DATEFORMAT_PATTERN">yyyy-MM-dd HH:mm:ss.SSS</Property>
+
+
+
+ <!--<Property name="CONSOLE_LOG_PATTERN">%clr{%d{${LOG_DATEFORMAT_PATTERN}}}{faint} %clr{${LOG_LEVEL_PATTERN}} %clr{${sys:PID}}{magenta} %clr{-&#45;&#45;}{faint} %clr{[%15.15t]}{faint} %clr{%-40.40c{1.}}{cyan} %clr{:}{faint} %m%n${sys:LOG_EXCEPTION_CONVERSION_WORD}</Property>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              1 file
+            
+
+
+
+
+
+
+              84 forks
+            
+
+
+
+
+
+
+              63 comments
+            
+
+
+
+
+
+
+              400 stars
+            
+
+
+
+
+
+
+
+
+mutin-sa
+                / Top_Public_Time_Servers.md
+
+
+              Last active
+              September 14, 2023 04:30
+
+
+                List of Top Public Time Servers
+              
+
+
+
+
+
+View Top_Public_Time_Servers.md
+ 
+
+Google Public NTP [AS15169]:
+time.google.com
+time1.google.com
+time2.google.com
+time3.google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+              1 file
+            
+
+
+
+
+
+
+              0 forks
+            
+
+
+
+
+
+
+              0 comments
+            
+
+
+
+
+
+
+              2 stars
+            
+
+
+
+
+
+
+
+
+racerxdl
+                / esp32-spiflash.ino
+
+
+              Created
+              May 31, 2020 01:30
+
+
+                ESP32 Arduino VSPI SPI Flash Reader / Writer
+              
+
+
+
+
+
+View esp32-spiflash.ino
+ 
+
+
+
+
+
+
+
+#include <SPI.h>
+
+
+
+#include "FS.h"
+
+
+
+#include "SPIFFS.h"
+
+
+
+
+
+
+
+
+#define CS 5
+
+
+
+#define FORMAT false
+
+
+
+SPIClass * vspi = NULL;
+
+
+
+
+
+
+
+
+SPISettings settings(10000000, MSBFIRST, SPI_MODE0);
+
+
+
+//SPISettings settings(1000000, MSBFIRST, SPI_MODE0);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              1 file
+            
+
+
+
+
+
+
+              1 fork
+            
+
+
+
+
+
+
+              0 comments
+            
+
+
+
+
+
+
+              1 star
+            
+
+
+
+
+
+
+
+
+diffficult
+                / w10_bcd_error_0xc0000098.md
+
+
+              Last active
+              September 14, 2023 04:28
+
+
+                Windows 10 Error: BCD missing - error 0xc0000098
+              
+
+
+
+
+
+View w10_bcd_error_0xc0000098.md
+ 
+
+Fixing Boot Error 0xc0000098 on Windows 10 (8 & 7)
+Method 1: Run Automatic/Startup Repair
+
+
+Insert the Windows 10 bootable installation DVD and restart your PC.
+
+
+When prompted to Press any key to boot from CD or DVD, press any key to continue.
+
+
+Select your language preferences, and click Next. Click Repair your computer in the bottom-left.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              1 file
+            
+
+
+
+
+
+
+              1 fork
+            
+
+
+
+
+
+
+              0 comments
+            
+
+
+
+
+
+
+              6 stars
+            
+
+
+
+
+
+
+
+
+pervognsen
+                / paren_repr.py
+
+
+              Last active
+              September 14, 2023 04:26
+
+
+
+
+
+
+View paren_repr.py
+ 
+
+
+
+
+
+
+
+# I happened to be looking at some of Cranelift's code, and I noticed that their constant-time dominates()
+
+
+
+# check was using a somewhat more ad-hoc version of a hidden gem from the data structures literature called the
+
+
+
+# parenthesis representation for trees. As far as I know, this was invented by Jacobson in his 1989 paper
+
+
+
+# Space-Efficient Static Trees and Graphs. I first learned about it from the slightly later paper by Munro and Raman
+
+
+
+# called Succinct Representations of Balanced Parentheses and Static Trees. I figured I'd give it an extremely
+
+
+
+# quick intro and then show how it leads to a (slightly better) version of Cranelift's algorithm.
+
+
+
+#
+
+
+
+# This parenthesis representation of trees is surprisingly versatile, but its most striking feature is that
+
+
+
+# it lets us query the ancestor relationship between two nodes in a tree in constant time, with a few instructions.
+
+
+
+# And the idea is extremely simple and intuitive if you just draw the right kind of picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              1 file
+            
+
+
+
+
+
+
+              1 fork
+            
+
+
+
+
+
+
+              0 comments
+            
+
+
+
+
+
+
+              14 stars
+            
+
+
+
+
+
+
+
+
+pervognsen
+                / rh_grow.c
+
+
+              Last active
+              September 14, 2023 04:25
+
+
+
+
+
+
+View rh_grow.c
+ 
+
+
+
+
+
+
+
+// This can grow a Robin Hood linear probing hash table near word-at-a-time memcpy speeds. If you're confused why I use 'keys'
+
+
+
+// to describe the hash values, it's because my favorite perspective on Robin Hood (which I learned from Paul Khuong)
+
+
+
+// is that it's just a sorted gap array which is MSB bucketed and insertion sorted per chain:
+
+
+
+// https://pvk.ca/Blog/2019/09/29/a-couple-of-probabilistic-worst-case-bounds-for-robin-hood-linear-probing/
+
+
+
+// The more widely known "max displacement" picture of Robin Hood hashing also has strengths since the max displacement
+
+
+
+// can be stored very compactly. You can see a micro-optimized example of that here for small tables where the max displacement
+
+
+
+// can fit in 4 bits: Sub-nanosecond Searches Using Vector Instructions, https://www.youtube.com/watch?v=paxIkKBzqBU
+
+
+
+void grow(Table *table) {
+
+
+
+ u64 exp = 64 - table->shift;
+
+
+
+ // We grow the table downward in place by a factor of 2 (not counting the overflow area at table->end).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              1 file
+            
+
+
+
+
+
+
+              3 forks
+            
+
+
+
+
+
+
+              6 comments
+            
+
+
+
+
+
+
+              4 stars
+            
+
+
+
+
+
+
+
+
+yasinkuyu
+                / cloudflare_bypass.php
+
+
+              Created
+              November 2, 2020 11:39
+
+
+                PHP CURL function which bypasses the Cloudflare
+              
+
+
+
+
+
+View cloudflare_bypass.php
+ 
+
+
+
+
+
+
+
+<?php
+
+
+
+
+
+
+
+
+/*
+
+
+
+	PHP CURL function which bypasses the Cloudflare
+
+
+
+	@yasinkuyu
+
+
+
+*/
+
+
+
+function cloudFlareBypass($url){
+
+
+
+
+
+
+
+
+ $useragent = "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/W.X.Y.Z‡ Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              1 file
+            
+
+
+
+
+
+
+              89 forks
+            
+
+
+
+
+
+
+              84 comments
+            
+
+
+
+
+
+
+              341 stars
+            
+
+
+
+
+
+
+
+
+MuhammadSaim
+                / rarreg.key
+
+
+              Last active
+              September 14, 2023 04:23
+
+
+                Step 1: Create a file called rarreg.key Step 2: Paste into the file the raw content of this gist Step 3: Go to Winrar install directory (by default => c:\ProgramFiles\WinRAR\ ) Step 4: Paste the rarreg.key into WinRAR directory Step 5: Enjoy
+              
+
+
+
+
+
+View rarreg.key
+ 
+
+
+
+
+
+
+
+RAR registration data
+
+
+
+WinRAR
+
+
+
+Unlimited Company License
+
+
+
+UID=4b914fb772c8376bf571
+
+
+
+6412212250f5711ad072cf351cfa39e2851192daf8a362681bbb1d
+
+
+
+cd48da1d14d995f0bbf960fce6cb5ffde62890079861be57638717
+
+
+
+7131ced835ed65cc743d9777f2ea71a8e32c7e593cf66794343565
+
+
+
+b41bcf56929486b8bcdac33d50ecf773996052598f1f556defffbd
+
+
+
+982fbe71e93df6b6346c37a3890f3c7edc65d7f5455470d13d1190
+
+
+
+6e6fb824bcf25f155547b5fc41901ad58c0992f570be1cf5608ba9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              3 files
+            
+
+
+
+
+
+
+              12 forks
+            
+
+
+
+
+
+
+              21 comments
+            
+
+
+
+
+
+
+              67 stars
+            
+
+
+
+
+
+
+
+
+lazaronixon
+                / dropzone_controller.js
+
+
+              Last active
+              September 14, 2023 04:22
+
+
+                Dropzone.js + Stimulus + Active Storage
+              
+
+
+
+
+
+View dropzone_controller.js
+ 
+
+
+
+
+
+
+
+import { Controller } from "stimulus"
+
+
+
+import { DirectUpload } from "@rails/activestorage"
+
+
+
+import Dropzone from "dropzone"
+
+
+
+import { getMetaValue, findElement, removeElement, insertAfter } from "helpers"
+
+
+
+
+
+
+
+
+Dropzone.autoDiscover = false
+
+
+
+
+
+
+
+
+export default class extends Controller {
+
+
+
+ static targets = [ "input" ]
+
+
+
+
+
+
+
+
+NewerOlder
+
+
+
+
+
+
+
+Footer
+
+
+
+
+
+
+
+ 
+        © 2023 GitHub, Inc.
+        
+
+
+
+Footer navigation
+
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    You can’t perform that action at this time.
+  
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,887 @@
+
+
+
+
+
+Paperspace Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Paperspace joins DigitalOcean.
+
+ Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+PRoduct
+
+
+
+
+
+
+Gradient
+
+Build, train, deploy, and manage AI models.
+
+
+
+
+
+
+Notebooks
+
+
+
+
+Deployments
+
+
+
+
+Workflows (Beta)
+
+BETA
+
+
+
+
+
+
+
+
+
+
+Core
+
+Effortless infrastructure on-demand.
+
+
+
+
+
+
+GPU cloud
+
+
+
+
+Windows Desktop
+
+
+
+
+
+
+
+
+Cloud hosted desktops for both individuals and organizations.
+
+
+
+
+
+
+SOLUTIONS
+
+
+
+
+Machine Learning
+Develop, fine-tune, and deploy AI models of any size and complexity.
+
+
+
+
+GPU Infrastructure
+Power accelerated applications with modern infrastructure.
+
+
+
+
+Enterprise VDI
+Virtual desktops with centralized management.
+
+
+
+
+Gaming
+Run any game on a powerful cloud gaming rig.
+
+
+
+
+Rendering, 3D Graphics & Simulation
+High performance workstations and render nodes.
+
+
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+
+
+
+
+
+
+Blog
+
+
+Sample projects, release notes, and more
+
+
+
+
+
+
+
+Docs
+
+
+View the docs hub and tutorials
+
+
+
+
+
+
+
+Community
+
+
+A forum to share ideas and learn new tools
+
+
+
+
+
+
+
+
+
+ML Showcase
+
+
+Sample projects you can clone into your account
+
+
+
+
+
+
+
+Professional Services
+
+
+Get expert advice on your ML projects
+
+
+
+
+
+
+
+Talk to an Expert
+
+
+Find the right solution for your organization
+
+
+
+
+
+
+
+
+
+Pricing
+
+We're hiring!
+🤩
+
+
+
+Sign in
+Sign up free
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Blog Home
+
+
+Tutorials
+
+
+Announcements
+
+
+Stable Diffusion
+
+
+YOLO
+
+
+NLP
+
+
+Get paid to write
+
+
+We're hiring!
+
+
+
+
+
+
+
+Search Blog
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Paperspace Blog
+Tutorials, sample apps, and more created by the Paperspace internal research team and community
+
+                Sign up now
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Latest
+    
+
+
+
+          public
+        
+
+
+
+
+      Latest
+    
+
+
+          Computer Vision
+          
+
+
+
+DiffBIR: High Quality Blind Image Restoration with Generative Diffusion Prior
+
+In this tutorial, we walkthrough the DiffBIR technique for blind image resoration. This Stable Diffusion based technique shows much promise, so follow along this tutorial to launch DiffBIR with Paperspace!
+
+
+
+
+
+
+          By 
+          James Skelton
+
+
+•
+
+        a day ago
+      
+
+
+
+
+
+
+
+
+            Stable Diffusion
+            
+
+
+            public
+          
+
+
+Real-World Denoising Through Diffusion Model
+
+This overview covers the basic theory behind diffusion modeling, through a breakdown of the "Real-World Denoising via Diffusion Model" paper
+
+
+
+
+
+
+
+
+            By 
+            Adrien Payong
+
+
+•
+
+          5 days ago
+        
+
+
+
+
+
+
+
+
+        public
+      
+
+
+
+
+
+            Stable Diffusion
+            
+
+
+
+Creating an editable motion animation with StableVideo
+
+In part one of our tutorial series on StableVideo, we show how to setup the demo application, and run it using some of the available demo data.
+
+
+
+
+
+
+
+
+            By 
+            James Skelton
+
+
+•
+
+          8 days ago
+        
+
+
+
+
+
+
+
+
+        public
+      
+
+
+
+
+
+            NLP
+            
+
+
+
+Build a Transformer-based language Model Using Torchtext
+
+In this tutorial, we show how to construct a fully trained transformer-based language model using TorchText in a Paperspace Notebook
+
+
+
+
+
+
+
+
+            By 
+            Adrien Payong
+
+
+•
+
+          12 days ago
+        
+
+
+
+
+
+
+
+
+        public
+      
+
+
+
+
+
+            Computer Vision
+            
+
+
+
+Imagen: A text-to-image diffusion model
+
+In this article, we introduce the diffusion model that started the revolution: Google's Imagen! 
+
+
+
+
+
+
+
+
+            By 
+            Adrien Payong
+
+
+•
+
+          19 days ago
+        
+
+
+
+
+
+
+
+
+        public
+      
+
+
+
+
+
+            Tutorial
+            
+
+
+
+Review - STAR framework and ASP programming for NLU Tasks-part 2: Solving Word Problems in Algebra
+
+Our follow up on the STAR Framework, this time showing how to solve word problems in algebra in Python. 
+
+
+
+
+
+
+
+
+            By 
+            Adrien Payong
+
+
+•
+
+          20 days ago
+        
+
+
+
+
+
+
+
+
+        public
+      
+
+
+
+
+
+
+Review - STAR framework and ASP programming for NLU Tasks: part 1
+
+In part one of this review series, we look at the STAR framework and assess its capabilities for taking on Natural Language Understanding tasks. 
+
+
+
+
+
+
+
+
+            By 
+            Adrien Payong
+
+
+•
+
+          a month ago
+        
+
+
+
+
+
+
+
+
+        public
+      
+
+
+
+
+
+            Theory
+            
+
+
+
+Overview of the Transformer Architecture
+
+In this article, we examine the theoretical design behind the popular Transformers architecture, and attempt to explain the underlying mechanisms that have lead to its success in such a wide array of AI disciplines. 
+
+
+
+
+
+
+
+
+            By 
+            Adrien Payong
+
+
+•
+
+          a month ago
+        
+
+
+
+
+
+
+
+
+        public
+      
+
+
+
+
+
+            Tutorial
+            
+
+
+
+How to quickly clone your voice with TorToiSe Text-To-Speech
+
+In this tutorial, we show how to clone voices with TorToise TTS, and discuss necessary steps to ensure ideal cloning takes place. 
+
+
+
+
+
+
+
+
+            By 
+            James Skelton
+
+
+•
+
+          a month ago
+        
+
+
+
+
+
+
+
+
+        Next
+      
+
+
+
+
+
+
+
+
+
+
+
+      Subscribe to our newsletter
+    
+
+    Stay updated with Paperspace Blog by signing up for our newsletter.
+  
+
+
+      Your email address
+    
+
+
+      Join now
+      
+
+
+
+    🎉 Awesome! Now check your inbox and click the link to confirm your subscription.
+  
+
+    Please enter a valid email address
+  
+
+    Oops! There was an error sending the email, please try later
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+Machine Learning
+GPU Infrastructure
+Cloud Desktops (VDI)
+3D Workstations
+Visual Computing
+Gaming
+
+
+Product
+Docs
+Changelog
+Status Page
+Referral Program
+Download App
+Customers
+Media Kit
+
+
+Resources
+Support
+Talk to an expert
+Forum
+Business
+Security
+Cloud GPU Comparison
+NVIDIA Cloud Partner
+Graphcore IPUs
+Media Kit
+
+
+Company
+About
+Blog
+Careers
+Shop
+Get Paid to Write
+ATG (Research)
+
+
+
+
+
+
+
+Part of the 
+family
+
+© Copyright by Paperspace • All rights reserved 
+
+Terms of Service
+•
+Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

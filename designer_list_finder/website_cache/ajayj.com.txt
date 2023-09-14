@@ -1,0 +1,438 @@
+
+
+
+
+
+
+
+
+
+
+
+Ajay Jain
+
+
+
+
+
+
+            Ajay Jain
+        
+
+
+
+Twitter
+ | 
+Google Scholar
+ | 
+GitHub
+ | 
+LinkedIn
+ | 
+CV
+ | 
+Fun things I made
+ | 
+Older projects
+
+
+Synthesizing visual worlds
+
+
+
+
+
+I'm an AI researcher at UC Berkeley, where I work on generative models. My work includes diffusion models, text-to-3D with NeRFs, and scalable ML systems.
+    Previously, I was at Google Brain, NVIDIA Research, Uber ATG, and Facebook AI. I graduated from MIT with an S.B. in Computer Science and was a director of the nonprofit Machine Intelligence Community. At MIT, I did research at CSAIL and the Media Lab. My research is supported by the NSF Graduate Research Fellowship.
+Email: ajayj at berkeley dot edu
+News
+
+New! July 2022: Dream Fields wins the Best Poster award at AI4CC
+New! May 2022: AdaCat accepted to UAI 2022
+March 2022: Dream Fields accepted to CVPR 2022
+Aug 2021: ContraCode accepted to EMNLP 2021
+July 2021: DietNeRF accepted to ICCV 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Featured Publications * indicates equal contribution
+
+
+
+VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models
+Ajay Jain*, Amber Xie*, Pieter Abbeel
+arXiv 2022
+Generate vector graphics (SVGs), pixel art and sketches from text using the pretrained Stable Diffusion model.
+
+[Website]
+[Gallery]
+[Paper]
+
+
+
+
+
+                    Your browser does not support the video tag.
+                
+
+
+
+
+DreamFusion: Text-to-3D using 2D Diffusion
+Ben Poole, Ajay Jain, Jonathan T. Barron, Ben Mildenhall
+arXiv 2022
+We optimize a NeRF from scratch using a pretrained text-to-image diffusion model to do text-to-3D generative modeling.
+
+[Website]
+[Gallery]
+[Paper]
+
+
+
+
+
+                    Your browser does not support the video tag.
+                
+
+
+
+
+Zero-Shot Text-Guided Object Generation with Dream Fields
+Ajay Jain, Ben Mildenhall, Jon Barron, Pieter Abbeel, Ben Poole
+CVPR 2022 Conference on Computer Vision and Pattern Recognition
+We combine neural rendering with multi-modal image and text representations to synthesize diverse 3D objects solely from natural language descriptions.
+
+[Website]
+[arXiv]
+[Overview video]
+[Code]
+[Colab demo]
+[Poster]
+
+
+
+
+
+                    Your browser does not support the video tag.
+                
+
+
+
+
+
+Denoising Diffusion Probabilistic Models
+Jonathan Ho, Ajay Jain, Pieter Abbeel
+NeurIPS 2020 34th Conference on Neural Information Processing Systems
+High-quality likelihood-based image generation; connect diffusion models to denoising score matching and Langevin dynamics; compression, reconstruction and interpolation
+
+[Website]
+[arXiv]
+[Talk]
+[Sample video]
+[Code]
+
+
+
+
+
+
+
+More publications
+
+
+
+Journey to the BAOAB-limit: finding effective MCMC samplers for score-based models
+Ajay Jain*, Ben Poole*
+Score-based Methods @ NeurIPS 2022
+Sample diffusion models with a single noise level + high diversity.
+
+[Website]
+[Colab]
+[Code]
+[Paper]
+
+
+
+
+
+                    Your browser does not support the video tag.
+                
+
+
+
+
+Adaptive Categorical Discretization for Autoregressive Models
+Colin Li, Ajay Jain, Pieter Abbeel
+UAI 2022 Conference on Uncertainty in Artificial Intelligence
+AdaCat learns expressive autoregressive models by capturing fine-grained variation in continuous distributions with discrete density estimators.
+
+[Paper]
+[Website]
+[Code]
+[Poster]
+
+
+
+
+
+
+
+
+Contrastive Code Representation Learning
+Paras Jain*, Ajay Jain*, Tianjun Zhang, Pieter Abbeel, Joseph E. Gonzalez, Ion Stoica
+EMNLP 2021 Empirical Methods in Natural Language Processing
+Learn to represent software functionality for automated software engineering tasks like type inference, clone detection and summarization. Improving robustness of ML4Code.
+
+[Website]
+[ACL]
+[arXiv]
+[Poster]
+[Slides]
+[Talk]
+[Code]
+
+
+
+
+
+
+
+
+Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis
+Ajay Jain, Matthew Tancik, Pieter Abbeel
+ICCV 2021 International Conference on Computer Vision
+CLIP + NeRF: Given only a few images of an object or scene, we reconstruct its 3D structure & render novel views using prior knowledge contained in large image encoders.
+
+[Website]
+[arXiv]
+[Code]
+[Overview video]
+
+
+
+
+
+
+
+
+Sparse Graphical Memory for Robust Planning
+Scott Emmons*, Ajay Jain*, Michael Laskin*, Thanard Kurutach, Pieter Abbeel, Deepak Pathak
+NeurIPS 2020 34th Conference on Neural Information Processing Systems
+Provably robust+efficient long-horizon monocular navigation combining sparse graph planning and RL. Propose two-way consistency to find landmark memories and create a topological map.
+
+[Website]
+[arXiv]
+[NeurIPS]
+[Talk]
+[Video]
+[Poster]
+[Code]
+
+
+
+
+
+
+
+
+Locally Masked Convolution for Autoregressive Models
+Ajay Jain, Pieter Abbeel, Deepak Pathak
+UAI 2020 36th Conference on Uncertainty in Artificial Intelligence
+Outpainting with PixelCNNs. Our efficent op allows PixelCNNs to generate images in arbitrary orders.
+
+[Website]
+[arXiv]
+[PMLR]
+[Talk]
+[Code]
+
+
+
+
+
+
+
+
+Checkmate: Breaking the Memory Wall with Optimal Tensor Rematerialization
+Paras Jain*, Ajay Jain*, Aniruddha Nrusimha, Amir Gholami, Pieter Abbeel, Kurt Keutzer, Ion Stoica, Joseph E. Gonzalez
+MLSys 2020 3rd Conference on Machine Learning and Systems
+Use up to 5x less memory when training DNNs by recomputing activations
+
+[Website]
+[arXiv]
+[Slides]
+[PPTX]
+[Code]
+
+
+
+
+
+
+
+
+Discrete Residual Flow for Probabilistic Pedestrian Behavior Prediction
+Ajay Jain*, Sergio Casas Romero*, Renjie Liao*, Yuwen Xiong*, Song Feng, Sean Segal, Raquel Urtasun
+CoRL 2019 3rd Conference on Robot Learning, Spotlight talk
+Multimodal, long-range behavior forecasts by predicting state marginals
+
+[arXiv]
+[Poster]
+[Talk]
+[Slides]
+
+
+
+
+
+
+Revec: Program Rejuvenation through Revectorization
+Charith Mendis*, Ajay Jain*, Paras Jain, Saman Amarasinghe
+CC 2019 28th International Conference on Compiler Construction
+Achieve performance portability for hand-vectorized programs, with up to 1.88x speedup
+
+[Website]
+[Paper]
+[arXiv]
+[Talk]
+[Slides]
+[Code]
+
+
+
+
+
+
+Autonomy for Surface Ship Interception
+C. Mirabito, D.N. Subramani, T. Lolla, J. P.J. Haley, A. Jain, P.F.J. Lermusiaux, C. Li, D. Yue, Y. Liu, F. Hover, N. Pulsone, J. Edwards, K. Railey, and G. Shaw
+OCEANS 2017 60th OCEANS Conference, MTS/IEEE Aberdeen
+Time-optimal path planning for underwater robots
+
+[Paper]
+[Open access]
+
+
+
+
+
+Short papers
+
+
+
+Learning Automatic Schedulers with Projective Reparameterization
+Ajay Jain, Saman Amarasinghe
+ISCA 2019 46th International Symposium on Computer Architecture
+Workshop on Machine Learning for Systems, Jun 2019, Talk
+Supervised learning of schedulers, with correctness constraints
+
+[Paper]
+[Slides]
+[PPTX]
+
+
+
+
+
+
+Using effective dimension to analyze feature transformations in deep neural networks
+Kavya Ravichandran, Ajay Jain, Alexander Rakhlin
+ICML 2019 36th International Conference on Machine Learning
+Workshop on Identifying and Understanding Deep Learning Phenomena, Jun 2019
+
+[Paper]
+
+
+
+
+
+The Case for GPU Multitenancy
+Paras Jain, Xiangxi Mo, Ajay Jain, Alexey Tumanov, Joseph E. Gonzalez, Ion Stoica
+arXiv 2019 arXiv:1910.02653, Jan 2019
+
+[arXiv]
+
+
+
+
+
+
+Dynamic Space-Time scheduling for GPU inference
+Paras Jain, Xiangxi Mo, Ajay Jain, Harikaran Subbaraj, Rehan Sohail Durrani, Alexey Tumanov, Joseph E. Gonzalez, and Ion Stoica
+NeurIPS 2018 32nd Annual Conference on Neural Information Processing Systems
+Workshop on Systems for Machine Learning, Dec 2018
+Demonstrate 2.5x-4.9x speedups for deep learning inference workloads via GPU multitenancy
+
+[arXiv]
+[Poster]
+[Follow-up paper]
+
+
+
+
+
+Invited talks
+
+
+Oct 2022: DreamFusion: Text-to-3D using 2D Diffusion, Berkeley Computer Vision
+Feb 2022: 3D content creation with data-efficient consistent neural fields, CSM.ai
+Jan 2022: Data-Efficient Creative Content Creation, MIT
+Oct 2021: From Prompts to Pixels: Generative Methods for AI Art, Hitachi
+Sep 2021: Diffusion Probabilistic Models, BAIR Computer Vision Reading Group
+Jun 2021: Putting NeRF on a Diet, ML Collective CV Paper Reading Session
+2021: Putting NeRF on a Diet, MIT MIC Reading Group
+Jun 2019: Oral presentation, ISCA 2019 ML For Systems
+
+
+
+Service and teaching
+
+
+Seminar Coordinator, CS 294-43: Vision and Language AI Seminar, Fall 2022
+Graduate Student Instructor, CS 184/284a: Computer Graphics and Imaging, Spring 2022
+UC Berkeley EECS PhD Admissions Committee, 2022
+Program Committee: ICML 2022, SIGGRAPH 2022, NeurIPS 2021, ICML 2021
+Discussant, UAI 2020
+Director, non-profit Machine Intelligence Community
+
+
+Machine Learning Software
+
+
+★ Text-Guided Object Generation (JAX)
+Transformers and LSTMs to represent and summarize code (PyTorch)
+★ Data-efficient NeRF for 3D reconstruction and view synthesis (PyTorch)
+★ Vector Ascent: Text-Guided Vector Graphics Generation (PyTorch)
+★ Denoising Diffusion Probabilistic Models (Tensorflow)
+Long-horizon navigation with Sparse Graphical Memory (PyTorch)
+Autoregressive image generation and outpainting (PyTorch)
+★ Checkmate: memory-efficient training of deep neural networks (Tensorflow)
+
+
+More Software
+
+
+LLVM revectorization: Benchmark, ★ Compiler pass, Intrinsic equivalences
+Cauldron Chrome extension for offline browsing
+
+
+
+
+ajayj at berkeley dot edu
+
+
+
+
+
+

@@ -1,0 +1,268 @@
+
+
+
+
+
+
+Daft: The Distributed Python Dataframe — getdaft.io  documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle navigation sidebar
+
+
+
+
+Toggle in-page Table of Contents
+
+
+
+
+
+
+
+
+
+                    Get Started
+                
+
+
+
+                    Documentation
+                
+
+
+
+                    Github
+                
+
+
+
+                    Blog
+                
+
+
+
+                    Community
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Daft: The Distributed Python Dataframe#
+Daft is a fast and scalable Python dataframe for Complex Data and Machine Learning workloads.
+
+
+
+Get Started#
+Installing Daft is simple with pip:
+pip install getdaft
+
+
+Community#
+
+
+
+
+
+
+
+
+
+
+
+
+Github Discussions Forums
+Post questions, suggest features and more
+
+
+
+
+
+
+
+The Distributed Data Community Slack
+Come chat all things distributed data!
+
+
+
+
+
+More Resources#
+
+
+10-minutes to Daft
+10-minute walkthrough of all of Daft's major functionality.
+View Walkthrough
+
+
+Tutorials
+Hosted examples using Daft in various common use-cases.
+View Tutorials
+
+
+Docs
+Developer documentation for referencing Daft APIs.
+View Docs
+
+
+
+
+
+Integrations#
+Daft is open-sourced and you can use any Python library when processing data in a dataframe. It integrates with many other open-sourced technologies as well, plugging directly into your current infrastructure and systems.
+
+
+Data Science and Machine Learning
+
+
+
+
+
+
+
+
+
+Storage
+
+
+
+
+
+
+
+
+
+
+
+Use-Cases#
+
+
+Data Science Experimentation
+Daft enables data scientists/engineers to work from their preferred Python notebook environment for interactive experimentation on complex data
+
+
+Complex Data Warehousing
+The Daft Python dataframe efficiently pipelines complex data from raw data lakes to clean, queryable datasets for analysis and reporting.
+
+
+Machine Learning Training Dataset Curation
+Modern Machine Learning is data-driven and relies on clean data. The Daft Python dataframe integrates with dataloading frameworks such as Ray and PyTorch to feed data to distributed model training.
+
+
+Machine Learning Model Evaluation
+Evaluating the performance of machine learning systems is challenging, but Daft Python dataframes make it easy to run models and SQL-style analyses at scale.
+
+
+
+
+Key Features#
+
+
+Python UDF
+Daft supports running User-Defined Functions (UDF) on columns of Python objects - if Python supports it Daft can handle it!
+
+
+Interactive Computing
+Daft embraces Python's dynamic and interactive nature, enabling fast, iterative experimentation on data in your notebook and on your laptop.
+
+
+Distributed Computing
+Daft integrates with frameworks such as Ray to run large petabyte-scale dataframes on a cluster of machines in the cloud.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Get Started
+            
+
+
+
+                Documentation
+            
+
+
+
+                Github
+            
+
+
+
+                Blog
+            
+
+
+
+                Community
+            
+
+
+
+
+
+
+
+
+
+
+
+

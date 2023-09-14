@@ -1,0 +1,192 @@
+
+
+
+
+
+
+
+Baldur Bjarnason – Baldur Bjarnason
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Archive
+Newsletter
+
+Book
+
+
+AI Book
+
+Contact
+
+
+
+
+Baldur Bjarnason
+
+Web dev at the end of the world, from Hveragerði, Iceland
+
+
+          I’m available
+          as a consultant. I've written a book on
+          software development
+          and another on
+          the risks of generative AI.
+        
+
+
+
+
+The Books
+$49 as a bundle, $35 each, EPUB and PDF
+
+The Intelligence Illusion
+
+What are the major risks to avoid with generative AI? How do you avoid having it blow up in your face? Is that even possible?
+The Intelligence Illusion is an exhaustively researched guide to the risks of language and diffusion models.
+A Guide To The Risks of Generative AI
+
+
+Out of the Software Crisis
+
+Software projects keep failing, not because we don’t have the right team or tools but because our software development system is broken. Out of the Software Crisis is a guide to fixing your software projects with systems-thinking making them more resilient to change and less likely to fail.
+Systems-Thinking For Software Projects
+
+
+
+
+
+11 September 2023
+
+
+Weeknote: 11 September 2023
+
+
+
+Work
+It’s not much of a secret that I’ve been frustrated about the state of web development over the past few years. Many of the frameworks have looped over from useful to counter-productive. Much of it is specifically structured to make it harder for you to use the features that are now conveniently built into the platform.
+And the dev setup is error-prone, complicated, and inherently unstable. How can you make stable software when your tools themselves are unstable and keep changing on you?
+For a project of mine I decided to have another look at my set up and pare it down to just what’s necessary. Not in a hairshirt – “I’m giving up on modern conveniences for reasons!” – kind of way. I like the modern developer conveniences.
+My pass at this is the Raggedy Dev setup, a name which I’ll explain whenever I get around to writing a proper blog post about it. But it has bundling, unit testing (in browser), bundling, and is set up out of the box to support both HTTPS and cross origin isolation during dev.
+Something I learned while doing this is that since JS module requests are cross origin by default, they work with cross origin isolation out of the box. No need for a crossorigin attribute or anything unless you’re doing something iffy like requiring credentials JS imports, which in turn implies you’re doing something iffy like bundling data with your code.
+The test runner automatically reloads when you change a .js file. It uses a pinned, local version of deno for dev so it shouldn’t have any moving targets to speak of.
+I’m enjoying it, at least.
+Reading
+Still mostly reading documentation related to the work stuff above.
+Movies
+Been re-watching John Carpenter movies, concentrating on the ones I haven’t seen since my VHS days. Some of which I actually saw in the cinema when they were originally released. Still working my way through the list and, even though I’m still building up a sense of his body of work, I have to say that even a bad John Carpenter movie is still more interesting than other directors' good movies.
+What’s been on my mind is still the same concern I had a few weeks ago when I wrote Authorship:
+Ideally you want a work to both have an interesting personality and be well crafted, but if you can only choose one, being interesting will always trump craft and having the right personality for the project is vital.
+The example I used last week was the original cinematographer for Aliens. By all accounts Dick Bush was an accomplished cinematographer but his sensibilities were absolutely wrong for the project.
+I was reminded of this when I watched both Dario Argento’s Suspiria and Jack Sholder’s The Hidden this week.
+Argento is the pinnacle of “personality trumps craft” as he isn’t a particularly great director. The acting, even from great actors, is often stilted and weird in his movies. He frequently has jarring transitions that don’t quite work. The pacing and structure is almost always off.
+But he is a master of creating a vibe or a mood, has had excellent taste in collaborators, and is absolutely fearless about betting the house on a scene. No pulling back. All in. It either works or we’re bust.
+Those together are what makes Suspiria work. The plot is nonsense. The structure is awkward. The acting is poor overall. But he bets the house in every scene. Nothing held back. Where, in a John Carpenter horror movie – like Prince of Darkness – he would give you quick shots of insects or maggots to establish that something is creepy or dirty, Argento goes “what if it rained maggots? What if the floor was thick with them like a carpet? What if we had an extended five-minute scene with maggots everywhere, in everything, and everybody is screaming and covered with maggots?”
+Argento bets the house on his climactic scenes. With big bets, when you win, you win big. You also lose big if it doesn’t work, but that’s still more interesting than not trying. Add what’s possibly one of the greatest original scores to a horror movie ever made – at least on par with Halloween, maybe even Jaws1 – and you have a great movie.
+It has massive flaws and glaring errors. But it more than makes up for it elsewhere. The whole is greater than the parts.
+The Hidden, however, is its polar opposite. It gets a lot right. The casting is excellent, almost inspired, both in Kyle MacLachlan and Michael Nouri. They do a great job throughout the movie. The plot and structure for most of it is quite serviceable. But where other directors, such as Argento or Cameron, would have pushed further, Jack Sholder pulls back. There isn’t a scene in the movie that makes any big bets. The cinematography has the personality of a TV movie – competent but blah. The music is your typical 80s action movie electronic beat thing that wishes it could have a fraction of the personality of Basil Polidouris’s Robocop, which came out in the same year.
+And the ending… The ending is just “pack your toys, it’s time to go home”, boilerplate, formula garbage. This is a movie that had a decent idea but didn’t even have the guts to bet big on its climactic ending. This is the one movie where “everybody dies, violently and horribly, in the end scene to save the day” would have worked. Or steal a page from George Romero and end it along similar lines as Night of the Living Dead. Or steal from the climax of James Cameron’s Terminator since you’re already in “crib your homework from Cameron” territory in the movie. The composer had certainly seen Terminator.
+Be weirder. Even if it doesn’t work, you’ll at least be interesting.
+
+
+
+
+Don’t cite The Exorcist at me. Tubular Bells is one of the greatest rock albums ever made and having people only know it as “the Exorcist theme” is a huge disservice to it. It is not an original score. ↩︎
+
+
+
+
+
+
+
+
+
+          FOMO and links 
+      
+
+
+
+
+
+
+
+
+
+
+Join the Newsletter
+
+
+
+            Subscribe to the
+            Out of the Software Crisis
+            newsletter to get my weekly (at least) essays on how to avoid or get
+            out of software development crises.
+          
+
+            Join now and get a free PDF of
+            three bonus essays from
+            Out of the Software Crisis.
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+We respect your privacy.
+Unsubscribe at any time.
+
+
+
+
+
+
+
+
+
+
+
+      You can also find me on
+      Mastodon and
+      Twitter
+
+
+

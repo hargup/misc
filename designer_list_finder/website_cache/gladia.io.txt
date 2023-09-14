@@ -1,0 +1,502 @@
+Gladia - From audio to knowledge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductUse cases
+
+
+
+
+
+
+Virtual meetings
+
+
+Workspace collaboration
+
+
+
+Content & media
+
+
+Call centersPricingFor Developers
+
+BlogAbout usSign up
+
+ProductUse cases
+
+
+
+
+
+
+
+
+
+
+Virtual meetings
+
+
+Workspace collaboration
+
+
+
+Content & media
+
+
+Call centersPricingFor DevelopersBlogAbout usSign inTry de API
+NewAudio Intelligence API out now! 
+
+
+
+From audio to knowledge
+
+
+
+
+
+
+
+
+ProductUse cases
+
+
+
+
+
+
+Virtual meetings
+
+
+Workspace collaboration
+
+
+
+Content & media
+
+
+Call centersPricingFor Developers
+
+BlogAbout usSign up
+
+ProductUse cases
+
+
+
+
+
+
+
+
+
+
+Virtual meetings
+
+
+Workspace collaboration
+
+
+
+Content & media
+
+
+Call centersPricingFor DevelopersBlogAbout usSign inTry de APIUnlock the full potential of your audio data with AI transcription, translation and audio intelligence add-ons using a single API.Try for freeHave a question?Schedule a demo
+
+
+>
+90% of audio data goes unusedIt's time to tap into the goldmineGladia provides a fast and accurate way to turn unstructured data into valuable business knowledge â starting with audio.Try free APIFor future of knowledgeDiscover our vision
+
+Fast
+
+Accurate
+
+Scalable
+
+
+
+
+
+GlobalAudio Intelligence APIOur Audio Intelligence API helps to capture, enrich and leverage the hidden insight in audio data.Learn moreTranscribe
+
+Translate
+
+Analyze
+
+Secure (GDPR)
+
+LIVE NOW1h of audio in less than 60 secondsHighly accurate audio and video transcription for real-life use cases. Speaker diarization included.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+betaTranslate from and to 99 languagesNear real-time speech-to-text translation, with built-in automatic language detection and code-switching.COMING SOONGet in-depth insights with add-onsLibrary of audio intelligence add-ons, including word-level timestamp, sentiment analysis and summarization.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Host in the cloud, on-premise or air gapWe guarantee 100% safety of all data in accordance with EU and US privacy regulations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore use cases across industriesTop-quality transcription and multilingual audio intelligence features to boost productivity and improve business results.
+
+
+
+
+
+
+
+
+
+Content and MediaTranscription, subtitling and translation of videos and podcasts for global audience outreach.Learn moreVirtual MeetingsTranscriptions, note-taking, and video captions to make every meeting count.Learn moreWorkspace CollaborationTranslation, summaries, and retrieval to boost knowledge management.Learn moreCall CentersInsight-based call transcripts for improved customer experience and compliance.Learn more
+
+
+
+
+
+
+
+
+
+Built for all developersAdd cutting-edge AI to your product in 3 clicks. Our API is compatible with all tech stacks and doesnât require any AI expertise or setup costs.Read our docs
+
+
+
+
+
+
+
+
+
+
+TypeScript
+
+
+
+
+
+
+
+
+
+Javascript
+
+
+
+
+
+
+
+
+
+Pythonimport fetch, { Headers, RequestInit, Response } from "node-fetch";
+import FormData from "form-data";
+ 
+const form: FormData = new FormData();
+
+form.append("toggle_diarization", "true");
+form.append(
+Â Â "audio_url",
+Â Â "http://misc.io/example/audio.mp3"
+);
+
+  const headers: Headers = new Headers({
+  "x-gladia-key": YOUR_GLADIA_KEY,
+  });
+
+  const requestOptions: RequestInit = {
+  method: "POST",
+  headers: headers,
+  body: form,
+ };
+
+ .fetch("https://api.gladia.io/audio/text/audio-transcription/", requestOptions)
+Â .then((response: Response) => response.text())
+Â .then((text: string) => console.log(text))
+Â .catch((error: Error) => console.log("Error:", error));import fetch, { Headers, RequestInit, Response } from "node-fetch";
+import FormData from "form-data";
+ 
+const form = new FormData();
+
+form.append('toggle_diarization', 'true');
+form.append('audio_url', 'http://misc.io/example/audio.mp3');
+
+fetch('https://api.gladia.io/audio/text/audio-transcription/', {
+    method: 'POST',
+    headers: {
+        'x-gladia-key': YOUR_GLADIA_KEY,
+    },
+    body: form
+});
+
+Â .then((response) => response.text())
+Â .then((text) => console.log(text))
+Â .catch((error) => console.log("Error:", error));import requests
+
+headers = {
+    'accept': 'application/json',
+    'x-gladia-key': YOUR_GLADIA_KEY,
+}
+
+files = {
+    'audio_url': (None, 'http://misc.io/example/audio.mp3'),
+    'output_format': (None, 'json'),
+    'toggler_diarization': (None, 'true'),
+}
+
+response = requests.post('https://api.gladia.io/audio/text/audio-transcription/',
+headers=headers, files=files)
+
+print(response.text)Lower AI infrastructure costsWe leverage a proprietary know-how to fit more AI on less hardware â without compromising on quality and performance.Technical edgeWith Gladia, you get access to an optimized version of the most sophisticated ASR models and regular software upgrades at no extra cost.Reduced time-to-marketBy embedding advanced AI into your applications directly, your users can derive full value from your product from day one.Easy to scaleIncrease your processing capacity easily with our pay-as-you go system. Our enterprise-grade API is built to adapt to your ever-growing needs.From audio to knowledgeSubscribe to receive Gladia's latest news, product updates and curated AI content Thank you! Your submission has been received!Oops! Something went wrong while submitting the form.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AI knowledge infrastructure for companiesWhatâs GladiaProductFor DevelopersPricingBlogUse casesVirtual meetingsWorkspace collaborationContent & mediaCall centersCompanyAbout usCareersContact usResourcesBlogMedia kitCopyright Â© 2023 GladiaTerms & ConditionsGeneral Terms of UsePrivacy policyLegal NoticeBy continuing your navigation, you apply the use of cookies intended to improve the performance and the functionalities of this site.No, thanksAccept
+
+
+
+
+
+
+
+
+ProductUse cases
+
+
+
+
+
+
+Virtual meetings
+
+
+Workspace collaboration
+
+
+
+Content & media
+
+
+Call centersPricingFor Developers
+
+BlogAbout usSign up
+
+ProductUse cases
+
+
+
+
+
+
+
+
+
+
+Virtual meetings
+
+
+Workspace collaboration
+
+
+
+Content & media
+
+
+Call centersPricingFor DevelopersBlogAbout usSign inTry de API
+

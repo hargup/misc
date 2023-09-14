@@ -1,0 +1,28 @@
+
+
+
+
+
+Auth.js
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main contentNextAuth.js is becoming Auth.js! 🎉 Read the announcement. Note, this site is under active development. 🏗Auth.jsGetting startedGuidesAPI ReferenceConceptsSecurityexperimentalexperimentalAll ReleasesnpmGitHubSearchAuth.jsAuthentication for the Web.Next.js DemoSvelteKit DemoSolidStart DemoGet StartedOpen Source. Full Stack. Own Your Data.EasyBuilt in support for 74+ popular services(Google, Facebook, Auth0, Apple…)Use with any OAuth 2 or OpenID Connect providerBuilt in email / passwordless / magic linkUse with any username / password storeFlexibleRuntime agnostic, runs anywhere!Vercel Edge Functions, Node.js, Serverless…Use with any modern framework!Next.js, SolidStart, SvelteKit…Bring Your Own Database - or none!MySQL, Postgres, MSSQL, MongoDB…Choose database sessions or JWTSecureSigned, prefixed, server-only cookiesBuilt-in CSRF protectionJWT with JWS / JWE / JWKDoesn't rely on client side JavaScriptnpm install @auth/coreAdd authentication in minutes!Next.js /pages/api/auth/[...nextauth].tsimport NextAuth from 'next-auth'import GitHub from 'next-auth/providers/github'import Facebook from 'next-auth/providers/facebook'import Google from 'next-auth/providers/google'export default NextAuth({  providers: [    GitHub({      clientId: process.env.GITHUB_ID,      clientSecret: process.env.GITHUB_SECRET    }),    Facebook({      clientId: process.env.FACEBOOK_ID,      clientSecret: process.env.FACEBOOK_SECRET    }),    Google({      clientId: process.env.GOOGLE_ID,      clientSecret: process.env.GOOGLE_SECRET    })  ]})SvelteKit /hooks.server.tsimport SvelteKitAuth from "@auth/sveltekit"import GitHub from '@auth/core/providers/github'import Facebook from '@auth/core/providers/facebook'import Google from '@auth/core/providers/google'import {   GITHUB_ID,  GITHUB_SECRET,  FACEBOOK_ID,  FACEBOOK_SECRET,  GOOGLE_ID,  GOOGLE_SECRET} from "$env/static/private"export const handle = SvelteKitAuth({  providers: [    GitHub({ clientId: GITHUB_ID, clientSecret: GITHUB_SECRET }),    Facebook({ clientId: FACEBOOK_ID, clientSecret: FACEBOOK_SECRET }),    Google({ clientId: GOOGLE_ID, clientSecret: GOOGLE_SECRET })  ],})SolidStart /routes/api/auth/[...solidauth].tsimport { SolidAuth, type SolidAuthConfig } from "@auth/solid-start";import GitHub from "@auth/core/providers/github";export const authOpts: SolidAuthConfig = {  providers: [    GitHub({      clientId: process.env.GITHUB_ID,      clientSecret: process.env.GITHUB_SECRET,    }),  ],  debug: false,};export const { GET, POST } = SolidAuth(authOpts);Example CodeAuth.js is an open source community project.About Auth.jsIntroduction
+
+
+DownloadGitHubNPMAcknowledgementsContributorsSponsorsImages by unDrawAuth.js © Balázs Orbán 2023
+
+
+

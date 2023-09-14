@@ -1,0 +1,21 @@
+Revert | API DocsStar us on Github ⭐Join our discordBook a demoSearch...IntroductionGetting StartedQuick StartQuick StartHow it worksHow it worksAPI ReferenceConnectionCrmMetadataRate LimitsRate limitsPaginationPaginationAPI VersioningAPI VersioningWebhooksWebhooksBuilt with FernIntroductionGetting StartedWelcome 👋
+Welcome to the Revert docs! 👋 You will find all the documentation for our API's, SDKs and anything else you'd need to allow your customers integrate their CRM's into your product.
+Integrations are harder than they seem.
+Integrations require a lot more engineering time, resources, and ongoing maintenance than you would first expect.
+When building your own integrations you have to deal with a lot of challenges, such as: unreliable third party integration endpoints, which fail or hang more often than you think; monitoring and reliability of the integration code; dealing with different schemas, gotchas, rate-limits of the various APIs you integrate with.
+You need to do this ALL alongside maintaining your own code base.
+This is where we come in. With Revert you can ship a customer facing CRM integration in under 10 minutes, and we take care of all of the above and more.
+Introduction
+Revert is a unified API for all your customer facing integrations, starting with CRMs such as Salesforce, Hubspot, Pipedrive.
+This means you do not need to integrate with multiple third-party APIs yourself and only integrate with Revert once. New third party integrations will automatically be added and can be turned on immediately.
+Your customers authenticate their CRMs with us using our drop-in UI that you can integrate in your front-end.
+CRMs Supported
+We currently support the following CRMs in our APIs:
+CRMSupport StatusHubspot✅ZohoCRM✅Salesforce✅Pipedrive✅Microsoft 365⌛Zendesk Sell⌛
+Need another CRM thats not listed here? Contact us on our discord
+Want to jump right in?
+Feeling like an eager beaver? Jump in to the quick start docs and make your first request:
+Quick Start
+Want to deep dive?
+Dive a little deeper and start exploring our to get an idea of everything that's possible with the API.
+API ReferenceQuick StartWelcome 👋Integrations are harder than they seem.IntroductionCRMs SupportedWant to jump right in?Want to deep dive?

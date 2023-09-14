@@ -1,0 +1,2190 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google for Developers - from AI and Cloud to Mobile and Web
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Products
+  
+    
+
+
+
+
+
+Develop
+
+
+
+                      Android
+                    
+
+
+
+
+
+                      ChromeOS
+                    
+
+
+
+
+
+                      Cloud
+                    
+
+
+
+
+
+                      Firebase
+                    
+
+
+
+
+
+                      Flutter
+                    
+
+
+
+
+
+                      Google Assistant
+                    
+
+
+
+
+
+                      Google Maps Platform
+                    
+
+
+
+
+
+                      Google Workspace
+                    
+
+
+
+
+
+                      TensorFlow
+                    
+
+
+
+
+
+                      Web
+                    
+
+
+
+
+
+                      YouTube
+                    
+
+
+
+
+
+
+Grow
+
+
+
+                      Firebase
+                    
+
+
+
+
+
+                      Google Ads
+                    
+
+
+
+
+
+                      Google Analytics
+                    
+
+
+
+
+
+                      Google Play
+                    
+
+
+
+
+
+                      Search
+                    
+
+
+
+
+
+                      Web Push and Notification APIs
+                    
+
+
+
+
+
+
+Earn
+
+
+
+                      AdMob
+                    
+
+
+
+
+
+                      Google Ads API
+                    
+
+
+
+
+
+                      Google Pay
+                    
+
+
+
+
+
+                      Google Play Billing
+                    
+
+
+
+
+
+                      Interactive Media Ads
+                    
+
+
+
+
+
+
+
+
+
+    Solutions
+  
+    
+
+
+
+    Events
+  
+    
+
+
+
+    Learn
+  
+    
+
+
+
+    Community
+  
+    
+
+
+
+
+
+Groups
+
+
+
+                      Google Developer Groups
+                    
+
+
+
+
+
+                      Google Developer Student Clubs
+                    
+
+
+
+
+
+                      Women Techmakers
+                    
+
+
+
+
+
+                      Google Developer Experts
+                    
+
+
+
+
+
+                      Tech Equity Collective
+                    
+
+
+
+
+
+
+Programs
+
+
+
+                      Accelerator
+                    
+
+
+
+
+
+                      Solution Challenge
+                    
+
+
+
+
+
+                      DevFest
+                    
+
+
+
+
+
+
+Stories
+
+
+
+                      All Stories
+                    
+
+
+
+
+
+
+
+
+
+    Developer Profile
+  
+    
+
+
+
+    Blog
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+English
+
+
+Bahasa Indonesia
+
+
+Deutsch
+
+
+Español
+
+
+Español – América Latina
+
+
+Français
+
+
+Italiano
+
+
+Polski
+
+
+Português – Brasil
+
+
+Tiếng Việt
+
+
+Türkçe
+
+
+Русский
+
+
+עברית
+
+
+العربيّة
+
+
+فارسی
+
+
+हिंदी
+
+
+বাংলা
+
+
+ภาษาไทย
+
+
+中文 – 简体
+
+
+中文 – 繁體
+
+
+日本語
+
+
+한국어
+
+
+
+
+Sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Products
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Solutions
+   
+
+
+
+
+
+      Events
+   
+
+
+
+
+
+      Learn
+   
+
+
+
+
+
+      Community
+   
+
+
+
+
+
+      More
+   
+
+
+
+
+
+
+
+
+
+      Developer Profile
+   
+
+
+
+
+
+      Blog
+   
+
+
+
+
+
+
+
+
+
+      Develop
+   
+
+
+
+
+
+      Android
+   
+
+
+
+
+
+      ChromeOS
+   
+
+
+
+
+
+      Cloud
+   
+
+
+
+
+
+      Firebase
+   
+
+
+
+
+
+      Flutter
+   
+
+
+
+
+
+      Google Assistant
+   
+
+
+
+
+
+      Google Maps Platform
+   
+
+
+
+
+
+      Google Workspace
+   
+
+
+
+
+
+      TensorFlow
+   
+
+
+
+
+
+      Web
+   
+
+
+
+
+
+      YouTube
+   
+
+
+
+
+
+      Grow
+   
+
+
+
+
+
+      Firebase
+   
+
+
+
+
+
+      Google Ads
+   
+
+
+
+
+
+      Google Analytics
+   
+
+
+
+
+
+      Google Play
+   
+
+
+
+
+
+      Search
+   
+
+
+
+
+
+      Web Push and Notification APIs
+   
+
+
+
+
+
+      Earn
+   
+
+
+
+
+
+      AdMob
+   
+
+
+
+
+
+      Google Ads API
+   
+
+
+
+
+
+      Google Pay
+   
+
+
+
+
+
+      Google Play Billing
+   
+
+
+
+
+
+      Interactive Media Ads
+   
+
+
+
+
+
+
+
+      Groups
+   
+
+
+
+
+
+      Google Developer Groups
+   
+
+
+
+
+
+      Google Developer Student Clubs
+   
+
+
+
+
+
+      Women Techmakers
+   
+
+
+
+
+
+      Google Developer Experts
+   
+
+
+
+
+
+      Tech Equity Collective
+   
+
+
+
+
+
+      Programs
+   
+
+
+
+
+
+      Accelerator
+   
+
+
+
+
+
+      Solution Challenge
+   
+
+
+
+
+
+      DevFest
+   
+
+
+
+
+
+      Stories
+   
+
+
+
+
+
+      All Stories
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Google for Developers
+      
+  
+
+
+
+
+    
+        Products
+      
+  
+
+
+
+
+
+
+          
+          Stay organized with collections
+        
+
+          
+          Save and categorize content based on your preferences.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Build smarter,ship faster
+      
+  
+    
+
+            Unlock creativity and simplify your workflow with open, integrated solutions.
+
+          
+
+
+
+
+
+
+ 
+I'm building for:
+
+    Mobile
+    arrow_forward
+
+
+    Web
+    arrow_forward
+
+
+    AI
+    arrow_forward
+
+
+    Cloud
+    arrow_forward
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Android Basics with Compose
+Learn the basics of building Android apps with Jetpack Compose, the recommended UI toolkit for building Android apps
+developer.android.com/courses/android-basics-compose/course
+product:android
+06-01-2023
+True
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Top updates
+      
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Get started with Google Cloud
+      
+  
+
+
+            Discover quickstarts, interactive tutorials, technical documentation, videos, and architectural diagrams to help you get started using Google Cloud.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Learn Android development essentials
+      
+  
+
+
+            The Android developer guides teach you how to build Android apps using APIs in the Android framework and other libraries.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Learn the basics of Google Search
+      
+  
+
+
+            It's worth learning the basics of managing your presence in search engines. A little knowledge can go a long way toward helping people find your site.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Google Maps Platform
+      
+  
+
+
+            Create real-world, real-time experiences with the latest Maps, Routes, and Places features from Google Maps Platform.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Write your first Flutter app
+      
+  
+
+
+            Create a simple mobile app using Flutter, Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Learn the fundamentals of Firebase
+      
+  
+
+
+            Get started with a Firebase project, explore best practices, and master additional concepts beyond the basics.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Google Cloud products
+      
+  
+
+
+            Browse over 100 Google Cloud products. New customers get $300 in free credits to start running workloads and conduct an assessment.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Using OAuth 2.0
+      
+  
+
+
+            Learn how web server applications use Google API Client Libraries or Google OAuth 2.0 endpoints to implement OAuth 2.0 authorization to access Google APIs.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Android Basics in Kotlin
+      
+  
+
+
+            This course teaches people with no programming experience how to build simple Android apps. Learn the fundamentals of programming and the basics of Kotlin.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Get started with TensorFlow
+      
+  
+
+
+            TensorFlow is an end-to-end open source platform that makes it easy for beginners and experts to create machine learning models.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Jetpack Compose basics
+      
+  
+
+
+            Jetpack Compose is a modern toolkit designed to simplify UI development. It combines a reactive programming model with the conciseness and ease of use of the Kotlin language.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Add structured data to your web pages
+      
+  
+
+
+            Google Search works hard to understand the content of a web page. Provide explicit clues about the meaning of a page with structured data.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Featured products
+      
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Android Modern tools to help you build experiences that people love across every Android device.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Cloud Build apps faster, make smarter business decisions, and
+            connect people everywhere.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TensorFlow An end-to-end platform that makes it easy to build and
+            deploy ML models in any environment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Chrome Modern tools and features that help you build high
+            quality web experiences.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Play Grow your business, improve app quality, engage your
+            audience, and earn revenue.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Firebase An app development platform that helps you build and grow
+            apps and games users love.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PaLM An easy and safe API to experiment with Google's large language models.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MakerSuite Quickly prototype generative AI applications in a browser - no ML expertise or coding required.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Flutter Build, test, and deploy beautiful web, mobile, desktop and
+            embedded apps from one codebase.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Ads Promote your website, products, and app to the right users
+            with Google Ads.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kaggle A platform to share machine learning data sets, explore and
+            build models, and compete in competitions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Angular The web development framework for building the future.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View all developer products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trending news
+
+
+
+                Explore Tech Equity Collective Black Genius Academy
+              
+
+
+              A new platform for Black talent to identify education programs and enter the industry.
+            
+
+
+                Learn more
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trending news
+
+
+
+                MakerSuite is now available in 180 countries
+              
+
+
+              Sign up now to prototype AI applications with the PaLM 2 language model.
+            
+
+
+                Learn more
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trending news
+
+
+
+                Explore the new, experimental Project IDX
+              
+
+
+              An initiative to bring your full-stack, multiplatform app development workflow to
+              the cloud.
+            
+
+
+                Learn more
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's new in Android
+
+
+
+    
+        Android Studio Giraffe is now stable
+      
+  
+
+
+            Featuring updates to Live Edit, Compose animation previews, a new Device Explorer, and more.
+
+          
+
+Download now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Find an event
+      
+  
+
+
+            Grow your knowledge through online and in-person developer events.
+
+          
+
+View events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Improve technical skills
+      
+  
+
+
+            Keep up with Google technology. Sharpen skills and master new ones.
+
+          
+
+Start learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        Join a community
+      
+  
+
+
+            Meet a diverse network, no matter where you are on your developer journey.
+
+          
+
+Explore communities
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Follow Google for Developers
+      
+  
+    
+
+
+
+
+
+
+
+
+
+
+      
+    
+        YouTube
+      
+  
+    
+
+Subscribe to join a community of creative developers and learn the latest in Google technology.
+
+
+Learn more
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        Instagram
+      
+  
+    
+
+Follow and discover developer resources, community events, and inspirational stories.
+
+
+Learn more
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        LinkedIn
+      
+  
+    
+
+Join a community of creative developers and learn how to use the latest in technology. 
+
+
+Learn more
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+        X
+      
+  
+    
+
+Join the conversation to discover the latest developer tools, resources, events, and announcements.
+
+
+Learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect
+
+
+
+            
+          
+            Blog
+          
+          
+
+
+
+            
+          
+            Instagram
+          
+          
+
+
+
+            
+          
+            LinkedIn
+          
+          
+
+
+
+            
+          
+            Twitter
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            YouTube
+          
+          
+
+
+
+
+Programs
+
+
+
+            
+          
+            Women Techmakers
+          
+          
+
+
+
+            
+          
+            Google Developer Groups
+          
+          
+
+
+
+            
+          
+            Google Developer Experts
+          
+          
+
+
+
+            
+          
+            Accelerators
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Google Developer Student Clubs
+          
+          
+
+
+
+
+Developer consoles
+
+
+
+            
+          
+            Google API Console
+          
+          
+
+
+
+            
+          
+            Google Cloud Platform Console
+          
+          
+
+
+
+            
+          
+            Google Play Console
+          
+          
+
+
+
+            
+          
+            Firebase Console
+          
+          
+
+
+
+            
+          
+            Actions on Google Console
+          
+          
+
+
+
+            
+          
+            Cast SDK Developer Console
+          
+          
+
+
+
+            
+              
+              
+            
+          
+            Chrome Web Store Dashboard
+          
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Android
+        
+
+
+
+          Chrome
+        
+
+
+
+          Firebase
+        
+
+
+
+          Google Cloud Platform
+        
+
+
+
+          All products
+        
+
+
+
+
+
+
+
+          Terms
+        
+
+
+
+          Privacy
+        
+
+
+Sign up for the Google for Developers newsletter
+
+          Subscribe
+        
+
+
+
+
+
+English
+
+
+Bahasa Indonesia
+
+
+Deutsch
+
+
+Español
+
+
+Español – América Latina
+
+
+Français
+
+
+Italiano
+
+
+Polski
+
+
+Português – Brasil
+
+
+Tiếng Việt
+
+
+Türkçe
+
+
+Русский
+
+
+עברית
+
+
+العربيّة
+
+
+فارسی
+
+
+हिंदी
+
+
+বাংলা
+
+
+ภาษาไทย
+
+
+中文 – 简体
+
+
+中文 – 繁體
+
+
+日本語
+
+
+한국어
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

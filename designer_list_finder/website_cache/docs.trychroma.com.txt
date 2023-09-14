@@ -1,0 +1,22 @@
+
+
+
+
+
+🏡 Home | Chroma
+
+
+
+
+
+
+Skip to main contentChromaPythonJavascriptDiscord@trychromaGitHub🏡 Home🔑 Getting Started🧪 Usage Guide🧬 Embeddings👽 About📖 API Cheatsheet🔌 Integrations✈️ Migration☁️ Deployment📏 Telemetry🛣️ Roadmap🍻 Contributing🔍 Troubleshooting⚪️ JS Docs⚪️ Python Docs🏡 HomeOn this pageChromaChroma is the open-source embedding database. Chroma makes it easy to build LLM apps by making knowledge, facts, and skills pluggable for LLMs.
+Chroma gives you the tools to:store embeddings and their metadataembed documents and queriessearch embeddingsChroma prioritizes:simplicity and developer productivityanalysis on top of searchit also happens to be very quickChroma consists of a Python client SDK, JavaScript/TypeScript client SDK and a server application. Check out the Colab demo.(yes, it can run in a notebook 😄)Chroma is licensed under Apache 2.0Python​In Python, Chroma can run in-memory or in client/server (in alpha) mode.pip install chromadbJavaScript​In JavaScript, Chroma runs in client/server mode and talks to a Python backend.npm install --save chromadb # yarn add chromadbContinue with the full getting started guide.🔑 Getting started
+🧪 Usage Guide
+🧬 Embeddings
+📄 API Reference
+👽 About💬 Join Community Discord 
+@trychroma Language Support​in-memoryclientPython✅✅ (by Chroma)Javascript➖✅ (by Chroma)Ruby➖✅ from @mariochavezJava➖✅ from @t_azarovGo➖✅ from @t_azarovC#➖✅ from @microsoftRust➖✅ from @Anush008Elixir➖✅ from @3zcurdiaDart➖✅ from @davidmiglozOther?❓❓We welcome contributions for other languages! Learn more on the Community Discord.Edit this pageNext🔑 Getting StartedPythonJavaScriptLanguage SupportDocsGetting StartedAPI ReferenceCommunityDiscordTwitterMoreAboutGitHubPrivacyTerms
+
+
+

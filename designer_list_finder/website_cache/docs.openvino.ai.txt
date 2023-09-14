@@ -1,0 +1,4496 @@
+
+
+
+
+
+
+OpenVINO 2023.0 — OpenVINOâ¢  documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  OpenVINO 2023.0
+ 
+
+
+
+  Install
+ 
+
+
+
+  Blog
+ 
+
+
+
+  Forum
+ 
+
+
+
+  Support
+ 
+
+
+
+  GitHub
+ 
+
+
+
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+English
+
+English
+Chinese
+
+
+
+
+
+
+
+
+            Documentation navigation 
+
+
+
+
+OpenVINO 2022.1 has introduced OpenVINO API 2.0. For more information on transition steps from the previous API, see the transition guide
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GET STARTED
+Install OpenVINO
+OpenVINO Runtime on Linux
+Use Archive
+Use PyPI
+Use APT
+Use YUM
+Use Conda Forge
+Use Homebrew
+Use Docker
+
+
+OpenVINO Runtime on Windows
+Use Archive
+Use PyPI
+Use Conda Forge
+Use Docker
+
+
+OpenVINO Runtime on macOS
+From Archive
+From PyPI
+Using Conda Forge
+Using Homebrew
+
+
+OpenVINO Development Tools
+Create a Yocto Image
+
+
+Additional Hardware setup
+For GPU
+For GNA
+
+
+Troubleshooting
+
+
+LEARN OPENVINO
+Interactive Tutorials (Python)
+Installation of OpenVINOâ¢ Notebooks
+OpenVINO notebooks documentation
+Hello Image Classification
+Hello Object Detection
+Hello Image Segmentation
+OpenVINOâ¢ Runtime API Tutorial
+Quantization of Image Classification Models
+Post-Training Quantization of PyTorch models with NNCF
+Convert a PyTorch Model to OpenVINOâ¢ IR
+Quantize Speech Recognition Models with accuracy control using NNCF PTQ API
+Hello Model Server
+Convert a PyTorch Model to ONNX and OpenVINOâ¢ IR
+Quantize Speech Recognition Models using NNCF PTQ API
+Quantize a Segmentation Model and Show Live Inference
+Convert a Tensorflow Lite Model to OpenVINOâ¢
+Optimize Preprocessing
+Convert and Optimize YOLOv8 with OpenVINOâ¢
+Performance tricks in OpenVINO for throughput mode
+Convert a TensorFlow Model to OpenVINOâ¢
+Performance tricks in OpenVINO for latency mode
+Working with Open Model Zoo Models
+Live Inference and Benchmark CT-scan Data with OpenVINOâ¢
+Asynchronous Inference with OpenVINOâ¢
+Convert a PaddlePaddle Model to OpenVINOâ¢ IR
+Quantize NLP models with Post-Training Quantization âin NNCF
+Migrate quantization from POT API to NNCF API
+OpenVINOâ¢ model conversion API
+Automatic Device Selection with OpenVINOâ¢
+Accelerate Inference of Sparse Transformer Models with OpenVINOâ¢ and 4th Gen IntelÂ® XeonÂ® Scalable Processors
+Working with GPUs in OpenVINOâ¢
+Convert a TensorFlow Object Detection Model to OpenVINOâ¢
+Image Background Removal with U^2-Net and OpenVINOâ¢
+Stable Diffusion v2.1 using Optimum-Intel OpenVINO
+Image Generation with Tiny-SD and OpenVINOâ¢
+Video generation with ZeroScope and OpenVINO
+Instruction following using Databricks Dolly 2.0 and OpenVINO
+Selfie Segmentation using TFLite and OpenVINO
+Text-to-Image Generation with Stable Diffusion and OpenVINOâ¢
+Post-Training Quantization of OpenAI CLIP model with NNCF
+Deblur Photos with DeblurGAN-v2 and OpenVINOâ¢
+Photos to Anime with PaddleGAN and OpenVINO
+Text-to-Music generation using Riffusion and OpenVINO
+FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention
+Programming Language Classification with OpenVINO
+Language-Visual Saliency with CLIP and OpenVINOâ¢
+Sentiment Analysis with OpenVINOâ¢
+Convert and Optimize YOLOv7 with OpenVINOâ¢
+Optical Character Recognition (OCR) with OpenVINOâ¢
+Image generation with Stable Diffusion XL and OpenVINO
+Interactive question answering with OpenVINOâ¢
+Typo Detector with OpenVINOâ¢
+Text-to-Image Generation with ControlNet Conditioning
+Binding multimodal data using ImageBind and OpenVINO
+Stable Diffusion Text-to-Image Demo
+Super Resolution with PaddleGAN and OpenVINOâ¢
+Video Super Resolution with OpenVINOâ¢
+Grammatical Error Correction with OpenVINO
+Universal Segmentation with OneFormer and OpenVINO
+Named entity recognition with OpenVINOâ¢
+The attention center model with OpenVINOâ¢
+Industrial Meter Reader
+Controllable Music Generation with MusicGen and OpenVINO
+Machine translation demo
+Image In-painting with OpenVINOâ¢
+Vehicle Detection And Recognition with OpenVINOâ¢
+Object masks from prompts with SAM and OpenVINO
+Video Recognition using SlowFast and OpenVINOâ¢
+Speaker diarization
+Text Prediction with OpenVINOâ¢
+Image generation with DeepFloyd IF and OpenVINOâ¢
+Visual Question Answering and Image Captioning using BLIP and OpenVINO
+Handwritten Chinese and Japanese OCR with OpenVINOâ¢
+Cross-lingual Books Alignment with Transformers and OpenVINOâ¢
+Part Segmentation of 3D Point Clouds with OpenVINOâ¢
+Infinite Zoom Stable Diffusion v2 and OpenVINOâ¢
+Video Subtitle Generation using Whisper and OpenVINOâ¢
+Text-to-Image Generation with Stable Diffusion v2 and OpenVINOâ¢
+Audio compression with EnCodec and OpenVINO
+Stable Diffusion v2.1 using Optimum-Intel OpenVINO and multiple Intel Hardware
+Monocular Visual-Inertial Depth Estimation using OpenVINOâ¢
+Single Image Super Resolution with OpenVINOâ¢
+Convert and Optimize YOLOv8 with OpenVINOâ¢
+Speech to Text with OpenVINOâ¢
+Semantic Segmentation with OpenVINOâ¢ using Segmenter
+High-Quality Text-Free One-Shot Voice Conversion with FreeVC and OpenVINOâ¢
+Monodepth Estimation with OpenVINO
+Image Colorization with OpenVINO
+Zero-shot Image Classification with OpenAI CLIP and OpenVINOâ¢
+Image Editing with InstructPix2Pix and OpenVINO
+OpenVINO optimizations for Knowledge graphs
+From Training to Deployment with TensorFlow and OpenVINOâ¢
+Quantization Aware Training with NNCF, using PyTorch framework
+Quantization Aware Training with NNCF, using TensorFlow Framework
+Post-Training Quantization with TensorFlow Classification Model
+Live Human Pose Estimation with OpenVINOâ¢
+Live 3D Human Pose Estimation with OpenVINO
+Human Action Recognition with OpenVINOâ¢
+Person Tracking with OpenVINOâ¢
+PaddleOCR with OpenVINOâ¢
+Style Transfer with OpenVINOâ¢
+Live Object Detection with OpenVINOâ¢
+
+
+
+
+Sample Applications (Python & C++)
+Get Started with C++ Samples
+Image Classification Async C++ Sample
+Image Classification Async Python Sample
+Hello Classification C++ Sample
+Hello Classification C Sample
+Hello Classification Python Sample
+Hello Reshape SSD C++ Sample
+Hello Reshape SSD Python Sample
+Hello NV12 Input Classification C++ Sample
+Hello NV12 Input Classification C Sample
+Hello Query Device C++ Sample
+Hello Query Device Python Sample
+Model Creation C++ Sample
+Model Creation Python Sample
+Automatic Speech Recognition C++ Sample
+Automatic Speech Recognition Python Sample
+Sync Benchmark C++ Sample
+Sync Benchmark Python Sample
+Throughput Benchmark C++ Sample
+Throughput Benchmark Python Sample
+Bert Benchmark Python Sample
+Benchmark C++ Tool
+Benchmark Python Tool
+
+
+OpenVINO API 2.0 Transition
+Installation & Deployment
+Inference Pipeline
+Configuring Devices
+Preprocessing
+Model Creation in OpenVINOâ¢ Runtime
+
+
+
+
+OPENVINO WORKFLOW
+Model Preparation
+Supported Model Formats
+Converting a TensorFlow Model
+Converting an ONNX Model
+Converting a PyTorch Model
+Converting a TensorFlow Lite Model
+Converting a PaddlePaddle Model
+Converting an MXNet Model
+Converting a Caffe Model
+Converting a Kaldi Model
+Model Conversion Tutorials
+Converting a TensorFlow Attention OCR Model
+Converting a TensorFlow BERT Model
+Converting a TensorFlow CRNN Model
+Converting a TensorFlow DeepSpeech Model
+Converting TensorFlow EfficientDet Models
+Converting TensorFlow FaceNet Models
+Converting a TensorFlow GNMT Model
+Converting a TensorFlow Language Model on One Billion Word Benchmark
+Converting a TensorFlow Neural Collaborative Filtering Model
+Converting TensorFlow Object Detection API Models
+Converting a TensorFlow RetinaNet Model
+Converting TensorFlow Slim Image Classification Model Library Models
+Converting TensorFlow Wide and Deep Family Models
+Converting a TensorFlow XLNet Model
+Converting TensorFlow YOLO Models
+Converting an ONNX Faster R-CNN Model
+Converting an ONNX GPT-2 Model
+Converting an ONNX Mask R-CNN Model
+Converting a PyTorch BERT-NER Model
+Converting a PyTorch Cascade RCNN R-101 Model
+Converting a PyTorch F3Net Model
+Converting a PyTorch QuartzNet Model
+Converting a PyTorch RCAN Model
+Converting a PyTorch RNN-T Model
+Converting a PyTorch YOLACT Model
+Converting MXNet GluonCV Models
+Converting an MXNet Style Transfer Model
+Converting a Kaldi ASpIRE Chain Time Delay Neural Network (TDNN) Model
+
+
+
+
+Convert a Model
+Setting Input Shapes
+Cutting Off Parts of a Model
+Embedding Preprocessing Computation
+Compressing a Model to FP16
+Convert Models Represented as Python Objects
+Model Optimizer Frequently Asked Questions
+
+
+Model Downloader and other automation tools
+
+
+Model Optimization and Compression
+Quantizing Models Post-training
+Basic Quantization Flow
+Quantizing with Accuracy Control
+(Deprecated) Post-training Quantization with POT
+Quantizing Model
+DefaultQuantization Method
+
+
+Quantizing Model with Accuracy Control
+AccuracyAwareQuantization Method
+
+
+Quantization Best Practices
+Saturation Issue
+
+
+API Reference
+Command-line Interface
+Simplified Mode
+Configuration File Description
+
+
+Examples
+API Examples
+Quantizing Image Classification Model
+Quantizing Object Detection Model with Accuracy Control
+Quantizing Cascaded Model
+Quantizing Semantic Segmentation Model
+Quantizing 3D Segmentation Model
+Quantizing for GNA Device
+
+
+Command-line Example
+
+
+Post-training Optimization Tool FAQ
+(Experimental) Protecting Model
+
+
+
+
+Compressing Models During Training
+Quantization-aware Training (QAT)
+Filter Pruning of Convolutional Models
+
+
+
+
+Running Inference
+Integrate OpenVINOâ¢ with Your Application
+Model Representation in OpenVINOâ¢ Runtime
+OpenVINOâ¢ Inference Request
+OpenVINOâ¢ Runtime Python API Advanced Inference
+OpenVINOâ¢ Python API Exclusives
+OpenVINO TensorFlow Frontend Capabilities and Limitations
+
+
+Inference Modes
+Automatic Device Selection
+Debugging Auto-Device Plugin
+
+
+Multi-device execution
+Heterogeneous execution
+Automatic Batching
+
+
+Inference Device Support
+Query Device Properties - Configuration
+CPU Device
+GPU Device
+Remote Tensor API of GPU Plugin
+
+
+GNA Device
+
+
+Changing Input Shapes
+Troubleshooting Reshape Errors
+
+
+Dynamic Shapes
+When Dynamic Shapes API is Not Applicable
+
+
+Stateful models
+The LowLatencÑ2 Transformation
+[DEPRECATED] The LowLatency Transformation
+
+
+Optimize Inference
+General Optimizations
+High-level Performance Hints
+Precision Control
+Optimizing for Latency
+Model Caching Overview
+
+
+Optimizing for Throughput
+Using Advanced Throughput Options: Streams and Batching
+Optimize Preprocessing
+Preprocessing API - details
+Layout API Overview
+Use Case - Integrate and Save Preprocessing Steps Into IR
+
+
+Further Low-Level Implementation Details
+Optimizing memory usage
+
+
+
+
+Deployment on a Local System
+Deploy Application with Deployment Manager
+Local Distribution Libraries
+
+
+Deployment on a Model Server
+Quickstart Guide
+Preparing a Model Repository
+Deploying Model Server
+Starting Model Server
+Model Server Parameters
+Using AI Accelerators
+Using Cloud Storage as a Model Repository
+Security Considerations
+
+
+Writing a Client Application
+Clients
+TensorFlow Serving API Clients
+KServe API Clients
+
+
+API Reference Guide
+TensorFlow Serving compatible gRPC API
+KServe compatible gRPC API
+TensorFlow Serving compatible RESTful API
+KServe compatible RESTful API
+OpenVINO Model Server C-API (preview feature)
+
+
+
+
+Model Server Features
+Directed Acyclic Graph (DAG) Scheduler
+Demultiplexing in DAG
+Custom Node Development Guide
+
+
+Support for Binary Encoded Image Input Data
+Input Shape and Layout Considerations
+Predict on Binary Inputs via TensorFlow Serving API
+Predict on Binary Inputs via KServe API
+Convert TensorFlow Models to Accept Binary Inputs
+
+
+Support for text data format
+Model Version Policy
+Batch, Shape and Layout
+Online Configuration Updates
+Serving Stateful Models
+Metrics
+Dynamic Input Parameters
+Dynamic batch size with OpenVINOâ¢ Model Server Demultiplexer
+Dynamic Batch Size with Automatic Model Reloading
+Dynamic Shape with Automatic Model Reloading
+Dynamic Shape with a Custom Node
+Dynamic Shape with Binary Inputs
+Dynamic Shape with dynamic IR/ONNX Model
+
+
+OpenVINO Model Server C-API (preview feature)
+Advanced Features
+CPU Extensions
+Model Cache
+Custom Model Loader
+Securing Model Server with NGINX
+
+
+Integration with mediapipe (preview)
+Mediapipe calculators
+
+
+
+
+Performance tuning
+Demos
+Age and Gender Recognition via REST API
+Horizontal Text Detection in Real-Time
+Optical Character Recognition with Directed Acyclic Graph
+Face Detection Demo
+Face Blur Pipeline Demo with OVMS
+C API inference demo (C/C++)
+Single Face Analysis Pipeline Demo
+Multi Faces Analysis Pipeline Demo
+Model Ensemble Pipeline Demo
+MediaPipe Image Classification Demo
+MediaPipe Multi Model Demo
+Image Classification Demos
+Image Classification Demo (Python)
+Image Classification Demo (C++)
+Image Classification Demo (Go)
+
+
+Prediction Example with an ONNX Model
+Model Server demo with a direct import of TensorFlow model
+Person, vehicle, bike detection with multiple data sources
+Vehicle Analysis Pipeline Demo
+Real Time Stream Analysis Demo
+BERT Question Answering Demo
+GPT-J Causal Language Modeling Demo
+Using inputs data in string format with universal-sentence-encoder model
+Speech Recognition on Kaldi Model
+Benchmark Client
+Benchmark Client (Python)
+Benchmark Client (C++)
+
+
+
+
+Troubleshooting
+
+
+PyTorch Deployment via âtorch.compileâ
+
+
+DOCUMENTATION
+API Reference
+OpenVINO Runtime C++ API
+Basics
+Element types
+Type_t
+Type
+
+
+Layout
+Layout
+
+
+DiscreteTypeInfo
+Dimension
+Extension
+Input
+Model
+Node
+Output
+PartialShape
+PrePostProcessor
+Shape
+
+
+Inference
+Device properties
+Affinity
+ExecutionMode
+Level
+PerformanceMode
+Priority
+Type
+Num
+Priorities
+Properties
+UUID
+
+
+Intel CPU specific properties
+Intel GNA specific properties
+ExecutionMode
+HWGeneration
+PWLDesignAlgorithm
+
+
+Intel GPU OpenCL interoperability
+ContextType
+SharedMemType
+ClBufferTensor
+ClContext
+ClImage2DTensor
+D3DBufferTensor
+D3DContext
+D3DSurface2DTensor
+USMTensor
+VAContext
+VASurfaceTensor
+
+
+Intel GPU OpenCL specific properties
+Intel HDDL specific properties
+Intel MYRIAD & HDDL specific properties
+Protocol
+
+
+Intel MYRIAD specific properties
+DDRType
+
+
+ProfilingInfo
+Status
+
+
+Allocator
+Base
+Impl
+
+
+Busy
+Cancelled
+CompiledModel
+Core
+InferRequest
+RemoteContext
+RemoteTensor
+Tensor
+VariableState
+
+
+Operation sets
+OpSet
+
+
+Operations
+AUGRUCell
+AUGRUSequence
+Abs
+Acos
+Acosh
+AdaptiveAvgPool
+AdaptiveMaxPool
+Add
+Asin
+Assign
+Assign
+Atan
+Atanh
+BatchNormInference
+BatchNormInference
+BatchToSpace
+BinaryConvolution
+BinaryConvolutionMode
+
+
+Broadcast
+Broadcast
+Bucketize
+CTCGreedyDecoder
+CTCGreedyDecoderSeqLen
+CTCLoss
+Ceiling
+Clamp
+Concat
+Constant
+Convert
+ConvertLike
+Convolution
+ConvolutionBackpropData
+Cos
+Cosh
+CumSum
+DFT
+DeformableConvolution
+DeformableConvolution
+DeformablePSROIPooling
+DepthToSpace
+DepthToSpaceMode
+
+
+Divide
+Einsum
+Elu
+EmbeddingBagOffsetsSum
+EmbeddingBagPackedSum
+EmbeddingSegmentsSum
+Equal
+Erf
+Exp
+ExperimentalDetectronDetectionOutput
+Attributes
+
+
+ExperimentalDetectronGenerateProposalsSingleImage
+Attributes
+
+
+ExperimentalDetectronPriorGridGenerator
+Attributes
+
+
+ExperimentalDetectronROIFeatureExtractor
+Attributes
+
+
+ExperimentalDetectronTopKROIs
+ExtractImagePatches
+Eye
+FakeQuantize
+Floor
+FloorMod
+GRUCell
+GRUSequence
+Gather
+Gather
+Gather
+GatherElements
+GatherND
+GatherND
+GatherTree
+Gelu
+Gelu
+Greater
+GreaterEqual
+GridSample
+InterpolationMode
+PaddingMode
+Attributes
+
+
+HSigmoid
+HSwish
+HardSigmoid
+I420toBGR
+I420toRGB
+IDFT
+If
+BodyIndexes
+
+
+Interpolate
+Interpolate
+Interpolate
+InterpolateMode
+Attributes
+
+
+IsFinite
+IsInf
+Attributes
+
+
+IsNaN
+LRN
+LSTMCell
+LSTMCell
+LSTMSequence
+LSTMSequence
+Less
+LessEqual
+Log
+LogSoftmax
+LogicalAnd
+LogicalNot
+LogicalOr
+LogicalXor
+Loop
+SpecialBodyPorts
+
+
+MVN
+MVN
+MatMul
+MatrixNms
+DecayFunction
+SortResultType
+Attributes
+
+
+MaxPool
+MaxPool
+Maximum
+Minimum
+Mish
+Mod
+Multiply
+NV12toBGR
+NV12toRGB
+Negative
+NonMaxSuppression
+BoxEncodingType
+
+
+NonMaxSuppression
+BoxEncodingType
+
+
+NonMaxSuppression
+BoxEncodingType
+
+
+NonMaxSuppression
+NonZero
+NormalizeL2
+NotEqual
+OneHot
+Op
+PRelu
+PSROIPooling
+Pad
+Parameter
+Power
+PriorBox
+Attributes
+
+
+PriorBox
+Attributes
+
+
+PriorBoxClustered
+Attributes
+
+
+Proposal
+Proposal
+Attributes
+
+
+RNNCell
+RNNSequence
+ROIAlign
+PoolingMode
+
+
+ROIPooling
+RandomUniform
+Range
+Range
+ReadValue
+ReadValue
+ReduceL1
+ReduceL2
+ReduceLogicalAnd
+ReduceLogicalOr
+ReduceMax
+ReduceMean
+ReduceMin
+ReduceProd
+ReduceSum
+RegionYolo
+Relu
+ReorgYolo
+Reshape
+Result
+Reverse
+Mode
+
+
+ReverseSequence
+Roll
+Round
+RoundMode
+
+
+ScatterElementsUpdate
+ScatterNDUpdate
+ScatterUpdate
+Select
+Selu
+ShapeOf
+ShapeOf
+ShuffleChannels
+Sigmoid
+Sign
+Sin
+Sinh
+Sink
+Slice
+SoftPlus
+Softmax
+Softmax
+SpaceToBatch
+SpaceToDepth
+SpaceToDepthMode
+
+
+Split
+Sqrt
+SquaredDifference
+Squeeze
+StridedSlice
+Subtract
+Swish
+Tan
+Tanh
+TensorIterator
+Tile
+TopK
+TopK
+TopK
+Transpose
+Ins
+Outs
+
+
+Unique
+Unsqueeze
+VariadicSplit
+Xor
+
+
+Transformation passes
+ConstantFolding
+ConvertFP32ToFP16
+GraphRewrite
+LowLatency2
+MakeStateful
+Manager
+MatcherPass
+ModelPass
+PassBase
+PassConfig
+Serialize
+Version
+
+
+StreamSerialize
+DataHeader
+
+
+Validate
+VisualizeTree
+
+
+
+
+OpenVINO Runtime C API
+Basics
+ov_element_type_e
+ov_status_e
+
+
+Compiled Model
+ov_compiled_model_t
+
+
+Core
+ov_available_devices_t
+ov_core_t
+ov_core_version
+ov_core_version_list
+ov_version
+
+
+Dimension
+ov_dimension
+
+
+Infer Request
+ov_ProfilingInfo_t
+ov_callback_t
+ov_infer_request_t
+ov_profiling_info_list_t
+
+
+Layout
+ov_layout_t
+
+
+Model
+ov_model_t
+
+
+Node
+ov_output_const_port_t
+ov_output_port_t
+
+
+Partial Shape
+ov_partial_shape
+
+
+Pre Post Process
+ov_color_format_e
+ov_preprocess_resize_algorithm_e
+ov_preprocess_input_info_t
+ov_preprocess_input_model_info_t
+ov_preprocess_input_tensor_info_t
+ov_preprocess_output_info_t
+ov_preprocess_output_tensor_info_t
+ov_preprocess_prepostprocessor_t
+ov_preprocess_preprocess_steps_t
+
+
+Property
+Rank
+ov_rank_t
+
+
+Shape
+ov_shape_t
+
+
+Tensor
+ov_tensor_t
+
+
+ov_remote_context
+
+
+OpenVINO Python API
+openvino.runtime
+openvino.runtime._add_openvino_libs_to_search_path
+openvino.runtime.compile_model
+openvino.runtime.get_batch
+openvino.runtime.get_version
+openvino.runtime.serialize
+openvino.runtime.set_batch
+openvino.runtime.shutdown
+openvino.runtime.tensor_from_file
+openvino.runtime.AsyncInferQueue
+openvino.runtime.AxisSet
+openvino.runtime.AxisVector
+openvino.runtime.CompiledModel
+openvino.runtime.ConstOutput
+openvino.runtime.Coordinate
+openvino.runtime.CoordinateDiff
+openvino.runtime.Core
+openvino.runtime.Dimension
+openvino.runtime.DiscreteTypeInfo
+openvino.runtime.Extension
+openvino.runtime.InferRequest
+openvino.runtime.Input
+openvino.runtime.Layout
+openvino.runtime.Model
+openvino.runtime.Node
+openvino.runtime.OVAny
+openvino.runtime.Output
+openvino.runtime.PartialShape
+openvino.runtime.ProfilingInfo
+openvino.runtime.RTMap
+openvino.runtime.Shape
+openvino.runtime.Strides
+openvino.runtime.Tensor
+openvino.runtime.Type
+openvino.runtime.Version
+
+
+openvino.runtime.op
+openvino.runtime.op.Constant
+openvino.runtime.op.Parameter
+openvino.runtime.op.if_op
+openvino.runtime.op.loop
+openvino.runtime.op.tensor_iterator
+
+
+openvino.runtime.opset1
+openvino.runtime.opset1.abs
+openvino.runtime.opset1.absolute
+openvino.runtime.opset1.acos
+openvino.runtime.opset1.add
+openvino.runtime.opset1.asin
+openvino.runtime.opset1.atan
+openvino.runtime.opset1.avg_pool
+openvino.runtime.opset1.batch_norm_inference
+openvino.runtime.opset1.binary_convolution
+openvino.runtime.opset1.broadcast
+openvino.runtime.opset1.ceil
+openvino.runtime.opset1.ceiling
+openvino.runtime.opset1.clamp
+openvino.runtime.opset1.concat
+openvino.runtime.opset1.constant
+openvino.runtime.opset1.convert
+openvino.runtime.opset1.convert_like
+openvino.runtime.opset1.convolution
+openvino.runtime.opset1.convolution_backprop_data
+openvino.runtime.opset1.cos
+openvino.runtime.opset1.cosh
+openvino.runtime.opset1.ctc_greedy_decoder
+openvino.runtime.opset1.deformable_convolution
+openvino.runtime.opset1.deformable_psroi_pooling
+openvino.runtime.opset1.depth_to_space
+openvino.runtime.opset1.detection_output
+openvino.runtime.opset1.divide
+openvino.runtime.opset1.elu
+openvino.runtime.opset1.equal
+openvino.runtime.opset1.erf
+openvino.runtime.opset1.exp
+openvino.runtime.opset1.fake_quantize
+openvino.runtime.opset1.floor
+openvino.runtime.opset1.floor_mod
+openvino.runtime.opset1.gather
+openvino.runtime.opset1.gather_tree
+openvino.runtime.opset1.greater
+openvino.runtime.opset1.greater_equal
+openvino.runtime.opset1.grn
+openvino.runtime.opset1.group_convolution
+openvino.runtime.opset1.group_convolution_backprop_data
+openvino.runtime.opset1.hard_sigmoid
+openvino.runtime.opset1.interpolate
+openvino.runtime.opset1.less
+openvino.runtime.opset1.less_equal
+openvino.runtime.opset1.log
+openvino.runtime.opset1.logical_and
+openvino.runtime.opset1.logical_not
+openvino.runtime.opset1.logical_or
+openvino.runtime.opset1.logical_xor
+openvino.runtime.opset1.lrn
+openvino.runtime.opset1.lstm_cell
+openvino.runtime.opset1.lstm_sequence
+openvino.runtime.opset1.matmul
+openvino.runtime.opset1.max_pool
+openvino.runtime.opset1.maximum
+openvino.runtime.opset1.minimum
+openvino.runtime.opset1.mod
+openvino.runtime.opset1.multiply
+openvino.runtime.opset1.negative
+openvino.runtime.opset1.non_max_suppression
+openvino.runtime.opset1.normalize_l2
+openvino.runtime.opset1.not_equal
+openvino.runtime.opset1.one_hot
+openvino.runtime.opset1.pad
+openvino.runtime.opset1.parameter
+openvino.runtime.opset1.power
+openvino.runtime.opset1.prelu
+openvino.runtime.opset1.prior_box
+openvino.runtime.opset1.prior_box_clustered
+openvino.runtime.opset1.proposal
+openvino.runtime.opset1.psroi_pooling
+openvino.runtime.opset1.range
+openvino.runtime.opset1.reduce_logical_and
+openvino.runtime.opset1.reduce_logical_or
+openvino.runtime.opset1.reduce_max
+openvino.runtime.opset1.reduce_mean
+openvino.runtime.opset1.reduce_min
+openvino.runtime.opset1.reduce_prod
+openvino.runtime.opset1.reduce_sum
+openvino.runtime.opset1.region_yolo
+openvino.runtime.opset1.relu
+openvino.runtime.opset1.reshape
+openvino.runtime.opset1.result
+openvino.runtime.opset1.reverse_sequence
+openvino.runtime.opset1.select
+openvino.runtime.opset1.selu
+openvino.runtime.opset1.shape_of
+openvino.runtime.opset1.sigmoid
+openvino.runtime.opset1.sign
+openvino.runtime.opset1.sin
+openvino.runtime.opset1.sinh
+openvino.runtime.opset1.softmax
+openvino.runtime.opset1.space_to_depth
+openvino.runtime.opset1.split
+openvino.runtime.opset1.sqrt
+openvino.runtime.opset1.squared_difference
+openvino.runtime.opset1.squeeze
+openvino.runtime.opset1.strided_slice
+openvino.runtime.opset1.subtract
+openvino.runtime.opset1.tan
+openvino.runtime.opset1.tanh
+openvino.runtime.opset1.tile
+openvino.runtime.opset1.topk
+openvino.runtime.opset1.transpose
+openvino.runtime.opset1.unsqueeze
+openvino.runtime.opset1.variadic_split
+openvino.runtime.opset1.tensor_iterator
+
+
+openvino.runtime.opset2
+openvino.runtime.opset2.abs
+openvino.runtime.opset2.absolute
+openvino.runtime.opset2.acos
+openvino.runtime.opset2.add
+openvino.runtime.opset2.asin
+openvino.runtime.opset2.atan
+openvino.runtime.opset2.avg_pool
+openvino.runtime.opset2.batch_norm_inference
+openvino.runtime.opset2.batch_to_space
+openvino.runtime.opset2.binary_convolution
+openvino.runtime.opset2.broadcast
+openvino.runtime.opset2.ceil
+openvino.runtime.opset2.ceiling
+openvino.runtime.opset2.clamp
+openvino.runtime.opset2.concat
+openvino.runtime.opset2.constant
+openvino.runtime.opset2.convert
+openvino.runtime.opset2.convert_like
+openvino.runtime.opset2.convolution
+openvino.runtime.opset2.convolution_backprop_data
+openvino.runtime.opset2.cos
+openvino.runtime.opset2.cosh
+openvino.runtime.opset2.ctc_greedy_decoder
+openvino.runtime.opset2.deformable_convolution
+openvino.runtime.opset2.deformable_psroi_pooling
+openvino.runtime.opset2.depth_to_space
+openvino.runtime.opset2.detection_output
+openvino.runtime.opset2.divide
+openvino.runtime.opset2.elu
+openvino.runtime.opset2.equal
+openvino.runtime.opset2.erf
+openvino.runtime.opset2.exp
+openvino.runtime.opset2.fake_quantize
+openvino.runtime.opset2.floor
+openvino.runtime.opset2.floor_mod
+openvino.runtime.opset2.gather
+openvino.runtime.opset2.gather_tree
+openvino.runtime.opset2.gelu
+openvino.runtime.opset2.greater
+openvino.runtime.opset2.greater_equal
+openvino.runtime.opset2.grn
+openvino.runtime.opset2.group_convolution
+openvino.runtime.opset2.group_convolution_backprop_data
+openvino.runtime.opset2.hard_sigmoid
+openvino.runtime.opset2.interpolate
+openvino.runtime.opset2.less
+openvino.runtime.opset2.less_equal
+openvino.runtime.opset2.log
+openvino.runtime.opset2.logical_and
+openvino.runtime.opset2.logical_not
+openvino.runtime.opset2.logical_or
+openvino.runtime.opset2.logical_xor
+openvino.runtime.opset2.lrn
+openvino.runtime.opset2.lstm_cell
+openvino.runtime.opset2.lstm_sequence
+openvino.runtime.opset2.matmul
+openvino.runtime.opset2.max_pool
+openvino.runtime.opset2.maximum
+openvino.runtime.opset2.minimum
+openvino.runtime.opset2.mod
+openvino.runtime.opset2.multiply
+openvino.runtime.opset2.mvn
+openvino.runtime.opset2.negative
+openvino.runtime.opset2.non_max_suppression
+openvino.runtime.opset2.normalize_l2
+openvino.runtime.opset2.not_equal
+openvino.runtime.opset2.one_hot
+openvino.runtime.opset2.pad
+openvino.runtime.opset2.parameter
+openvino.runtime.opset2.power
+openvino.runtime.opset2.prelu
+openvino.runtime.opset2.prior_box
+openvino.runtime.opset2.prior_box_clustered
+openvino.runtime.opset2.proposal
+openvino.runtime.opset2.psroi_pooling
+openvino.runtime.opset2.range
+openvino.runtime.opset2.reduce_logical_and
+openvino.runtime.opset2.reduce_logical_or
+openvino.runtime.opset2.reduce_max
+openvino.runtime.opset2.reduce_mean
+openvino.runtime.opset2.reduce_min
+openvino.runtime.opset2.reduce_prod
+openvino.runtime.opset2.reduce_sum
+openvino.runtime.opset2.region_yolo
+openvino.runtime.opset2.relu
+openvino.runtime.opset2.reorg_yolo
+openvino.runtime.opset2.reshape
+openvino.runtime.opset2.result
+openvino.runtime.opset2.reverse_sequence
+openvino.runtime.opset2.roi_pooling
+openvino.runtime.opset2.select
+openvino.runtime.opset2.selu
+openvino.runtime.opset2.shape_of
+openvino.runtime.opset2.sigmoid
+openvino.runtime.opset2.sign
+openvino.runtime.opset2.sin
+openvino.runtime.opset2.sinh
+openvino.runtime.opset2.softmax
+openvino.runtime.opset2.space_to_batch
+openvino.runtime.opset2.space_to_depth
+openvino.runtime.opset2.split
+openvino.runtime.opset2.sqrt
+openvino.runtime.opset2.squared_difference
+openvino.runtime.opset2.squeeze
+openvino.runtime.opset2.strided_slice
+openvino.runtime.opset2.subtract
+openvino.runtime.opset2.tan
+openvino.runtime.opset2.tanh
+openvino.runtime.opset2.tile
+openvino.runtime.opset2.topk
+openvino.runtime.opset2.transpose
+openvino.runtime.opset2.unsqueeze
+openvino.runtime.opset2.variadic_split
+openvino.runtime.opset2.tensor_iterator
+
+
+openvino.runtime.opset3
+openvino.runtime.opset3.abs
+openvino.runtime.opset3.absolute
+openvino.runtime.opset3.acos
+openvino.runtime.opset3.add
+openvino.runtime.opset3.asin
+openvino.runtime.opset3.assign
+openvino.runtime.opset3.atan
+openvino.runtime.opset3.avg_pool
+openvino.runtime.opset3.batch_norm_inference
+openvino.runtime.opset3.batch_to_space
+openvino.runtime.opset3.binary_convolution
+openvino.runtime.opset3.broadcast
+openvino.runtime.opset3.bucketize
+openvino.runtime.opset3.ceil
+openvino.runtime.opset3.ceiling
+openvino.runtime.opset3.clamp
+openvino.runtime.opset3.concat
+openvino.runtime.opset3.constant
+openvino.runtime.opset3.convert
+openvino.runtime.opset3.convert_like
+openvino.runtime.opset3.convolution
+openvino.runtime.opset3.convolution_backprop_data
+openvino.runtime.opset3.cos
+openvino.runtime.opset3.cosh
+openvino.runtime.opset3.ctc_greedy_decoder
+openvino.runtime.opset3.cum_sum
+openvino.runtime.opset3.cumsum
+openvino.runtime.opset3.deformable_convolution
+openvino.runtime.opset3.deformable_psroi_pooling
+openvino.runtime.opset3.depth_to_space
+openvino.runtime.opset3.detection_output
+openvino.runtime.opset3.divide
+openvino.runtime.opset3.elu
+openvino.runtime.opset3.embedding_bag_offsets_sum
+openvino.runtime.opset3.embedding_bag_packed_sum
+openvino.runtime.opset3.embedding_segments_sum
+openvino.runtime.opset3.equal
+openvino.runtime.opset3.erf
+openvino.runtime.opset3.exp
+openvino.runtime.opset3.extract_image_patches
+openvino.runtime.opset3.fake_quantize
+openvino.runtime.opset3.floor
+openvino.runtime.opset3.floor_mod
+openvino.runtime.opset3.gather
+openvino.runtime.opset3.gather_tree
+openvino.runtime.opset3.gelu
+openvino.runtime.opset3.greater
+openvino.runtime.opset3.greater_equal
+openvino.runtime.opset3.grn
+openvino.runtime.opset3.group_convolution
+openvino.runtime.opset3.group_convolution_backprop_data
+openvino.runtime.opset3.gru_cell
+openvino.runtime.opset3.hard_sigmoid
+openvino.runtime.opset3.interpolate
+openvino.runtime.opset3.less
+openvino.runtime.opset3.less_equal
+openvino.runtime.opset3.log
+openvino.runtime.opset3.logical_and
+openvino.runtime.opset3.logical_not
+openvino.runtime.opset3.logical_or
+openvino.runtime.opset3.logical_xor
+openvino.runtime.opset3.lrn
+openvino.runtime.opset3.lstm_cell
+openvino.runtime.opset3.lstm_sequence
+openvino.runtime.opset3.matmul
+openvino.runtime.opset3.max_pool
+openvino.runtime.opset3.maximum
+openvino.runtime.opset3.minimum
+openvino.runtime.opset3.mod
+openvino.runtime.opset3.multiply
+openvino.runtime.opset3.mvn
+openvino.runtime.opset3.negative
+openvino.runtime.opset3.non_max_suppression
+openvino.runtime.opset3.non_zero
+openvino.runtime.opset3.normalize_l2
+openvino.runtime.opset3.not_equal
+openvino.runtime.opset3.one_hot
+openvino.runtime.opset3.pad
+openvino.runtime.opset3.parameter
+openvino.runtime.opset3.power
+openvino.runtime.opset3.prelu
+openvino.runtime.opset3.prior_box
+openvino.runtime.opset3.prior_box_clustered
+openvino.runtime.opset3.proposal
+openvino.runtime.opset3.psroi_pooling
+openvino.runtime.opset3.range
+openvino.runtime.opset3.read_value
+openvino.runtime.opset3.reduce_logical_and
+openvino.runtime.opset3.reduce_logical_or
+openvino.runtime.opset3.reduce_max
+openvino.runtime.opset3.reduce_mean
+openvino.runtime.opset3.reduce_min
+openvino.runtime.opset3.reduce_prod
+openvino.runtime.opset3.reduce_sum
+openvino.runtime.opset3.region_yolo
+openvino.runtime.opset3.relu
+openvino.runtime.opset3.reorg_yolo
+openvino.runtime.opset3.reshape
+openvino.runtime.opset3.result
+openvino.runtime.opset3.reverse_sequence
+openvino.runtime.opset3.rnn_cell
+openvino.runtime.opset3.roi_align
+openvino.runtime.opset3.roi_pooling
+openvino.runtime.opset3.scatter_elements_update
+openvino.runtime.opset3.scatter_update
+openvino.runtime.opset3.select
+openvino.runtime.opset3.selu
+openvino.runtime.opset3.shape_of
+openvino.runtime.opset3.shuffle_channels
+openvino.runtime.opset3.sigmoid
+openvino.runtime.opset3.sign
+openvino.runtime.opset3.sin
+openvino.runtime.opset3.sinh
+openvino.runtime.opset3.softmax
+openvino.runtime.opset3.space_to_batch
+openvino.runtime.opset3.space_to_depth
+openvino.runtime.opset3.split
+openvino.runtime.opset3.sqrt
+openvino.runtime.opset3.squared_difference
+openvino.runtime.opset3.squeeze
+openvino.runtime.opset3.strided_slice
+openvino.runtime.opset3.subtract
+openvino.runtime.opset3.tan
+openvino.runtime.opset3.tanh
+openvino.runtime.opset3.tile
+openvino.runtime.opset3.topk
+openvino.runtime.opset3.transpose
+openvino.runtime.opset3.unsqueeze
+openvino.runtime.opset3.variadic_split
+openvino.runtime.opset3.tensor_iterator
+
+
+openvino.runtime.opset4
+openvino.runtime.opset4.abs
+openvino.runtime.opset4.absolute
+openvino.runtime.opset4.acos
+openvino.runtime.opset4.acosh
+openvino.runtime.opset4.add
+openvino.runtime.opset4.asin
+openvino.runtime.opset4.asinh
+openvino.runtime.opset4.assign
+openvino.runtime.opset4.atan
+openvino.runtime.opset4.atanh
+openvino.runtime.opset4.avg_pool
+openvino.runtime.opset4.batch_norm_inference
+openvino.runtime.opset4.batch_to_space
+openvino.runtime.opset4.binary_convolution
+openvino.runtime.opset4.broadcast
+openvino.runtime.opset4.bucketize
+openvino.runtime.opset4.ceil
+openvino.runtime.opset4.ceiling
+openvino.runtime.opset4.clamp
+openvino.runtime.opset4.concat
+openvino.runtime.opset4.constant
+openvino.runtime.opset4.convert
+openvino.runtime.opset4.convert_like
+openvino.runtime.opset4.convolution
+openvino.runtime.opset4.convolution_backprop_data
+openvino.runtime.opset4.cos
+openvino.runtime.opset4.cosh
+openvino.runtime.opset4.ctc_greedy_decoder
+openvino.runtime.opset4.ctc_loss
+openvino.runtime.opset4.cum_sum
+openvino.runtime.opset4.cumsum
+openvino.runtime.opset4.deformable_convolution
+openvino.runtime.opset4.deformable_psroi_pooling
+openvino.runtime.opset4.depth_to_space
+openvino.runtime.opset4.detection_output
+openvino.runtime.opset4.divide
+openvino.runtime.opset4.elu
+openvino.runtime.opset4.embedding_bag_offsets_sum
+openvino.runtime.opset4.embedding_bag_packed_sum
+openvino.runtime.opset4.embedding_segments_sum
+openvino.runtime.opset4.equal
+openvino.runtime.opset4.erf
+openvino.runtime.opset4.exp
+openvino.runtime.opset4.extract_image_patches
+openvino.runtime.opset4.fake_quantize
+openvino.runtime.opset4.floor
+openvino.runtime.opset4.floor_mod
+openvino.runtime.opset4.gather
+openvino.runtime.opset4.gather_tree
+openvino.runtime.opset4.gelu
+openvino.runtime.opset4.greater
+openvino.runtime.opset4.greater_equal
+openvino.runtime.opset4.grn
+openvino.runtime.opset4.group_convolution
+openvino.runtime.opset4.group_convolution_backprop_data
+openvino.runtime.opset4.gru_cell
+openvino.runtime.opset4.hard_sigmoid
+openvino.runtime.opset4.hswish
+openvino.runtime.opset4.interpolate
+openvino.runtime.opset4.less
+openvino.runtime.opset4.less_equal
+openvino.runtime.opset4.log
+openvino.runtime.opset4.logical_and
+openvino.runtime.opset4.logical_not
+openvino.runtime.opset4.logical_or
+openvino.runtime.opset4.logical_xor
+openvino.runtime.opset4.lrn
+openvino.runtime.opset4.lstm_cell
+openvino.runtime.opset4.lstm_sequence
+openvino.runtime.opset4.matmul
+openvino.runtime.opset4.max_pool
+openvino.runtime.opset4.maximum
+openvino.runtime.opset4.minimum
+openvino.runtime.opset4.mish
+openvino.runtime.opset4.mod
+openvino.runtime.opset4.multiply
+openvino.runtime.opset4.mvn
+openvino.runtime.opset4.negative
+openvino.runtime.opset4.non_max_suppression
+openvino.runtime.opset4.non_zero
+openvino.runtime.opset4.normalize_l2
+openvino.runtime.opset4.not_equal
+openvino.runtime.opset4.one_hot
+openvino.runtime.opset4.pad
+openvino.runtime.opset4.parameter
+openvino.runtime.opset4.power
+openvino.runtime.opset4.prelu
+openvino.runtime.opset4.prior_box
+openvino.runtime.opset4.prior_box_clustered
+openvino.runtime.opset4.proposal
+openvino.runtime.opset4.psroi_pooling
+openvino.runtime.opset4.range
+openvino.runtime.opset4.read_value
+openvino.runtime.opset4.reduce_l1
+openvino.runtime.opset4.reduce_l2
+openvino.runtime.opset4.reduce_logical_and
+openvino.runtime.opset4.reduce_logical_or
+openvino.runtime.opset4.reduce_max
+openvino.runtime.opset4.reduce_mean
+openvino.runtime.opset4.reduce_min
+openvino.runtime.opset4.reduce_prod
+openvino.runtime.opset4.reduce_sum
+openvino.runtime.opset4.region_yolo
+openvino.runtime.opset4.relu
+openvino.runtime.opset4.reorg_yolo
+openvino.runtime.opset4.reshape
+openvino.runtime.opset4.result
+openvino.runtime.opset4.reverse_sequence
+openvino.runtime.opset4.rnn_cell
+openvino.runtime.opset4.roi_align
+openvino.runtime.opset4.roi_pooling
+openvino.runtime.opset4.scatter_elements_update
+openvino.runtime.opset4.scatter_update
+openvino.runtime.opset4.select
+openvino.runtime.opset4.selu
+openvino.runtime.opset4.shape_of
+openvino.runtime.opset4.shuffle_channels
+openvino.runtime.opset4.sigmoid
+openvino.runtime.opset4.sign
+openvino.runtime.opset4.sin
+openvino.runtime.opset4.sinh
+openvino.runtime.opset4.softmax
+openvino.runtime.opset4.softplus
+openvino.runtime.opset4.space_to_batch
+openvino.runtime.opset4.space_to_depth
+openvino.runtime.opset4.split
+openvino.runtime.opset4.sqrt
+openvino.runtime.opset4.squared_difference
+openvino.runtime.opset4.squeeze
+openvino.runtime.opset4.strided_slice
+openvino.runtime.opset4.subtract
+openvino.runtime.opset4.swish
+openvino.runtime.opset4.tan
+openvino.runtime.opset4.tanh
+openvino.runtime.opset4.tile
+openvino.runtime.opset4.topk
+openvino.runtime.opset4.transpose
+openvino.runtime.opset4.unsqueeze
+openvino.runtime.opset4.variadic_split
+openvino.runtime.opset4.tensor_iterator
+
+
+openvino.runtime.opset5
+openvino.runtime.opset5.abs
+openvino.runtime.opset5.absolute
+openvino.runtime.opset5.acos
+openvino.runtime.opset5.acosh
+openvino.runtime.opset5.add
+openvino.runtime.opset5.asin
+openvino.runtime.opset5.asinh
+openvino.runtime.opset5.assign
+openvino.runtime.opset5.atan
+openvino.runtime.opset5.atanh
+openvino.runtime.opset5.avg_pool
+openvino.runtime.opset5.batch_norm_inference
+openvino.runtime.opset5.batch_to_space
+openvino.runtime.opset5.binary_convolution
+openvino.runtime.opset5.broadcast
+openvino.runtime.opset5.bucketize
+openvino.runtime.opset5.ceil
+openvino.runtime.opset5.ceiling
+openvino.runtime.opset5.clamp
+openvino.runtime.opset5.concat
+openvino.runtime.opset5.constant
+openvino.runtime.opset5.convert
+openvino.runtime.opset5.convert_like
+openvino.runtime.opset5.convolution
+openvino.runtime.opset5.convolution_backprop_data
+openvino.runtime.opset5.cos
+openvino.runtime.opset5.cosh
+openvino.runtime.opset5.ctc_greedy_decoder
+openvino.runtime.opset5.ctc_loss
+openvino.runtime.opset5.cum_sum
+openvino.runtime.opset5.cumsum
+openvino.runtime.opset5.deformable_convolution
+openvino.runtime.opset5.deformable_psroi_pooling
+openvino.runtime.opset5.depth_to_space
+openvino.runtime.opset5.detection_output
+openvino.runtime.opset5.divide
+openvino.runtime.opset5.elu
+openvino.runtime.opset5.embedding_bag_offsets_sum
+openvino.runtime.opset5.embedding_bag_packed_sum
+openvino.runtime.opset5.embedding_segments_sum
+openvino.runtime.opset5.equal
+openvino.runtime.opset5.erf
+openvino.runtime.opset5.exp
+openvino.runtime.opset5.extract_image_patches
+openvino.runtime.opset5.fake_quantize
+openvino.runtime.opset5.floor
+openvino.runtime.opset5.floor_mod
+openvino.runtime.opset5.gather
+openvino.runtime.opset5.gather_nd
+openvino.runtime.opset5.gather_tree
+openvino.runtime.opset5.gelu
+openvino.runtime.opset5.greater
+openvino.runtime.opset5.greater_equal
+openvino.runtime.opset5.grn
+openvino.runtime.opset5.group_convolution
+openvino.runtime.opset5.group_convolution_backprop_data
+openvino.runtime.opset5.gru_cell
+openvino.runtime.opset5.gru_sequence
+openvino.runtime.opset5.hard_sigmoid
+openvino.runtime.opset5.hsigmoid
+openvino.runtime.opset5.hswish
+openvino.runtime.opset5.interpolate
+openvino.runtime.opset5.less
+openvino.runtime.opset5.less_equal
+openvino.runtime.opset5.log
+openvino.runtime.opset5.log_softmax
+openvino.runtime.opset5.logical_and
+openvino.runtime.opset5.logical_not
+openvino.runtime.opset5.logical_or
+openvino.runtime.opset5.logical_xor
+openvino.runtime.opset5.lrn
+openvino.runtime.opset5.lstm_cell
+openvino.runtime.opset5.lstm_sequence
+openvino.runtime.opset5.matmul
+openvino.runtime.opset5.max_pool
+openvino.runtime.opset5.maximum
+openvino.runtime.opset5.minimum
+openvino.runtime.opset5.mish
+openvino.runtime.opset5.mod
+openvino.runtime.opset5.multiply
+openvino.runtime.opset5.mvn
+openvino.runtime.opset5.negative
+openvino.runtime.opset5.non_max_suppression
+openvino.runtime.opset5.non_zero
+openvino.runtime.opset5.normalize_l2
+openvino.runtime.opset5.not_equal
+openvino.runtime.opset5.one_hot
+openvino.runtime.opset5.pad
+openvino.runtime.opset5.parameter
+openvino.runtime.opset5.power
+openvino.runtime.opset5.prelu
+openvino.runtime.opset5.prior_box
+openvino.runtime.opset5.prior_box_clustered
+openvino.runtime.opset5.proposal
+openvino.runtime.opset5.psroi_pooling
+openvino.runtime.opset5.range
+openvino.runtime.opset5.read_value
+openvino.runtime.opset5.reduce_l1
+openvino.runtime.opset5.reduce_l2
+openvino.runtime.opset5.reduce_logical_and
+openvino.runtime.opset5.reduce_logical_or
+openvino.runtime.opset5.reduce_max
+openvino.runtime.opset5.reduce_mean
+openvino.runtime.opset5.reduce_min
+openvino.runtime.opset5.reduce_prod
+openvino.runtime.opset5.reduce_sum
+openvino.runtime.opset5.region_yolo
+openvino.runtime.opset5.relu
+openvino.runtime.opset5.reorg_yolo
+openvino.runtime.opset5.reshape
+openvino.runtime.opset5.result
+openvino.runtime.opset5.reverse_sequence
+openvino.runtime.opset5.rnn_cell
+openvino.runtime.opset5.rnn_sequence
+openvino.runtime.opset5.roi_align
+openvino.runtime.opset5.roi_pooling
+openvino.runtime.opset5.round
+openvino.runtime.opset5.scatter_elements_update
+openvino.runtime.opset5.scatter_update
+openvino.runtime.opset5.select
+openvino.runtime.opset5.selu
+openvino.runtime.opset5.shape_of
+openvino.runtime.opset5.shuffle_channels
+openvino.runtime.opset5.sigmoid
+openvino.runtime.opset5.sign
+openvino.runtime.opset5.sin
+openvino.runtime.opset5.sinh
+openvino.runtime.opset5.softmax
+openvino.runtime.opset5.softplus
+openvino.runtime.opset5.space_to_batch
+openvino.runtime.opset5.space_to_depth
+openvino.runtime.opset5.split
+openvino.runtime.opset5.sqrt
+openvino.runtime.opset5.squared_difference
+openvino.runtime.opset5.squeeze
+openvino.runtime.opset5.strided_slice
+openvino.runtime.opset5.subtract
+openvino.runtime.opset5.swish
+openvino.runtime.opset5.tan
+openvino.runtime.opset5.tanh
+openvino.runtime.opset5.tile
+openvino.runtime.opset5.topk
+openvino.runtime.opset5.transpose
+openvino.runtime.opset5.unsqueeze
+openvino.runtime.opset5.variadic_split
+openvino.runtime.opset5.loop
+openvino.runtime.opset5.tensor_iterator
+
+
+openvino.runtime.opset6
+openvino.runtime.opset6.abs
+openvino.runtime.opset6.absolute
+openvino.runtime.opset6.acos
+openvino.runtime.opset6.acosh
+openvino.runtime.opset6.add
+openvino.runtime.opset6.asin
+openvino.runtime.opset6.asinh
+openvino.runtime.opset6.assign
+openvino.runtime.opset6.atan
+openvino.runtime.opset6.atanh
+openvino.runtime.opset6.avg_pool
+openvino.runtime.opset6.batch_norm_inference
+openvino.runtime.opset6.batch_to_space
+openvino.runtime.opset6.binary_convolution
+openvino.runtime.opset6.broadcast
+openvino.runtime.opset6.bucketize
+openvino.runtime.opset6.ceil
+openvino.runtime.opset6.ceiling
+openvino.runtime.opset6.clamp
+openvino.runtime.opset6.concat
+openvino.runtime.opset6.constant
+openvino.runtime.opset6.convert
+openvino.runtime.opset6.convert_like
+openvino.runtime.opset6.convolution
+openvino.runtime.opset6.convolution_backprop_data
+openvino.runtime.opset6.cos
+openvino.runtime.opset6.cosh
+openvino.runtime.opset6.ctc_greedy_decoder
+openvino.runtime.opset6.ctc_greedy_decoder_seq_len
+openvino.runtime.opset6.ctc_loss
+openvino.runtime.opset6.cum_sum
+openvino.runtime.opset6.cumsum
+openvino.runtime.opset6.deformable_convolution
+openvino.runtime.opset6.deformable_psroi_pooling
+openvino.runtime.opset6.depth_to_space
+openvino.runtime.opset6.detection_output
+openvino.runtime.opset6.divide
+openvino.runtime.opset6.elu
+openvino.runtime.opset6.embedding_bag_offsets_sum
+openvino.runtime.opset6.embedding_bag_packed_sum
+openvino.runtime.opset6.embedding_segments_sum
+openvino.runtime.opset6.equal
+openvino.runtime.opset6.erf
+openvino.runtime.opset6.exp
+openvino.runtime.opset6.extract_image_patches
+openvino.runtime.opset6.fake_quantize
+openvino.runtime.opset6.floor
+openvino.runtime.opset6.floor_mod
+openvino.runtime.opset6.gather
+openvino.runtime.opset6.gather_elements
+openvino.runtime.opset6.gather_nd
+openvino.runtime.opset6.gather_tree
+openvino.runtime.opset6.gelu
+openvino.runtime.opset6.greater
+openvino.runtime.opset6.greater_equal
+openvino.runtime.opset6.grn
+openvino.runtime.opset6.group_convolution
+openvino.runtime.opset6.group_convolution_backprop_data
+openvino.runtime.opset6.gru_cell
+openvino.runtime.opset6.gru_sequence
+openvino.runtime.opset6.hard_sigmoid
+openvino.runtime.opset6.hsigmoid
+openvino.runtime.opset6.hswish
+openvino.runtime.opset6.interpolate
+openvino.runtime.opset6.less
+openvino.runtime.opset6.less_equal
+openvino.runtime.opset6.log
+openvino.runtime.opset6.log_softmax
+openvino.runtime.opset6.logical_and
+openvino.runtime.opset6.logical_not
+openvino.runtime.opset6.logical_or
+openvino.runtime.opset6.logical_xor
+openvino.runtime.opset6.lrn
+openvino.runtime.opset6.lstm_cell
+openvino.runtime.opset6.lstm_sequence
+openvino.runtime.opset6.matmul
+openvino.runtime.opset6.max_pool
+openvino.runtime.opset6.maximum
+openvino.runtime.opset6.minimum
+openvino.runtime.opset6.mish
+openvino.runtime.opset6.mod
+openvino.runtime.opset6.multiply
+openvino.runtime.opset6.mvn
+openvino.runtime.opset6.negative
+openvino.runtime.opset6.non_max_suppression
+openvino.runtime.opset6.non_zero
+openvino.runtime.opset6.normalize_l2
+openvino.runtime.opset6.not_equal
+openvino.runtime.opset6.one_hot
+openvino.runtime.opset6.pad
+openvino.runtime.opset6.parameter
+openvino.runtime.opset6.power
+openvino.runtime.opset6.prelu
+openvino.runtime.opset6.prior_box
+openvino.runtime.opset6.prior_box_clustered
+openvino.runtime.opset6.proposal
+openvino.runtime.opset6.psroi_pooling
+openvino.runtime.opset6.range
+openvino.runtime.opset6.read_value
+openvino.runtime.opset6.reduce_l1
+openvino.runtime.opset6.reduce_l2
+openvino.runtime.opset6.reduce_logical_and
+openvino.runtime.opset6.reduce_logical_or
+openvino.runtime.opset6.reduce_max
+openvino.runtime.opset6.reduce_mean
+openvino.runtime.opset6.reduce_min
+openvino.runtime.opset6.reduce_prod
+openvino.runtime.opset6.reduce_sum
+openvino.runtime.opset6.region_yolo
+openvino.runtime.opset6.relu
+openvino.runtime.opset6.reorg_yolo
+openvino.runtime.opset6.reshape
+openvino.runtime.opset6.result
+openvino.runtime.opset6.reverse_sequence
+openvino.runtime.opset6.rnn_cell
+openvino.runtime.opset6.rnn_sequence
+openvino.runtime.opset6.roi_align
+openvino.runtime.opset6.roi_pooling
+openvino.runtime.opset6.round
+openvino.runtime.opset6.scatter_elements_update
+openvino.runtime.opset6.scatter_update
+openvino.runtime.opset6.select
+openvino.runtime.opset6.selu
+openvino.runtime.opset6.shape_of
+openvino.runtime.opset6.shuffle_channels
+openvino.runtime.opset6.sigmoid
+openvino.runtime.opset6.sign
+openvino.runtime.opset6.sin
+openvino.runtime.opset6.sinh
+openvino.runtime.opset6.softmax
+openvino.runtime.opset6.softplus
+openvino.runtime.opset6.space_to_batch
+openvino.runtime.opset6.space_to_depth
+openvino.runtime.opset6.split
+openvino.runtime.opset6.sqrt
+openvino.runtime.opset6.squared_difference
+openvino.runtime.opset6.squeeze
+openvino.runtime.opset6.strided_slice
+openvino.runtime.opset6.subtract
+openvino.runtime.opset6.swish
+openvino.runtime.opset6.tan
+openvino.runtime.opset6.tanh
+openvino.runtime.opset6.tile
+openvino.runtime.opset6.topk
+openvino.runtime.opset6.transpose
+openvino.runtime.opset6.unsqueeze
+openvino.runtime.opset6.variadic_split
+openvino.runtime.opset6.loop
+openvino.runtime.opset6.tensor_iterator
+
+
+openvino.runtime.opset7
+openvino.runtime.opset7.abs
+openvino.runtime.opset7.absolute
+openvino.runtime.opset7.acos
+openvino.runtime.opset7.acosh
+openvino.runtime.opset7.add
+openvino.runtime.opset7.asin
+openvino.runtime.opset7.asinh
+openvino.runtime.opset7.assign
+openvino.runtime.opset7.atan
+openvino.runtime.opset7.atanh
+openvino.runtime.opset7.avg_pool
+openvino.runtime.opset7.batch_norm_inference
+openvino.runtime.opset7.batch_to_space
+openvino.runtime.opset7.binary_convolution
+openvino.runtime.opset7.broadcast
+openvino.runtime.opset7.bucketize
+openvino.runtime.opset7.ceil
+openvino.runtime.opset7.ceiling
+openvino.runtime.opset7.clamp
+openvino.runtime.opset7.concat
+openvino.runtime.opset7.constant
+openvino.runtime.opset7.convert
+openvino.runtime.opset7.convert_like
+openvino.runtime.opset7.convolution
+openvino.runtime.opset7.convolution_backprop_data
+openvino.runtime.opset7.cos
+openvino.runtime.opset7.cosh
+openvino.runtime.opset7.ctc_greedy_decoder
+openvino.runtime.opset7.ctc_greedy_decoder_seq_len
+openvino.runtime.opset7.ctc_loss
+openvino.runtime.opset7.cum_sum
+openvino.runtime.opset7.cumsum
+openvino.runtime.opset7.deformable_convolution
+openvino.runtime.opset7.deformable_psroi_pooling
+openvino.runtime.opset7.depth_to_space
+openvino.runtime.opset7.detection_output
+openvino.runtime.opset7.dft
+openvino.runtime.opset7.divide
+openvino.runtime.opset7.einsum
+openvino.runtime.opset7.elu
+openvino.runtime.opset7.embedding_bag_offsets_sum
+openvino.runtime.opset7.embedding_bag_packed_sum
+openvino.runtime.opset7.embedding_segments_sum
+openvino.runtime.opset7.equal
+openvino.runtime.opset7.erf
+openvino.runtime.opset7.exp
+openvino.runtime.opset7.extract_image_patches
+openvino.runtime.opset7.fake_quantize
+openvino.runtime.opset7.floor
+openvino.runtime.opset7.floor_mod
+openvino.runtime.opset7.gather
+openvino.runtime.opset7.gather_elements
+openvino.runtime.opset7.gather_nd
+openvino.runtime.opset7.gather_tree
+openvino.runtime.opset7.gelu
+openvino.runtime.opset7.greater
+openvino.runtime.opset7.greater_equal
+openvino.runtime.opset7.grn
+openvino.runtime.opset7.group_convolution
+openvino.runtime.opset7.group_convolution_backprop_data
+openvino.runtime.opset7.gru_cell
+openvino.runtime.opset7.gru_sequence
+openvino.runtime.opset7.hard_sigmoid
+openvino.runtime.opset7.hsigmoid
+openvino.runtime.opset7.hswish
+openvino.runtime.opset7.idft
+openvino.runtime.opset7.interpolate
+openvino.runtime.opset7.less
+openvino.runtime.opset7.less_equal
+openvino.runtime.opset7.log
+openvino.runtime.opset7.log_softmax
+openvino.runtime.opset7.logical_and
+openvino.runtime.opset7.logical_not
+openvino.runtime.opset7.logical_or
+openvino.runtime.opset7.logical_xor
+openvino.runtime.opset7.lrn
+openvino.runtime.opset7.lstm_cell
+openvino.runtime.opset7.lstm_sequence
+openvino.runtime.opset7.matmul
+openvino.runtime.opset7.max_pool
+openvino.runtime.opset7.maximum
+openvino.runtime.opset7.minimum
+openvino.runtime.opset7.mish
+openvino.runtime.opset7.mod
+openvino.runtime.opset7.multiply
+openvino.runtime.opset7.mvn
+openvino.runtime.opset7.negative
+openvino.runtime.opset7.non_max_suppression
+openvino.runtime.opset7.non_zero
+openvino.runtime.opset7.normalize_l2
+openvino.runtime.opset7.not_equal
+openvino.runtime.opset7.one_hot
+openvino.runtime.opset7.pad
+openvino.runtime.opset7.parameter
+openvino.runtime.opset7.power
+openvino.runtime.opset7.prelu
+openvino.runtime.opset7.prior_box
+openvino.runtime.opset7.prior_box_clustered
+openvino.runtime.opset7.proposal
+openvino.runtime.opset7.psroi_pooling
+openvino.runtime.opset7.range
+openvino.runtime.opset7.read_value
+openvino.runtime.opset7.reduce_l1
+openvino.runtime.opset7.reduce_l2
+openvino.runtime.opset7.reduce_logical_and
+openvino.runtime.opset7.reduce_logical_or
+openvino.runtime.opset7.reduce_max
+openvino.runtime.opset7.reduce_mean
+openvino.runtime.opset7.reduce_min
+openvino.runtime.opset7.reduce_prod
+openvino.runtime.opset7.reduce_sum
+openvino.runtime.opset7.region_yolo
+openvino.runtime.opset7.relu
+openvino.runtime.opset7.reorg_yolo
+openvino.runtime.opset7.reshape
+openvino.runtime.opset7.result
+openvino.runtime.opset7.reverse_sequence
+openvino.runtime.opset7.rnn_cell
+openvino.runtime.opset7.rnn_sequence
+openvino.runtime.opset7.roi_align
+openvino.runtime.opset7.roi_pooling
+openvino.runtime.opset7.roll
+openvino.runtime.opset7.round
+openvino.runtime.opset7.scatter_elements_update
+openvino.runtime.opset7.scatter_update
+openvino.runtime.opset7.select
+openvino.runtime.opset7.selu
+openvino.runtime.opset7.shape_of
+openvino.runtime.opset7.shuffle_channels
+openvino.runtime.opset7.sigmoid
+openvino.runtime.opset7.sign
+openvino.runtime.opset7.sin
+openvino.runtime.opset7.sinh
+openvino.runtime.opset7.softmax
+openvino.runtime.opset7.softplus
+openvino.runtime.opset7.space_to_batch
+openvino.runtime.opset7.space_to_depth
+openvino.runtime.opset7.split
+openvino.runtime.opset7.sqrt
+openvino.runtime.opset7.squared_difference
+openvino.runtime.opset7.squeeze
+openvino.runtime.opset7.strided_slice
+openvino.runtime.opset7.subtract
+openvino.runtime.opset7.swish
+openvino.runtime.opset7.tan
+openvino.runtime.opset7.tanh
+openvino.runtime.opset7.tile
+openvino.runtime.opset7.topk
+openvino.runtime.opset7.transpose
+openvino.runtime.opset7.unsqueeze
+openvino.runtime.opset7.variadic_split
+openvino.runtime.opset7.loop
+openvino.runtime.opset7.tensor_iterator
+
+
+openvino.runtime.opset8
+openvino.runtime.opset8.abs
+openvino.runtime.opset8.absolute
+openvino.runtime.opset8.acos
+openvino.runtime.opset8.acosh
+openvino.runtime.opset8.adaptive_avg_pool
+openvino.runtime.opset8.adaptive_max_pool
+openvino.runtime.opset8.add
+openvino.runtime.opset8.asin
+openvino.runtime.opset8.asinh
+openvino.runtime.opset8.assign
+openvino.runtime.opset8.atan
+openvino.runtime.opset8.atanh
+openvino.runtime.opset8.avg_pool
+openvino.runtime.opset8.batch_norm_inference
+openvino.runtime.opset8.batch_to_space
+openvino.runtime.opset8.binary_convolution
+openvino.runtime.opset8.broadcast
+openvino.runtime.opset8.bucketize
+openvino.runtime.opset8.ceil
+openvino.runtime.opset8.ceiling
+openvino.runtime.opset8.clamp
+openvino.runtime.opset8.concat
+openvino.runtime.opset8.constant
+openvino.runtime.opset8.convert
+openvino.runtime.opset8.convert_like
+openvino.runtime.opset8.convolution
+openvino.runtime.opset8.convolution_backprop_data
+openvino.runtime.opset8.cos
+openvino.runtime.opset8.cosh
+openvino.runtime.opset8.ctc_greedy_decoder
+openvino.runtime.opset8.ctc_greedy_decoder_seq_len
+openvino.runtime.opset8.ctc_loss
+openvino.runtime.opset8.cum_sum
+openvino.runtime.opset8.cumsum
+openvino.runtime.opset8.deformable_convolution
+openvino.runtime.opset8.deformable_psroi_pooling
+openvino.runtime.opset8.depth_to_space
+openvino.runtime.opset8.detection_output
+openvino.runtime.opset8.dft
+openvino.runtime.opset8.divide
+openvino.runtime.opset8.einsum
+openvino.runtime.opset8.elu
+openvino.runtime.opset8.embedding_bag_offsets_sum
+openvino.runtime.opset8.embedding_bag_packed_sum
+openvino.runtime.opset8.embedding_segments_sum
+openvino.runtime.opset8.equal
+openvino.runtime.opset8.erf
+openvino.runtime.opset8.exp
+openvino.runtime.opset8.extract_image_patches
+openvino.runtime.opset8.fake_quantize
+openvino.runtime.opset8.floor
+openvino.runtime.opset8.floor_mod
+openvino.runtime.opset8.gather
+openvino.runtime.opset8.gather_elements
+openvino.runtime.opset8.gather_nd
+openvino.runtime.opset8.gather_tree
+openvino.runtime.opset8.gelu
+openvino.runtime.opset8.greater
+openvino.runtime.opset8.greater_equal
+openvino.runtime.opset8.grn
+openvino.runtime.opset8.group_convolution
+openvino.runtime.opset8.group_convolution_backprop_data
+openvino.runtime.opset8.gru_cell
+openvino.runtime.opset8.gru_sequence
+openvino.runtime.opset8.hard_sigmoid
+openvino.runtime.opset8.hsigmoid
+openvino.runtime.opset8.hswish
+openvino.runtime.opset8.i420_to_bgr
+openvino.runtime.opset8.i420_to_rgb
+openvino.runtime.opset8.idft
+openvino.runtime.opset8.interpolate
+openvino.runtime.opset8.less
+openvino.runtime.opset8.less_equal
+openvino.runtime.opset8.log
+openvino.runtime.opset8.log_softmax
+openvino.runtime.opset8.logical_and
+openvino.runtime.opset8.logical_not
+openvino.runtime.opset8.logical_or
+openvino.runtime.opset8.logical_xor
+openvino.runtime.opset8.lrn
+openvino.runtime.opset8.lstm_cell
+openvino.runtime.opset8.lstm_sequence
+openvino.runtime.opset8.matmul
+openvino.runtime.opset8.matrix_nms
+openvino.runtime.opset8.max_pool
+openvino.runtime.opset8.maximum
+openvino.runtime.opset8.minimum
+openvino.runtime.opset8.mish
+openvino.runtime.opset8.mod
+openvino.runtime.opset8.multiclass_nms
+openvino.runtime.opset8.multiply
+openvino.runtime.opset8.mvn
+openvino.runtime.opset8.negative
+openvino.runtime.opset8.non_max_suppression
+openvino.runtime.opset8.non_zero
+openvino.runtime.opset8.normalize_l2
+openvino.runtime.opset8.not_equal
+openvino.runtime.opset8.nv12_to_bgr
+openvino.runtime.opset8.nv12_to_rgb
+openvino.runtime.opset8.one_hot
+openvino.runtime.opset8.pad
+openvino.runtime.opset8.parameter
+openvino.runtime.opset8.power
+openvino.runtime.opset8.prelu
+openvino.runtime.opset8.prior_box
+openvino.runtime.opset8.prior_box_clustered
+openvino.runtime.opset8.proposal
+openvino.runtime.opset8.psroi_pooling
+openvino.runtime.opset8.random_uniform
+openvino.runtime.opset8.range
+openvino.runtime.opset8.read_value
+openvino.runtime.opset8.reduce_l1
+openvino.runtime.opset8.reduce_l2
+openvino.runtime.opset8.reduce_logical_and
+openvino.runtime.opset8.reduce_logical_or
+openvino.runtime.opset8.reduce_max
+openvino.runtime.opset8.reduce_mean
+openvino.runtime.opset8.reduce_min
+openvino.runtime.opset8.reduce_prod
+openvino.runtime.opset8.reduce_sum
+openvino.runtime.opset8.region_yolo
+openvino.runtime.opset8.relu
+openvino.runtime.opset8.reorg_yolo
+openvino.runtime.opset8.reshape
+openvino.runtime.opset8.result
+openvino.runtime.opset8.reverse_sequence
+openvino.runtime.opset8.rnn_cell
+openvino.runtime.opset8.rnn_sequence
+openvino.runtime.opset8.roi_align
+openvino.runtime.opset8.roi_pooling
+openvino.runtime.opset8.roll
+openvino.runtime.opset8.round
+openvino.runtime.opset8.scatter_elements_update
+openvino.runtime.opset8.scatter_update
+openvino.runtime.opset8.select
+openvino.runtime.opset8.selu
+openvino.runtime.opset8.shape_of
+openvino.runtime.opset8.shuffle_channels
+openvino.runtime.opset8.sigmoid
+openvino.runtime.opset8.sign
+openvino.runtime.opset8.sin
+openvino.runtime.opset8.sinh
+openvino.runtime.opset8.slice
+openvino.runtime.opset8.softmax
+openvino.runtime.opset8.softplus
+openvino.runtime.opset8.space_to_batch
+openvino.runtime.opset8.space_to_depth
+openvino.runtime.opset8.split
+openvino.runtime.opset8.sqrt
+openvino.runtime.opset8.squared_difference
+openvino.runtime.opset8.squeeze
+openvino.runtime.opset8.strided_slice
+openvino.runtime.opset8.subtract
+openvino.runtime.opset8.swish
+openvino.runtime.opset8.tan
+openvino.runtime.opset8.tanh
+openvino.runtime.opset8.tile
+openvino.runtime.opset8.topk
+openvino.runtime.opset8.transpose
+openvino.runtime.opset8.unsqueeze
+openvino.runtime.opset8.variadic_split
+openvino.runtime.opset8.if_op
+openvino.runtime.opset8.loop
+openvino.runtime.opset8.tensor_iterator
+
+
+openvino.runtime.opset9
+openvino.runtime.opset9.abs
+openvino.runtime.opset9.absolute
+openvino.runtime.opset9.acos
+openvino.runtime.opset9.acosh
+openvino.runtime.opset9.adaptive_avg_pool
+openvino.runtime.opset9.adaptive_max_pool
+openvino.runtime.opset9.add
+openvino.runtime.opset9.asin
+openvino.runtime.opset9.asinh
+openvino.runtime.opset9.assign
+openvino.runtime.opset9.atan
+openvino.runtime.opset9.atanh
+openvino.runtime.opset9.avg_pool
+openvino.runtime.opset9.batch_norm_inference
+openvino.runtime.opset9.batch_to_space
+openvino.runtime.opset9.binary_convolution
+openvino.runtime.opset9.broadcast
+openvino.runtime.opset9.bucketize
+openvino.runtime.opset9.ceil
+openvino.runtime.opset9.ceiling
+openvino.runtime.opset9.clamp
+openvino.runtime.opset9.concat
+openvino.runtime.opset9.constant
+openvino.runtime.opset9.convert
+openvino.runtime.opset9.convert_like
+openvino.runtime.opset9.convolution
+openvino.runtime.opset9.convolution_backprop_data
+openvino.runtime.opset9.cos
+openvino.runtime.opset9.cosh
+openvino.runtime.opset9.ctc_greedy_decoder
+openvino.runtime.opset9.ctc_greedy_decoder_seq_len
+openvino.runtime.opset9.ctc_loss
+openvino.runtime.opset9.cum_sum
+openvino.runtime.opset9.cumsum
+openvino.runtime.opset9.deformable_convolution
+openvino.runtime.opset9.deformable_psroi_pooling
+openvino.runtime.opset9.depth_to_space
+openvino.runtime.opset9.detection_output
+openvino.runtime.opset9.dft
+openvino.runtime.opset9.divide
+openvino.runtime.opset9.einsum
+openvino.runtime.opset9.elu
+openvino.runtime.opset9.embedding_bag_offsets_sum
+openvino.runtime.opset9.embedding_bag_packed_sum
+openvino.runtime.opset9.embedding_segments_sum
+openvino.runtime.opset9.equal
+openvino.runtime.opset9.erf
+openvino.runtime.opset9.exp
+openvino.runtime.opset9.extract_image_patches
+openvino.runtime.opset9.eye
+openvino.runtime.opset9.fake_quantize
+openvino.runtime.opset9.floor
+openvino.runtime.opset9.floor_mod
+openvino.runtime.opset9.gather
+openvino.runtime.opset9.gather_elements
+openvino.runtime.opset9.gather_nd
+openvino.runtime.opset9.gather_tree
+openvino.runtime.opset9.gelu
+openvino.runtime.opset9.generate_proposals
+openvino.runtime.opset9.greater
+openvino.runtime.opset9.greater_equal
+openvino.runtime.opset9.grid_sample
+openvino.runtime.opset9.grn
+openvino.runtime.opset9.group_convolution
+openvino.runtime.opset9.group_convolution_backprop_data
+openvino.runtime.opset9.gru_cell
+openvino.runtime.opset9.gru_sequence
+openvino.runtime.opset9.hard_sigmoid
+openvino.runtime.opset9.hsigmoid
+openvino.runtime.opset9.hswish
+openvino.runtime.opset9.i420_to_bgr
+openvino.runtime.opset9.i420_to_rgb
+openvino.runtime.opset9.idft
+openvino.runtime.opset9.interpolate
+openvino.runtime.opset9.irdft
+openvino.runtime.opset9.less
+openvino.runtime.opset9.less_equal
+openvino.runtime.opset9.log
+openvino.runtime.opset9.log_softmax
+openvino.runtime.opset9.logical_and
+openvino.runtime.opset9.logical_not
+openvino.runtime.opset9.logical_or
+openvino.runtime.opset9.logical_xor
+openvino.runtime.opset9.lrn
+openvino.runtime.opset9.lstm_cell
+openvino.runtime.opset9.lstm_sequence
+openvino.runtime.opset9.matmul
+openvino.runtime.opset9.matrix_nms
+openvino.runtime.opset9.max_pool
+openvino.runtime.opset9.maximum
+openvino.runtime.opset9.minimum
+openvino.runtime.opset9.mish
+openvino.runtime.opset9.mod
+openvino.runtime.opset9.multiclass_nms
+openvino.runtime.opset9.multiply
+openvino.runtime.opset9.mvn
+openvino.runtime.opset9.negative
+openvino.runtime.opset9.non_max_suppression
+openvino.runtime.opset9.non_zero
+openvino.runtime.opset9.normalize_l2
+openvino.runtime.opset9.not_equal
+openvino.runtime.opset9.nv12_to_bgr
+openvino.runtime.opset9.nv12_to_rgb
+openvino.runtime.opset9.one_hot
+openvino.runtime.opset9.pad
+openvino.runtime.opset9.parameter
+openvino.runtime.opset9.power
+openvino.runtime.opset9.prelu
+openvino.runtime.opset9.prior_box
+openvino.runtime.opset9.prior_box_clustered
+openvino.runtime.opset9.proposal
+openvino.runtime.opset9.psroi_pooling
+openvino.runtime.opset9.random_uniform
+openvino.runtime.opset9.range
+openvino.runtime.opset9.rdft
+openvino.runtime.opset9.read_value
+openvino.runtime.opset9.reduce_l1
+openvino.runtime.opset9.reduce_l2
+openvino.runtime.opset9.reduce_logical_and
+openvino.runtime.opset9.reduce_logical_or
+openvino.runtime.opset9.reduce_max
+openvino.runtime.opset9.reduce_mean
+openvino.runtime.opset9.reduce_min
+openvino.runtime.opset9.reduce_prod
+openvino.runtime.opset9.reduce_sum
+openvino.runtime.opset9.region_yolo
+openvino.runtime.opset9.relu
+openvino.runtime.opset9.reorg_yolo
+openvino.runtime.opset9.reshape
+openvino.runtime.opset9.result
+openvino.runtime.opset9.reverse_sequence
+openvino.runtime.opset9.rnn_cell
+openvino.runtime.opset9.rnn_sequence
+openvino.runtime.opset9.roi_align
+openvino.runtime.opset9.roi_pooling
+openvino.runtime.opset9.roll
+openvino.runtime.opset9.round
+openvino.runtime.opset9.scatter_elements_update
+openvino.runtime.opset9.scatter_update
+openvino.runtime.opset9.select
+openvino.runtime.opset9.selu
+openvino.runtime.opset9.shape_of
+openvino.runtime.opset9.shuffle_channels
+openvino.runtime.opset9.sigmoid
+openvino.runtime.opset9.sign
+openvino.runtime.opset9.sin
+openvino.runtime.opset9.sinh
+openvino.runtime.opset9.slice
+openvino.runtime.opset9.softmax
+openvino.runtime.opset9.softplus
+openvino.runtime.opset9.softsign
+openvino.runtime.opset9.space_to_batch
+openvino.runtime.opset9.space_to_depth
+openvino.runtime.opset9.split
+openvino.runtime.opset9.sqrt
+openvino.runtime.opset9.squared_difference
+openvino.runtime.opset9.squeeze
+openvino.runtime.opset9.strided_slice
+openvino.runtime.opset9.subtract
+openvino.runtime.opset9.swish
+openvino.runtime.opset9.tan
+openvino.runtime.opset9.tanh
+openvino.runtime.opset9.tile
+openvino.runtime.opset9.topk
+openvino.runtime.opset9.transpose
+openvino.runtime.opset9.unsqueeze
+openvino.runtime.opset9.variadic_split
+openvino.runtime.opset9.if_op
+openvino.runtime.opset9.loop
+openvino.runtime.opset9.tensor_iterator
+
+
+openvino.runtime.opset10
+openvino.runtime.opset10.abs
+openvino.runtime.opset10.absolute
+openvino.runtime.opset10.acos
+openvino.runtime.opset10.acosh
+openvino.runtime.opset10.adaptive_avg_pool
+openvino.runtime.opset10.adaptive_max_pool
+openvino.runtime.opset10.add
+openvino.runtime.opset10.asin
+openvino.runtime.opset10.asinh
+openvino.runtime.opset10.assign
+openvino.runtime.opset10.atan
+openvino.runtime.opset10.atanh
+openvino.runtime.opset10.avg_pool
+openvino.runtime.opset10.batch_norm_inference
+openvino.runtime.opset10.batch_to_space
+openvino.runtime.opset10.binary_convolution
+openvino.runtime.opset10.broadcast
+openvino.runtime.opset10.bucketize
+openvino.runtime.opset10.ceil
+openvino.runtime.opset10.ceiling
+openvino.runtime.opset10.clamp
+openvino.runtime.opset10.concat
+openvino.runtime.opset10.constant
+openvino.runtime.opset10.convert
+openvino.runtime.opset10.convert_like
+openvino.runtime.opset10.convolution
+openvino.runtime.opset10.convolution_backprop_data
+openvino.runtime.opset10.cos
+openvino.runtime.opset10.cosh
+openvino.runtime.opset10.ctc_greedy_decoder
+openvino.runtime.opset10.ctc_greedy_decoder_seq_len
+openvino.runtime.opset10.ctc_loss
+openvino.runtime.opset10.cum_sum
+openvino.runtime.opset10.cumsum
+openvino.runtime.opset10.deformable_convolution
+openvino.runtime.opset10.deformable_psroi_pooling
+openvino.runtime.opset10.depth_to_space
+openvino.runtime.opset10.detection_output
+openvino.runtime.opset10.dft
+openvino.runtime.opset10.divide
+openvino.runtime.opset10.einsum
+openvino.runtime.opset10.elu
+openvino.runtime.opset10.embedding_bag_offsets_sum
+openvino.runtime.opset10.embedding_bag_packed_sum
+openvino.runtime.opset10.embedding_segments_sum
+openvino.runtime.opset10.equal
+openvino.runtime.opset10.erf
+openvino.runtime.opset10.exp
+openvino.runtime.opset10.extract_image_patches
+openvino.runtime.opset10.eye
+openvino.runtime.opset10.fake_quantize
+openvino.runtime.opset10.floor
+openvino.runtime.opset10.floor_mod
+openvino.runtime.opset10.gather
+openvino.runtime.opset10.gather_elements
+openvino.runtime.opset10.gather_nd
+openvino.runtime.opset10.gather_tree
+openvino.runtime.opset10.gelu
+openvino.runtime.opset10.generate_proposals
+openvino.runtime.opset10.greater
+openvino.runtime.opset10.greater_equal
+openvino.runtime.opset10.grid_sample
+openvino.runtime.opset10.grn
+openvino.runtime.opset10.group_convolution
+openvino.runtime.opset10.group_convolution_backprop_data
+openvino.runtime.opset10.gru_cell
+openvino.runtime.opset10.gru_sequence
+openvino.runtime.opset10.hard_sigmoid
+openvino.runtime.opset10.hsigmoid
+openvino.runtime.opset10.hswish
+openvino.runtime.opset10.i420_to_bgr
+openvino.runtime.opset10.i420_to_rgb
+openvino.runtime.opset10.idft
+openvino.runtime.opset10.interpolate
+openvino.runtime.opset10.irdft
+openvino.runtime.opset10.is_finite
+openvino.runtime.opset10.is_inf
+openvino.runtime.opset10.is_nan
+openvino.runtime.opset10.less
+openvino.runtime.opset10.less_equal
+openvino.runtime.opset10.log
+openvino.runtime.opset10.log_softmax
+openvino.runtime.opset10.logical_and
+openvino.runtime.opset10.logical_not
+openvino.runtime.opset10.logical_or
+openvino.runtime.opset10.logical_xor
+openvino.runtime.opset10.lrn
+openvino.runtime.opset10.lstm_cell
+openvino.runtime.opset10.lstm_sequence
+openvino.runtime.opset10.matmul
+openvino.runtime.opset10.matrix_nms
+openvino.runtime.opset10.max_pool
+openvino.runtime.opset10.maximum
+openvino.runtime.opset10.minimum
+openvino.runtime.opset10.mish
+openvino.runtime.opset10.mod
+openvino.runtime.opset10.multiclass_nms
+openvino.runtime.opset10.multiply
+openvino.runtime.opset10.mvn
+openvino.runtime.opset10.negative
+openvino.runtime.opset10.non_max_suppression
+openvino.runtime.opset10.non_zero
+openvino.runtime.opset10.normalize_l2
+openvino.runtime.opset10.not_equal
+openvino.runtime.opset10.nv12_to_bgr
+openvino.runtime.opset10.nv12_to_rgb
+openvino.runtime.opset10.one_hot
+openvino.runtime.opset10.pad
+openvino.runtime.opset10.parameter
+openvino.runtime.opset10.power
+openvino.runtime.opset10.prelu
+openvino.runtime.opset10.prior_box
+openvino.runtime.opset10.prior_box_clustered
+openvino.runtime.opset10.proposal
+openvino.runtime.opset10.psroi_pooling
+openvino.runtime.opset10.random_uniform
+openvino.runtime.opset10.range
+openvino.runtime.opset10.rdft
+openvino.runtime.opset10.read_value
+openvino.runtime.opset10.reduce_l1
+openvino.runtime.opset10.reduce_l2
+openvino.runtime.opset10.reduce_logical_and
+openvino.runtime.opset10.reduce_logical_or
+openvino.runtime.opset10.reduce_max
+openvino.runtime.opset10.reduce_mean
+openvino.runtime.opset10.reduce_min
+openvino.runtime.opset10.reduce_prod
+openvino.runtime.opset10.reduce_sum
+openvino.runtime.opset10.region_yolo
+openvino.runtime.opset10.relu
+openvino.runtime.opset10.reorg_yolo
+openvino.runtime.opset10.reshape
+openvino.runtime.opset10.result
+openvino.runtime.opset10.reverse_sequence
+openvino.runtime.opset10.rnn_cell
+openvino.runtime.opset10.rnn_sequence
+openvino.runtime.opset10.roi_align
+openvino.runtime.opset10.roi_pooling
+openvino.runtime.opset10.roll
+openvino.runtime.opset10.round
+openvino.runtime.opset10.scatter_elements_update
+openvino.runtime.opset10.scatter_update
+openvino.runtime.opset10.select
+openvino.runtime.opset10.selu
+openvino.runtime.opset10.shape_of
+openvino.runtime.opset10.shuffle_channels
+openvino.runtime.opset10.sigmoid
+openvino.runtime.opset10.sign
+openvino.runtime.opset10.sin
+openvino.runtime.opset10.sinh
+openvino.runtime.opset10.slice
+openvino.runtime.opset10.softmax
+openvino.runtime.opset10.softplus
+openvino.runtime.opset10.softsign
+openvino.runtime.opset10.space_to_batch
+openvino.runtime.opset10.space_to_depth
+openvino.runtime.opset10.split
+openvino.runtime.opset10.sqrt
+openvino.runtime.opset10.squared_difference
+openvino.runtime.opset10.squeeze
+openvino.runtime.opset10.strided_slice
+openvino.runtime.opset10.subtract
+openvino.runtime.opset10.swish
+openvino.runtime.opset10.tan
+openvino.runtime.opset10.tanh
+openvino.runtime.opset10.tile
+openvino.runtime.opset10.topk
+openvino.runtime.opset10.transpose
+openvino.runtime.opset10.unique
+openvino.runtime.opset10.unsqueeze
+openvino.runtime.opset10.variadic_split
+openvino.runtime.opset10.if_op
+openvino.runtime.opset10.loop
+openvino.runtime.opset10.tensor_iterator
+
+
+openvino.runtime.opset11
+openvino.runtime.opset11.abs
+openvino.runtime.opset11.absolute
+openvino.runtime.opset11.acos
+openvino.runtime.opset11.acosh
+openvino.runtime.opset11.adaptive_avg_pool
+openvino.runtime.opset11.adaptive_max_pool
+openvino.runtime.opset11.add
+openvino.runtime.opset11.asin
+openvino.runtime.opset11.asinh
+openvino.runtime.opset11.assign
+openvino.runtime.opset11.atan
+openvino.runtime.opset11.atanh
+openvino.runtime.opset11.avg_pool
+openvino.runtime.opset11.batch_norm_inference
+openvino.runtime.opset11.batch_to_space
+openvino.runtime.opset11.binary_convolution
+openvino.runtime.opset11.broadcast
+openvino.runtime.opset11.bucketize
+openvino.runtime.opset11.ceil
+openvino.runtime.opset11.ceiling
+openvino.runtime.opset11.clamp
+openvino.runtime.opset11.concat
+openvino.runtime.opset11.constant
+openvino.runtime.opset11.convert
+openvino.runtime.opset11.convert_like
+openvino.runtime.opset11.convolution
+openvino.runtime.opset11.convolution_backprop_data
+openvino.runtime.opset11.cos
+openvino.runtime.opset11.cosh
+openvino.runtime.opset11.ctc_greedy_decoder
+openvino.runtime.opset11.ctc_greedy_decoder_seq_len
+openvino.runtime.opset11.ctc_loss
+openvino.runtime.opset11.cum_sum
+openvino.runtime.opset11.cumsum
+openvino.runtime.opset11.deformable_convolution
+openvino.runtime.opset11.deformable_psroi_pooling
+openvino.runtime.opset11.depth_to_space
+openvino.runtime.opset11.detection_output
+openvino.runtime.opset11.dft
+openvino.runtime.opset11.divide
+openvino.runtime.opset11.einsum
+openvino.runtime.opset11.elu
+openvino.runtime.opset11.embedding_bag_offsets_sum
+openvino.runtime.opset11.embedding_bag_packed_sum
+openvino.runtime.opset11.embedding_segments_sum
+openvino.runtime.opset11.equal
+openvino.runtime.opset11.erf
+openvino.runtime.opset11.exp
+openvino.runtime.opset11.extract_image_patches
+openvino.runtime.opset11.eye
+openvino.runtime.opset11.fake_quantize
+openvino.runtime.opset11.floor
+openvino.runtime.opset11.floor_mod
+openvino.runtime.opset11.gather
+openvino.runtime.opset11.gather_elements
+openvino.runtime.opset11.gather_nd
+openvino.runtime.opset11.gather_tree
+openvino.runtime.opset11.gelu
+openvino.runtime.opset11.generate_proposals
+openvino.runtime.opset11.greater
+openvino.runtime.opset11.greater_equal
+openvino.runtime.opset11.grid_sample
+openvino.runtime.opset11.grn
+openvino.runtime.opset11.group_convolution
+openvino.runtime.opset11.group_convolution_backprop_data
+openvino.runtime.opset11.gru_cell
+openvino.runtime.opset11.gru_sequence
+openvino.runtime.opset11.hard_sigmoid
+openvino.runtime.opset11.hsigmoid
+openvino.runtime.opset11.hswish
+openvino.runtime.opset11.i420_to_bgr
+openvino.runtime.opset11.i420_to_rgb
+openvino.runtime.opset11.idft
+openvino.runtime.opset11.interpolate
+openvino.runtime.opset11.irdft
+openvino.runtime.opset11.is_finite
+openvino.runtime.opset11.is_inf
+openvino.runtime.opset11.is_nan
+openvino.runtime.opset11.less
+openvino.runtime.opset11.less_equal
+openvino.runtime.opset11.log
+openvino.runtime.opset11.log_softmax
+openvino.runtime.opset11.logical_and
+openvino.runtime.opset11.logical_not
+openvino.runtime.opset11.logical_or
+openvino.runtime.opset11.logical_xor
+openvino.runtime.opset11.lrn
+openvino.runtime.opset11.lstm_cell
+openvino.runtime.opset11.lstm_sequence
+openvino.runtime.opset11.matmul
+openvino.runtime.opset11.matrix_nms
+openvino.runtime.opset11.max_pool
+openvino.runtime.opset11.maximum
+openvino.runtime.opset11.minimum
+openvino.runtime.opset11.mish
+openvino.runtime.opset11.mod
+openvino.runtime.opset11.multiclass_nms
+openvino.runtime.opset11.multiply
+openvino.runtime.opset11.mvn
+openvino.runtime.opset11.negative
+openvino.runtime.opset11.non_max_suppression
+openvino.runtime.opset11.non_zero
+openvino.runtime.opset11.normalize_l2
+openvino.runtime.opset11.not_equal
+openvino.runtime.opset11.nv12_to_bgr
+openvino.runtime.opset11.nv12_to_rgb
+openvino.runtime.opset11.one_hot
+openvino.runtime.opset11.pad
+openvino.runtime.opset11.parameter
+openvino.runtime.opset11.power
+openvino.runtime.opset11.prelu
+openvino.runtime.opset11.prior_box
+openvino.runtime.opset11.prior_box_clustered
+openvino.runtime.opset11.proposal
+openvino.runtime.opset11.psroi_pooling
+openvino.runtime.opset11.random_uniform
+openvino.runtime.opset11.range
+openvino.runtime.opset11.rdft
+openvino.runtime.opset11.read_value
+openvino.runtime.opset11.reduce_l1
+openvino.runtime.opset11.reduce_l2
+openvino.runtime.opset11.reduce_logical_and
+openvino.runtime.opset11.reduce_logical_or
+openvino.runtime.opset11.reduce_max
+openvino.runtime.opset11.reduce_mean
+openvino.runtime.opset11.reduce_min
+openvino.runtime.opset11.reduce_prod
+openvino.runtime.opset11.reduce_sum
+openvino.runtime.opset11.region_yolo
+openvino.runtime.opset11.relu
+openvino.runtime.opset11.reorg_yolo
+openvino.runtime.opset11.reshape
+openvino.runtime.opset11.result
+openvino.runtime.opset11.reverse_sequence
+openvino.runtime.opset11.rnn_cell
+openvino.runtime.opset11.rnn_sequence
+openvino.runtime.opset11.roi_align
+openvino.runtime.opset11.roi_pooling
+openvino.runtime.opset11.roll
+openvino.runtime.opset11.round
+openvino.runtime.opset11.scatter_elements_update
+openvino.runtime.opset11.scatter_update
+openvino.runtime.opset11.select
+openvino.runtime.opset11.selu
+openvino.runtime.opset11.shape_of
+openvino.runtime.opset11.shuffle_channels
+openvino.runtime.opset11.sigmoid
+openvino.runtime.opset11.sign
+openvino.runtime.opset11.sin
+openvino.runtime.opset11.sinh
+openvino.runtime.opset11.slice
+openvino.runtime.opset11.softmax
+openvino.runtime.opset11.softplus
+openvino.runtime.opset11.softsign
+openvino.runtime.opset11.space_to_batch
+openvino.runtime.opset11.space_to_depth
+openvino.runtime.opset11.split
+openvino.runtime.opset11.sqrt
+openvino.runtime.opset11.squared_difference
+openvino.runtime.opset11.squeeze
+openvino.runtime.opset11.strided_slice
+openvino.runtime.opset11.subtract
+openvino.runtime.opset11.swish
+openvino.runtime.opset11.tan
+openvino.runtime.opset11.tanh
+openvino.runtime.opset11.tile
+openvino.runtime.opset11.topk
+openvino.runtime.opset11.transpose
+openvino.runtime.opset11.unique
+openvino.runtime.opset11.unsqueeze
+openvino.runtime.opset11.variadic_split
+openvino.runtime.opset11.if_op
+openvino.runtime.opset11.loop
+openvino.runtime.opset11.tensor_iterator
+
+
+openvino.runtime.passes
+openvino.runtime.passes.consumers_count
+openvino.runtime.passes.has_static_dim
+openvino.runtime.passes.has_static_dims
+openvino.runtime.passes.has_static_rank
+openvino.runtime.passes.has_static_shape
+openvino.runtime.passes.rank_equals
+openvino.runtime.passes.type_matches
+openvino.runtime.passes.type_matches_any
+openvino.runtime.passes.AnyInput
+openvino.runtime.passes.BackwardGraphRewrite
+openvino.runtime.passes.ConstantFolding
+openvino.runtime.passes.ConvertFP32ToFP16
+openvino.runtime.passes.GraphRewrite
+openvino.runtime.passes.LowLatency2
+openvino.runtime.passes.MakeStateful
+openvino.runtime.passes.Manager
+openvino.runtime.passes.Matcher
+openvino.runtime.passes.MatcherPass
+openvino.runtime.passes.ModelPass
+openvino.runtime.passes.Or
+openvino.runtime.passes.PassBase
+openvino.runtime.passes.Serialize
+openvino.runtime.passes.Version
+openvino.runtime.passes.VisualizeTree
+openvino.runtime.passes.WrapType
+
+
+openvino.preprocess
+openvino.preprocess._add_openvino_libs_to_search_path
+openvino.preprocess.get_version
+openvino.preprocess.ColorFormat
+openvino.preprocess.InputInfo
+openvino.preprocess.InputModelInfo
+openvino.preprocess.InputTensorInfo
+openvino.preprocess.OutputInfo
+openvino.preprocess.OutputModelInfo
+openvino.preprocess.OutputTensorInfo
+openvino.preprocess.PostProcessSteps
+openvino.preprocess.PrePostProcessor
+openvino.preprocess.PreProcessSteps
+openvino.preprocess.ResizeAlgorithm
+
+
+openvino.frontend
+openvino.frontend._add_openvino_libs_to_search_path
+openvino.frontend.get_version
+openvino.frontend.ConversionExtension
+openvino.frontend.DecoderTransformationExtension
+openvino.frontend.FrontEnd
+openvino.frontend.FrontEndManager
+openvino.frontend.InputModel
+openvino.frontend.NodeContext
+openvino.frontend.OpExtension
+openvino.frontend.Place
+openvino.frontend.ProgressReporterExtension
+openvino.frontend.TelemetryExtension
+openvino.frontend.GeneralFailure
+openvino.frontend.InitializationFailure
+openvino.frontend.NotImplementedFailure
+openvino.frontend.OpConversionFailure
+openvino.frontend.OpValidationFailure
+
+
+OpenVINO Python API - Compatibility
+openvino.inference_engine
+openvino.inference_engine.deepcopy
+openvino.inference_engine.fnmatch
+openvino.inference_engine.get_version
+openvino.inference_engine.namedtuple
+openvino.inference_engine.read_network
+openvino.inference_engine.Blob
+openvino.inference_engine.BlobBuffer
+openvino.inference_engine.CDataPtr
+openvino.inference_engine.ColorFormat
+openvino.inference_engine.DataPtr
+openvino.inference_engine.ExecutableNetwork
+openvino.inference_engine.IECore
+openvino.inference_engine.IENetwork
+openvino.inference_engine.InferRequest
+openvino.inference_engine.InputInfoCPtr
+openvino.inference_engine.InputInfoPtr
+openvino.inference_engine.MeanVariant
+openvino.inference_engine.PreProcessChannel
+openvino.inference_engine.PreProcessInfo
+openvino.inference_engine.ResizeAlgorithm
+openvino.inference_engine.StatusCode
+openvino.inference_engine.TensorDesc
+openvino.inference_engine.VariableState
+openvino.inference_engine.WaitMode
+
+
+ngraph
+ngraph.abs
+ngraph.absolute
+ngraph.acos
+ngraph.acosh
+ngraph.adaptive_avg_pool
+ngraph.adaptive_max_pool
+ngraph.add
+ngraph.asin
+ngraph.asinh
+ngraph.assign
+ngraph.atan
+ngraph.atanh
+ngraph.avg_pool
+ngraph.batch_norm_inference
+ngraph.batch_to_space
+ngraph.binary_convolution
+ngraph.broadcast
+ngraph.bucketize
+ngraph.ceil
+ngraph.ceiling
+ngraph.clamp
+ngraph.concat
+ngraph.constant
+ngraph.convert
+ngraph.convert_like
+ngraph.convolution
+ngraph.convolution_backprop_data
+ngraph.cos
+ngraph.cosh
+ngraph.ctc_greedy_decoder
+ngraph.ctc_greedy_decoder_seq_len
+ngraph.ctc_loss
+ngraph.cum_sum
+ngraph.cumsum
+ngraph.deformable_convolution
+ngraph.deformable_psroi_pooling
+ngraph.depth_to_space
+ngraph.detection_output
+ngraph.dft
+ngraph.divide
+ngraph.einsum
+ngraph.elu
+ngraph.embedding_bag_offsets_sum
+ngraph.embedding_bag_packed_sum
+ngraph.embedding_segments_sum
+ngraph.equal
+ngraph.erf
+ngraph.exp
+ngraph.extract_image_patches
+ngraph.eye
+ngraph.fake_quantize
+ngraph.floor
+ngraph.floor_mod
+ngraph.function_from_cnn
+ngraph.function_to_cnn
+ngraph.gather
+ngraph.gather_elements
+ngraph.gather_nd
+ngraph.gather_tree
+ngraph.gelu
+ngraph.generate_proposals
+ngraph.greater
+ngraph.greater_equal
+ngraph.grid_sample
+ngraph.grn
+ngraph.group_convolution
+ngraph.group_convolution_backprop_data
+ngraph.gru_cell
+ngraph.gru_sequence
+ngraph.hard_sigmoid
+ngraph.hsigmoid
+ngraph.hswish
+ngraph.i420_to_bgr
+ngraph.i420_to_rgb
+ngraph.idft
+ngraph.if_op
+ngraph.interpolate
+ngraph.irdft
+ngraph.is_finite
+ngraph.is_inf
+ngraph.is_nan
+ngraph.less
+ngraph.less_equal
+ngraph.log
+ngraph.log_softmax
+ngraph.logical_and
+ngraph.logical_not
+ngraph.logical_or
+ngraph.logical_xor
+ngraph.loop
+ngraph.lrn
+ngraph.lstm_cell
+ngraph.lstm_sequence
+ngraph.matmul
+ngraph.matrix_nms
+ngraph.max_pool
+ngraph.maximum
+ngraph.minimum
+ngraph.mish
+ngraph.mod
+ngraph.multiclass_nms
+ngraph.multiply
+ngraph.mvn
+ngraph.negative
+ngraph.non_max_suppression
+ngraph.non_zero
+ngraph.normalize_l2
+ngraph.not_equal
+ngraph.nv12_to_bgr
+ngraph.nv12_to_rgb
+ngraph.one_hot
+ngraph.pad
+ngraph.parameter
+ngraph.power
+ngraph.prelu
+ngraph.prior_box
+ngraph.prior_box_clustered
+ngraph.proposal
+ngraph.psroi_pooling
+ngraph.random_uniform
+ngraph.range
+ngraph.rdft
+ngraph.read_value
+ngraph.reduce_l1
+ngraph.reduce_l2
+ngraph.reduce_logical_and
+ngraph.reduce_logical_or
+ngraph.reduce_max
+ngraph.reduce_mean
+ngraph.reduce_min
+ngraph.reduce_prod
+ngraph.reduce_sum
+ngraph.region_yolo
+ngraph.relu
+ngraph.reorg_yolo
+ngraph.reshape
+ngraph.result
+ngraph.reverse_sequence
+ngraph.rnn_cell
+ngraph.rnn_sequence
+ngraph.roi_align
+ngraph.roi_pooling
+ngraph.roll
+ngraph.round
+ngraph.scatter_elements_update
+ngraph.scatter_update
+ngraph.select
+ngraph.selu
+ngraph.shape_of
+ngraph.shuffle_channels
+ngraph.sigmoid
+ngraph.sign
+ngraph.sin
+ngraph.sinh
+ngraph.slice
+ngraph.softmax
+ngraph.softplus
+ngraph.softsign
+ngraph.space_to_batch
+ngraph.space_to_depth
+ngraph.split
+ngraph.sqrt
+ngraph.squared_difference
+ngraph.squeeze
+ngraph.strided_slice
+ngraph.subtract
+ngraph.swish
+ngraph.tan
+ngraph.tanh
+ngraph.tensor_iterator
+ngraph.tile
+ngraph.topk
+ngraph.transpose
+ngraph.unique
+ngraph.unsqueeze
+ngraph.variadic_split
+ngraph.Dimension
+ngraph.Function
+ngraph.Node
+ngraph.PartialShape
+
+
+_pyngraph
+_pyngraph.AxisSet
+_pyngraph.AxisVector
+_pyngraph.Coordinate
+_pyngraph.CoordinateDiff
+_pyngraph.Dimension
+_pyngraph.DiscreteTypeInfo
+_pyngraph.Function
+_pyngraph.Input
+_pyngraph.Node
+_pyngraph.NodeFactory
+_pyngraph.Output
+_pyngraph.PartialShape
+_pyngraph.PyRTMap
+_pyngraph.Shape
+_pyngraph.Strides
+_pyngraph.Type
+_pyngraph.Variant
+
+
+
+
+
+
+
+
+Tool Ecosystem
+OpenVINOâ¢ Training Extensions
+Datumaro
+OpenVINOâ¢ Security Add-on
+Tuning Utilities
+Deep Learning accuracy validation framework
+Adapters
+Annotation Converters
+Custom Evaluators for Accuracy Checker
+Data Readers
+How to configure Caffe launcher
+How to configure G-API launcher
+How to configure MXNet launcher
+How to configure ONNX Runtime launcher
+How to configure OpenCV launcher
+How to configure OpenVINOâ¢ launcher
+How to configure PaddlePaddle launcher
+How to configure PyTorch launcher
+How to configure TensorFlow 2.0 launcher
+How to configure TensorFlow Lite launcher
+How to configure TensorFlow launcher
+How to use predefined configuration files
+Metrics
+Postprocessors
+Preprocessors
+Sample
+
+
+Dataset Preparation Guide
+
+
+
+
+OpenVINO Extensibility
+Custom OpenVINOâ¢ Operations
+Frontend Extensions
+How to Implement Custom GPU Operations
+Overview of Transformations API
+OpenVINO Model Pass
+OpenVINO Matcher Pass
+OpenVINO Graph Rewrite Pass
+
+
+OpenVINO Plugin Developer Guide
+Implement Plugin Functionality
+Implement Compiled Model Functionality
+Implement Synchronous Inference Request
+Implement Asynchronous Inference Request
+Provide Plugin Specific Properties
+Implement Remote Context
+Implement Remote Tensor
+Build Plugin Using CMake
+Plugin Testing
+Advanced Topics
+Quantized models compute and restrictions
+OpenVINOâ¢ Low Precision Transformations
+Attributes
+AvgPoolPrecisionPreserved
+IntervalsAlignment
+PrecisionPreserved
+Precisions
+QuantizationAlignment
+QuantizationGranularity
+
+
+Step 1. Prerequisites transformations
+Step 2. Markup transformations
+Step 3. Main transformations
+Step 4. Cleanup transformations
+
+
+
+
+Plugin API Reference
+OpenVINO Plugin API
+Asynchronous Inference Request base classes
+IAsyncInferRequest
+DisableCallbackGuard
+
+
+
+
+Compiled Model base classes
+ICompiledModel
+
+
+Error handling and debug helpers
+Execution model utilities
+ov
+batch_util
+cmp
+descriptor
+detail
+device
+element
+exec_model_info
+frontend
+helpers
+hint
+intel_auto
+intel_cpu
+intel_gna
+intel_gpu
+intel_myriad
+internal
+layout
+log
+op
+opset1
+opset10
+opset11
+opset2
+opset3
+opset4
+opset5
+opset6
+opset7
+opset8
+opset9
+pass
+preprocess
+runtime
+streams
+threading
+util
+ColumnOfCPUMappingTable
+ColumnOfProcessorTypeTable
+Direction
+ProcessorUseStatus
+PropertyMutability
+CheckLocInfo
+MemBandwidthPressure
+Property
+PropertyName
+RawNodeOutput
+SoPtr
+Version
+element_type_traits
+AllocatorImpl
+Any
+AssertFailure
+AttributeAdapter
+AttributeVisitor
+AxisSet
+AxisVector
+BaseOpExtension
+BiasAttribute
+Coordinate
+CoordinateDiff
+DeviceIDParser
+DirectValueAccessor
+EnumAttributeAdapterBase
+EnumMask
+EnumNames
+Exception
+IPlugin
+IRemoteContext
+IRemoteTensor
+IndirectScalarValueAccessor
+IndirectVectorValueAccessor
+Input
+Interval
+LayoutAttribute
+NmsSelectedIndices
+NodeValidationFailure
+NotImplemented
+OpExtension
+Output
+PrecisionSensitive
+PreprocessingAttribute
+PrimitivesPriority
+Property
+RuntimeAttribute
+SeqGen
+Strides
+StridesPropagation
+ValueAccessor
+VisitorAdapter
+bfloat16
+float16
+
+
+ExecutionNode
+
+
+ITT profiling utilities
+openvino
+cc
+itt
+
+
+ScopedTask
+TaskChain
+
+
+Inference Request base classes
+ISyncInferRequest
+FoundPort
+
+
+
+
+Inference Request common classes
+IInferRequest
+
+
+Plugin base classes
+ICore
+
+
+System configuration utilities
+Threading utilities
+ExecutorManager
+IStreamsExecutor
+ThreadBindingType
+Config
+
+
+ITaskExecutor
+CPUStreamsExecutor
+ImmediateExecutor
+
+
+Variable state base classes
+IVariableState
+
+
+
+
+Inference Engine Transformation API
+Common optimization passes
+EnumClassHash
+AUGRUCellFusion
+AdaptivePoolToReduce
+AddFakeQuantizeFusion
+AddOldApiMapToParameters
+AddTransformation
+AlignMixedFP32FP16Types
+AlignQuantizationIntervals
+AlignQuantizationParameters
+AvgPoolPrecisionPreservedAttribute
+AvgPoolTransformation
+BatchToSpaceFusion
+BidirectionalGRUSequenceDecomposition
+BidirectionalLSTMSequenceDecomposition
+BidirectionalRNNSequenceDecomposition
+BidirectionalSequenceDecomposition
+BinarizeWeights
+BroadcastConstRangeReplacement
+BroadcastElementwiseFusion
+BroadcastTransition
+ClampFusion
+ClampTransformation
+CompressFloatConstants
+CompressFloatConstantsImpl
+ConcatReduceFusion
+ConcatTransformation
+ConvStridesPropagation
+ConvToBinaryConv
+ConvertBatchToSpace
+ConvertCompressedOnlyToLegacy
+ConvertDeformableConv8To1
+ConvertDetectionOutput1ToDetectionOutput8
+ConvertDetectionOutput8ToDetectionOutput1
+ConvertGRUSequenceToTensorIterator
+ConvertGather0D
+ConvertGather1ToGather7
+ConvertGather7ToGather1
+ConvertGather7ToGather8
+ConvertGather8ToGather7
+ConvertInterpolate11ToInterpolate4
+ConvertInterpolate1ToInterpolate4
+ConvertLSTMSequenceToTensorIterator
+ConvertMVN1ToMVN6
+ConvertMaxPool1ToMaxPool8
+ConvertMaxPool8ToMaxPool1
+ConvertNmsGatherPathToUnsigned
+ConvertPadToGroupConvolution
+ConvertPriorBox8To0
+ConvertQuantizeDequantize
+ConvertRNNSequenceToTensorIterator
+ConvertROIAlign3To9
+ConvertROIAlign9To3
+ConvertScatterElementsToScatter
+ConvertSoftMax1ToSoftMax8
+ConvertSoftMax8ToSoftMax1
+ConvertSpaceToBatch
+ConvertSubtractConstant
+ConvertTensorIteratorToGRUSequence
+ConvertTensorIteratorToLSTMSequence
+ConvertTensorIteratorToRNNSequence
+ConvertTopK11ToTopK3
+ConvertXorToLogicalXor
+ConvolutionBackpropDataTransformation
+ConvolutionToGroupConvolutionFusion
+ConvolutionTransformation
+CreateAttribute
+CreatePrecisionsDependentAttribute
+DepthToSpaceFusion
+DepthToSpaceTransformation
+DilatedConvolutionConverter
+DisableDecompressionConvertConstantFolding
+DisableRandomUniformConstantFolding
+DivideFusion
+DropoutWithRandomUniformReplacer
+EinsumDecomposition
+EliminateConcat
+EliminateConvert
+EliminateConvertNonZero
+EliminateEltwise
+EliminateFakeQuantizeTransformation
+EliminateGatherUnsqueeze
+EliminatePad
+EliminateScatterUpdate
+EliminateSplit
+EliminateSqueeze
+EliminateTranspose
+EliminateUnsqueezeGather
+EltwiseBaseTransformation
+EnableDecompressionConvertConstantFolding
+EyeDecomposition
+FakeQuantizeDecomposition
+FakeQuantizeDecompositionTransformation
+FakeQuantizeMulFusion
+FakeQuantizeReshapeFusion
+FakeQuantizeTransformation
+FixRtInfo
+FoldConvertTransformation
+FoldFakeQuantizeTransformation
+FuseConvertTransformation
+FuseMultiplyToFakeQuantizeTransformation
+FuseSubtractToFakeQuantizeTransformation
+FusedNamesCleanup
+GRUCellDecomposition
+GRUCellFusion
+GatherNegativeConstIndicesNormalize
+GatherNopElimination
+Gelu7Downgrade
+GeluFusion
+GeluFusionWithErfFour
+GeluFusionWithErfOne
+GeluFusionWithErfThree
+GeluFusionWithErfTwo
+GeluFusionWithTanh
+GroupConvolutionTransformation
+GroupedGatherElimination
+GroupedStridedSliceOptimizer
+HSigmoidDecomposition
+HSigmoidFusion
+HSigmoidFusionWithClampDiv
+HSigmoidFusionWithClampMul
+HSigmoidFusionWithReluDiv
+HSigmoidFusionWithReluMul
+HSigmoidFusionWithoutRelu
+HSwishDecomposition
+HSwishFusion
+HSwishFusionWithClamp
+HSwishFusionWithHSigmoid
+HSwishFusionWithReluDiv
+HSwishFusionWithReluMul
+InitConstMask
+InitMasks
+InitNodeInfo
+InterpolateSequenceFusion
+InterpolateTransformation
+IntervalsAlignmentAttribute
+IntervalsAlignmentSharedValue
+Interval
+
+
+LSTMCellDecomposition
+LSTMStatesBroadcast
+LayerTransformation
+Params
+PrecisionDetails
+
+
+LeakyReluFusion
+LinOpSequenceFusion
+LogSoftmaxDecomposition
+MVN6Decomposition
+MVNFusion
+MVNFusionWithConstantsInside
+MVNFusionWithoutConstants
+MVNTransformation
+MarkDequantizationSubgraph
+MarkDividesInShapeSubgraphs
+MarkPrecisionSensitiveConstants
+MarkPrecisionSensitiveShapeOfSubgraphs
+MarkupAvgPoolPrecisionPreserved
+MarkupBias
+MarkupCanBeQuantized
+MarkupPrecisions
+Restriction
+
+
+MarkupQuantizationGranularity
+PerTensorQuantization
+
+
+MatMulMultiplyFusion
+MatMulTransformation
+MaxPoolTransformation
+MimicSetBatchSize
+MishFusion
+MulFakeQuantizeFusion
+MultiplyConvolutionFusion
+MultiplyToGroupConvolutionTransformation
+MultiplyTransformation
+NearestNeighborUpsamplingFusion
+NonZeroHorizontalFusion
+NormalizeL2Decomposition
+NormalizeL2Fusion
+NormalizeL2Transformation
+PReluFusion
+PReluFusionAbsSubMulMulAdd
+PReluFusionMultiplyAdd
+PReluFusionMultiplySub
+PReluFusionNegReluMulAdd
+PReluFusionNegativeAdd
+PReluFusionNegativeSub
+PReluTransformation
+PadFusionAvgPool
+PadFusionConvolution
+PadFusionConvolutionBackpropData
+PadFusionGroupConvolution
+PadFusionGroupConvolutionBackpropData
+PadTransformation
+PrecisionPreservedAttribute
+PrecisionsAttribute
+PropagateMasks
+PropagatePrecisions
+PropagateSharedValue
+PropagateThroughPrecisionPreserved
+PropagateToInput
+Proposal1Scales
+Pruning
+PullReshapeThroughDequantization
+PullReshapeThroughReduce
+PullSqueezeThroughEltwise
+PullThroughReduce
+PullTransposeThroughDequantization
+PullUnsqueezeThroughReduce
+PushConstantToSubgraph
+QuantizationAlignmentAttribute
+QuantizationGranularityAttribute
+Granularity
+
+
+RNNCellDecomposition
+RandomUniformFusion
+ReduceBaseTransformation
+ReduceL1Decomposition
+ReduceL2Decomposition
+ReduceMaxTransformation
+ReduceMeanTransformation
+ReduceMerge
+ReduceMinTransformation
+ReduceReshapeFusion
+ReduceSumTransformation
+ReluFakeQuantizeFusion
+ReluTransformation
+RemoveConcatZeroDimInput
+ReplaceConcatReduceByMinOrMax
+ReshapeAMatMul
+ReshapePRelu
+ReshapeSequenceFusion
+ReshapeSinkingMatMul
+ReshapeTo1D
+ReshapeTransformation
+ResolveNameCollisions
+ReverseInputChannelsFusion
+SelectWithOneValueCondition
+SequenceFusion
+SetBatchSize
+ShapeOfConstFolding
+SharedShapeOf
+SharedSqueeze
+SharedStridedSliceEraser
+ShrinkWeights
+ShuffleChannelsFusion
+ShuffleChannelsTransformation
+SkipGatherBeforeTransposeAndReshape
+SliceToStridedSlice
+SoftPlusDecomposition
+SoftPlusFusion
+SoftPlusToMishFusion
+SoftSignDecomposition
+SoftmaxDecomposition
+SoftmaxFusion
+SpaceToBatchFusion
+SplitConcatPairToInterpolateFusion
+SplitSqueezeConcatFusion
+SplitTransformation
+SqueezeStridedSlice
+SqueezeTransformation
+StridedSliceOptimization
+StridedSliceSqueeze
+StridedSliceTransformation
+StridesOptimization
+SubtractFusion
+SubtractTransformation
+SupportedNodesStridesPropagation
+SwishFusion
+SwishFusionWithBeta
+SwishFusionWithSigmoid
+SwishFusionWithSigmoidWithBeta
+SwishFusionWithoutBeta
+TSBinaryBackward
+TSBinaryForward
+TSConcatBackward
+TSConcatForward
+TSDataMovementBackward
+TSDataMovementForward
+TSFuse
+TSGatherBackward
+TSGatherForward
+TSGeneral
+TSGeneralBackward
+TSGeneralForward
+TSInterpolateBackward
+TSInterpolateForward
+TSReductionBackward
+TSReductionForward
+TSSplitBackward
+TSSplitForward
+TSSqueezeBackward
+TSSqueezeForward
+TSUnaryBackward
+TSUnaryForward
+TSUnsqueezeBackward
+TSUnsqueezeForward
+TransformationContext
+TransparentBaseTransformation
+TransposeConvert
+TransposeEltwise
+TransposeFQReduction
+TransposeFuse
+TransposeReduction
+TransposeReshapeEliminationForMatmul
+TransposeSinking
+TransposeToReshape
+TransposeTransformation
+UnrollIf
+UnrollTensorIterator
+UnsqueezeTransformation
+UnsupportedNodesStridesPropagation
+UpdateSharedPrecisionPreserved
+UselessStridedSliceEraser
+VariadicSplitTransformation
+WeightableLayerTransformation
+WeightsDequantizeToFakeQuantize
+WrapInterpolateIntoTransposes
+
+
+Conversion from opset2 to opset1
+Conversion from opset3 to opset2
+Runtime information
+Decompression
+DequantizationNode
+DisableFP16Compression
+FusedNames
+Mask
+NoTransposeSinkingAttr
+NonconvertibleDivide
+OldApiMapElementType
+OldApiMapOrder
+
+
+
+
+
+
+
+
+[LEGACY] Model Optimizer Extensibility
+[LEGACY] Graph Traversal and Modification
+[LEGACY] Model Optimizer Extensions
+[LEGACY] Model Optimizer Operation
+[LEGACY] Operation Extractor
+[LEGACY] Graph Transformation Extensions
+
+
+[LEGACY] Extending Model Optimizer with Caffe Python Layers
+
+
+
+
+OpenVINO IR format and Operation Sets
+Operation Sets in OpenVINO
+Available Operation Sets
+opset11
+opset10
+opset9
+opset8
+opset7
+opset6
+opset5
+opset4
+opset3
+opset2
+opset1
+
+
+Operation Specifications
+Abs-1
+Acos-1
+Acosh-3
+AdaptiveAvgPool-8
+AdaptiveMaxPool-8
+Add-1
+Asin-1
+Asinh-3
+Assign-3
+Atan-1
+Atanh-3
+AvgPool-1
+BatchNormInference-1
+BatchNormInference-5
+BatchToSpace-2
+BinaryConvolution-1
+Broadcast-1
+Broadcast-3
+Bucketize-3
+CTCGreedyDecoder-1
+CTCGreedyDecoderSeqLen-6
+Ceiling-1
+Clamp-1
+Concat-1
+Constant-1
+ConvertLike-1
+Convert-1
+ConvolutionBackpropData-1
+Convolution-1
+Cos-1
+Cosh-1
+CTCLoss-4
+CumSum-3
+DeformableConvolution-1
+DeformableConvolution-8
+DeformablePSROIPooling-1
+DepthToSpace-1
+DetectionOutput-1
+DetectionOutput-8
+DFT-7
+Divide-1
+Einsum-7
+Elu-1
+EmbeddingBagOffsetsSum-3
+EmbeddingBagPackedSum-3
+EmbeddingSegmentsSum-3
+Equal-1
+Erf-1
+Exp-1
+ExperimentalDetectronDetectionOutput-6
+ExperimentalDetectronGenerateProposalsSingleImage-6
+ExperimentalDetectronPriorGridGenerator-6
+ExperimentalDetectronROIFeatureExtractor-6
+ExperimentalDetectronTopKROIs-6
+ExtractImagePatches-3
+Eye-9
+FakeQuantize-1
+FloorMod-1
+Floor-1
+GridSample-9
+GRN-1
+GRUCell-3
+GRUSequence-5
+GatherTree-1
+Gather-1
+Gather-7
+Gather-8
+GatherElements-6
+GatherND-5
+GatherND-8
+GELU-2
+GELU-7
+GenerateProposals-9
+GreaterEqual-1
+Greater-1
+GroupConvolutionBackpropData-1
+GroupConvolution-1
+HardSigmoid-1
+HSigmoid-5
+HSwish-4
+I420toBGR-8
+I420toRGB-8
+IDFT-7
+IRDFT-9
+If-8
+Interpolate-1
+Interpolate-4
+Interpolate-11
+IsFinite-10
+IsInf-10
+IsNaN-10
+LRN-1
+LSTMCell-1
+LSTMSequence-1
+LessEqual-1
+Less-1
+Log-1
+LogicalAnd-1
+LogicalNot-1
+LogicalOr-1
+LogicalXor-1
+LogSoftmax-5
+Loop-5
+MVN-1
+MVN-6
+MatMul-1
+MatrixNms-8
+MaxPool-1
+MaxPool-8
+Maximum-1
+Minimum-1
+Mish-4
+Mod-1
+MulticlassNonMaxSuppression-8
+MulticlassNonMaxSuppression-9
+Multiply-1
+Negative-1
+NonMaxSuppression-1
+NonMaxSuppression-3
+NonMaxSuppression-4
+NonMaxSuppression-5
+NonMaxSuppression-9
+NonZero-3
+NormalizeL2-1
+NotEqual-1
+NV12toBGR-8
+NV12toRGB-8
+OneHot-1
+PReLU-1
+PSROIPooling-1
+Pad-1
+Parameter-1
+Power-1
+PriorBoxClustered-1
+PriorBox-1
+PriorBox-8
+Proposal-1
+Proposal-4
+RandomUniform-8
+Range-1
+Range-4
+RDFT-9
+ReadValue-3
+ReLU-1
+ReduceL1-4
+ReduceL2-4
+ReduceLogicalAnd-1
+ReduceLogicalOr-1
+ReduceMax-1
+ReduceMean-1
+ReduceMin-1
+ReduceProd-1
+ReduceSum-1
+RegionYolo-1
+ReorgYolo-1
+Reshape-1
+Result-1
+Reverse-1
+ReverseSequence-1
+RNNCell-3
+RNNSequence-5
+ROIAlign-3
+ROIAlign-9
+ROIPooling-1
+Roll-7
+Round-5
+ScatterElementsUpdate-3
+ScatterNDUpdate-3
+ScatterUpdate-3
+Select-1
+Selu-1
+ShapeOf-1
+ShapeOf-3
+ShuffleChannels-1
+Sigmoid-1
+Sign-1
+Sin-1
+Sinh-1
+Slice-8
+SoftMax-1
+SoftMax-8
+SoftPlus-4
+SoftSign-9
+SpaceToBatch-2
+SpaceToDepth-1
+Split-1
+Sqrt-1
+SquaredDifference-1
+Squeeze-1
+StridedSlice-1
+Subtract-1
+Swish-4
+Tan-1
+Tanh-1
+TensorIterator-1
+Tile-1
+TopK-1
+TopK-3
+TopK-11
+Transpose-1
+Unique-10
+Unsqueeze-1
+VariadicSplit-1
+
+
+Broadcast Rules For Elementwise Operations
+
+
+Intermediate Representation Suitable for INT8 Inference
+
+
+Media Processing and CV Libraries
+IntelÂ® Deep Learning Streamer
+Introduction to OpenCV Graph API (G-API)
+Graph API Kernel API
+Implementing a Face Beautification Algorithm
+Building a Face Analytics Pipeline
+
+
+OpenCV Developer Guide
+OpenCLâ¢ Developer Guide
+OneVPL Developer Guide
+
+
+OpenVINOâ¢ Security
+Using Encrypted Models with OpenVINO
+
+
+
+
+MODEL ZOO
+Overview of OpenVINOâ¢ Toolkit Intelâs Pre-Trained Models
+Intelâs Pre-Trained Models Device Support
+action-recognition-0001 (composite)
+age-gender-recognition-retail-0013
+asl-recognition-0004
+bert-large-uncased-whole-word-masking-squad-0001
+bert-large-uncased-whole-word-masking-squad-emb-0001
+bert-large-uncased-whole-word-masking-squad-int8-0001
+bert-small-uncased-whole-word-masking-squad-0001
+bert-small-uncased-whole-word-masking-squad-0002
+bert-small-uncased-whole-word-masking-squad-emb-int8-0001
+bert-small-uncased-whole-word-masking-squad-int8-0002
+common-sign-language-0002
+driver-action-recognition-adas-0002 (composite)
+emotions-recognition-retail-0003
+face-detection-0200
+face-detection-0202
+face-detection-0204
+face-detection-0205
+face-detection-0206
+face-detection-adas-0001
+face-detection-retail-0004
+face-detection-retail-0005
+face-reidentification-retail-0095
+facial-landmarks-35-adas-0002
+facial-landmarks-98-detection-0001
+faster-rcnn-resnet101-coco-sparse-60-0001
+formula-recognition-medium-scan-0001 (composite)
+formula-recognition-polynomials-handwritten-0001 (composite)
+gaze-estimation-adas-0002
+handwritten-english-recognition-0001
+handwritten-japanese-recognition-0001
+handwritten-score-recognition-0003
+handwritten-simplified-chinese-recognition-0001
+head-pose-estimation-adas-0001
+horizontal-text-detection-0001
+human-pose-estimation-0001
+human-pose-estimation-0005
+human-pose-estimation-0006
+human-pose-estimation-0007
+icnet-camvid-ava-0001
+icnet-camvid-ava-sparse-30-0001
+icnet-camvid-ava-sparse-60-0001
+image-retrieval-0001
+instance-segmentation-person-0007
+instance-segmentation-security-0002
+instance-segmentation-security-0091
+instance-segmentation-security-0228
+instance-segmentation-security-1039
+instance-segmentation-security-1040
+landmarks-regression-retail-0009
+license-plate-recognition-barrier-0001
+machine-translation-nar-de-en-0002
+machine-translation-nar-en-de-0002
+machine-translation-nar-en-ru-0002
+machine-translation-nar-ru-en-0002
+noise-suppression-denseunet-ll-0001
+noise-suppression-poconetlike-0001
+pedestrian-and-vehicle-detector-adas-0001
+pedestrian-detection-adas-0002
+person-attributes-recognition-crossroad-0230
+person-attributes-recognition-crossroad-0234
+person-attributes-recognition-crossroad-0238
+person-detection-0106
+person-detection-0200
+person-detection-0201
+person-detection-0202
+person-detection-0203
+person-detection-0301
+person-detection-0302
+person-detection-0303
+person-detection-action-recognition-0005
+person-detection-action-recognition-0006
+person-detection-action-recognition-teacher-0002
+person-detection-asl-0001
+person-detection-raisinghand-recognition-0001
+person-detection-retail-0002
+person-detection-retail-0013
+person-reidentification-retail-0277
+person-reidentification-retail-0286
+person-reidentification-retail-0287
+person-reidentification-retail-0288
+person-vehicle-bike-detection-2000
+person-vehicle-bike-detection-2001
+person-vehicle-bike-detection-2002
+person-vehicle-bike-detection-2003
+person-vehicle-bike-detection-2004
+person-vehicle-bike-detection-crossroad-0078
+person-vehicle-bike-detection-crossroad-1016
+person-vehicle-bike-detection-crossroad-yolov3-1020
+product-detection-0001
+resnet18-xnor-binary-onnx-0001
+resnet50-binary-0001
+road-segmentation-adas-0001
+semantic-segmentation-adas-0001
+single-image-super-resolution-1032
+single-image-super-resolution-1033
+smartlab-action-recognition-0001 (composite)
+smartlab-object-detection-0001
+smartlab-object-detection-0002
+smartlab-object-detection-0003
+smartlab-object-detection-0004
+smartlab-sequence-modelling-0001
+smartlab-sequence-modelling-0002
+text-detection-0003
+text-detection-0004
+text-image-super-resolution-0001
+text-recognition-0012
+text-recognition-0014
+text-recognition-0015 (composite)
+text-recognition-0016 (composite)
+text-spotting-0005 (composite)
+text-to-speech-en-0001 (composite)
+text-to-speech-en-multi-0001 (composite)
+time-series-forecasting-electricity-0001
+unet-camvid-onnx-0001
+vehicle-attributes-recognition-barrier-0039
+vehicle-attributes-recognition-barrier-0042
+vehicle-detection-0200
+vehicle-detection-0201
+vehicle-detection-0202
+vehicle-detection-adas-0002
+vehicle-license-plate-detection-barrier-0106
+weld-porosity-detection-0001
+yolo-v2-ava-0001
+yolo-v2-ava-sparse-35-0001
+yolo-v2-ava-sparse-70-0001
+yolo-v2-tiny-ava-0001
+yolo-v2-tiny-ava-sparse-30-0001
+yolo-v2-tiny-ava-sparse-60-0001
+yolo-v2-tiny-vehicle-detection-0001
+
+
+Overview of OpenVINOâ¢ Toolkit Public Pre-Trained Models
+Public Pre-Trained Models Device Support
+aclnet
+aclnet-int8
+alexnet
+anti-spoof-mn3
+background-matting-mobilenetv2
+bert-base-ner
+brain-tumor-segmentation-0001
+brain-tumor-segmentation-0002
+caffenet
+cocosnet
+colorization-siggraph
+colorization-v2
+common-sign-language-0001
+convnext-tiny
+ctdet_coco_dlav0_512
+ctpn
+deblurgan-v2
+deeplabv3
+densenet-121
+densenet-121-tf
+detr-resnet50
+dla-34
+drn-d-38
+efficientdet-d0-tf
+efficientdet-d1-tf
+efficientnet-b0
+efficientnet-b0-pytorch
+efficientnet-v2-b0
+efficientnet-v2-s
+erfnet
+f3net
+face-detection-retail-0044
+face-recognition-resnet100-arcface-onnx
+faceboxes-pytorch
+facenet-20180408-102900
+fast-neural-style-mosaic-onnx
+faster_rcnn_inception_resnet_v2_atrous_coco
+faster_rcnn_resnet50_coco
+fastseg-large
+fastseg-small
+fbcnn
+fcrn-dp-nyu-depth-v2-tf
+forward-tacotron (composite)
+gmcnn-places2-tf
+googlenet-v1
+googlenet-v1-tf
+googlenet-v2
+googlenet-v2-tf
+googlenet-v3
+googlenet-v3-pytorch
+googlenet-v4-tf
+gpt-2
+hbonet-0.25
+hbonet-1.0
+higher-hrnet-w32-human-pose-estimation
+hrnet-v2-c1-segmentation
+human-pose-estimation-3d-0001
+hybrid-cs-model-mri
+i3d-rgb-tf
+inception-resnet-v2-tf
+levit-128s
+license-plate-recognition-barrier-0007
+mask_rcnn_inception_resnet_v2_atrous_coco
+mask_rcnn_resnet50_atrous_coco
+midasnet
+mixnet-l
+mobilefacedet-v1-mxnet
+mobilenet-ssd
+mobilenet-v1-0.25-128
+mobilenet-v1-1.0-224
+mobilenet-v1-1.0-224-tf
+mobilenet-v2
+mobilenet-v2-1.0-224
+mobilenet-v2-1.4-224
+mobilenet-v2-pytorch
+mobilenet-v3-large-1.0-224-paddle
+mobilenet-v3-large-1.0-224-tf
+mobilenet-v3-small-1.0-224-paddle
+mobilenet-v3-small-1.0-224-tf
+mobilenet-yolo-v4-syg
+modnet-photographic-portrait-matting
+modnet-webcam-portrait-matting
+mozilla-deepspeech-0.6.1
+mozilla-deepspeech-0.8.2
+mtcnn (composite)
+nanodet-m-1.5x-416
+nanodet-plus-m-1.5x-416
+netvlad-tf
+nfnet-f0
+ocrnet-hrnet-w48-paddle
+octave-resnet-26-0.25
+open-closed-eye-0001
+pelee-coco
+pspnet-pytorch
+quartznet-15x5-en
+regnetx-3.2gf
+repvgg-a0
+repvgg-b1
+repvgg-b3
+resnest-50-pytorch
+resnet-18-pytorch
+resnet-34-pytorch
+resnet-50-pytorch
+resnet-50-tf
+retinaface-resnet50-pytorch
+retinanet-tf
+rexnet-v1-x1.0
+rfcn-resnet101-coco-tf
+robust-video-matting-mobilenetv3
+se-inception
+se-resnet-50
+se-resnext-50
+shufflenet-v2-x0.5
+shufflenet-v2-x1.0
+single-human-pose-estimation-0001
+Sphereface
+squeezenet1.0
+squeezenet1.1
+ssd_mobilenet_v1_coco
+ssd_mobilenet_v1_fpn_coco
+ssd-resnet34-1200-onnx
+ssd300
+ssd512
+ssdlite_mobilenet_v2
+swin-tiny-patch4-window7-224
+t2t-vit-14
+text-recognition-resnet-fc
+ultra-lightweight-face-detection-rfb-320
+ultra-lightweight-face-detection-slim-320
+vehicle-license-plate-detection-barrier-0123
+vehicle-reid-0001
+vgg16
+vgg19
+vitstr-small-patch16-224
+wav2vec2-base
+wavernn (composite)
+yolact-resnet50-fpn-pytorch
+yolo-v1-tiny-tf
+yolo-v2-tf
+yolo-v2-tiny-tf
+yolo-v3-onnx
+yolo-v3-tf
+yolo-v3-tiny-onnx
+yolo-v3-tiny-tf
+yolo-v4-tf
+yolo-v4-tiny-tf
+yolof
+yolox-tiny
+
+
+Open Model Zoo Demos
+3D Human Pose Estimation Python* Demo
+3D Segmentation Python* Demo
+Action Recognition Python* Demo
+G-API Background Subtraction Demo
+Background subtraction Python* Demo
+BERT Named Entity Recognition Python* Demo
+BERT Question Answering Embedding Python* Demo
+BERT Question Answering Python* Demo
+Classification Benchmark C++ Demo
+Classification Benchmark C++ G-API Demo
+Classification Python* Demo
+Colorization Demo
+Crossroad Camera C++ Demo
+G-API Face Detection MTCNN Demo
+Face Detection MTCNN Python* Demo
+Face Recognition Python* Demo
+Formula Recognition Python* Demo
+G-API Gaze Estimation Demo
+G-API Interactive Face Detection Demo
+Gaze Estimation Demo
+G-API Gesture Recognition Demo
+Gesture Recognition Python* Demo
+GPT-2 Text Prediction Python* Demo
+Handwritten Text Recognition Demo
+Human Pose Estimation C++ Demo
+Human Pose Estimation Python* Demo
+Image Deblurring Python* Demo
+Image Inpainting Python Demo
+Image Processing C++ Demo
+Image Retrieval Python* Demo
+Image Segmentation C++ Demo
+Image Segmentation Python* Demo
+Image Translation Demo
+Instance Segmentation Python* Demo
+Interactive Face Detection C++ Demo
+Machine Translation Python* Demo
+MonoDepth Python Demo
+MRI Reconstruction C++ Demo
+MRI Reconstruction Python* Demo
+Multi Camera Multi Target Python* Demo
+Multi-Channel Face Detection C++ Demo
+Multi-Channel Human Pose Estimation C++ Demo
+Multi-Channel Object Detection Yolov3 C++ Demo
+Noise Suppression C++* Demo
+Noise Suppression Python* Demo
+Object Detection C++ Demo
+Object Detection Python* Demo
+Pedestrian Tracker C++ Demo
+Place Recognition Python* Demo
+Security Barrier Camera C++ Demo
+Single Human Pose Estimation Demo (top-down pipeline)
+Smartlab Python* Demo
+Smart Classroom C++ Demo
+Smart Classroom C++ G-API Demo
+Social Distance C++ Demo
+Sound Classification Python* Demo
+Speech Recognition DeepSpeech Python* Demo
+Speech Recognition QuartzNet Python* Demo
+Speech Recognition Wav2Vec Python* Demo
+TensorFlow* Object Detection Mask R-CNNs Segmentation C++ Demo
+Text Detection C++ Demo
+Text Spotting Python* Demo
+Text-to-speech Python* Demo
+Time Series Forecasting Python* Demo
+Whiteboard Inpainting Python* Demo
+
+
+OpenVINO Model Server Adapter
+
+
+RESOURCES
+Performance Benchmarks
+Performance Information F.A.Q.
+OpenVINO Accuracy
+Performance Data Spreadsheet (download xlsx)
+Getting Performance Numbers
+
+
+Supported Devices
+Supported Models
+Supported Operations - by Inference Devices
+Supported Operations - by Framework Frontend
+Glossary
+Legal Information
+OpenVINOâ¢ Telemetry
+Case Studies
+
+
+RELEASE NOTES
+Pre-release Information
+
+
+
+
+
+
+
+
+
+    On this page
+
+
+
+
+
+   Feature Overview
+  
+
+
+
+
+
+
+
+
+      Download Docs
+    
+
+.pdf
+.zip
+
+
+
+
+
+
+
+
+OpenVINO 2023.0Â¶
+
+OpenVINO 2023.0
+
+
+
+
+An open-source toolkit for optimizing and deploying deep learning models.Boost your AI deep-learning inference performance!
+Even more integrations in 2023.0!Load TensorFlow, TensorFlow Lite, and PyTorch models directly, without manual conversion.See the supported model formats...
+CPU inference has become even better. ARM processors are supported and thread scheduling is available on 12th gen IntelÂ® Core and up.See how to run OpenVINO on various devices...
+Post-training optimization and quantization-aware training now in one tool!See the new NNCF capabilities...
+OpenVINO is enabled in the PyTorch 2.0 torch.compile() backend.See how it works...
+
+
+
+Get started
+
+
+
+
+
+
+
+
+Performance Benchmarks
+See latest benchmark numbers for OpenVINO and OpenVINO Model Server
+
+performance benchmarks
+
+
+
+
+
+Flexible Workflow
+Load models directly (for TensorFlow, ONNX, PaddlePaddle) or convert to the OpenVINO format.
+
+Supported Model Formats
+
+
+
+
+
+Run Inference
+Get results in just a few lines of code
+
+integrating OpenVINO with your app
+
+
+
+
+
+Deploy at Scale With OpenVINO Model Server
+Cloud-ready deployments for microservice applications
+
+model server
+
+
+
+
+
+Model Optimization
+Reach for performance with post-training and training-time compression with NNCF
+
+model optimization
+
+
+
+
+
+PyTorch 2.0 - torch.compile() backend
+Optimize generation of the graph model with PyTorch 2.0 torch.compile() backend
+
+torch.compile
+
+
+
+
+Feature OverviewÂ¶
+
+
+
+
+
+
+Local Inference & Model Serving
+You can either link directly with OpenVINO Runtime to run inference locally or use OpenVINO Model Server
+to serve model inference from a separate server or within Kubernetes environment
+
+
+
+
+
+
+
+Improved Application Portability
+Write an application once, deploy it anywhere, achieving maximum performance from hardware. Automatic device
+discovery allows for superior deployment flexibility. OpenVINO Runtime supports Linux, Windows and MacOS and
+provides Python, C++ and C API. Use your preferred language and OS.
+
+
+
+
+
+
+
+Minimal External Dependencies
+Designed with minimal external dependencies reduces the application footprint, simplifying installation and
+dependency management. Popular package managers enable application dependencies to be easily installed and
+upgraded. Custom compilation for your specific model(s) further reduces final binary size.
+
+
+
+
+
+
+
+Enhanced App Start-Up Time
+In applications where fast start-up is required, OpenVINO significantly reduces first-inference latency by using the
+CPU for initial inference and then switching to another device once the model has been compiled and loaded to memory.
+Compiled models are cached improving start-up time even more.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

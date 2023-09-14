@@ -1,0 +1,765 @@
+EnvKey - Simple, secure, open source configuration and secrets manager.
+
+
+
+
+
+
+
+        Why EnvKey? 
+
+
+
+
+
+            📖 Sloppy Secrets Management: What Are The Costs?
+            
+
+
+
+              Compare
+            
+
+
+
+                  .env files
+                
+
+
+
+                  Hashicorp Vault
+                
+
+
+
+                  Doppler
+                
+
+
+
+                  Rolling Your Own
+                
+
+
+
+
+
+
+
+
+        Docs
+      
+
+
+
+        Security
+      
+
+
+
+        Discussion
+      
+
+
+
+        Pricing
+      
+
+
+
+        Status
+      
+
+
+
+Download
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The simple, secure, open source configuration and secrets manager.
+
+
+
+
+        Protect API keys, credentials, and other secrets with end-to-end encryption.
+      
+
+        Organize, de-duplicate, and sync config wherever it's needed.
+      
+
+
+
+
+
+
+Download
+
+
+
+
+
+          
+          View Pricing
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     Thousands of engineers rely on EnvKey.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+☠️ Prevent security incidents. Keep secrets away from code, email, chat, and browsers.
+      
+
+🛳 Ship faster. Prevent config bugs and keep environments in sync.
+      
+
+🐎 Tame your config. Prevent duplication and sprawl. Control access. Log everything.
+      
+
+🛠 Integrate anywhere. Works with every language, platform, and host.
+      
+
+
+
+
+
+
+    Integrate easily and securely with any language.
+    
+
+
+
+Node.js
+
+$ npm install envkey --save
+
+import 'envkey'
+
+// That's it. process.env contains the latest config.
+var stripe = require('stripe')(process.env.STRIPE_SECRET_KEY)
+    
+Python
+
+$ pip install envkey
+
+import envkey
+
+# That's it. os.environ contains the latest config.
+stripe.api_key = os.environ['STRIPE_SECRET_KEY']
+      
+Ruby On Rails
+
+gem 'envkey'
+
+$ bundle install
+
+# That's it. ENV contains the latest config.
+Stripe.api_key = ENV['STRIPE_SECRET_KEY']
+
+
+Go
+
+$ go get github.com/envkey/envkeygo
+
+import _ "github.com/envkey/envkeygo"
+
+// That's it. Access the latest config with os.Getenv
+stripe.Key = os.Getenv("STRIPE_SECRET_KEY")
+    
+PHP
+
+$ composer require envkey/envkey-php 
+
+require_once 'vendor/autoload.php'; // Include the Composer autoloader
+
+// That's it. Access the latest config with getenv
+$stripe = new \Stripe\StripeClient(getenv('STRIPE_SECRET_KEY'));
+    
+Any language with envkey-source
+
+$ envkey-source -- any-shell-command$ envkey-source -- command
+# That's it!# That's it! Your command runs with the latest environment variables.
+
+$ envkey-source -w -- ./start-server
+# Automatically reload.# Automatically reload with the latest environment after a change.
+
+$ envkey-source -w --rolling -- ./start-server
+# No-downtime rolling reloads.# Avoid downtime with rolling reloads across all connected processes.
+
+$ es -- ping '$DATABASE_URL'
+# Use the `es` alias to type less.
+# Reference vars in commands.# Reference EnvKey variables in your commands.
+
+$ es -r ./reload-env -- ./start-server 
+# Custom reload logic.# Run custom reload logic after a change.
+
+$ eval "$(es)"
+# Set vars in current shell.# Set your EnvKey variables in the current shell.
+
+$ echo $'\n\neval "$(es --hook bash)"\n' >> ~/.bash_profile
+# Auto-load in any directory.# Auto-load the latest environment when entering a directory.
+# Works just like direnv.
+
+$ es --dot-env > .env
+$ es --json > .env.json
+$ es --yaml > .env.yaml
+$ es --pam > /etc/environment
+# Easy export to many formats.
+
+
+  More ways to use envkey-source ˯
+
+
+
+
+
+    Integration Quickstart
+  
+
+
+
+
+
+
+EnvKey for  VS Code
+
+      Autocomplete and type checking for environment variables in your IDE.
+
+
+
+
+
+
+        Works with 46 languages and counting.
+      
+
+
+
+            Learn More →
+          
+
+
+
+            Get The Extension →
+          
+
+
+
+
+
+
+
+
+
+      Uncompromising security.
+    
+
+
+
+Zero-knowledge end-to-end encryption with out-of-band verification ensures that no host, server, employee, or third party (including EnvKey) ever has access to your organization's secrets, unless it is specifically granted. 
+    
+
+      EnvKey protects secrets from insider threats, ex-employees, data breaches, browser extensions, third party services, and server compromise.
+    
+
+
+        Security Overview
+      
+
+
+
+
+
+
+
+      Reliable and redundant.
+    
+
+
+
+      For EnvKey Cloud and Business Self-Hosted, redundancy across availability zones and regions allows us to guarantee >99.99% uptime for loading secrets and config.
+  
+
+
+
+
+
+
+          EnvKey has eliminated a class of problem which absolutely plagued us, especially on new fast-moving projects, where you can't afford to lose half a day debugging some cryptic error message because there just happens to be a random new env var.
+        
+
+Gabriel Fortuna
+Founder,
+          Zero One
+
+
+
+
+          EnvKey has been such a lifesaver for our team at Soundstripe. Onboarding new developers was instantly streamlined as far as environment setups are concerned, and configuring servers has been simplified dramatically. We're hooked!
+        
+
+Trevor Hinesley
+CTO,
+          Soundstripe
+
+
+
+
+          First of all, I would like to say THANK YOU. EnvKey has solved a major problem for us, in managing our secrets really well. We rolled it out across our dev, staging and production environments yesterday, and it was a smooth, 15 minute process.
+        
+
+Devan Sabaratnam
+Founder,
+          HRPartner
+
+
+
+
+
+
+
+
+
+
+
+          Multi-layered security.
+
+
+
+
+
+
+            Audit logs
+          
+
+
+Artboard 23
+
+            Easy access control
+          
+
+
+
+
+            Trusted IPs
+          
+
+
+
+
+
+
+          Enhanced productivity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Version control
+          
+
+
+
+
+            Powerful, scriptable CLI
+          
+
+
+
+
+            Environment branches
+          
+
+
+
+
+noun_boxes_3254207
+Created with Sketch.
+
+
+
+
+
+
+
+            Stackable config blocks
+          
+
+
+
+
+            Custom environments
+          
+
+
+
+
+            Environment inheritance
+          
+
+
+007 - Laptop
+
+            Local development overrides
+          
+
+
+
+
+            Conflict resolution
+          
+
+
+
+
+            Change hooks
+          
+
+
+
+
+
+
+          Flexible hosting.
+
+
+
+
+
+
+            Turn-key self-hosting
+          
+
+
+
+
+            Multi-region redundancy
+          
+
+
+
+
+            Behind-your-firewall mode
+          
+
+
+
+
+
+
+          Advanced user management.
+
+
+
+
+
+
+            Teams
+          
+
+
+
+
+            SAML SSO
+          
+
+
+
+
+            SCIM directory sync
+          
+
+
+
+
+
+
+
+
+
+       See it in action.
+    
+
+
+
+
+      Watch Dane integrate EnvKey with an app in just a few minutes.
+    
+
+
+
+
+
+
+      Integrate in minutes. Make security the path of least resistance.
+    
+
+
+
+
+
+
+Download
+
+
+
+
+
+
+
+
+
+
+
+Site
+
+
+
+              About
+            
+
+
+
+              Docs
+            
+
+
+
+              Security
+            
+
+
+
+              Discussion
+            
+
+
+
+              Pricing
+            
+
+
+
+              Status
+            
+
+
+
+
+
+
+
+Why EnvKey?
+
+
+
+              📖 Sloppy Secrets Management: What Are The Costs?
+            
+
+
+Compare
+
+
+
+              .env files
+            
+
+
+
+              Hashicorp Vault
+            
+
+
+
+              Doppler
+            
+
+
+
+              Rolling Your Own
+            
+
+
+
+
+Integrate
+
+
+
+              envkey-source • Any language
+            
+
+
+
+              Node.js
+            
+
+
+
+              Python
+            
+
+
+
+              Ruby
+            
+
+
+
+              Go
+            
+
+
+
+              PHP
+            
+
+
+
+              Webpack
+            
+
+
+
+              VS Code
+            
+
+
+
+              Heroku
+            
+
+
+
+              Docker
+            
+
+
+
+              Kubernetes
+            
+
+
+
+              Vanta
+            
+
+
+
+
+Support
+
+
+
+              Github Issues
+            
+
+
+
+              support@envkey.com
+            
+
+
+
+              Twitter
+            
+
+
+
+
+Legal
+
+
+
+              Terms & Conditions
+            
+
+
+
+              Privacy Policy
+            
+
+
+
+
+
+© Envkey Inc. 2023
+
+

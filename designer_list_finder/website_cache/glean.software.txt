@@ -1,0 +1,17 @@
+
+
+
+
+
+Glean | Glean
+
+
+
+
+
+
+
+Skip to main contentSupport Ukraine 🇺🇦  Help Provide Humanitarian Aid to Ukraine.GleanDocumentationBlogGitHubGleanSystem for collecting, deriving and querying facts about source codeGet StartedKey FeaturesRich typesStore detailed information about codeCompact storageStore data about code at scaleEfficient queriesBuild experiences with deep insights from codeLearnGetting StartedCommunityTwitterMoreBlogGitHubLegalPrivacyTermsCopyright © 2023 Meta Platforms, Inc. Built with Docusaurus.
+
+
+

@@ -1,0 +1,1043 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deploy a GPU Server - TensorDock Console
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deposit Funds
+
+
+Deposit $5.00-$10,000.00 to your account.
+How much would you like to deposit?
+
+
+$
+
+
+
+
+
+
+Note: your card number will be saved by Stripe for frictionless future checkouts. This data
+                        is stored securely stored by Stripe (we don't see it!), and your card won't ever be
+                        automatically charged unless you get a recurring subscription. You can always delete your card's
+                        info on the subscription billing
+                            portal.
+
+
+
+ Cancel
+Proceed
+
+
+
+
+
+
+
+
+Promo Codes
+
+
+Type in a valid Promo Code (case-sensitive).
+
+
+
+
+
+
+Note: Promo Codes may expire and be unusable. Each user can use each Promo Code once.
+                        Different Promo Codes may award different amounts of credits/discounts.
+
+
+
+ Cancel
+Proceed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Deploy Compute
+                        
+
+
+                                Deploy a GPU VM
+                            
+
+                                Live GPU stock
+                            
+                                GPU Instance restrictions
+                            
+
+                                Deploy a CPU-only VM
+                            
+
+                                Live CPU-only instance stock
+                            
+                                CPU-only Instance restrictions
+                            
+
+
+
+
+                            Your Compute
+                        
+
+                                List servers
+                            
+
+
+
+
+                            Your Account
+                        
+
+
+                                Billing
+                            
+
+                                Transactions
+                            
+
+                                API
+                            
+
+
+
+
+                            Support
+                        
+
+                                Support
+                            
+                                Email Us
+                            
+                                Documentation
+                            
+
+
+
+
+                            You are not logged in
+                        
+
+                                Log in
+                            
+                                Register
+                            
+
+
+
+                        Back to TensorDock.com
+                    
+
+
+
+
+
+
+
+
+
+You are on Core Cloud, not Marketplace. To switch, click
+                            here.
+
+                    Home
+                
+
+
+                        Deploy GPUs
+                    
+
+
+Deploy
+                                    a GPU Server
+Live
+                                    GPU Stock
+Instance
+                                    Restrictions
+
+
+
+
+
+                        Deploy CPUs
+                    
+
+
+Deploy
+                                    a CPU Server
+Live
+                                    CPU Stock
+Instance
+                                    Restrictions
+
+
+
+                        Order Subscription
+                    
+
+
+                    Your Servers
+                
+
+
+                        Billing
+                    
+
+
+Account
+                                    Billing
+View
+                                    Transactions
+
+
+
+
+                        API
+                    
+
+
+                        Documentation  
+
+
+
+                        Support
+                    
+
+
+                        Marketplace  
+
+
+
+
+
+
+
+You are not logged in
+
+
+Log in
+Register
+
+
+
+Get help logging in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Deploy a GPU Server
+                
+Hourly cloud GPU VMs. Available with our TensorML 20.04 template
+                        that only
+                        requires 1 command (jupyter notebook --ip=0.0.0.0) to start a Jupyter Notebook!
+                    Fully dedicated resources. Deploy in
+                    Chicago, New
+                    York, or Las Vegas. Contact support if you encounter any
+                    issues — we're here to help!
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Home
+                        
+
+
+                        Deploy GPU Server
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        1. Choose a graphics card model
+                    
+
+
+
+
+
+ML/AI GPUs by NVIDIA
+
+We compare tensor core performance because these cards' primary use
+                                    case is ML.
+
+
+
+
+A100 PCIE 80GB VRAM
+312 TFLOPS TF32: Most powerful AI GPU with more VRAM, in
+                                                a PCIE format.
+                                            
+$2.43/hour
+
+
+
+
+
+
+
+A100 SXM 40GB VRAM
+312 TFLOPS TF32: Most powerful AI GPU, available
+                                                NVLink'd together.
+                                            
+$2.27/hour
+
+
+
+
+
+
+
+
+A100 PCIE 40GB VRAM
+312 TFLOPS TF32: Most powerful AI GPU, available in
+                                                a PCIE format.
+                                            
+$2.27/hour
+
+
+
+
+
+
+
+
+
+V100 SXM 16GB VRAM
+125 TFLOPS TF32: Industry standard AI GPU, available
+                                                NVLink'd together.
+                                            
+$0.88/hour
+
+
+
+
+
+
+
+
+V100 PCIE 16GB VRAM
+112 TFLOPS TF32: Industry standard AI GPU, great
+                                                price-to-performance ratio.
+                                            
+$0.52/hour
+
+
+
+
+
+
+
+
+
+
+
+ General Purpose GPUs by NVIDIA
+
+We compare FP32 performance because these cards can be used for any use
+                                    case. 
+
+
+
+
+RTX A6000 48GB VRAM
+38.7 TFLOPS FP32: Best visual computing GPU, for
+                                                workstations.
+                                            
+$1.41/hour
+
+
+
+
+
+
+
+RTX A40 48GB VRAM
+37.4 TFLOPS FP32: Best visual computing GPU, for
+                                                data centers.
+                                            
+
+
+$1.41/hour
+
+
+
+
+
+
+
+
+RTX A5000 24GB VRAM
+27.8 TFLOPS FP32: The best price-to-performance
+                                                ratio 
+$0.85/hour
+
+
+
+
+
+
+
+
+RTX A4000 16GB VRAM
+19.2 TFLOPS FP32: Powerful low-cost general purpose
+                                                workhorse 
+$0.68/hour
+
+
+
+
+
+
+
+
+RTX 5000 16GB VRAM
+11.2 TFLOPS FP32: Solid general purpose computing
+                                                performance 
+$0.63/hour
+
+
+
+
+
+
+
+RTX 4000 8GB VRAM
+7.1 TFLOPS FP32: Our cheapest GPU, available in
+                                                large quantities 
+$0.27/hour
+
+
+
+
+
+
+
+
+
+
+
+
+                        2. Select how many GPUs
+                    
+
+
+
+
+Check our instance
+                                    restrictions page for limits on how many GPUs can be selected for each GPU type.
+                            
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+
+
+
+
+
+
+
+
+
+
+                        3. Customize RAM amount
+                    
+
+
+
+
+RAM costs $0.005/GB/hour. Check our instance
+                                    restrictions page for limits. Contact us to add
+                                additional
+                                options.
+
+
+2
+4
+8
+10
+12
+16
+20
+24
+30
+32
+61
+64
+100
+112
+120
+128
+150
+240
+256
+300
+366
+384
+492
+496
+741
+960
+
+
+
+
+
+
+
+
+
+
+
+                        4. Customize vCPU count
+                    
+
+
+
+
+Each vCPU (1 CPU thread) costs $0.01/vCPU/hour. Check our instance
+                                    restrictions page for limits. Contact us to add
+                                additional options.
+
+
+1
+2
+4
+6
+8
+10
+12
+14
+16
+20
+24
+28
+32
+36
+40
+44
+46
+60
+94
+
+
+
+
+
+
+
+
+
+
+
+                        5. Customize storage
+
+
+
+
+
+Storage Amount
+Contact us to add
+                                additional options.
+
+
+20 GB
+30 GB
+40 GB
+50 GB
+60 GB
+70 GB
+80 GB
+90 GB
+100 GB
+150 GB
+200 GB
+300 GB
+400 GB
+500 GB
+600 GB
+700 GB
+800 GB
+900 GB
+1 TB
+2 TB
+3 TB
+4 TB
+5 TB
+6 TB
+7 TB
+8 TB
+9 TB
+10 TB
+
+
+Storage Class
+Learn more about our storage
+                                    classes. Note: deploying VMs with large operating system templates (Ex. TensorML & Windows) on HDD storage is NOT
+                                    recommended as deployment times will take substantially longer.
+
+
+Performance-Optimized Network-Based NVMe SSD: $0.0001/GB/hr
+                                    
+Performance-Optimized Network-Based Hard Drive: $0.00006/GB/hr
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        6. Select a location
+                    
+
+
+
+
+Not all locations will be available
+                                for a selected machine configuration. Learn more about our
+                                    data centers.
+
+
+
+
+
+
+
+Chicago DC1, USA Best Overall
+                                                    Stock
+
+Our largest location with the broadest set of GPUs
+                                                available. Less than 50ms to all major U.S. cities.
+                                            
+Available
+
+
+
+
+
+
+
+
+
+
+Las Vegas DC1, USA Best VFX GPU
+                                                    Availability
+
+Dozens of racks of A40s and other VFX-optimized GPUs. 10ms
+                                                to Los Angeles, 35ms to Seattle.
+                                            
+Available
+
+
+
+
+
+
+
+
+
+
+New York DC1, USA Best Europe
+                                                Connectivity
+
+
+                                                Low latencies to U.S. East Coast cities. Less than 100ms to major
+                                                European cities.
+                                            
+Available
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        7. Select an operating system
+                    
+
+
+
+
+Operating system templates updated on July 7, 2023. Check out our Windows 10 Parsec cloud gaming
+                                    article if this will apply for you. 
+
+
+
+
+TensorML 20 RAPIDS  ML / AI
+Jupyter, RAPIDS, CUDA, 33GB
+                                                sizeRequires
+                                                    40GB+ disk
+Included
+
+
+
+
+
+
+TensorML 20 TensorFlow  ML / AI
+Jupyter, TensorFlow, Keras, CUDA, 30GB
+                                                sizeRequires
+                                                    40GB+ disk
+Included
+
+
+
+
+
+
+
+TensorML 20 PyTorch  ML / AI
+Jupyter, PyTorch, CUDA, 30GB
+                                                sizeRequires
+                                                    40GB+ disk
+Included
+
+
+
+
+
+
+TensorML 20 Everything  ML / AI
+Jupyter, RAPIDS, TensorFlow, PyTorch, Keras, fastai, CUDA, 53GB
+                                                sizeRequires
+                                                    60GB+ disk
+Included
+
+
+
+
+
+
+
+Ubuntu 20.04 LTS 
+NVIDIA drivers preinstalled, 5GB sizeRequires
+                                                    20GB+ disk
+Included
+
+
+
+
+
+
+Ubuntu 22.04 LTS 
+NVIDIA drivers preinstalled, 5GB sizeRequires
+                                                    20GB+ disk
+Included
+
+
+
+
+
+
+
+Windows 10 
+NVIDIA drivers preinstalled, 30GB sizeRequires
+                                                    90GB+ disk
+Bring Your Own License
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        8. Configure details
+                    
+
+
+
+
+Administrator Username
+
+
+Administrator Password (At least 8 characters long and contains at least 1 uppercase letter, symbol, or number.)
+
+
+Name
+
+
+
+
+
+                        Click for more advanced options
+                    
+
+
+Cloudinit Script
+
+
+
+
+
+
+
+
+
+Your Server
+Your actual charge will be pro-rated to the  minute
+                    
+
+
+1x 
+                                        Undefined GPU
+
+
+$0.0000/hour
+
+
+
+
+2 GB RAM
+
+
+$0.0100/hour
+
+
+
+
+1 vCPUs
+
+
+$0.0100/hour
+
+
+
+
+20 GB NVMe
+                                    SSD
+
+
+$0.0020/hour
+
+
+
+
+Chicago DC1, USA
+
+
+$0.0000/hour
+
+
+
+
+TensorML 20.04 LTS
+
+
+$0.0000/hour
+
+
+
+
+
+Stock Deployable
+
+
+
+
+
+
+
+Stock Reservable
+
+
+
+
+
+Learn more here.
+                    
+
+                        We don't know the exact stock at the moment, but your selected machine configuration
+                        should be available. If your server isn't provisioned within 10 minutes, delete it 
+                        and contact support.
+                    
+
+
+
+
+Running Cost
+
+
+$0.0220/hr
+
+
+Cost per hour when the VM is running.
+                    
+
+
+Stopped Cost
+
+
+$0.0020/hr
+
+
+Cost per hour when the VM is stopped.
+
+Email us at sales@tensordock.com if you
+                        will  spending over $10k/month and are interested in  a long term contract. Save 25%
+                        with a 12 month  commit and 40% with a 24 month commit.
+                    
+
+
+
+Login
+                            and Deploy Server
+
+
+
+
+
+Share Your Server
+Share your server's specs using a custom link. Pressing the button
+                        auto-copies the link.
+                    
+
+
+
+Generate and Copy 
+                        Link
+
+
+
+
+
+
+
+
+
+
+
+toast_title
+
+
+
+                    toast_body
+                
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,318 @@
+Lago - Open Source Metering & Usage-Based Billing
+
+
+
+
+
+
+
+
+
+
+ProductCore featuresUsage metering
+
+Price plans
+
+Coupons
+
+Add-ons
+
+Invoicing
+
+Prepaid credits
+
+Billing integrations
+
+
+
+
+
+
+
+
+Premium featuresInstant charges
+
+Customer portal
+
+
+
+
+
+
+
+
+Spending minimums
+
+
+
+
+
+
+Email invoices
+
+
+
+
+
+
+
+
+Grace periods
+
+
+
+
+
+
+
+
+Timezones
+
+
+
+
+
+
+
+
+Credit notes and refunds
+
+DevelopersGitHub
+
+Documentation
+
+API references
+
+Community
+
+Changelog
+
+Roadmap
+
+PricingSolutionsTeamsEngineers
+
+Product managers
+
+Revenue teams
+
+
+
+
+
+
+
+
+Business operations
+
+
+
+
+
+
+
+
+Finance leader
+
+
+
+
+
+
+
+
+IndustriesFintech
+
+
+
+
+
+
+
+
+CPaaS
+
+
+
+
+
+
+
+
+Artificial Intelligence
+
+
+
+
+
+
+
+
+Cloud Infra
+
+SaaS API
+
+
+
+
+
+
+
+
+B2C
+
+
+
+
+
+
+
+
+Use casesHybrid plans
+
+
+
+
+
+
+
+
+Usage based
+
+
+
+
+
+
+
+
+Enterprises
+
+
+
+
+
+
+
+
+Multi products
+
+
+
+
+
+
+
+
+Advanced
+
+
+
+
+
+
+
+
+ResourcesResourcesBlog
+
+Templates
+
+Compare billing
+
+Product updates
+
+Perks
+
+Stripe fees calculator
+
+
+
+CompanyAbout us
+
+
+
+
+
+
+
+
+
+
+Hiring
+
+Book a demoð Lago v0.46.0-beta is live!
+
+
+
+
+
+
+
+
+Open-source metering and usage-based billingLago offers a self-hosted and cloud, scalable and modular architecture for metering and usage-based billing, at every stage of your company.Book a demoDeploy Open Source
+
+
+
+
+
+
+
+
+
+
+
+Leading brands are using Lago as billing engineThe problemMetering and billing are still nightmaresNumerous edge cases. Constant pricing changes. Looming scalability issues.For EngineersHave all the edge cases been covered? Metering per second, pre-aggregation, data clean-up, custom plans, scalability for growth... There are too many topics to list them all.For Revenue leadersThe average startup sees a 20% bump in ARR when iterating on pricing*. Donât let your metering and billing system prevent you from improving your pricing and increasing ARR.For Finance teamsClunky data reprocessing, invoicing mistakes, tedious reporting tasks and above all, the anxiety of having missed another detail that had to be addressed manually.The solutionComposable metering and billingUsage monitoringPlug-and-play meteringTired of pre-aggregating and cleaning data, so that it can be used for billing? Skip this step. Connect your data sources to Lago, as they are, and weâll take care of the rest.Scalable and low-maintenanceOut-of-the-box billing systemOur billing product includes a first-class API for engineers and a pixel-perfect user interface for business teams. Everything we build, you wonât have to build yourself: subscription, usage computations, billing cycles, dates, currencies, etc.More controlComposability and securityWeâre open-source, so itâs not âbuy Lago or build it yourselfâ, thereâs a third option: you can build on top of Lago. Audit our code and keep your data within your infrastructure, if you want full control.Featured inLago shines in the limelight of billingBuilding a payments & billing system on open source with Joel Taylor Billing Engineer at GithubBilling systems are a nightmare for engineers777 points & 359 comments on HackerNewsOpen Source Usage-Based Billing with LagoBy Robby (Cowboy VC) & Tim (Essence VC)Why doesn't Stripe use Stripe Billing?336 points & 186 comments on HackerNewsDevtool & Product of the MonthAbout 1300 upvotes for the launchTop of Hacker News with Anh-Tho from LagoInterview performed by Jack BridgerHow it worksEffortless metering and billing1Plug your data sources into LagoLago ingests logs and event streams at scale. Most of the time, youâll only need light data pre-transformations, if any. This data will be used as âdimensionsâ of your pricing, to meter usage.2Define pricing plansDesign your ideal pricing, mixing usage-based pricing, subscriptions, add-ons, different billing and payment cycles. Itâs âÃ  la carteâ.3Enjoy our built-in core billing featuresWeâll manage hundreds of plans, complex upgrades and downgrades, prepaid credits, international pricing plans and grandfathered plans like a breeze.4Invoice your customers and collect paymentsLago generate invoices and collects payments using your favorite payment processor(s). The platform is agnostic, so you can change or add new gateways as you grow. Discover our productLoved by engineers around the globeMost engineers donât want to become... billing engineers.Big fan of Lago's work. Payments and billing create huge underrated nightmares for engineers. With their open-source approach, Lago can help solve the long tail of challenges.Lago provides a solid foundation for Billing engineers to build on and customize to their needs. The team is super reactive and experienced in the space too!Joel TaylorSr. Billing Engineer at GithubBilling has millions of edge cases. But itâs also a âtalent nightmareâ. No CTO wants to staff their engineers on billing, and no engineers want to work on this on the long term. I just wish Lago existed five years ago, so that my team could build on top of their API and go back to building our core product asap.Gabriel KleinCTPO at Masteos / ex VP Engineering at QontoI wish Lago existed when we started Algolia.We've revamped our billing stack three times and even went through a failed implementation with Zuora. We totally underestimated the complexity of billing at the time, and our needs were too specific for closed-source vendors.Nicolas DessaigneCo-founder at Algolia / Partner at Y CombinatorDon't spend time, effort and money on things that do not bring business value. Any time I see a company with engineers building something they could buy off the shelf [and the thing they're building is not the product] I know their priorities are whack. [â¦] Just because a tractor is used for farming doesn't mean a farmer should build her own tractor.Read discussion
+
+
+
+
+
+Product updatesWe ship fast and itâs only the beginningUpdate #24 - Aug. 17, 2023Read more
+
+Update #23 - Aug. 2, 2023Read more
+
+Update #22 - Jul. 12, 2023Read more
+
+See all updatesSee public roadmapTwo hosting options, same benefitsWhether you choose the cloud version or decide to host the solution yourself, you will benefit from our powerful API and user-friendly interface.
+
+
+
+
+
+
+
+
+
+
+Open sourceThe optimal solution for small projects.Deploy Open Source
+
+
+
+
+
+
+
+
+
+
+PremiumThe optimal solution for teams who want control and flexibility on cloud or self-hosted version.Book a demoSubscribe to our updatesSign up for our newsletter, we promise not to spam you.Thank you! Your submission has been received!Oops! Something went wrong while submitting the form.ProductsUsage meteringPrice plansCouponsAdd-onsInvoicingInstant chargeCustomer portalSpending minimumsEmail invoicesGrace periodsTimezonesCredit notes & RefundsDevelopersGitHubDocumentationAPI referencesCommunityChangelogRoadmapSolutionsEngineersProduct managersRevenue teamsBusiness operationsFinance leaderFintechCPaaSArtificial IntelligenceCloud InfraSaaS APIB2CHybrid plansUsage basedEnterpriseMulti productsAdvancedResourcesPricingTemplatesCompareProduct updatesPerksStatusStripe fees calculatorIntegrationsCompanyBlogAbout usHiringLove wallBeta2023 Lago â¢ Designed WorldwidePrivacy PolicySecurityTerms of Service
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

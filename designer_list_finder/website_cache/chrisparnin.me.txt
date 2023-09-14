@@ -1,0 +1,209 @@
+
+
+
+
+chrisparnin.me
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr. Christopher J Parnin
+Associate Professor
+
+
+
+
+ Engineering Building II, Room 3270
+
+
+
+ cjparnin@ncsu.edu
+
+
+
+
+ Twitter
+
+
+
+
+ GitHub
+
+
+
+
+
+ Medium
+
+
+
+
+
+
+
+
+
+About
+ I am an Associate Professor in the Department of Computer Science at North Carolina State University.   
+					My research interests are in software engineering and human interactions, including programmer cognition, automated infrastructure, and software ecosystems.
+					My students work in the alt-code lab, known for its industrial-strength awesomeness. 
+
+					I teach the software engineering and devops courses.
+				
+Our research program in Software Engineering is ranked #3 in the world.
+				If you're interested in these research areas, look at what it takes to join the lab, and apply to the NCSU PhD in Software Engineering!
+				
+
+
+
+
+
+
+Students
+
+
+
+
+Mahnaz Behroozi
+
+
+
+
+
+
+
+Eric Horton
+
+
+
+
+
+
+
+Samim Mirhosseini
+
+
+
+
+
+
+
+Nischal Shrestha
+
+
+
+
+
+Alumni
+
+
+
+
+Denae Ford Robinson
+Microsoft Research
+
+
+
+
+
+
+
+Chris Brown
+Virginia Tech
+
+
+
+
+
+
+
+Titus Barik
+Apple
+
+
+
+
+
+
+
+Akond Rahman
+Tennessee Tech
+
+
+
+
+
+
+
+Colton Bolta
+Marshall Scholar
+
+
+
+
+
+
+
+
+Research
+
+
+
+
+
+
+
+Alternatively, see my publications on: Google Scholar
+
+
+Theses
+
+Investigation of the Effects of Mental Fatigue on Programming Tasks
+Saurabh Sarkar. Master Thesis, 2015.
+
+
+HappyFace: Identifying and Predicting Frustrating Learning Obstacles at Scale
+Ian Drosos. Master Thesis, 2017.
+
+
+
+Advice
+
+Paper Error Codes
+Deliberate Work
+Fractal Tasks
+Milestones
+Your Research Garden
+Shape Your Thoughts
+On Writing in Groups
+Reading List
+
+
+
+
+
+Alan Perlis 1922â1990: a founding father of computer science as a separate discipline (Purdue U., CMU, California Institute of Tech, Yale U.) 
+|__ 1978 Yale Spencer Rugaber  (Georgia Tech.)
+    |__ 2014 Chris Parnin (North Carolina State U.)
+		|__ 2019 Denae Ford (Microsoft Research)
+		|__ 2021 Chris Brown (Virginia Tech)						
+
+			
+
+
+
+

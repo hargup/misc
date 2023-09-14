@@ -1,0 +1,894 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anaconda | The World’s Most Popular Data Science Platform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enterprise
+
+
+
+
+
+
+
+OSS Security & CompliancePlatformProfessional Services 
+ 
+
+
+ 
+ 
+
+Enterprise Data Science, Machine Learning, and AI
+Top 10 AI Platform Use Cases For the Enterprise
+
+
+
+
+
+ 
+ 
+ 
+
+PricingResources
+
+
+
+
+
+Left Column
+
+Libraries & PackagesVivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+Learn MoreSupport CenterVivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+SupportOpen SourceVivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+Learn MoreAnaconda Learning 
+ 
+
+
+Right Column
+
+Resource CenterVivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+View All Resources
+
+WebinarsDocsBlogPodcastsWhitepapersVideos 
+ 
+ 
+
+
+ 
+ 
+
+Enterprise Data Science, Machine Learning, and AI
+Top 10 AI Platform Use Cases For the Enterprise
+
+
+
+
+
+ 
+ 
+ 
+
+About
+
+
+
+
+
+Left Column
+
+About AnacondaMorbi leo risus, porta ac consectetur ac.EducationVivamus sagittis lacus vel augue laoreet.Our Open-Source CommitmentMorbi leo risus, porta ac consectetur ac.PressVivamus sagittis lacus vel augue laoreet.Contact UsMorbi leo risus, porta ac consectetur ac. 
+ 
+
+
+Right Menu
+
+CareersVivamus sagittis lacus vel augue laoreet.PartnersMorbi leo risus, porta ac consectetur ac.Customer Reference ProgramVivamus sagittis lacus vel augue laoreet.EventsMorbi leo risus, porta ac consectetur ac. 
+ 
+
+
+ 
+ 
+
+Anaconda Perspectives
+What Is Art? A Stimulating Discussion Inspired by Stable Diffusion
+
+
+
+
+
+ 
+ 
+ 
+
+Free DownloadContact Sales 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meet Anaconda Assistant
+
+
+
+
+                        AI-powered Code Generation, Insights, and Debugging in Your Anaconda Notebook.
+                    
+
+
+
+
+Discover Anaconda Assistant
+
+
+
+
+
+
+
+
+
+
+
+Built for the Enterprise 
+
+                                        Develop and deploy machine learning and AI projects faster with Anaconda’s end-to-end data science platform.
+                                    
+
+
+
+
+
+
+
+
+Learn More
+
+
+
+
+
+
+
+
+
+Introducing Python in Excel
+
+
+
+
+
+
+
+Harness the power of Python in Microsoft Excel’s familiar interface.
+
+
+
+Explore Python in Excel
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Unleash Your Innovation
+The world’s most popular platform to develop and deploy secure Python solutions, faster
+
+
+
+
+
+
+
+				Code in the Cloud
+
+
+
+
+
+
+				Download
+            
+
+
+				Download
+				
+
+
+
+
+
+
+
+Download for Mac (Intel)
+Download for Mac (M1/M2)
+
+
+
+
+
+Get Additional Installers
+
+
+
+windows
+
+
+ | 
+				
+
+
+
+
+
+ | 
+				
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Join 35 million users building the future with Anaconda
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+Code in the cloud. Nothing to install or configure. Work from any computer using our cloud-hosted notebook service.
+
+Publish data applications and share results(Learn more)
+Templates to get you started
+Anaconda Assistant now available in all Cloud Notebooks
+
+Code in the Cloud
+
+ 
+
+
+
+
+
+
+Code with the world’s most trusted Python distribution. From AI solutions to interactive visualizations, Anaconda is the world’s preferred distribution for numerical and scientific computing. 
+
+More than 6,000 Python libraries
+Over 2,000 interoperable R packages
+Built from source + tamper free
+
+Install Anaconda
+
+ 
+
+
+
+
+
+
+
+Learn data science and Python while you build, with Anaconda Learning.
+
+Instructor-led courses
+On demand and live
+Essential data science skills
+Earn completion certificates
+
+Explore Courses
+
+
+
+
+
+
+
+
+
+
+
+Easily build and share web applications, with zero infrastructure
+
+Create next-generation applications
+Share in one click
+Build new or fork community projects
+
+Join PyScript
+
+ 
+
+
+						Your browser does not support HTML5 video.		
+
+
+
+
+
+
+
+
+
+
+
+
+
+Additional Resources
+
+
+
+ 
+
+ 
+ 
+Enterprise Data Science, Machine Learning, and AI 
+
+The Definitive Guide to AI Platforms for Open-Source Data Science and ML
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+ 
+2022 State of Data Science
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+ 
+Paying Dividends: Anaconda’s 2021–2022 Contributions to the Open-Source Community
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+See All Resources
+
+
+
+
+
+
+A Plan for Every Builder
+Whether you’re just starting out or mastering your craft, Anaconda has a plan for you.
+
+
+See Pricing Plans
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enterprise
+Why Anaconda?
+Platform
+Professional Services
+Pricing
+Contact Sales
+ 
+
+Solutions
+
+BY NEED
+
+Managing Security & Compliance
+
+
+BY ROLE
+
+Practitioners
+IT
+
+
+
+
+ 
+
+About
+
+Menu Item
+
+About Anaconda
+Careers
+Education
+Partners
+Our Open-Source Commitment
+Customer Reference Program
+Press
+Events
+Contact Us
+
+
+
+
+ 
+
+Resources
+
+Menu Item
+
+Libraries & Packages
+Support Center
+Open Source
+Blog
+Resource Center
+
+
+
+
+ 
+
+
+
+
+
+© 2023 Anaconda Inc. All rights reserved.
+
+
+Service Status
+Legal
+Privacy Policy
+Terms of Use
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,520 @@
+
+
+
+
+
+
+	Dan Q â Personal blog of Dan Q: hacker, magician, geocacher, gamerâ¦
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+Dan Q
+
+
+
+
+
+
+
+		I'm Dan Q. I've spent the last 25+ years writing things on the Internet.
+	
+
+		I work at Automattic and volunteer with Three Rings.
+		I live with my partner, her husband, and our two
+		children. When I'm not at my desk, I can often be found doing GNSS
+		sports, cycling, or travelling.
+	
+
+		I believe in open source, an open Web, and open minds. Open relationships are cool, too.
+	
+
+
+
+
+
+
+
+
+
+
+
+
+		CapsulePress - Gemini/Spartan/Gopher to WordPress bridge
+		
+
+		My WordPress blog posts are accessible via Gemini, Spartan, and Gopher. And now I've open-sourced the code that makes it possible. I give you: CapsulePress! Read more â
+
+
+
+article
+
+
+3 days ago
+
+
+
+
+
+
+
+
+
+		Stopping WordPress Emoji 'Images' in Feeds
+		
+
+		By default, WordPress's RSS feeds replace emoji with externally-hosted images of emoji. Let's see if we can turn that off. Read more â
+
+
+
+article
+
+
+1 week ago
+
+
+
+
+
+
+
+
+
+		Debian + DKIM for Dummies
+		
+
+		I migrated my email subscription list from Gandi's SMTP server to my own... for which I first needed to teach myself OpenDKIM. Here's what I learned. Read more â
+
+
+
+article
+
+
+2 weeks ago
+
+
+
+
+
+
+
+
+
+		Watch Together with WhatsApp on the side
+		
+
+		For a Virtual Fringe Festival party, I hooked up OBS Studio and Owncast with WhatsApp Web on the side. Here's how I did it. Read more â
+
+
+
+article
+
+
+2 weeks ago
+
+
+
+
+
+
+
+
+
+		Are Geocache Logs Getting Shorter?
+		
+
+		Are geocaching log entries getting shorter? Let's extract a sample of 134,000 of them and make Excel cry. With graphs! Read more â
+
+
+
+article
+
+
+3 weeks ago
+
+
+
+
+
+
+
+
+
+		RSS Zero isn't the path to RSS Joy
+		
+
+		Thereâs nothing special about reaching Inbox Zero in your feed reader. Itâs not noble nor enlightened to get to the bottom of your âunreadâ list. Your ð feed ð reader ð is ð not ð
+		an ð email ð client. ð Read more â
+
+
+
+article
+
+
+2 months ago
+
+
+
+
+
+
+		Subscribe for email updates, or discover other ways to subscribe:
+		Your email: 
+
+Email no more than  daily  weekly
+
+
+
+
+
+
+
+
+
+		Found GC2HDCZ Tom Burts Cache 4
+		
+
+		Found while walking into High Wycombe to work after dropping my canine caching-companion (pictured) off at the nearby veterinary hospital for an operation. Didnât need her help with
+		this easy find, luckily! Shame about all the fly tipping littering this otherwise pleasant path. Greetings from Oxfordshire!Ã Read more â
+
+
+
+checkin
+
+to GC2HDCZ
+
+
+4 hours ago
+
+
+
+
+
+
+
+
+
+		Groundhog Day
+		
+
+		After a break of nine and a half years, webcomic Octopuns is back! Read more â
+
+
+
+repost
+
+(original)
+		
+
+1 week ago
+
+
+
+
+
+
+
+
+
+		Crowdsourced Burger Photography
+		
+
+		If I were crowned Burger King, I'd try to distract people from the marketing lawsuit farce by crowdsourcing my food photos... Read more â
+
+
+
+note
+
+
+2 weeks ago
+
+
+
+
+
+
+
+
+
+		Woodward Draw
+		
+
+		Over the course of three days, I completed excellent 4-letter-word-puzzle-game Woodward Draw, and I think you should give it a go too. Read more â
+
+
+
+repost
+
+(original)
+		
+
+2 weeks ago
+
+
+
+
+
+
+
+
+
+		Found GC54E29 WAG 16 - Elvendon Valley
+		
+
+		The poor little geopupâs only got tiny legs, and the 8km weâve walked so-far has got her pretty tired-out, so thisâll be the last cache of the series before we go and find ourselves
+		some lunch and go home. Itâs been a very enjoyable series so far, and I fully intend to return to complete [â¦] Read more â
+
+
+
+checkin
+
+to GC54E29
+
+
+2 weeks ago
+
+
+
+
+
+
+
+
+
+		Found GC54E1W WAG 15 - Action!
+		
+
+		Sometimes the geo-sense âjust worksâ. This was one of those moments. I was approaching the area and checking the distance. Then I walked straight to a likely location. Then I picked
+		up the cache. Done and done. Read more â
+
+
+
+checkin
+
+to GC54E1W
+
+
+2 weeks ago
+
+
+
+
+
+
+
+
+
+		Found GC72TZ5 WAG 14 - Wander through Wroxhills
+		
+
+		Turning South and crossing our own path, the sun came out at last and we were bathed in glorious warm light. Between that, and the familiarity of the trail we passed, the geopup and
+		I completely forgot for a moment that we were out to look for this next cache and overshot it: we had [â¦] Read more â
+
+
+
+checkin
+
+to GC72TZ5
+
+
+2 weeks ago
+
+
+
+
+
+
+
+
+
+		Found GC54DR7 WAG 9 - Sausages & Bacon!
+		
+
+		Worra lorra porkers! The geopup is a huge fan of sausages but I donât think she understood that the cornucopia she was looking at across the field was the same thing, just a few
+		years off being ripe. Great cache container too. TFTC, and letâs chuck an FP in because this series as a whole [â¦] Read more â
+
+
+
+checkin
+
+to GC54DR7
+
+
+2 weeks ago
+
+
+
+
+
+
+
+
+
+		Found GC54DTF WAG 10 - Track-able
+		
+
+		The geopup and I tried a couple of likely hiding places before we found this one. A nice-sized container and well-suited to its hiding place, here, TFTC! Read more â
+
+
+
+checkin
+
+to GC54DTF
+
+
+2 weeks ago
+
+
+
+
+
+
+
+
+
+		Couldn't find OK00F7 Pig City Vista
+		
+
+		Came by this location while doing the nearby WAG series. Was delighted to see that an OpenCache was on the route too so the geopup and I dedicated the time to a decent search. We
+		think we found what was once the hiding place, but the cache itself was sadly nowhere to be seen. Read more â
+
+
+
+checkin
+
+to OK00F7
+
+
+2 weeks ago
+
+
+
+
+
+
+
+
+
+		Couldn't find GC54DW0 WAG 11 - Panorama
+		
+
+		Between nearby GC7QC7R, which acts as a spur to this series, and OK00F7, which sits on (and predates) this series, I was feeling confident of a find hereâ¦ but after an extended
+		search the geopup and I had to admit defeat. To be honest, she was willing to give up and press on immediately, having [â¦] Read more â
+
+
+
+checkin
+
+to GC54DW0
+
+
+2 weeks ago
+
+
+
+
+
+
+
+
+
+		Found GC7QC7R Lothal
+		
+
+		As a quick diversion from the nearby WAG series, the geopup and I meandered out this way to find this cache. Once I was in the vicinity of the cache something stood out to me as
+		unusual, so we went to pick it upâ¦ it turned out to be a chunk of wraught iron, but [â¦] Read more â
+
+
+
+checkin
+
+to GC7QC7R
+
+
+2 weeks ago
+
+
+
+
+More posts â
+
+
+
+
+
+
+
+
+Â© Dan Q 1998-2022
+	
+
+ except
+	where stated (how to use)
+	
+
+powered by 
+
+
+
+
+
+privacy
+
+
+
+
+
+Read  articles,  checkins,  notes,  reposts, and more...
+
+
+ contact
+
+
+subscribe
+
+
+
+
+
+
+
+

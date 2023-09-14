@@ -1,0 +1,339 @@
+
+
+
+Aaron's Essays
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Learning by doing, because I can't follow instructions
+
+
+Aaron Harris
+  Helping founders navigate fundraising at Magid and Co (www.magidandco.com).
+Was a Partner at Y Combinator.
+Co-founded Tutorspree.
+
+  
+    
+
+
+
+
+Archive
+
+
+
+Browse the archive
+
+
+Subscribe
+
+
+Subscribe by email
+
+
+
+You're following this blog.
+
+Unfollow
+
+
+
+
+Follow this Posthaven
+
+
+
+
+Enter your email address to get email alerts about new posts on this site.
+Unsubscribe anytime.
+
+
+Email address is invalid.
+
+
+
+
+
+Subscribe to the feed
+
+
+Built with Posthaven
+
+      Theme based on
+      Lanyon by
+      @mdo
+
+
+
+
+
+Manage
+New Post
+
+Logout
+
+
+Login
+
+
+
+
+
+
+
+
+
+
+Aaron's Essays
+
+
+
+
+
+
+The Hindsight Game
+
+
+There are all kinds of strategies for evaluating startup ideas - investors talk about having a “prepared mind,” others build market maps, I like to think about toys, and we could go on. What everyone wants to do is predict the future. That’s honestly impossible. But we can pretend a bit and use hindsight as a framework to find the kinds of opportunities that are worth working on.We’re living through an example of how this could works thanks to generative AI.  Roll the clock back five years and ask…just about anyone where they expected AI to have its first big impact. I’d imagine (at least I imagined at the time) most people would have said that AI would rise first in technical fields. We’d see leaps in biotech as computer minds outpaced human ones on drug design and discovery. We’d see vehicles capable of navigating themselves. We’d witness new materials and devices churned out by intuitively leaping machines. We wanted these things to be true because they’d be cool and also would produce huge financial returns.But we all knew, as we’d been told by countless works of fiction, that the creation of art would be the last realm to be conquered, that it would be the thing after AGI emerged because of how important the creative spark is to novel artistic endeavors. The patterns there don’t matter, we told ourselves; the soul is the thing.Whoops.In hindsight, of course the first truly breakthrough moments of AI came roaring out of creative fields - from art and from writing. The patterns were there, even if we pretended they weren’t. Look at a great photograph. It is not great at random. It is great because of the placement of elements in the frame, because of the balance of light and shadow, of negative and used space. Compare a photo from Henri Cartier-Bresson to the average selfie and your brain knows that one is great and one is bad even though you don’t know why. But feed a gazillion images to an AI and it will find those patterns once it can process enough of them. And then it can spit those patterns back out.The key to figuring this out, at least for an observer (and ok an investor and probably a founder thinking about what to do) is the hindsight bit. The English idiom has it that “Hindsight is 20/20” meaning that all the mistakes are only ever obvious when you’re looking backward. But we’re not looking for mistakes, we’re trying to figure out the next big thing.I don’t think anyone can accurately predict the future, but I think of this…hindsight game as the startup version of Albert Einstein’s Gedankenxperiments - his thought experiments that started with an impossible thing like “imagine you are riding a beam of light.” It’s a simple tool that most people will simply fail to either use or have enough imagination to find useful. It will also, probably, throw out lots of false positives.For thinking about technology and businesses, I find that the hindsight game looks a little something like this: take an idea that’s been presented to you. Rather than find all the things wrong with it, or the ways in which it will obviously be interesting but not huge, ask a simple question “what if everything about this is true, but only more so?” That’s the first part of the game. It requires you to imagine the future with one big change - don’t try to change everything, that’s too hard.Now, once you have that in your head, the next question is “ok, so what else is possible?” That’s the fascinating bit to me, not just what happens if X is true, but what Y exists only because X is true?It is fun to play this game with AI because of how fast the field is moving. So let’s work through a round of our game - let’s pretend that AI’s generative and analytical ability only gets better such that, in 5 - or 2 or 10 or 20 - years, it becomes painfully clear that there’s no such thing as a public market investor with an edge. The data is all public, the AI can analyze the data and run all kinds of scenarios and understand the relationship between all the assets and consider your needs and what’s logical and probabilistic and then spit out an ideal trade for you. But even that doesn’t matter much because there’s no alpha to any trade since the AIs are so fast and everyone has them.So what’s the point of active trading? Where do all the hedge funds go? Maybe they go poof and the real value accrues to the exchanges that figure out how to serve the AI trading mechanic and are now ludicrously valuable because stocks and bonds still need to trade. And then there’s a different kind of exchange because people like to gamble - but that exchange has an AI referee that looks for any unfair “edge” the way Call of Duty looks for cheaters. This could be totally wrong, but it’s coherent!Now you have hindsight. You have a model of how the world looks 5 years from now, looking back. What should you do now, knowing what’s to come? There’s no one answer to it, but it sure does open a lot of ideas on which to make some huge bets.This is fun! Try it with a different set of conditions in a different market. Use it to evaluate the startup idea you have - if you’re right, do you destroy your own market or create and own a new one? Is your idea as big of an opportunity as you think, or is it bigger?We’re all guessing what will work when we try to build or invest in something new. There’s no one version that works, but I like having different games and frameworks to think about ideas. Sometimes you just need to think about the founders and sometimes you need to think about markets. And, sometimes, you just need to pretend you’re already living in the future.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Upvote
+Upvoted
+8
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+Avoiding Errors in Demo Day Fundraising
+
+
+I’ll be addressing the topic below along with Alfred Lin from Sequoia and Ilya Sukhar from Matrix on 3/24: https://us06web.zoom.us/webinar/register/WN_qgghYDq4QxCiW9REOOrbmwIt would be challenging to name all the fundraising mistakes that founders make during the many demo days that occur each year. There are certainly broad categories, but rather than focus on all of them, I think it’s worthwhile to consider one specific category of error, which is generally one of omission rather than commission: ignoring demo day as a step toward an A.This is a big one because, at least when I ran the data at YC, the best companies in an accelerator tend to be the ones that raise a Series A within 12-18 months of Demo Day (or sometimes a month or two before Demo Day). There’s a strong correlation here driven by the fact that the best companies tend to set and maintain a rapid pace of growth throughout their lives, and that trend leads to rapid milestones.And yet, most founders I talk to treat their Demo Day as a disconnected event. It’s worth thinking about why they do this, what behavior it causes, and how to correct it.On the why: I think it’s fairly simple. Demo Days are stressful and are built and run around the idea that the sole purpose  is to raise seed funding. This is true but also misses the point because seed funding isn’t the goal of a company - building a big company is the goal of a company. From that lens, Demo Day and seed funding are part of a larger story, and are tools for executing on a larger vision. Now, many founders will say that they don’t have time to think about their A when putting together a seed, but that’s short sighted. Founders should be thinking about every round they do as it relates to the next round and the next set of milestones the business needs to achieve.You can add to this that most of the advice founders get from various advisors around Demo Day is to close money fast and go “back to work.” But again, this is short sighted. A Demo Day is the only time where many investors are hyper focused on an early stage startup. Squandering that attention is a mistake.[1] Of course founders shouldn’t constantly be actively fundraising, but they sure as hell need to always be thinking about where the money they need to build is going to come from. On top of that, they need to act in a way that increases their chances of raising that money.One more thing - last time I ran the data, it turned out that having a Series A investor in your seed was, on balance, a positive signal for your ability to raise a quality A. I’m sure the numbers have shifted a bit since then, but I’m willing to bet that the conclusion is the same.So, to get to the errors:
+Don’t ignore Series A investors before or at a Demo day. If you do not plan on raising an “A,” find a way to schedule time with them anyway.
+Don’t shoehorn Series A investors into the same process that you have for angel/seed investors. They generally work differently, so account for that.
+Don’t think of your seed round as an isolated event. Think about the amount you raise and the cap you use as a starting condition for your next raise. Limiting dilution is good, on balance, but not if it gives you a cap so high as to impair your ability to raise your next round.
+Don’t vanish after meeting an investor who seemed interested and who has a good reputation. Figure out how to nurture that relationship and keep the investor interested.
+Don’t treat investors as interchangeable. It may be true that money is money, but the people deploying it are human and want to build a relationship. You are not trying to make friends, but you are playing a game that is designed to increase the chances of success for your company.
+Avoiding these errors isn’t necessary or sufficient to raise an A. I’ve seen companies commit nearly every error imaginable and still raise money. However, founders shouldn’t strive to be uniquely lucky in fundraising. Founders should use knowledge about how fundraising works to constantly improve their odds of success. A demo day is an unfair advantage in that process, and founders should treat it that way.__[1] This goes for the accelerator as well as for the founder. Accelerators should harness the interest of later stage investors vs. designing fully against their interests.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Upvote
+Upvoted
+5
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+There Are No (Absolute) Red Flags in Venture Capital
+
+
+Let’s accept, for the purposes of this essay, that founders and venture capitalists are engaged in a simple trade. Founders sell business risk for the cash they need to take bigger risks; venture capitalists buy that risk hoping it will one day transmute into reward. Each side does this because they believe that, ultimately, the size of the risk is directly correlated to the scale of the potential reward.But there’s acceptable risk and there’s unacceptable risk. No sane person is going to invest in a scheme to turn lead into gold, but early-stage startups—and even some mid- and late-stage startups—rarely present such a clear-cut profile. Investors are often under pressure to evaluate seemingly great ideas and teams without all of the information they’d ideally have to decide whether to put their money on the line.I’ve written in the past about how investors consider the reward side of this process, so let’s focus on the risk side. Some risks are obvious—the market may be too small or the costs too high—not to mention that pesky fact that the future is always ultimately unknowable. But some risks are more idiosyncratic. We call these red flags.There’s been a lot of talk about red flags recently, mostly in the context of FTX and the diligence that its investors may or may not have done before committing their partners’ funds. I happen to believe that investors did a heck of a lot more diligence than they’re being given credit for having done, but I also think that conversation misses the point. Red flags, when you find them, are rarely deal-killers. They’re just pieces of information, indications of risk. The bigger the reward potential, the more red flags an investor should be willing to accept—or even expect. Let’s take a look at a specific type of red flag I’ve seen and the nuances it presents: During the diligence process, an investor discovers that the numbers in a pitch don’t match the numbers on a revenue or income statement. This is, without a doubt, cause for concern. There are two major explanations here—either the founder made a mistake or the founder is lying.If the founder doesn’t seem to understand the numbers, the investor will probably decline the deal—not because of any specter of dishonesty, but rather because the founder is demonstrably incompetent. If the founder gets evasive when confronted, the investor would probably conclude that they’re lying and walk away. But if the founder recognizes the discrepancy as a mistake and quickly corrects it, provided the error is fairly trivial, the investor may lose some confidence but not give up on the deal. There are other classes of red flags. Sometimes the corporate structure is odd (this was true of Facebook, which in its earliest days granted founder Mark Zuckerberg enough super voting shares to ensure his will would go virtually unchallenged), or the company was originally a non-profit (see: OpenAI). Founders get flagged for not thinking deeply enough about a problem and for thinking too deeply about a problem without taking action. Some investors believe that being a first-time founder is a red flag in and of itself, while others see it as a strong positive. Remember: Red flags are very rarely outright fraud, and when they are, it’s often obvious only in hindsight. Different investors have different levels of risk tolerance and generally only agree with each other when someone else makes a catastrophically bad and public mistake. Especially in a later stage company, there are so many places for a malicious actor to hide their dirty dealings that it would be incapacitating for any investor to do all the diligence required to definitively eliminate fraud. Such a thing simply isn’t possible. Look at Enron! Look at Madoff!And finally, on the other side of any red flag is one critical, inescapable question: If the product is selling and the company is making money, how big a problem could it be? What if what looks like a red flag turns out to be a meaningless distraction and the deal you walked away from nets someone else a billion-dollar return? I’m willing to bet that there are investors who passed on Google’s Series A in 1999 because it had almost no revenue—a clear red flag for a company raising $25 million—and are still kicking themselves for it. All of which is to say that so-called red flags matter, but not in any kind of mechanistic way. And if you flip that around, there’s an important lesson here for founders.Every business has flaws that could be considered red flags by someone. (If there are absolutely no red flags, that could be the biggest red flag of all! But I digress…) One of the most useful things a founder can do when preparing to raise capital, therefore, is to take as objective a view as possible of their business and know where those red flags are. For instance, delivery businesses generally have low margins relative to software businesses. Some investors won’t touch delivery for that reason, but most are happy to dig deep provided that margins are improving at a high enough rate that they can turn a hefty profit before the company implodes. One of my favorite misunderstood red flags has to do with the default rate of a lending business. Many founders work hard to demonstrate that their default rate is, effectively, zero. This feels smart, like perfect risk-management. But it is also almost always the wrong answer. Lending requires at least some risk, so if the default rate is zero, it means the founder hasn’t stress tested their model on a broad enough range of users. What investors actually want to see is a reasonable default rate within the context of factors like the cost of capital, the ease of scale, the return profile, etc. As long as the default rate makes sense within the overall story of the business—and that the story ends in huge returns—no red flag.The best thing a founder can do is to draw attention to their red flags proactively and in detail. See this unusual management structure we have? That’s on purpose. See this gap in our revenue over here? We screwed up, here’s how and here’s what we learned from it.In the end, what matters is context—the way whatever red flags there may be fit into the larger narrative of the business. No red flags mean no risk at all, and that wouldn’t be particularly interesting.__I originally published this in by The Information on Jan 18, 2023: https://www.theinformation.com/articles/red-flags-are-in-the-eye-of-the-beholder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Upvote
+Upvoted
+5
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+Generative AI Might Just Save Venture Capital
+
+
+
+Originally published in The Information on November 2.
+For the past nine months, nearly every investor with a Twitter account, blog or board seat has been beating a unified and constant refrain: The go-go days are done. Founders were being pushed to build 36 months of runway, whether or not it was actually feasible to cut costs that much. Time and again, investors told me due diligence was back. I watched as fundraising rounds that a year ago would have produced a term sheet in a few days stretched across a full month and dozens of pitches.
+And then came Dall-E 2’s public release, quickly followed by a flood of wildly cool technology. (edit 12/8: And now ChatGPT!)
+These events triggered a craze now ripping through venture capital land. We’re seeing billion-dollar valuations for companies peddling products based on generative artificial intelligence algorithms with less than a million dollars of revenue and no proven business model. Not long ago, the same behavior was held up as a cautionary tale about the excesses of VC over Web3 and instant delivery. Now we have a whole new era of exuberance on our hands.
+The first thing to remember is that this ability to pivot from dark depression to fall-over-yourself excitement is at the core of the startup world’s future-building powers. Seen from another angle, the whiplash looks like optimism, and VC would have vanished decades ago without it. The entire venture model is about funding failure until you find success. There have been times where the entire industry seems to implode, only to come roaring back.
+
+I won’t argue that every investor or founder is a walking example of this kind of stoic hopefulness. There are plenty of cynics puffing themselves up by tearing down other people’s ideas (something I—regrettably—did quite a bit of early in my career), and plenty of others who have no particular view on the future other than wanting to make money. The best investors and founders, though, are optimistic realists of the purest sort. This might come across as ignorant or naive, but sooner or later they usually end up being right.
+Optimism is the key to understanding what’s happening on the frothy edge of the investing world. It would be easy to write off the generative AI craze—after all, there was an AI and machine-learning craze just a few years ago that didn’t lead to much of anything. Add to that the ongoing collapse of several waves of exuberance at once—crypto, fast delivery, public markets in general—and it’s difficult to believe that optimism will actually win out.
+That said, I see four major reasons why generative AI has venture capitalists acting like it’s Q1 2021 all over again.
+
+It’s rooted in an archetypal category of futuristic technology, aka AI.
+There are any number of plausible paths that end in fat returns.
+The press has already thoroughly hyped the space as a whole and a handful of companies in particular.
+Most importantly, there are no public generative AI companies. As a result, there are no visibly crashing multiples or valuations to weigh down private valuations.
+
+Coming out of the stock market crash at the beginning of the Covid-19 pandemic, the world did in fact change. Work shifted, shopping habits morphed and the value of venture bets hit astronomic highs. Companies that had been private for a decade decided the time was right for blockbuster initial public offerings, and Wall Street said, “Hell, yes.” That meant big payouts for all the venture investors who’d been patiently waiting for their exit opportunities. As returns surged, new fund sizes surged, and the FOMO cycle kicked in all along the chain.
+Suddenly it was easy to be optimistic—too easy. Wherever there was software, or even just the idea of software, there was the promise of quick wealth. Then many of the equities that went public to great fanfare quickly fell off a cliff, taking a whole lot of optimists with them.
+By spring this year, pessimism seemed to have set in. On its face, this was more than a bit baffling. It’s not as if much value has been destroyed—sure, the valuation of, say, Coinbase has dropped more than 80% since its public trading debut, but a market cap of $15 billion is still incredible. Plus, as I’ve already argued, investors are sitting on huge piles of money and they have an obligation to invest.
+What’s become clear in the last month is that the ancient optimism wasn’t dead, it was merely hibernating. Maybe you could have seen this from the ongoing drumbeat of new fund closes. If you’d talked to the right investors, you’d have discovered that they were still doing deals, just quietly. The market was waiting for a catalyst, and now it has one.
+It’s important when thinking about how VC works over time to remember that venture investing is driven by narrative more than it is by data. Early-stage companies are valued on their promise, not on what they’ve done. On top of that, an awful lot of venture capitalists devoured science fiction as kids and now, as adults, they fixate on how new technologies can shift humanity. Even if we haven’t yet figured out a positronic brain or proton micropile, AI always tickles that old childhood fascination.
+Generative AI especially offers tantalizing possibilities. If this new stuff can write marketing copy, is it good enough to topple the world’s largest advertising agencies? It’s possible that image generators will soon remove the need for commercial photography. Maybe we will finally get a conversation engine that makes customer service less awful and renders the call center business obsolete. Each of these is a giant opportunity, and we’ve barely scratched the surface.
+With the narrative pieces in hand, investors have another hurdle to overcome: peer pressure. Some investors seek out genuinely novel bets, but many want the safety of going with the crowd. Generative AI satisfies both desires, having both whiz-bang appeal and enough press attention to give timid investors cover.
+It’s all good news for venture capitalists and founders in the generative AI world right now. That won’t last, but right now, it’s easy to argue that the future is bright and golden. Even more, it’s difficult to tie these new companies to the types of public assets that have been hammered of late. Generative AI isn’t software as a service, so SaaS multiples are irrelevant. It isn’t a token, so crypto winter doesn’t matter. For the moment, at least, nothing can spoil the party.
+All of this is great for the tech ecosystem, including for founders not currently building generative AI companies. That’s not to say companies should start adding random image generators or copywriting features to, say, payment processors. That would be foolish, though I’ve seen worse (not every videogame needs non-fungible tokens!).
+The lesson for founders is that investors are looking for reasons to be optimistic. Sometimes that means cutting back on hiring or reining in growth plans, but the really savvy founders will find ways to convince investors their companies are the ones that can swim against the current.
+Let’s all hope generative AI fulfills at least a quarter of the promises people are making in its name. In the meantime, optimism is contagious, which is good for everyone.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Upvote
+Upvoted
+0
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+When to Shut Down Your Company
+
+
+I originally wrote this essay four years ago and published it over at YC's blog at the time. A number of recent conversations I've had with founders made me realize that the framework below remains useful. As the market continues through its downswing, more founders will face difficult decisions about how long and how far to push their startups. This is as emotionally fraught as ever, so I hope that resurfacing this essay will help a few people through the decision making processIt makes sense that founders and investors spend so much time talking about things that go well. If we spent all of our time dwelling on the companies that failed, we wouldn’t have time for much else.When people do talk about company failure, they often do so in a way meant to make them seem wise by breaking down all the lessons they’d learned through failing. I did something like this when we shut Tutorspree down. I think that was a valuable exercise, and maybe it even helped some people. Mostly, though, it was cathartic.Founders lack a coherent way to think about when to shut down.[1] Founders do not always get to choose to shut down.[2] However, most of the time, it is the founder’s choice. It’s a personal decision. It’s a hard and painful decision. It’s an emotional, fraught decision. However, shutting down doesn’t have to be a blind decision.The unintuitive thing about figuring out if you should shut down your company is that it isn’t the path of least resistance. The “easiest” thing to do for a struggling company is to fall into zombie mode – neither growing nor truly dead. This is easy because it doesn’t require an active decision, it just involves continuing to do the bare minimum to keep the company alive. This involves a series of seemingly small compromises that lead to stasis or failure.Shutting down is hard because it means publicly admitting that you were wrong, unlucky, or incompetent.[3] Because of this difficulty, we’ve evolved a set of terms that often mean “shut down” without saying “shut down.” In no particular order these are: pivot, hard pivot, rebrand, strategic shift, change customer focus, and platform switch.[4]StakeholdersShutting down is hard because it generally means disappointing people who believed in you. Some of this disappointment is real, some of it is imagined. Founders who have raised money are usually most concerned about disappointing or upsetting their investors. Investors are often upset when a bet fails, generally in proportion to the amount of capital they’ve given you, and in the speed with which things went wrong since they invested. However, investors know that most bets are going to fail, and will usually get over their emotions. The thing that bothers investors more than shutting down is when founders either misrepresent the status of a business and suddenly shut down without warning, or slowly bleed out a business over years while taking up a lot of the investor’s time.Founders often worry that shutting down will disappoint their customers. This is true, but companies that aren’t doing well generally see their products degrade, which also upsets customers. Unless your product provides a critical, lifesaving purpose, shutting down cleanly and with transparency is much preferred to a slow fade into obsolescence.[5]Founders should worry about the impact that shutting down has on their employees. The biggest burden a founder has is to meet payroll. The biggest emotional investment that founders make – especially early on – is convincing great people to take a leap of faith and accept an offer to work their butts off on a long shot. This dynamic is why transparency around the decision to shutdown and the timeline of it is so important.The worst thing a founder can do to an employee is to tell them that everything is amazing, and then to one day tell them that she a) no longer has a job and b) that the company cannot pay her what was promised and c) that you’ve known all this for a long time but didn’t want to tell her because you were worried about her feelings. It is much better to make a clean decision to shut down in full view of of your employees with enough time and money left to help employees find new jobs and move on.A Framework for Shutting Down
+The decision to actually shut down an idea can be made through answering the following questions:[6]
+
+Do you have any ideas left to grow your startup?
+Can you drive that growth profitably?
+Do you want to work on the startup that results from that growth?
+Do you want to work with your co-founders on the startup that results from that growth?
+The first two questions here are quantitative and driven by the experiments that founders are constantly running on their products and users. Unfortunately, while they are quantitative, there’s no deterministic way to know if you’ve actually tried everything in the right way. At some point, you have to make a call based on accumulated evidence.[7]The second two are qualitative and introduce the largest challenges around making a decision comes when the answers to these questions are mixed between yes and no. For instance – if you enjoy working with your co-founders on a business that produces positive cash flows but is not growing, you probably shouldn’t shut down. However, if you hate the people you’re working with on a business that is growing rapidly, you should either shut it down, or find a way to keep going without the team. These are personal decisions that no one else can make for you, but it is important to separate the different threads of the decision so that you can actually evaluate them as objectively as possible.The Other SideI was terrified to shut my company down, even though all the evidence said it was the right decision.[8] The thing that scared me most was the that I had no idea what would happen afterwards. However, I realized that I had exactly one life to live, and that staying in a bad situation of my own making out of fear was a dumb thing to do.Having spoken with many founders who have gone through similar situations, I’ve found that most of them are incredibly depressed after shutting down their startups for a few months. Afterwards, things start to get better. This may be hard to believe but shutting down releases so much tension and clears away so many burdensome expectations that it allows for brand new creative ideas and approaches. It’s a necessary part of the startup cycle, and one that founders need to approach more openly and rigorously.__Notes[1] Throughout this essay, I use “shut down” interchangeably for ideas and companies. The two differ only slightly.[2] Running out of money unexpectedly, often as a result of a failed fundraise, can force a founder to shut down.[3] Incompetent seems harsh, but it would be strange to believe that you could be competent at all the new things required in building a company on the first or even tenth try.[4] I am sure this is a non-exhaustive list.[5] In this case, shutting down is still critical, but the decision should involve a long timeline, over communication, and a best effort to find alternatives.[6] I could also state this as the inverse. Deciding to work on a startup should come down to these questions all being answered with “yes.”[7] It’s important to make sure that you’ve actually tried a lot of things. Founders often quit far too early on an idea that needs more time.[8] The answers to questions 2, 3, and 4, were all “no.” The good news is that Ryan, Josh, and I all like each other as humans.Thanks to Sam Altman and Craig Cannon for reading drafts of this way back.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Upvote
+Upvoted
+6
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+
+Older
+Newer
+
+
+
+
+
+
+
+
+
+
+
+
+

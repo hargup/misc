@@ -1,0 +1,1610 @@
+
+
+
+
+
+
+
+
+
+Home – GLEIF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us:
+
+
+        LinkedIn      
+
+
+        Twitter      
+
+
+        YouTube      
+
+
+
+
+
+
+            LinkedIn          
+
+
+
+
+            Twitter          
+
+
+
+
+            YouTube          
+
+Career Opportunities
+GLEIF Blog
+Contact
+Site Search
+
+
+
+العربية‏ (AR)
+Deutsch (DE)‎
+English (EN)‎
+Español (ES)‎
+Français (FR)‎
+Bahasa Indonesia (ID)‎
+Italiano (IT)‎
+日本語 (JA)‎
+한국어 (KO)‎
+Polski (PL)‎
+Português (PT)‎
+Русский (RU)‎
+Türkçe (TR)‎
+中文（普通话） (ZH)‎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GLEIF
+
+
+
+
+
+GLEIF
+
+This is GLEIF
+
+Our Vision
+
+Our Values
+
+GLEIF Services
+
+GLEIF Service Catalog
+
+Service Reports
+
+Service Reports Archive
+
+
+Service Availability Dashboard
+
+ISO 20000 Certification
+
+
+
+Open Data
+
+Open Source
+
+GLEIF Engagement
+
+Organization and Committee Engagement
+
+GLEIF Stakeholder Groups
+
+GLEIF Vendor and Services Providers Relationship Group
+GLEIF GIFI Relationship Group
+GLEIF CA Stakeholder Group
+
+
+
+
+Management
+
+Governance
+
+Financial Stability Board (FSB)
+
+Regulatory Oversight Committee
+
+MoU between GLEIF and ROC
+
+Board of Directors
+
+ROC Observers
+
+Board Committees
+
+Board Minutes
+
+Statutes
+
+By-laws
+
+Policies
+
+Annual Report
+
+Call for Applications for the Board of Directors
+
+
+
+History
+
+
+
+
+LEI
+
+Introducing the Legal Entity Identifier (LEI)
+
+The Global LEI System
+
+Global LEI System: a Network of Federated Services
+
+
+
+Get an LEI: Find LEI Issuing Organizations
+
+Registration Agents
+
+
+
+The Lifecycle of a LEI Issuer
+
+GLEIF Accreditation of LEI Issuers
+
+Accreditation Process
+Current Candidates
+Questions and Answers
+Accreditation Resources
+Required Documents
+
+
+LEI Issuer Offboarding Process
+
+
+
+ISO 17442: The Global Standard
+
+ISO 17442 Part 2: The LEI in Digital Certificates
+
+
+
+LEI Namespace
+
+Common Data File Formats
+
+Current Versions
+
+Level 1 Data: LEI-CDF Format  3.1
+Level 2 Data: Relationship Record (RR) CDF Format 2.1
+Level 2 Data: Reporting Exceptions Format 2.1
+Supporting Documents
+
+
+Previous  Versions
+
+
+
+Code Lists
+
+GLEIF Registration Authorities List
+
+ISO 20275: Entity Legal Forms Code List
+
+ISO 5009: Official Organizational Roles Code List
+
+GLEIF Accepted Legal Jurisdictions Code List
+
+
+
+Semantic Representation of the LEI
+
+LEI Model in XBRL (eXtensible Business Reporting Language)
+
+LEI Model in RDF (Resource Description Framework)
+
+
+
+Questions and Answers
+
+
+
+
+vLEI
+
+Introducing the verifiable LEI (vLEI)
+
+GLEIF eBook: The vLEI: Introducing Digital I.D. for Organizations Everywhere
+
+
+
+Introducing the vLEI Ecosystem Governance Framework
+
+Get a vLEI: List of Qualified vLEI Issuing Organizations
+
+The Lifecycle of a vLEI Issuer
+
+GLEIF Qualification of vLEI Issuers
+
+Qualification Program
+Required Documents
+
+
+
+
+
+
+
+Solutions
+
+Overview
+
+Why the LEI?
+
+Featuring the LEI
+
+Cross-Border Payments
+
+Digital Organizational Identification
+
+International Supply Chain
+
+
+
+Validation Agents
+
+GLEIF eBook: Introducing the LEI Validation Agent
+
+GLEIF eBook: A Closer Look at The Validation Agent Trial Process
+
+
+
+LEI in Regulations
+
+GLEIF and Data Foundation: Comprehensive Entity ID for U.S. Federal Government
+
+Consultation Responses
+
+
+
+The LEI: The Key to Unlocking Financial Inclusion in Developing Economies
+
+McKinsey & Company and GLEIF: LEIs and Client Lifecycle Management in Banking - a U.S.$4 Billion Beginning
+
+GLEIF Infographic: LEIs Transforming Banks’ Client Lifecycle Management
+
+
+
+McKinsey & Company and GLEIF: Creating Business Value with the LEI
+
+LEI in Capital Markets
+
+LEI in Trade Finance
+
+LEI in Commercial Credit
+
+
+
+LEI in KYC: A New Future for Legal Entity Identification
+
+GLEIF Research: The Pitfalls of Onboarding
+
+
+
+GLEIF’s Digital Strategy for the LEI
+
+GLEIF & IDC Research: Creating Agile & Resilient Global Trade with the LEI and vLEI
+
+
+
+
+
+
+LEI Data
+
+Access and Use LEI Data
+
+Level 1 Data: Who is Who
+
+ROC Policy on Level 1 Data
+
+
+Level 2 Data: Who Owns Whom
+
+ROC Policy on Level 2 Data
+
+
+
+
+Global LEI Index
+
+LEI Statistics
+
+Download Global LEI System Business Reports
+
+Global LEI System Business Reports Archive
+
+
+
+LEI Search
+
+About LEI Search
+
+How to use LEI Search
+
+
+
+
+GLEIF Concatenated Files
+
+About the Concatenated Files
+
+Download the Concatenated Files
+
+LEI Issuers: Original Sources
+
+LEI Issuers: Historical Files
+
+
+
+GLEIF Golden Copy and Delta Files
+
+Download the GLEIF Golden Copy and Delta Files
+
+
+
+GLEIF API
+
+LEI Mapping
+
+Download BIC-to-LEI Relationship Files
+
+Download ISIN-to-LEI Relationship Files
+
+Download MIC-to-LEI Relationship Files
+
+S&P Global Company ID-to-LEI Relationship
+
+Download OpenCorporates ID-to-LEI Relationship Files
+
+GLEIF Certification Process
+
+
+
+GLEIF Data Quality Management
+
+Proactive Management
+
+XML Schema
+
+Data Quality Checks
+
+Details
+
+
+Data Quality Dashboard
+
+Data Quality Reports
+
+Additional Data Quality Reports
+
+
+Challenge LEI Data
+
+Downloads
+
+
+
+Email Notifications on Technical Updates
+
+
+
+
+News & Media
+
+GLEIF and LEI News
+
+Subscribe to GLEIF Newsletter
+
+
+
+GLEIF Blog
+
+GLEIF Blogging Policy
+
+
+
+GLEIF Videos & Podcasts
+
+Press Releases
+
+Information for Media
+
+GLEIF Graphics & Images
+
+
+
+Featured  Events
+
+Your Event on GLEIF Website: Terms and Conditions
+
+Past GLEIF Events
+
+
+
+
+
+
+•••
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+العربية‏ (AR)
+Deutsch (DE)
+English (EN)
+Español (ES)
+Français (FR)
+Bahasa Indonesia (ID)
+Italiano (IT)
+日本語 (JA)
+한국어 (KO)
+Polski (PL)
+Português (PT)
+Русский (RU)
+Türkçe (TR)
+中文（普通话） (ZH)
+
+
+
+
+
+
+
+            LinkedIn        
+
+
+
+
+            Twitter        
+
+
+
+
+            YouTube        
+
+LEI Search
+Site Search
+
+GLEIF
+
+
+
+This is GLEIF
+
+
+Our Vision
+
+
+Our Values
+
+
+GLEIF Services
+
+
+GLEIF Service Catalog
+
+
+Service Reports
+
+
+Service Reports Archive
+
+
+Service Availability Dashboard
+
+
+ISO 20000 Certification
+
+
+Open Data
+
+
+Open Source
+
+
+GLEIF Engagement
+
+
+Organization and Committee Engagement
+
+
+GLEIF Stakeholder Groups
+
+
+GLEIF Vendor and Services Providers Relationship Group
+
+
+GLEIF GIFI Relationship Group
+
+
+GLEIF CA Stakeholder Group
+
+
+Management
+
+
+Governance
+
+
+Financial Stability Board (FSB)
+
+
+Regulatory Oversight Committee
+
+
+MoU between GLEIF and ROC
+
+
+Board of Directors
+
+
+ROC Observers
+
+
+Board Committees
+
+
+Board Minutes
+
+
+Statutes
+
+
+By-laws
+
+
+Policies
+
+
+Annual Report
+
+
+Call for Applications for the Board of Directors
+
+
+History
+
+
+
+LEI
+
+
+
+Introducing the Legal Entity Identifier (LEI)
+
+
+The Global LEI System
+
+
+Global LEI System: a Network of Federated Services
+
+
+Get an LEI: Find LEI Issuing Organizations
+
+
+Registration Agents
+
+
+The Lifecycle of a LEI Issuer
+
+
+GLEIF Accreditation of LEI Issuers
+
+
+Accreditation Process
+
+
+Current Candidates
+
+
+Questions and Answers
+
+
+Accreditation Resources
+
+
+Required Documents
+
+
+LEI Issuer Offboarding Process
+
+
+ISO 17442: The Global Standard
+
+
+ISO 17442 Part 2: The LEI in Digital Certificates
+
+
+LEI Namespace
+
+
+Common Data File Formats
+
+
+Current Versions
+
+
+Level 1 Data: LEI-CDF Format  3.1
+
+
+Level 2 Data: Relationship Record (RR) CDF Format 2.1
+
+
+Level 2 Data: Reporting Exceptions Format 2.1
+
+
+Supporting Documents
+
+
+Previous  Versions
+
+
+Code Lists
+
+
+GLEIF Registration Authorities List
+
+
+ISO 20275: Entity Legal Forms Code List
+
+
+ISO 5009: Official Organizational Roles Code List
+
+
+GLEIF Accepted Legal Jurisdictions Code List
+
+
+Semantic Representation of the LEI
+
+
+LEI Model in XBRL (eXtensible Business Reporting Language)
+
+
+LEI Model in RDF (Resource Description Framework)
+
+
+Questions and Answers
+
+
+
+vLEI
+
+
+
+Introducing the verifiable LEI (vLEI)
+
+
+GLEIF eBook: The vLEI: Introducing Digital I.D. for Organizations Everywhere
+
+
+Introducing the vLEI Ecosystem Governance Framework
+
+
+Get a vLEI: List of Qualified vLEI Issuing Organizations
+
+
+The Lifecycle of a vLEI Issuer
+
+
+GLEIF Qualification of vLEI Issuers
+
+
+Qualification Program
+
+
+Required Documents
+
+
+
+Solutions
+
+
+
+Overview
+
+
+Why the LEI?
+
+
+Featuring the LEI
+
+
+Cross-Border Payments
+
+
+Digital Organizational Identification
+
+
+International Supply Chain
+
+
+Validation Agents
+
+
+GLEIF eBook: Introducing the LEI Validation Agent
+
+
+GLEIF eBook: A Closer Look at The Validation Agent Trial Process
+
+
+LEI in Regulations
+
+
+GLEIF and Data Foundation: Comprehensive Entity ID for U.S. Federal Government
+
+
+Consultation Responses
+
+
+The LEI: The Key to Unlocking Financial Inclusion in Developing Economies
+
+
+McKinsey & Company and GLEIF: LEIs and Client Lifecycle Management in Banking - a U.S.$4 Billion Beginning
+
+
+GLEIF Infographic: LEIs Transforming Banks’ Client Lifecycle Management
+
+
+McKinsey & Company and GLEIF: Creating Business Value with the LEI
+
+
+LEI in Capital Markets
+
+
+LEI in Trade Finance
+
+
+LEI in Commercial Credit
+
+
+LEI in KYC: A New Future for Legal Entity Identification
+
+
+GLEIF Research: The Pitfalls of Onboarding
+
+
+GLEIF’s Digital Strategy for the LEI
+
+
+GLEIF & IDC Research: Creating Agile & Resilient Global Trade with the LEI and vLEI
+
+
+
+LEI Data
+
+
+
+Access and Use LEI Data
+
+
+Level 1 Data: Who is Who
+
+
+ROC Policy on Level 1 Data
+
+
+Level 2 Data: Who Owns Whom
+
+
+ROC Policy on Level 2 Data
+
+
+Global LEI Index
+
+
+LEI Statistics
+
+
+Download Global LEI System Business Reports
+
+
+Global LEI System Business Reports Archive
+
+
+LEI Search
+
+
+About LEI Search
+
+
+How to use LEI Search
+
+
+GLEIF Concatenated Files
+
+
+About the Concatenated Files
+
+
+Download the Concatenated Files
+
+
+LEI Issuers: Original Sources
+
+
+LEI Issuers: Historical Files
+
+
+GLEIF Golden Copy and Delta Files
+
+
+Download the GLEIF Golden Copy and Delta Files
+
+
+GLEIF API
+
+
+LEI Mapping
+
+
+Download BIC-to-LEI Relationship Files
+
+
+Download ISIN-to-LEI Relationship Files
+
+
+Download MIC-to-LEI Relationship Files
+
+
+S&P Global Company ID-to-LEI Relationship
+
+
+Download OpenCorporates ID-to-LEI Relationship Files
+
+
+GLEIF Certification Process
+
+
+GLEIF Data Quality Management
+
+
+Proactive Management
+
+
+XML Schema
+
+
+Data Quality Checks
+
+
+Details
+
+
+Data Quality Dashboard
+
+
+Data Quality Reports
+
+
+Additional Data Quality Reports
+
+
+Challenge LEI Data
+
+
+Downloads
+
+
+Email Notifications on Technical Updates
+
+
+
+News & Media
+
+
+
+GLEIF and LEI News
+
+
+Subscribe to GLEIF Newsletter
+
+
+GLEIF Blog
+
+
+GLEIF Blogging Policy
+
+
+GLEIF Videos & Podcasts
+
+
+Press Releases
+
+
+Information for Media
+
+
+GLEIF Graphics & Images
+
+
+Featured  Events
+
+
+Your Event on GLEIF Website: Terms and Conditions
+
+
+Past GLEIF Events
+
+
+
+Contact
+
+
+
+Contact Information
+
+
+Career Opportunities
+
+
+Americas
+
+
+Asia
+
+
+Europe
+
+
+Working Student / Intern - Data Scientist (f/m/d)
+
+
+Full Stack Python Developer (m/f/d)
+
+
+Student/Intern – Business Operations (m/f/d) – part-time 50 %
+
+
+Process Manager (m/f/d)
+
+
+Feedback
+
+
+
+
+
+
+
+
+
+ITSM 707855
+
+
+ Have you seen our latest ‘GLEIF Explains’ video series? Watch the latest episodes now!
+
+
+
+
+
+
+
+GLEIF –  Global Legal Entity Identifier Foundation
+We enable smarter, less costly and more reliable decisions about who to do business with
+Services
+Learn how
+Newsletter
+
+
+
+
+
+
+
+
+
+
+
+Legal Entity Identifier Services by GLEIF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LEI Search
+
+
+The Global LEI Index is the only global online source for open, standardized and high quality legal entity reference data. Any interested party can easily access and search the complete Legal Entity Identifier (LEI) data pool using the web-based search tool developed by GLEIF. 
+
+Use Search
+
+
+
+
+
+
+
+
+
+LEI Statistics
+
+
+GLEIF makes available key facts, figures and statistics on the global LEI population via interactive graphs and a world map drill down. Get insight at a glance on data such as the total number of LEIs issued to date or the number of LEIs issued in individual countries. 
+
+View statistics
+
+
+
+
+
+
+
+
+
+LEI Challenge
+
+
+The GLEIF central challenge facility is available for LEI Search and provides any interested party with the opportunity to trigger the verification and, where required, speedy update of LEI records including related relationship information. 
+
+Challenge data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GLEIF Video on LEI
+
+Watch
+
+
+
+
+
+
+
+
+
+
+
+
+LEI System Business Report
+
+Download
+
+
+
+
+
+
+
+
+
+
+
+
+Data Quality Report
+
+Download
+
+
+
+
+
+
+
+
+
+
+
+
+Concatenated Files
+
+Download
+
+
+
+
+
+
+
+
+
+
+
+
+Golden Copy & Delta Files
+
+Download
+
+
+
+
+
+
+
+
+
+
+
+
+GLEIF API
+
+Access
+
+
+
+
+
+
+
+
+
+
+
+
+Data on Who Owns Whom
+
+Learn more
+
+
+
+
+
+
+
+
+
+
+
+
+LEI Mapping Files
+
+Download
+
+
+
+
+
+
+
+
+
+
+
+
+Code Lists
+
+Download
+
+
+
+
+
+
+
+
+
+
+
+
+Accreditation Program
+
+Apply now
+
+
+
+
+
+
+
+
+
+
+
+
+Get an LEI
+
+Find business partner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View all services
+
+
+
+
+
+
+
+
+
+
+
+
+GLEIF & IDC Technology Spotlight: Driving Business with Trust – The Sustaining Role of Digital Identities
+IDC research for GLEIF shows 79% of digitally mature firms prioritize trust programs, with 37% finding 'mitigating risks to digital trust' tough for digital business. Reflecting on this, IDC predicts strong growth for EMEA Identity and Digital Trust (IDT) tech. This GLEIF-sponsored IDC Spotlight examines how LEI and vLEI can enhance global supply chain efficiency, security, and innovation.
+Download PDF
+
+
+
+
+GLEIF Publishes Annual Report
+GLEIF has published its annual report in human and machine-readable Inline XBRL and HTML format, with the first use of a verifiable Legal Entity Identifier (vLEI) to sign its 2021 annual report.
+Download Annual Report
+
+
+
+
+
+
+
+
+
+One global identity behind every business
+
+
+
+
+
+
+
+GLEIF Mission
+
+
+GLEIF manages a network of partners, the LEI issuing organizations, to provide trusted services and open, reliable data for unique legal entity identification worldwide. GLEIF services ensure the operational integrity of the Global LEI System.
+
+
+Read more
+
+
+
+
+
+
+Our Vision
+
+
+GLEIF believes that each business worldwide should have only one global identity. This identity should include a digital identity. Having an LEI will help to achieve this objective. Taking advantage of the Global LEI Index empowers market participants to cut costs, simplify and accelerate operations and gain deeper insight into the global market place.
+
+
+Read more
+
+
+
+
+
+
+Governance Structure
+
+
+The LEI initiative is driven by the Group of 20 and the Financial Stability Board (FSB). Created by the FSB in 2014, GLEIF is a supra-national, not-for-profit organization tasked to manage the only open, non-proprietary legal entity identification system designed as a public good.
+
+
+Read more
+
+
+
+
+
+
+
+
+
+
+How can we help you?
+– I am considering getting an LEI for my business and want to find out how
+– I am looking for answers to the most frequently asked questions on LEI, GLEIF and the Global LEI System
+– I want to get regular updates on global LEI developments
+– I am looking for information on regulatory initiatives relevant to the LEI
+– I want to contact GLEIF directly
+
+
+
+
+
+
+
+
+
+
+GLEIF Activities and News
+
+
+
+
+
+
+
+
+GLEIF Data Quality Reports
+Date: 2023-09-07
+Latest LEI Data Quality Reports Published
+
+
+
+
+
+Read more
+
+
+
+
+
+
+
+GLEIF Blog
+Date: 2023-09-13
+#14 in the LEI Lightbulb Blog Series: Where Are You? How the LEI Can Help Financial Institutions ‘Address’ a Growing Challenge in ISO 20022
+
+
+The vast complexity and inconsistency of address formats globally presents significant challenges for financial institutions. In this blog, GLEIF’s Head of Business Operations, Clare Rowley, explores why the ability to map relevant address fields from Legal Entity Identifier (LEI) reference data into the ISO 20022 messaging format is a powerful means of improving data quality, helping to bolster the global fight against financial crime and promote faster, cheaper, and more transparent and inclusive cross-border transactions.
+
+
+
+Read more
+
+
+
+
+
+
+
+More news
+
+
+
+
+
+
+
+GLEIF
+This is GLEIF
+Our Vision
+Our Values
+GLEIF Services
+Open Data
+Open Source
+GLEIF Engagement
+Management
+Governance
+History
+
+
+LEI
+Introducing the Legal Entity Identifier (LEI)
+The Global LEI System
+Get an LEI: Find LEI Issuing Organizations
+The Lifecycle of a LEI Issuer
+ISO 17442: The Global Standard
+LEI Namespace
+Common Data File Formats
+Code Lists
+Semantic Representation of the LEI
+Questions and Answers
+
+
+vLEI
+Introducing the verifiable LEI (vLEI)
+Introducing the vLEI Ecosystem Governance Framework
+Get a vLEI: List of Qualified vLEI Issuing Organizations
+The Lifecycle of a vLEI Issuer
+
+
+Solutions
+Overview
+Why the LEI?
+Featuring the LEI
+Validation Agents
+LEI in Regulations
+The LEI: The Key to Unlocking Financial Inclusion in Developing Economies
+McKinsey & Company and GLEIF: LEIs and Client Lifecycle Management in Banking - a U.S.$4 Billion Beginning
+McKinsey & Company and GLEIF: Creating Business Value with the LEI
+LEI in KYC: A New Future for Legal Entity Identification
+GLEIF’s Digital Strategy for the LEI
+
+
+LEI Data
+Access and Use LEI Data
+Global LEI Index
+LEI Search
+GLEIF Concatenated Files
+GLEIF Golden Copy and Delta Files
+GLEIF API
+LEI Mapping
+GLEIF Data Quality Management
+Email Notifications on Technical Updates
+
+
+News & Media
+GLEIF and LEI News
+GLEIF Blog
+GLEIF Videos & Podcasts
+Press Releases
+Information for Media
+Featured  Events
+
+
+
+
+Follow us:
+
+
+LinkedIn
+
+
+
+Twitter
+
+
+
+YouTube
+
+
+
+
+
+
+
+Copyright GLEIF 2023
+
+
+
+Imprint
+Terms
+LEI Data Terms of Use
+Privacy Policy
+Cookies
+Sitemap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

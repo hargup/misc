@@ -1,0 +1,804 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The 2i2c Team Compass — Team Compass
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+Ctrl+K
+
+
+
+
+
+
+
+
+
+
+
+
+docs
+
+
+
+
+
+
+
+
+
+
+
+        Service Docs
+      
+
+
+
+
+
+        Infrastructure Guide
+      
+
+
+
+
+
+        Team Compass
+      
+
+
+
+
+
+        2i2c.org
+      
+
+
+
+
+
+
+
+support
+
+
+
+
+
+Twitter
+
+
+
+Mastodon
+
+
+
+Contact
+
+
+
+Blog
+
+
+
+
+
+support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Service Docs
+      
+
+
+
+
+
+        Infrastructure Guide
+      
+
+
+
+
+
+        Team Compass
+      
+
+
+
+
+
+        2i2c.org
+      
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+Mastodon
+
+
+
+Contact
+
+
+
+Blog
+
+
+
+
+
+
+
+Team Compass
+
+
+
+Organization wide
+
+Organization
+Code of conduct
+CoC Report Response Protocol
+Social Rules
+
+
+Mission, values, and stakeholders
+Key Performance Indicators
+Organizational structure
+The steering council
+
+
+Strategy and objectives
+
+
+Team operations
+Scope and responsibilities
+Coordination strategy and goals
+Principles of decision making
+Getting started and onboarding
+Where to look for information
+Meeting guidelines and policy
+Communication channels
+About the team compass
+
+
+People group
+Scope and responsibilities
+Expectations of team members
+Compensation and Benefits
+Hiring process and information
+Job titles and levels
+Taking time off
+
+
+Open source strategy
+Scope and responsibilities
+Open source strategy and policies
+Funding for open source
+Intellectual property
+Key open source communities
+
+
+Finance and accounting
+Scope and responsibilities
+Financial strategy
+Accounting data
+Overview of CS&S accounting reports
+
+
+Contracts, grants, and invoices
+Budget projections
+Payment accounts
+Cloud costs
+
+
+Product
+Scope and responsibilities
+Pricing strategy
+Staffing costs
+
+
+Administration
+Scope and responsibilities
+Structure and roles
+CS&S Administration
+Reimbursements and Ramp
+Send invoices to CS&S
+Google workspace
+GitHub organization
+AirTable accounts
+Authentication accounts for hubs
+Shared bitwarden account
+Zoom accounts
+
+
+
+Functional Areas
+
+Cross-team leadership
+Scope and responsibilities
+Structure and roles
+Workflow
+Making decisions
+
+
+Engineering
+Scope and responsibilities
+Structure and roles
+Engineering Manager
+Open Source Infrastructure Engineer
+Engineering Project Manager
+Technology Lead
+
+
+Workflow
+Technical strategy
+Accounts and cloud access
+Secrets, credentials, and passwords
+Merge and Code Review policy
+GitHub repository conventions
+Style guide for repositories
+Team meeting archive
+2022 Meeting Notes
+2021 Meeting Notes
+2020 Meeting Notes
+
+
+
+
+Partnerships
+Scope and responsibilities
+Structure and roles
+Community success manager
+Partnerships Lead
+Product and Community Lead
+Technical Content Specialist
+
+
+Workflow
+Marketing and outreach
+Scope and responsibilities
+Communication strategy and overview
+Blog posts
+Social media
+Mailing list
+Design and images
+Publishing and DOIs
+Talks, presentations, and conferences
+
+
+Using FreshDesk
+
+
+
+Managed JupyterHub Service
+
+Overview
+Incident response
+Research delight hub
+Sales and invoicing process
+Support process
+List of running hubs
+
+Reference Material
+
+Calendars and meetings
+List of team members
+Documentation guide
+Edit the documentation
+Write content with MyST markdown
+Set up a local documentation environment
+Guidelines for documentation structure
+Sources of documentation
+
+
+Important terminology
+Inspiration for 2i2c’s practices
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Repository
+
+
+
+
+
+
+Suggest edit
+
+
+
+
+
+
+
+
+
+
+
+
+
+.md
+
+
+
+
+
+
+
+.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The 2i2c Team Compass
+
+
+
+
+ Contents 
+
+
+
+Structure of the Team Compass
+Major sections
+Common pages in each section
+
+
+Organizational documents
+Functional Areas
+Managed JupyterHubs Service
+Team Reference
+
+
+
+
+
+
+
+
+The 2i2c Team Compass#
+This Team Compass is a guide for team members of 2i2c to navigate our organization and community[1].
+It is our team’s primary knowledge base.
+The Team Compass is the Source of Truth!
+If you see information that is out of date, propose an edit in the team compass repository.
+To propose an edit directly from the documentation, click  -> .
+
+Structure of the Team Compass#
+
+Major sections#
+The team compass is roughly divided into four sections:
+
+Organizational documents are relevant to the entire organization.
+Everything from our mission and values, to our processes for administration.
+Functional Areas are major focus areas of 2i2c that have their own practices and roles.
+Managed JupyterHub Service is cross-functional documentation aimed at describing our Managed JupyterHub Service processes.
+Reference collects reference material, lists, and guides for doing many things across 2i2c.
+
+
+
+Common pages in each section#
+Each of our top-level sections tends to have one or more of the same four pages:
+
+Scope and responsibilities (overview.md) describes the major focus areas and responsibility for this area.
+Structure and roles (structure.md) describes any formal roles, job titles, and team structures for this area.
+Workflow (workflow.md) describes how this area coordinates and works with one another.
+Governance (governance.md) how this area makes decisions, and what roles have decision-making authority if any non-standard structure is used.
+Strategy (strategy.md) describes the major approach that this area takes towards its work and accomplishing its goals.
+
+Below you’ll find a list of the sections in our Team Compass.
+
+
+
+Organizational documents#
+These documents cover the whole organization and are relevant to everybody at 2i2c.
+
+Organization wide
+
+Organization
+Code of conduct
+Mission, values, and stakeholders
+Key Performance Indicators
+Organizational structure
+Strategy and objectives
+
+
+Team operations
+Scope and responsibilities
+Coordination strategy and goals
+Principles of decision making
+Getting started and onboarding
+Where to look for information
+Meeting guidelines and policy
+Communication channels
+About the team compass
+
+
+People group
+Scope and responsibilities
+Expectations of team members
+Compensation and Benefits
+Hiring process and information
+Job titles and levels
+Taking time off
+
+
+Open source strategy
+Scope and responsibilities
+Open source strategy and policies
+Funding for open source
+Intellectual property
+Key open source communities
+
+
+Finance and accounting
+Scope and responsibilities
+Financial strategy
+Accounting data
+Contracts, grants, and invoices
+Budget projections
+Payment accounts
+Cloud costs
+
+
+Product
+Scope and responsibilities
+Pricing strategy
+Staffing costs
+
+
+Administration
+Scope and responsibilities
+Structure and roles
+CS&S Administration
+Reimbursements and Ramp
+Send invoices to CS&S
+Google workspace
+GitHub organization
+AirTable accounts
+Authentication accounts for hubs
+Shared bitwarden account
+Zoom accounts
+
+
+
+
+
+
+Functional Areas#
+Functional areas each have their own leads, goals, and structures.
+
+Functional Areas
+
+Cross-team leadership
+Scope and responsibilities
+Structure and roles
+Workflow
+Making decisions
+
+
+Engineering
+Scope and responsibilities
+Structure and roles
+Workflow
+Technical strategy
+Accounts and cloud access
+Secrets, credentials, and passwords
+Merge and Code Review policy
+GitHub repository conventions
+Style guide for repositories
+Team meeting archive
+
+
+Partnerships
+Scope and responsibilities
+Structure and roles
+Workflow
+Marketing and outreach
+Using FreshDesk
+
+
+
+
+
+
+Managed JupyterHubs Service#
+2i2c oversees a single major effort, which is building a sustainable service to make interactive computing with open source infrastructure more accessible and scalable.
+We act as a cross-functional team around this service, and share many responsibilities and duties.
+We document some major aspects of this service in the sections below.
+
+Managed JupyterHub Service
+
+Overview
+Incident response
+Roles and team structure
+What counts as an incident?
+Communication channels
+Incident response process
+Create an Incident Report
+Handing off Incident Commander status
+Key terms
+
+
+Research delight hub
+Purpose
+Images and environment
+Data retention
+
+
+Sales and invoicing process
+Support process
+Overview of the support process
+Types of support requests
+Roles and team structure
+Communication channels
+Process for support triage and resolution
+Prioritizing non-incident support requests
+Expected time off and downtime
+
+
+List of running hubs
+
+
+
+
+Team Reference#
+Reference and archival information for our teams.
+
+Reference Material
+
+Calendars and meetings
+Team Calendar
+Team Roles Calendar
+Time Off Calendar
+Steering Council Calendar
+Community Hub Events Calendar
+
+
+List of team members
+Team member locations and times
+
+
+Documentation guide
+Edit the documentation
+Write content with MyST markdown
+Set up a local documentation environment
+Guidelines for documentation structure
+Sources of documentation
+
+
+Important terminology
+Inspiration for 2i2c’s practices
+The Team Compass
+Organizational influences
+Documentation
+
+
+
+
+
+
+
+[1]
+For more about the Team Compass itself, see About the team compass.
+
+
+
+
+
+
+
+
+
+
+
+next
+Organization
+
+
+
+
+
+
+
+
+
+
+ Contents
+  
+
+
+Structure of the Team Compass
+Major sections
+Common pages in each section
+
+
+Organizational documents
+Functional Areas
+Managed JupyterHubs Service
+Team Reference
+
+
+
+
+
+
+
+
+By 2i2c
+
+
+
+
+    
+      © Copyright 2023, 2i2c.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By the International Interactive Computing Collaboration (2i2c)
+
+
+
+

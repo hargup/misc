@@ -1,0 +1,1822 @@
+
+
+
+
+
+
+
+
+All Tech Is Human
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+      Skip to Content
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Responsible Tech Guide by All Tech Is Human 2023 version
+
+
+
+        Home
+      
+
+
+
+        Newsletter
+      
+
+
+
+        About
+      
+
+
+
+
+                  About Us
+                
+
+
+
+
+
+                  Welcome to the Responsible Tech Movement
+                
+
+
+
+
+
+                  What is Responsible Tech?
+                
+
+
+
+
+
+                  Ten Principles of All Tech Is Human
+                
+
+
+
+Explainer Video
+
+
+ATIH One Pager
+
+
+Plans for 2023
+
+
+ATIH Newsletter 
+
+
+
+
+                  Media Inquiries
+                
+
+
+
+
+
+
+        Knowledge Hubs
+      
+
+
+
+
+                  Knowledge Hubs
+                
+
+
+
+
+
+                  Public Interest Technology
+                
+
+
+
+
+
+                  Responsible AI
+                
+
+
+
+
+
+                  Tech Policy
+                
+
+
+
+
+
+                  Trust and Safety
+                
+
+
+
+
+
+                  Youth, Tech, and Wellbeing
+                
+
+
+
+
+
+
+        Programs
+      
+
+
+
+
+                  Overview
+                
+
+
+
+
+
+                  Mentorship Program
+                
+
+
+
+Soliya
+
+
+Working Groups
+
+
+
+
+                  Unfinished Live
+                
+
+
+
+
+
+                  Volunteer
+                
+
+
+
+
+
+                  Tech Stewardship
+                
+
+
+
+
+
+                  Responsible Tech University Network
+                
+
+
+
+
+
+
+        Events
+      
+
+
+
+
+                  Events
+                
+
+
+
+
+
+
+        Community
+      
+
+
+
+
+                  Join our Slack
+                
+
+
+
+
+
+                  People featured in All Tech Is Human projects
+                
+
+
+
+
+
+
+        Resources
+      
+
+
+
+
+                  Responsible Tech Guide
+                
+
+
+
+
+
+                  Tech & Democracy report 
+                
+
+
+
+
+
+                  AI & Human Rights report
+                
+
+
+
+
+
+                  Co-Creating a Better Tech Future report
+                
+
+
+
+
+
+                  Responsible Tech University Ecosystem 
+                
+
+
+
+
+
+                  All Tech is Human Library Podcast Series
+                
+
+
+
+Job Board
+
+
+Calendar
+
+
+
+
+                  Publications
+                
+
+
+
+
+
+                  500+ Responsible Tech Organizations
+                
+
+
+
+
+
+                  More Resources
+                
+
+
+
+
+
+
+        Career Resources
+      
+
+
+
+
+                  Responsible Tech Job Board
+                
+
+
+
+
+
+                  Responsible Tech Talent Matchmaking Service (for employers)
+                
+
+
+
+
+
+                  Responsible Tech Talent Pool (for individuals)
+                
+
+
+
+
+
+                  Tekalo: technologist matching w/ social impact roles 
+                
+
+
+
+
+
+
+        Calendar
+      
+
+
+
+        ATIH Blog
+      
+
+
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  ATIH LinkTree
+                
+
+
+
+
+
+
+Open Menu
+Close Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Responsible Tech Guide by All Tech Is Human 2023 version
+
+
+
+        Home
+      
+
+
+
+        Newsletter
+      
+
+
+
+        About
+      
+
+
+
+
+                  About Us
+                
+
+
+
+
+
+                  Welcome to the Responsible Tech Movement
+                
+
+
+
+
+
+                  What is Responsible Tech?
+                
+
+
+
+
+
+                  Ten Principles of All Tech Is Human
+                
+
+
+
+Explainer Video
+
+
+ATIH One Pager
+
+
+Plans for 2023
+
+
+ATIH Newsletter 
+
+
+
+
+                  Media Inquiries
+                
+
+
+
+
+
+
+        Knowledge Hubs
+      
+
+
+
+
+                  Knowledge Hubs
+                
+
+
+
+
+
+                  Public Interest Technology
+                
+
+
+
+
+
+                  Responsible AI
+                
+
+
+
+
+
+                  Tech Policy
+                
+
+
+
+
+
+                  Trust and Safety
+                
+
+
+
+
+
+                  Youth, Tech, and Wellbeing
+                
+
+
+
+
+
+
+        Programs
+      
+
+
+
+
+                  Overview
+                
+
+
+
+
+
+                  Mentorship Program
+                
+
+
+
+Soliya
+
+
+Working Groups
+
+
+
+
+                  Unfinished Live
+                
+
+
+
+
+
+                  Volunteer
+                
+
+
+
+
+
+                  Tech Stewardship
+                
+
+
+
+
+
+                  Responsible Tech University Network
+                
+
+
+
+
+
+
+        Events
+      
+
+
+
+
+                  Events
+                
+
+
+
+
+
+
+        Community
+      
+
+
+
+
+                  Join our Slack
+                
+
+
+
+
+
+                  People featured in All Tech Is Human projects
+                
+
+
+
+
+
+
+        Resources
+      
+
+
+
+
+                  Responsible Tech Guide
+                
+
+
+
+
+
+                  Tech & Democracy report 
+                
+
+
+
+
+
+                  AI & Human Rights report
+                
+
+
+
+
+
+                  Co-Creating a Better Tech Future report
+                
+
+
+
+
+
+                  Responsible Tech University Ecosystem 
+                
+
+
+
+
+
+                  All Tech is Human Library Podcast Series
+                
+
+
+
+Job Board
+
+
+Calendar
+
+
+
+
+                  Publications
+                
+
+
+
+
+
+                  500+ Responsible Tech Organizations
+                
+
+
+
+
+
+                  More Resources
+                
+
+
+
+
+
+
+        Career Resources
+      
+
+
+
+
+                  Responsible Tech Job Board
+                
+
+
+
+
+
+                  Responsible Tech Talent Matchmaking Service (for employers)
+                
+
+
+
+
+
+                  Responsible Tech Talent Pool (for individuals)
+                
+
+
+
+
+
+                  Tekalo: technologist matching w/ social impact roles 
+                
+
+
+
+
+
+
+        Calendar
+      
+
+
+
+        ATIH Blog
+      
+
+
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  ATIH LinkTree
+                
+
+
+
+
+
+
+Open Menu
+Close Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Responsible Tech Guide by All Tech Is Human 2023 version
+
+
+
+
+        Home
+      
+
+
+
+
+
+        Newsletter
+      
+
+
+
+
+
+Folder:
+About
+
+
+
+
+
+
+
+
+Back
+
+
+
+
+
+          About Us
+        
+
+
+
+
+
+          Welcome to the Responsible Tech Movement
+        
+
+
+
+
+
+          What is Responsible Tech?
+        
+
+
+
+
+
+          Ten Principles of All Tech Is Human
+        
+
+
+
+Explainer Video
+
+
+ATIH One Pager
+
+
+Plans for 2023
+
+
+ATIH Newsletter 
+
+
+
+
+          Media Inquiries
+        
+
+
+
+
+
+
+
+Folder:
+Knowledge Hubs
+
+
+
+
+
+
+
+
+Back
+
+
+
+
+
+          Knowledge Hubs
+        
+
+
+
+
+
+          Public Interest Technology
+        
+
+
+
+
+
+          Responsible AI
+        
+
+
+
+
+
+          Tech Policy
+        
+
+
+
+
+
+          Trust and Safety
+        
+
+
+
+
+
+          Youth, Tech, and Wellbeing
+        
+
+
+
+
+
+
+
+Folder:
+Programs
+
+
+
+
+
+
+
+
+Back
+
+
+
+
+
+          Overview
+        
+
+
+
+
+
+          Mentorship Program
+        
+
+
+
+Soliya
+
+
+Working Groups
+
+
+
+
+          Unfinished Live
+        
+
+
+
+
+
+          Volunteer
+        
+
+
+
+
+
+          Tech Stewardship
+        
+
+
+
+
+
+          Responsible Tech University Network
+        
+
+
+
+
+
+
+
+Folder:
+Events
+
+
+
+
+
+
+
+
+Back
+
+
+
+
+
+          Events
+        
+
+
+
+
+
+
+
+Folder:
+Community
+
+
+
+
+
+
+
+
+Back
+
+
+
+
+
+          Join our Slack
+        
+
+
+
+
+
+          People featured in All Tech Is Human projects
+        
+
+
+
+
+
+
+
+Folder:
+Resources
+
+
+
+
+
+
+
+
+Back
+
+
+
+
+
+          Responsible Tech Guide
+        
+
+
+
+
+
+          Tech & Democracy report 
+        
+
+
+
+
+
+          AI & Human Rights report
+        
+
+
+
+
+
+          Co-Creating a Better Tech Future report
+        
+
+
+
+
+
+          Responsible Tech University Ecosystem 
+        
+
+
+
+
+
+          All Tech is Human Library Podcast Series
+        
+
+
+
+Job Board
+
+
+Calendar
+
+
+
+
+          Publications
+        
+
+
+
+
+
+          500+ Responsible Tech Organizations
+        
+
+
+
+
+
+          More Resources
+        
+
+
+
+
+
+
+
+Folder:
+Career Resources
+
+
+
+
+
+
+
+
+Back
+
+
+
+
+
+          Responsible Tech Job Board
+        
+
+
+
+
+
+          Responsible Tech Talent Matchmaking Service (for employers)
+        
+
+
+
+
+
+          Responsible Tech Talent Pool (for individuals)
+        
+
+
+
+
+
+          Tekalo: technologist matching w/ social impact roles 
+        
+
+
+
+
+
+
+
+        Calendar
+      
+
+
+
+
+
+        ATIH Blog
+      
+
+
+
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              ATIH LinkTree
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All Tech Is Human brings together people, organizations, and ideas to tackle wicked tech & society issues and co-create a tech future aligned with the public interest.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our activities grow and strengthen the Responsible Tech ecosystem, which speeds up society's ability to consider the impacts of technology, leads to greater multistakeholder collaboration, and diversifies the backgrounds and disciplines involved in the process.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Join Our Community and Learn More:
+
+
+
+
+    Blog
+  
+
+
+
+
+    Explainer Video
+  
+
+
+
+
+    Our Theory of Change
+  
+
+
+
+
+    Newsletter
+  
+
+
+
+
+    Reports 
+  
+
+
+
+
+    Job Board
+  
+
+
+
+
+    University Ambassadors
+  
+
+
+
+
+    Mentorship Program
+  
+
+
+
+
+    Community Slack  
+  
+
+
+
+
+    Ten Principles
+  
+
+
+
+
+    Welcome to Responsible Tech
+  
+
+
+
+
+    Events
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We are committed to co-creating a tech future aligned with the public interest. Our activities  are focused on building community and growing the overall Responsible Tech ecosystem. We listen, share insights, chart pathways for new voices and convene, curate and connect a diverse range of backgrounds.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ways to get involved: Join our thriving, multidisciplinary, Slack group with more than 6,500 members in 75 countries.Read our flagship resource: The Responsible Tech GuideRead our newest report: Tech & DemocracyLearn about our mission and accomplished with our Overview Document or download our summary doc.See new roles in our Responsible Tech Job Board and join our Responsible Tech Talent Pool.Expand your leadership skills in the Tech Stewardship Practice Program.Learn more about our Mentorship Program and our University Ambassadors Program.Join our thematic Working groups & help develop ReportsCheck our our curated list of 500+ Responsible Tech Organizations and let us know if there is an org we’re missing. Explore the hundreds of previous individuals we’re featured in our reports, summits, livestreams, and more.We’re collaborating with Soliya’s Global Circles! Learn more and apply now!Call for papers! All Tech Is Human Associate Director Rebekah Tweed is guest editing a Topical Collection of Springer AI and Ethics Journal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What are the ways we can come to view technology as infrastructure? All Tech Is Human Program Associate Elisa Fox hosts a panel featuring Lyel Resner (Visiting Faculty + Head of the Public Interest Technology Studio at Cornell Tech, Co-leader of the Startups & Society Initiative), Saima Akhtar (Senior Associate Director of the Vagelos Computational Science Center (CSC) at Barnard College), Matt Mitchell (Senior Cybersecurity Program Manager at Ford Foundation, Founder of cryptoHarlem), and Claire Yang (Chief of Staff, Silicon Harlem) at All Tech Is Human's Responsible Tech Mixer Speaker Series on August 24, 2023.
+
+
+
+Just Released: Panel Discussion: Technology is Infrastructure
+
+
+
+
+    Read more about all tech is human's summer celebration!
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read Now:The Rise of the Tech Ethics Congregation
+
+
+
+All Tech Is Human Director & Founder David Ryan Polgar spoke to Greg Epstein for MIT Press about All Tech Is Human’s growing community of tens of thousands of people working to co-create a better tech future.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Read now
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check out our newest report: Tech & Democracy!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All Tech Is Human’s Tech & Democracy report addresses key issues and best practices in the field, and highlights a diverse range of individuals working in the field (across civil society, government, industry, academia, and entrepreneurship). Similar to all of our reports, this is assembled by a large global working groups across multiple disciplines, backgrounds, and perspectives.
+
+
+
+
+    Download the Report Now!
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Join The Responsible Tech Movement at an Upcoming Event!
+
+
+
+In-Person:September 14: Responsible Tech Summit: Shaping Our Digital Future in partnership with the Canadian Consulate. New York, NY. Sign the interest form!October 9: Responsible Tech Mixer Speaker Series & Kashmir Hill Book Celebration. New York, NY. Register now!Livestream:More TBA!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe to All Tech is Human’s SubstackWe deliver a biweekly newsletter featuring the latest news, events, career, and ecosystem updates. It’s the best way to stay up-to-date with the latest in the growing field of responsible tech!
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In the Press
+
+
+
+The rise of the tech ethics congregation by Greg Epstein, August 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+As Tech Layoffs Surge, Nonprofits are Calling, by Josh Hendler, December 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What if We Made Social Media Companies Nonprofits? by David Ryan Polgar, June 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Rise of Tech Ethicists Show How the Industry is Changing by Veronica Irwin, April 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All Tech Is Human Hello@AllTechIsHuman.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See our Privacy Policy
+
+
+
+Explore﻿AboutProgramsJob BoardResourcesEvents
+
+
+
+Community Code of Conduct
+
+
+
+Get involvedSign up for the newsletterJoin us on SlackContact usDonateVolunteer
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Resources to help you learn more about Responsible Tech.
+
+
+
+Getting StartedWhat is Responsible Tech? What are some key challenges?Learn More →
+
+
+
+Expand Your KnowledgeRecommendations for podcasts, books, or topics for learning.Learn More →
+
+
+
+Build the MovementExplore ways to get involved and learn about other organizations in RT.Learn More →
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10204 @@
+
+
+
+
+
+Home | Adyen Docs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DOCS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DOCS
+
+
+
+
+
+
+
+
+API Explorer
+
+
+Support
+
+
+Test account
+
+
+
+
+
+
+
+
+
+
+
+Are you looking for test card numbers?
+Would you like to contact support?
+
+
+Docs 
+
+
+API Explorer 
+
+
+FAQ 
+
+
+Website 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+Get started with Adyen
+
+
+
+
+Online payments
+
+
+
+
+In-person payments
+
+
+
+
+Platforms
+
+
+
+
+Plugins
+
+
+
+
+Unified Commerce
+
+
+
+
+Issuing
+
+
+
+
+Payouts
+
+
+
+
+Payment methods
+
+
+
+
+Risk management
+
+
+
+
+Reporting
+
+
+
+
+Account
+
+
+
+
+Development resources
+
+
+
+ 
+
+
+
+Back to home
+
+
+
+Get started with Adyen
+
+
+
+
+Overview
+
+
+
+
+Requirements for your live account application
+
+
+
+
+Payments glossary
+
+
+
+
+
+
+Online payments
+
+
+
+
+Overview
+
+
+
+
+Get started
+
+
+
+
+Integration checklist
+
+
+
+
+Go-live checklist
+
+
+
+
+Release notes
+
+
+
+
+Accept payments
+
+
+
+
+Build your integration
+
+
+
+
+
+Additional use cases
+
+
+
+
+
+Advanced flow integration guide
+
+
+
+
+
+
+
+
+Result codes
+
+
+
+
+Modify payments
+
+
+
+
+Capture
+
+
+
+
+
+CAPTURE_FAILED reasons
+
+
+
+
+
+
+Cancel
+
+
+
+
+Refund
+
+
+
+
+Reversal
+
+
+
+
+Pre-authorisation and adjustment
+
+
+
+
+Features
+
+
+
+
+3D Secure 2
+
+
+
+
+
+Redirect
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+Native 3D Secure 2
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+
+
+Other 3D Secure flows
+
+
+
+
+
+Authorisation only
+
+
+
+
+Data only
+
+
+
+
+
+
+API reference
+
+
+
+
+
+
+Tokenization
+
+
+
+
+
+Create and use tokens
+
+
+
+
+Manage tokens
+
+
+
+
+
+
+Account Updater
+
+
+
+
+
+Real Time Account Updater
+
+
+
+
+Batch Account Updater
+
+
+
+
+
+
+Auto Rescue
+
+
+
+
+
+Cards
+
+
+
+
+SEPA direct debit
+
+
+
+
+
+
+Donations
+
+
+
+
+
+Web Component
+
+
+
+
+API only
+
+
+
+
+
+
+Network tokenization
+
+
+
+
+Online payouts
+
+
+
+
+
+Instant card funding
+
+
+
+
+Instant card payouts
+
+
+
+
+Payouts in stages
+
+
+
+
+Payout webhook
+
+
+
+
+Payout examples
+
+
+
+
+
+Payouts to a bank account
+
+
+
+
+Payouts to a Skrill (MoneyBookers) account
+
+
+
+
+Payouts to a Neteller account
+
+
+
+
+
+
+
+
+Partial payments
+
+
+
+
+Accessibility
+
+
+
+
+Analytics and data tracking
+
+
+
+
+Compliance
+
+
+
+
+3D Secure for regulation compliance
+
+
+
+
+PSD2 SCA compliance guide
+
+
+
+
+
+Does PSD2 SCA apply to me?
+
+
+
+
+Implement SCA compliance
+
+
+
+
+
+
+AusPayNet compliance guide
+
+
+
+
+Payments India compliance guide
+
+
+
+
+
+Card details storage prohibition
+
+
+
+
+CardOnFile payments
+
+
+
+
+Recurring payments
+
+
+
+
+
+
+Co-branded cards compliance
+
+
+
+
+Older integrations
+
+
+
+
+Classic integrations
+
+
+
+
+
+Classic API integration
+
+
+
+
+
+Client-Side Encryption
+
+
+
+
+
+CSE library public key, location, and token
+
+
+
+
+Hosting the CSE library
+
+
+
+
+
+
+Recurring payments
+
+
+
+
+
+Store payment details
+
+
+
+
+Retrieve stored details
+
+
+
+
+Authorise a recurring payment
+
+
+
+
+Authorise using details stored with a third party
+
+
+
+
+Capture a recurring payment
+
+
+
+
+Update stored details
+
+
+
+
+Disable stored details
+
+
+
+
+
+
+3D Secure
+
+
+
+
+
+Redirect
+
+
+
+
+
+Authentication-only integration
+
+
+
+
+Custom 3D Secure implementation
+
+
+
+
+
+Custom 3D Secure using an external MPI
+
+
+
+
+Custom 3D Secure using a hosted MPI
+
+
+
+
+
+
+
+
+Native 3DS2
+
+
+
+
+
+Browser-based integration
+
+
+
+
+
+Helper functions
+
+
+
+
+
+
+iOS 3D Secure 2 SDK
+
+
+
+
+Android 3D Secure 2 SDK
+
+
+
+
+Authentication-only integration
+
+
+
+
+API reference
+
+
+
+
+
+
+Other 3D Secure flows
+
+
+
+
+
+Authorise a payment with 3DS2 authenticated data
+
+
+
+
+Data-only flow
+
+
+
+
+
+
+Raw 3D Secure responses
+
+
+
+
+
+
+Gift cards (classic)
+
+
+
+
+Google Pay (classic)
+
+
+
+
+Pix (classic)
+
+
+
+
+
+
+Hosted Payment Pages
+
+
+
+
+
+HPP is end-of-life
+
+
+
+
+
+Benefits of migrating
+
+
+
+
+Plugin and partner integrations
+
+
+
+
+
+
+Skins
+
+
+
+
+
+Customizing
+
+
+
+
+Creating and editing translations
+
+
+
+
+MOTO Feature
+
+
+
+
+Publishing the skin to live
+
+
+
+
+
+
+Directory Lookup
+
+
+
+
+Payment request
+
+
+
+
+
+Partial payments using Hosted Payment Pages
+
+
+
+
+
+
+Payment response
+
+
+
+
+
+Payment response merchantSig - SHA 256
+
+
+
+
+
+
+HMAC signature calculation
+
+
+
+
+ACH Direct Debit
+
+
+
+
+BACS Direct Debit
+
+
+
+
+Klarna and RatePay open invoice
+
+
+
+
+HPP brandCodes
+
+
+
+
+One-Click
+
+
+
+
+Payments with airline data
+
+
+
+
+Payments with L2/L3 data
+
+
+
+
+Split HPP payment with Adyen for Platforms
+
+
+
+
+Error handling
+
+
+
+
+Payment reminder email
+
+
+
+
+Instructions email
+
+
+
+
+Payment modifications
+
+
+
+
+Additional features
+
+
+
+
+Testing
+
+
+
+
+HPP Reference
+
+
+
+
+
+Payment request
+
+
+
+
+Payment response
+
+
+
+
+Recurring details request
+
+
+
+
+Directory request
+
+
+
+
+Directory response
+
+
+
+
+SkipDetails request
+
+
+
+
+SkipDetails response
+
+
+
+
+HPP additional fields
+
+
+
+
+
+
+
+
+Classic Checkout SDKs
+
+
+
+
+
+Classic SDK is end-of-life
+
+
+
+
+
+Benefits of migrating
+
+
+
+
+
+
+Web SDK
+
+
+
+
+
+Customization
+
+
+
+
+
+Logic
+
+
+
+
+Settings
+
+
+
+
+Styling
+
+
+
+
+Localization
+
+
+
+
+
+
+Filter payment methods
+
+
+
+
+Sort payment methods
+
+
+
+
+Web SDK release notes
+
+
+
+
+
+
+iOS SDK
+
+
+
+
+
+Build your own UI
+
+
+
+
+Filter payment methods
+
+
+
+
+Sort payment methods
+
+
+
+
+
+
+Android SDK
+
+
+
+
+
+Build your own UI
+
+
+
+
+Filter payment methods
+
+
+
+
+Sort payment methods
+
+
+
+
+
+
+Apple Pay
+
+
+
+
+Google Pay
+
+
+
+
+
+
+Modify payments
+
+
+
+
+
+Capture
+
+
+
+
+
+Failure reasons
+
+
+
+
+
+
+Cancel
+
+
+
+
+Refund
+
+
+
+
+Cancel or refund
+
+
+
+
+Pre-authorisation and adjustment
+
+
+
+
+
+
+
+
+
+
+In-person payments
+
+
+
+
+Overview
+
+
+
+
+What we support
+
+
+
+
+
+Countries and languages
+
+
+
+
+Terminals
+
+
+
+
+
+End of 3G network coverage
+
+
+
+
+
+
+Payment methods
+
+
+
+
+Solutions
+
+
+
+
+
+
+Get started
+
+
+
+
+Integration overview
+
+
+
+
+
+Integration checklist
+
+
+
+
+Go-live checklist
+
+
+
+
+
+
+Design your integration
+
+
+
+
+
+Account
+
+
+
+
+
+Automate store management
+
+
+
+
+Configure features
+
+
+
+
+
+
+Local or cloud communications
+
+
+
+
+
+Building a local integration
+
+
+
+
+
+Protect with a library
+
+
+
+
+Protect with your own code
+
+
+
+
+
+
+Building a cloud integration
+
+
+
+
+
+
+Network and connectivity
+
+
+
+
+
+Network configuration
+
+
+
+
+Wi-Fi profiles
+
+
+
+
+Cellular connection
+
+
+
+
+Beacons
+
+
+
+
+Bluetooth PAN and tethering
+
+
+
+
+Bluetooth base station
+
+
+
+
+Networking issues
+
+
+
+
+
+
+Terminal API
+
+
+
+
+
+Terminal API reference
+
+
+
+
+
+
+Notifications and webhooks
+
+
+
+
+
+Display notifications
+
+
+
+
+
+Tender states
+
+
+
+
+
+
+Event notifications
+
+
+
+
+Standard webhooks
+
+
+
+
+
+
+
+
+Implement the payment flow
+
+
+
+
+
+Make a payment
+
+
+
+
+Pass application information
+
+
+
+
+Cancel an in-progress transaction
+
+
+
+
+Generate receipts
+
+
+
+
+Refund a payment
+
+
+
+
+
+Referenced refund
+
+
+
+
+Unreferenced refund
+
+
+
+
+Cancel unreferenced refund
+
+
+
+
+Outcome of a refund
+
+
+
+
+
+
+Verify transaction status
+
+
+
+
+
+
+Handle responses
+
+
+
+
+
+Refusal reasons
+
+
+
+
+Raw responses
+
+
+
+
+Penalty box
+
+
+
+
+Time-outs
+
+
+
+
+
+
+Test your integration
+
+
+
+
+
+Green Adyen POS test card
+
+
+
+
+White Adyen POS test card
+
+
+
+
+B2 test cards
+
+
+
+
+
+
+Diagnostics
+
+
+
+
+
+Make a diagnosis request
+
+
+
+
+Check the cloud connection
+
+
+
+
+
+
+Add payment features
+
+
+
+
+Add information to a payment
+
+
+
+
+
+Use tender options
+
+
+
+
+SaleToAcquirerData
+
+
+
+
+
+
+Card application selection
+
+
+
+
+Cardholder Verification Methods
+
+
+
+
+Cashback
+
+
+
+
+Delayed and manual capture
+
+
+
+
+Donations
+
+
+
+
+Dynamic Currency conversion (DCC)
+
+
+
+
+Gift cards
+
+
+
+
+
+Activate
+
+
+
+
+Make a payment
+
+
+
+
+Check balance
+
+
+
+
+Load funds
+
+
+
+
+Undo a load transaction
+
+
+
+
+Refund
+
+
+
+
+Deactivate or cash out
+
+
+
+
+
+
+Installments
+
+
+
+
+
+Brazil
+
+
+
+
+Japan
+
+
+
+
+Mexico
+
+
+
+
+
+
+Mail Order/Telephone Order (MOTO)
+
+
+
+
+
+AVS responses for point of sale
+
+
+
+
+
+
+Manual Key Entry (MKE)
+
+
+
+
+Offline payments
+
+
+
+
+Partial payments
+
+
+
+
+QR code wallet payments
+
+
+
+
+Reconcile totals
+
+
+
+
+
+Log in and log out
+
+
+
+
+Retrieve totals from the terminal
+
+
+
+
+Reconcile a balance mismatch
+
+
+
+
+
+
+Risk management
+
+
+
+
+Surcharge
+
+
+
+
+Tipping
+
+
+
+
+
+Tipping from the POS app
+
+
+
+
+Tipping from the terminal
+
+
+
+
+Tipping on the receipt
+
+
+
+
+
+
+Tokenization
+
+
+
+
+Add advanced flows
+
+
+
+
+Autonomous stores
+
+
+
+
+Card acquisition
+
+
+
+
+
+Identifiers
+
+
+
+
+Insights
+
+
+
+
+
+
+Card recognition
+
+
+
+
+
+Card-based identification
+
+
+
+
+Card check before refund
+
+
+
+
+Tax-free shopping
+
+
+
+
+
+
+Loyalty
+
+
+
+
+
+Wallet passes
+
+
+
+
+
+
+NFC tags reading and writing
+
+
+
+
+Pay at table
+
+
+
+
+Pre-authorisation and adjustment
+
+
+
+
+Shopper engagement
+
+
+
+
+
+Create a session
+
+
+
+
+Display data on the terminal
+
+
+
+
+
+Show a QR code
+
+
+
+
+Show a receipt
+
+
+
+
+Show an image
+
+
+
+
+Show the standby screen
+
+
+
+
+
+
+Get input on the terminal
+
+
+
+
+
+Confirmation
+
+
+
+
+Signature
+
+
+
+
+Multiple choice—single answer
+
+
+
+
+Multiple choice—multiple answers
+
+
+
+
+Digit
+
+
+
+
+Amount
+
+
+
+
+Phone number
+
+
+
+
+Rating
+
+
+
+
+
+Rating—single key press
+
+
+
+
+
+
+Text
+
+
+
+
+Cancel collecting input
+
+
+
+
+
+
+Print data on the terminal
+
+
+
+
+Split the screen to show two requests
+
+
+
+
+Third-party interactions
+
+
+
+
+
+
+Other integration solutions
+
+
+
+
+Standalone terminals
+
+
+
+
+
+Build a standalone solution
+
+
+
+
+
+Integration checklist
+
+
+
+
+Go-live checklist
+
+
+
+
+Standalone setup
+
+
+
+
+
+
+Use a standalone terminal
+
+
+
+
+
+
+Tap to pay and card reader
+
+
+
+
+
+Tap to Pay on iPhone
+
+
+
+
+
+Get an entitlement
+
+
+
+
+Add the iOS SDK
+
+
+
+
+Make transactions
+
+
+
+
+Follow UI guidelines
+
+
+
+
+
+
+Tap to Pay on Android
+
+
+
+
+
+Add the Android SDK
+
+
+
+
+Make transactions
+
+
+
+
+Follow guidelines
+
+
+
+
+
+
+Card reader—iOS
+
+
+
+
+
+Add the iOS SDK
+
+
+
+
+Make transactions
+
+
+
+
+Manage payment devices
+
+
+
+
+
+
+Card reader—Android
+
+
+
+
+
+Add the Android SDK
+
+
+
+
+Manage payment devices
+
+
+
+
+Make transactions
+
+
+
+
+
+
+
+
+Terminal hardware
+
+
+
+
+Get started manuals
+
+
+
+
+
+Verifone Engage terminals
+
+
+
+
+e280
+
+
+
+
+e285p
+
+
+
+
+M400
+
+
+
+
+P400 Plus
+
+
+
+
+UX300
+
+
+
+
+UX410
+
+
+
+
+V210
+
+
+
+
+V240m Plus
+
+
+
+
+V400c Plus
+
+
+
+
+V400m
+
+
+
+
+V400m with Bluetooth base
+
+
+
+
+Android terminals
+
+
+
+
+AMS1
+
+
+
+
+S1E
+
+
+
+
+S1E2L
+
+
+
+
+S1F2
+
+
+
+
+S1U2
+
+
+
+
+Card readers
+
+
+
+
+NYC1
+
+
+
+
+Legacy terminals
+
+
+
+
+Deprecation of eVo terminals
+
+
+
+
+
+e315 user manual
+
+
+
+
+
+Inspect device security
+
+
+
+
+Charging the e315
+
+
+
+
+Install an iPod or iPhone
+
+
+
+
+Turning it on and off
+
+
+
+
+Board the terminal
+
+
+
+
+Use the Admin menu
+
+
+
+
+Understand the LED colors
+
+
+
+
+Troubleshooting and Support
+
+
+
+
+
+
+e355 user manual
+
+
+
+
+
+Inspect device security
+
+
+
+
+Charging the e355
+
+
+
+
+Turning it on and off
+
+
+
+
+Connect to your network
+
+
+
+
+Board the terminal
+
+
+
+
+Use the Admin menu
+
+
+
+
+View device info
+
+
+
+
+Attach and use the e355 frame
+
+
+
+
+
+Attach a tablet to the frame
+
+
+
+
+Attach the e355 to the frame
+
+
+
+
+Remove a tablet from the frame
+
+
+
+
+Remove the e355 from the frame
+
+
+
+
+Connect the e355 frame to a power source
+
+
+
+
+
+
+Make a payment over Bluetooth
+
+
+
+
+
+Step 1- Clean the Bluetooth configuration
+
+
+
+
+Step 2 - Pair the e355 with a mobile device
+
+
+
+
+Step 3 - Start a transaction
+
+
+
+
+Remove configuration and reboard
+
+
+
+
+Troubleshoot the Bluetooth connection
+
+
+
+
+
+
+Understand the LED colors
+
+
+
+
+Troubleshooting and support
+
+
+
+
+
+
+MX925 user manual
+
+
+
+
+
+Inspect device security
+
+
+
+
+Board the terminal
+
+
+
+
+Use the Admin menu
+
+
+
+
+View device info
+
+
+
+
+Troubleshooting and support
+
+
+
+
+
+
+VX675 user manual
+
+
+
+
+
+Inspect device security
+
+
+
+
+Turning it on and off
+
+
+
+
+Connect to your network
+
+
+
+
+Install or replace paper rolls
+
+
+
+
+Board the terminal
+
+
+
+
+Use the Admin menu
+
+
+
+
+View device info
+
+
+
+
+Make special payments
+
+
+
+
+Print transaction totals
+
+
+
+
+Perform a Refund
+
+
+
+
+Troubleshooting and support
+
+
+
+
+
+
+VX680 user manual
+
+
+
+
+
+Inspect device security
+
+
+
+
+Charging the VX680
+
+
+
+
+Turning it on and off
+
+
+
+
+Install or replace paper rolls
+
+
+
+
+Connect to your network
+
+
+
+
+Board the terminal
+
+
+
+
+Use the Admin menu
+
+
+
+
+View device info
+
+
+
+
+Make special payments
+
+
+
+
+Perform a Refund
+
+
+
+
+Print transaction totals
+
+
+
+
+Troubleshooting and support
+
+
+
+
+
+
+VX690 user manual
+
+
+
+
+
+Inspect device security
+
+
+
+
+Install or replace paper rolls
+
+
+
+
+Connect to your network
+
+
+
+
+Board the terminal
+
+
+
+
+Connect to a base station with Bluetooth
+
+
+
+
+
+Understand the Bluetooth base station LED colors
+
+
+
+
+
+
+Use the Admin menu
+
+
+
+
+View device info
+
+
+
+
+Make special payments
+
+
+
+
+Perform a Refund
+
+
+
+
+Print transaction totals
+
+
+
+
+Troubleshooting and support
+
+
+
+
+
+
+VX820 user manual
+
+
+
+
+
+Inspect device security
+
+
+
+
+Board the terminal
+
+
+
+
+Use the Admin menu
+
+
+
+
+View device info
+
+
+
+
+Troubleshooting and support
+
+
+
+
+
+
+VX820 Duet user manual
+
+
+
+
+
+Inspect device security
+
+
+
+
+Install or replace paper rolls
+
+
+
+
+Board the terminal
+
+
+
+
+Use the Admin menu
+
+
+
+
+View device info
+
+
+
+
+Make special payments
+
+
+
+
+Perform a Refund
+
+
+
+
+Print transaction totals
+
+
+
+
+Troubleshooting and support
+
+
+
+
+
+
+
+
+
+
+Android terminals
+
+
+
+
+
+App requirements
+
+
+
+
+Deploy apps to your terminals
+
+
+
+
+
+Upload apps and certificates
+
+
+
+
+Schedule deployment
+
+
+
+
+Deploy using profiles
+
+
+
+
+
+
+Barcode scanning
+
+
+
+
+
+
+Manage your terminal fleet
+
+
+
+
+
+Order, return, or replace terminals
+
+
+
+
+Do a security inspection
+
+
+
+
+Assign terminals
+
+
+
+
+Board the terminal
+
+
+
+
+Customize terminal settings
+
+
+
+
+Manage battery power
+
+
+
+
+Maintain performance
+
+
+
+
+Use the menus
+
+
+
+
+
+
+Automate terminal management
+
+
+
+
+
+Order terminals
+
+
+
+
+Assign terminals
+
+
+
+
+Configure terminals
+
+
+
+
+Schedule terminal actions
+
+
+
+
+
+
+Troubleshooting terminals
+
+
+
+
+
+Run connection tests
+
+
+
+
+Run hardware tests
+
+
+
+
+
+
+Releases
+
+
+
+
+Sneak peek
+
+
+
+
+
+Update to a new release
+
+
+
+
+
+
+Release notes
+
+
+
+
+Classic integrations
+
+
+
+
+Deprecation of classic libraries
+
+
+
+
+
+Library integrations
+
+
+
+
+
+Network configuration
+
+
+
+
+Java Native Interface integration
+
+
+
+
+
+Legacy documentation
+
+
+
+
+Get started with the Java Native Interface
+
+
+
+
+Calls and callbacks
+
+
+
+
+Key steps
+
+
+
+
+
+Initialize the library
+
+
+
+
+Logging
+
+
+
+
+Register the application with Adyen
+
+
+
+
+Registering the PED
+
+
+
+
+
+Register the PED with Adyen
+
+
+
+
+Register the PED with Adyen using a StoreID
+
+
+
+
+
+
+Process a basic transaction
+
+
+
+
+
+Create the tender
+
+
+
+
+Pass tender options
+
+
+
+
+Handle and extract data from Callbacks
+
+
+
+
+Handle the Signature callback
+
+
+
+
+Handle the Additional Data callback
+
+
+
+
+Handle the Print Receipt callback
+
+
+
+
+Handle progress events
+
+
+
+
+Handle the final state callback
+
+
+
+
+Query the PED object for device information
+
+
+
+
+Determine the current and final tender state
+
+
+
+
+
+
+Cancel or refund a transaction
+
+
+
+
+
+Cancel a transaction
+
+
+
+
+Refund a completed transaction
+
+
+
+
+Refund a transaction from the POS
+
+
+
+
+Partially refund a balance
+
+
+
+
+Refund a balance to a card
+
+
+
+
+
+
+Exit the library
+
+
+
+
+
+
+Extras
+
+
+
+
+
+Start Alipay and WeChat Pay transactions
+
+
+
+
+Handle Dynamic Currency Conversion
+
+
+
+
+Handle the PED Exception Callback
+
+
+
+
+Get transaction data from TxStoreReport
+
+
+
+
+Display a screen on a large screen terminal
+
+
+
+
+Start gift card transactions
+
+
+
+
+
+Manual Keyed Entry and passing of card details
+
+
+
+
+Override the card mask
+
+
+
+
+Activate a gift card
+
+
+
+
+Tip from a gift card
+
+
+
+
+Cash out a gift card
+
+
+
+
+Deactivate a gift card
+
+
+
+
+Refund a balance to a gift card
+
+
+
+
+
+
+Cashback or cashout from a card
+
+
+
+
+
+
+
+
+COM extension for Windows integration
+
+
+
+
+
+Legacy documentation
+
+
+
+
+Get started with the COM extension for Windows
+
+
+
+
+
+Reference the Adyen COM Object to a .NET project
+
+
+
+
+Pass variables with the Adyen.POS service and COM
+
+
+
+
+
+
+Calls and callbacks
+
+
+
+
+Key steps
+
+
+
+
+
+Initialize the library
+
+
+
+
+
+Library flags
+
+
+
+
+
+
+Register the application with Adyen
+
+
+
+
+
+Set cash register application details
+
+
+
+
+
+
+Registering the PED
+
+
+
+
+
+Register the PED with the Adyen payments platform
+
+
+
+
+Register the PED with Adyen using a StoreID
+
+
+
+
+
+
+Process a basic transaction
+
+
+
+
+
+Create the tender
+
+
+
+
+Pass tender options
+
+
+
+
+Handle and extract data from Callbacks
+
+
+
+
+Handle the Signature callback
+
+
+
+
+Handle the Additional Data callback
+
+
+
+
+Handle the Print Receipt callback
+
+
+
+
+Handle the final state callback
+
+
+
+
+Handle progress events
+
+
+
+
+Determine the current and final tender state
+
+
+
+
+
+
+Cancel or refund a transaction
+
+
+
+
+
+Cancel a transaction
+
+
+
+
+Refund a transaction from the PED
+
+
+
+
+Refund a transaction from the POS
+
+
+
+
+Partially refund a balance
+
+
+
+
+Refund a balance to a card
+
+
+
+
+
+
+Exit the library
+
+
+
+
+
+
+Extras
+
+
+
+
+
+Start Alipay and WeChat Pay transactions
+
+
+
+
+Handle Dynamic Currency Conversion
+
+
+
+
+Handle the Exception Callback
+
+
+
+
+Handle the LibraryLog callback
+
+
+
+
+Query the PED object for device information
+
+
+
+
+Get transaction data from TxStoreReport
+
+
+
+
+Display a screen on a large screen terminal - COM
+
+
+
+
+Start gift card transactions
+
+
+
+
+
+Manual Keyed Entry and passing of card details
+
+
+
+
+Override the card mask
+
+
+
+
+Activate a gift card
+
+
+
+
+Tip from a gift card
+
+
+
+
+Cash out a gift card
+
+
+
+
+Deactivate a gift card
+
+
+
+
+Refund a balance to a gift card
+
+
+
+
+
+
+Cashback or cashout from a card
+
+
+
+
+
+
+COM Extension for Windows - Objects
+
+
+
+
+
+AdditionalData
+
+
+
+
+AppInfo
+
+
+
+
+PedDevice
+
+
+
+
+POS
+
+
+
+
+Receipt
+
+
+
+
+Receipts
+
+
+
+
+Tender
+
+
+
+
+TenderOption
+
+
+
+
+TxStoreReport
+
+
+
+
+pspResultObj
+
+
+
+
+CancelOrRefundObj
+
+
+
+
+
+
+
+
+C library integration
+
+
+
+
+
+Legacy documentation
+
+
+
+
+Get started with the C library
+
+
+
+
+
+C library process flow
+
+
+
+
+
+
+Calls and callbacks
+
+
+
+
+
+Implement callbacks
+
+
+
+
+Implement callbacks with register_device_request
+
+
+
+
+
+
+Key steps
+
+
+
+
+
+Initialize the library
+
+
+
+
+Register the application with Adyen
+
+
+
+
+Register the PED with the Adyen payments platform
+
+
+
+
+Process a basic transaction
+
+
+
+
+
+Create the tender
+
+
+
+
+Handle the Signature callback
+
+
+
+
+Handle the Additional Data callback
+
+
+
+
+Handle the Print Receipt callback
+
+
+
+
+Handle the PED State Change callback
+
+
+
+
+Handle progress events
+
+
+
+
+Handle the final state callback
+
+
+
+
+
+
+Cancel or refund a transaction
+
+
+
+
+
+Refund a balance to a card
+
+
+
+
+Cancel a transaction
+
+
+
+
+Refund a transaction from the PED
+
+
+
+
+Refund a transaction from the POS
+
+
+
+
+Partially refund a balance
+
+
+
+
+
+
+Exit the Library
+
+
+
+
+
+
+Extras
+
+
+
+
+
+Start Alipay and WeChat Pay transactions
+
+
+
+
+Enable third party sharing
+
+
+
+
+Handle Dynamic Currency Conversion
+
+
+
+
+Get transaction data from tx_store_report - C
+
+
+
+
+Display a screen on a large screen terminal - C
+
+
+
+
+Start gift card transactions
+
+
+
+
+
+Manual Keyed Entry and passing of card details
+
+
+
+
+Override the card mask
+
+
+
+
+Activate a gift card
+
+
+
+
+Tip from a gift card
+
+
+
+
+Cash out a gift card
+
+
+
+
+Deactivate a gift card
+
+
+
+
+Refund a balance to a gift card
+
+
+
+
+
+
+Cashback or cashout from a card
+
+
+
+
+
+
+Structs
+
+
+
+
+
+additional_data_struct
+
+
+
+
+balance_inquiry_request
+
+
+
+
+cancel_or_refund_request
+
+
+
+
+cancel_or_refund_on_terminal_request
+
+
+
+
+cancel_or_refund_on_terminal_response
+
+
+
+
+card_operation_request
+
+
+
+
+create_tender_request
+
+
+
+
+create_tender_response
+
+
+
+
+echo_struct
+
+
+
+
+final_strct
+
+
+
+
+init_library_request
+
+
+
+
+load_request
+
+
+
+
+ped_device_info
+
+
+
+
+receipt_line
+
+
+
+
+receipt_set
+
+
+
+
+receipt - C library
+
+
+
+
+receipts_strct
+
+
+
+
+refund_request
+
+
+
+
+register_app_request
+
+
+
+
+register_app_response
+
+
+
+
+register_device_request
+
+
+
+
+response_header
+
+
+
+
+show_screen_request
+
+
+
+
+show_screen_response
+
+
+
+
+special_tender_request
+
+
+
+
+tx_store_query_request
+
+
+
+
+tx_store_query_response
+
+
+
+
+tx_store_report
+
+
+
+
+ADYEN_RESULT
+
+
+
+
+
+
+
+
+iOS integration
+
+
+
+
+
+Get started with the iOS integration
+
+
+
+
+
+Use the library in a custom application
+
+
+
+
+Update library sources
+
+
+
+
+
+
+Key steps
+
+
+
+
+
+Set the integratorName - iOS
+
+
+
+
+Log in
+
+
+
+
+Register a device
+
+
+
+
+Board a device
+
+
+
+
+Process a basic transaction
+
+
+
+
+
+Make a payment
+
+
+
+
+Handle signatures
+
+
+
+
+Handle additional data
+
+
+
+
+Handle receipts
+
+
+
+
+Handle referrals
+
+
+
+
+Handle transaction state changes
+
+
+
+
+Handle the final state
+
+
+
+
+Pass tender options - iOS
+
+
+
+
+Cancel or refund a transaction
+
+
+
+
+Check the status of a refund
+
+
+
+
+
+
+
+
+Extras
+
+
+
+
+
+Handle the Dynamic Currency Conversion delegate
+
+
+
+
+Make an Alipay or WeChat Pay payment - iOS
+
+
+
+
+Start gift card transactions - iOS
+
+
+
+
+Fetch transaction data
+
+
+
+
+
+
+
+
+Android integration
+
+
+
+
+
+Download the library and example application
+
+
+
+
+Add the Adyen library module as a dependency
+
+
+
+
+Install and integrate the Android library
+
+
+
+
+Migrate to Android 1.21.2 and later
+
+
+
+
+
+
+Create a recurring contract
+
+
+
+
+Handle signatures
+
+
+
+
+Partial authorisation
+
+
+
+
+Shopper recognition
+
+
+
+
+Use cases and process flows
+
+
+
+
+
+Transaction flows
+
+
+
+
+Use case: Registration
+
+
+
+
+Use case: Sale transaction
+
+
+
+
+Use case: Sale transaction with loyalty
+
+
+
+
+Use case: Sale with Dynamic Currency Conversion
+
+
+
+
+Use case: Refund
+
+
+
+
+
+EMV Refund flows
+
+
+
+
+
+
+Use case: Automatic recovery
+
+
+
+
+Use case: Manual recovery
+
+
+
+
+
+
+
+
+
+
+
+
+Platforms
+
+
+
+
+Overview
+
+
+
+
+Get started
+
+
+
+
+Platform structures and resources
+
+
+
+
+Integration checklist
+
+
+
+
+Release notes
+
+
+
+
+Manage access for your team
+
+
+
+
+
+Manage users
+
+
+
+
+User roles
+
+
+
+
+API credentials for Balance Platform
+
+
+
+
+Roles for API credentials
+
+
+
+
+
+Verify your users
+
+
+
+Verification process
+
+
+
+
+
+User capabilities
+
+
+
+
+
+
+Determine verification requirements
+
+
+
+
+
+Required information
+
+
+
+
+Data formats per country
+
+
+
+
+Requirements for document uploads
+
+
+
+
+Reference for additional capabilities
+
+
+
+
+
+
+Collect verification details
+
+
+
+
+
+Hosted onboarding
+
+
+
+
+
+Customize hosted onboarding
+
+
+
+
+
+
+Custom onboarding
+
+
+
+
+
+Terms of Service
+
+
+
+
+
+
+Change legal entity type
+
+
+
+
+
+
+Additional steps for platform setups
+
+
+
+
+
+Create and manage stores
+
+
+
+
+Route payments to stores
+
+
+
+
+Card data security compliance
+
+
+
+
+
+
+Create balance accounts
+
+
+
+
+
+Manage balance accounts
+
+
+
+
+
+
+Manage account holders
+
+
+
+Process payments
+
+
+
+Payment methods
+
+
+
+
+
+Payment methods for marketplaces
+
+
+
+
+Payment methods for platforms
+
+
+
+
+Manage payment methods
+
+
+
+
+
+
+Process online payments
+
+
+
+
+
+Split at payment
+
+
+
+
+Split at capture
+
+
+
+
+Transaction fees
+
+
+
+
+Split a refund
+
+
+
+
+Currency conversion
+
+
+
+
+Chargebacks and disputes
+
+
+
+
+
+
+Process in-person payments
+
+
+
+
+
+Split a payment
+
+
+
+
+Transaction fees
+
+
+
+
+Surcharge
+
+
+
+
+Tipping
+
+
+
+
+Split a refund
+
+
+
+
+
+
+Split payments automatically
+
+
+
+
+
+Create split configurations
+
+
+
+
+Manage split configurations
+
+
+
+
+
+
+Webhooks
+
+
+
+Transfer funds
+
+
+
+Pay out to your users
+
+
+
+
+
+Scheduled payouts
+
+
+
+
+On-demand payouts
+
+
+
+
+Transfer routes
+
+
+
+
+Webhooks
+
+
+
+
+
+
+Make internal fund transfers
+
+
+
+
+
+Scheduled fund transfers
+
+
+
+
+On-demand fund transfers
+
+
+
+
+Webhooks
+
+
+
+
+
+
+Top up balance accounts
+
+
+
+
+
+Webhooks
+
+
+
+
+
+
+View transfer details
+
+
+
+RISK MANAGEMENT
+
+
+
+Identify and mitigate risk
+
+
+
+
+
+Manage account holder risk
+
+
+
+
+Configure webhooks for risk signals
+
+
+
+
+
+Add financial products
+
+
+
+Issue business bank accounts
+
+
+
+
+
+Create a business bank account
+
+
+
+
+Authenticate user
+
+
+
+
+Receive and send funds
+
+
+
+
+
+Transfer routes
+
+
+
+
+Webhooks
+
+
+
+
+
+
+Track transactions
+
+
+
+
+
+
+Offer grants
+
+
+
+
+Issue cards
+
+
+
+Reports and reconciliation
+
+
+
+Reports and fee types
+
+
+
+
+
+Accounting report
+
+
+
+
+Balance report
+
+
+
+
+Statement report
+
+
+
+
+
+
+Prepare the reports
+
+
+
+
+
+Get platform reports
+
+
+
+
+
+
+Common reconciliation processes
+
+
+
+
+
+Reconcile payments
+
+
+
+
+Verify balances
+
+
+
+
+Reconcile fund transfers
+
+
+
+
+Reconcile fees
+
+
+
+
+
+
+Provide tax forms (US only)
+
+
+
+Webhooks
+
+
+
+Set up webhooks
+
+
+
+
+
+Best practices
+
+
+
+
+
+
+Webhook structure and types
+
+
+
+References
+
+
+
+Verification codes
+
+
+
+
+
+Remediating action codes
+
+
+
+
+General error codes
+
+
+
+
+Suberror codes
+
+
+
+
+
+
+Test verification/KYC scenarios
+
+
+
+Classic Platforms
+
+
+
+Classic Platforms integration
+
+
+
+
+
+Understanding account structures
+
+
+
+
+
+Example structures
+
+
+
+
+
+
+Get started
+
+
+
+
+Onboard account holders
+
+
+
+
+Create account holders and accounts
+
+
+
+
+
+Changing the legal entity type
+
+
+
+
+
+
+Collect verification details
+
+
+
+
+
+Hosted onboarding
+
+
+
+
+
+Customize your page
+
+
+
+
+Customize hosted onboarding experience
+
+
+
+
+
+
+Custom onboarding
+
+
+
+
+
+
+Verification process
+
+
+
+
+
+Required information
+
+
+
+
+Accepted data formats
+
+
+
+
+Requirements for document uploads
+
+
+
+
+Legal arrangements
+
+
+
+
+Verification results
+
+
+
+
+Verification codes
+
+
+
+
+New verification requirements
+
+
+
+
+
+
+Process online payments
+
+
+
+
+Add point of sale
+
+
+
+
+Automatically split payments in stores
+
+
+
+
+Manage funds and payouts
+
+
+
+
+Transfer funds
+
+
+
+
+Top up funds in accounts
+
+
+
+
+Payouts
+
+
+
+
+
+Scheduled payouts
+
+
+
+
+Manual payouts
+
+
+
+
+
+Pay out to cards
+
+
+
+
+
+
+Payout notifications
+
+
+
+
+Track payouts
+
+
+
+
+
+Handle notifications
+
+
+
+Configure webhooks for notifications
+
+
+
+
+
+Signing notifications with HMAC
+
+
+
+
+
+
+Notification types
+
+
+
+Reports and reconciliation
+
+
+
+Reports and fee types
+
+
+
+
+
+Marketplace payments accounting report
+
+
+
+
+Marketpay balance report
+
+
+
+
+Marketpay payout report
+
+
+
+
+
+
+Prepare the reports
+
+
+
+
+Common reconciliation processes
+
+
+
+
+
+Reconcile accounts receivable
+
+
+
+
+Build a transactional ledger
+
+
+
+
+Track transactions in scheduled payouts
+
+
+
+
+Reconcile fees
+
+
+
+
+
+
+More features
+
+
+
+
+Identify and mitigate risk
+
+
+
+
+
+Manage account holder risk
+
+
+
+
+Configure notifications for risk signals
+
+
+
+
+
+
+Provide tax forms (US only)
+
+
+
+
+Partner platform requirements
+
+
+
+
+KYC snapshot report
+
+
+
+
+References
+
+
+
+
+Integration and go live checklist
+
+
+
+
+Test scenarios
+
+
+
+
+Error codes
+
+
+
+
+API reference
+
+
+
+
+Release notes
+
+
+
+
+
+
+
+
+Plugins
+
+
+
+
+Overview
+
+
+
+
+Building a plugin
+
+
+
+
+Adobe Commerce
+
+
+
+
+
+Set up Adyen Customer Area
+
+
+
+
+Set up the plugin in Adobe Commerce
+
+
+
+
+
+Manage multiple merchant accounts
+
+
+
+
+Configuration for older versions
+
+
+
+
+
+
+Supported payment methods
+
+
+
+
+Set up payment methods
+
+
+
+
+Set up tokenization
+
+
+
+
+Set up POS terminal payments
+
+
+
+
+Go-live checklist
+
+
+
+
+Manage orders
+
+
+
+
+Adobe Commerce headless integration
+
+
+
+
+Troubleshooting
+
+
+
+
+Upgrade the plugin
+
+
+
+
+Migrating to a new version
+
+
+
+
+Release notes
+
+
+
+
+
+
+NetSuite
+
+
+
+
+
+Supported payment methods
+
+
+
+
+Set up Adyen Customer Area
+
+
+
+
+Set up NetSuite Customer Center
+
+
+
+
+Set up Pay by Link
+
+
+
+
+Set up point of sale
+
+
+
+
+Payment processing in NetSuite
+
+
+
+
+Payment notifications in NetSuite
+
+
+
+
+Tokenization in NetSuite
+
+
+
+
+Reconciliation bundle
+
+
+
+
+
+Release notes
+
+
+
+
+
+
+Release notes
+
+
+
+
+
+
+Oracle Opera
+
+
+
+
+Oracle Simphony
+
+
+
+
+Oracle Xstore
+
+
+
+
+Salesforce Commerce Cloud - B2C Commerce and Quick Launch
+
+
+
+
+
+Install the cartridge and import the metadata
+
+
+
+
+Set up the cartridge
+
+
+
+
+
+Version 22.2.0 and below
+
+
+
+
+
+
+SiteGenesis code changes
+
+
+
+
+Supported payment methods
+
+
+
+
+Set up payment methods
+
+
+
+
+Go-live checklist
+
+
+
+
+Customization guide
+
+
+
+
+Troubleshooting
+
+
+
+
+Upgrade the cartridge
+
+
+
+
+Release notes
+
+
+
+
+
+
+Salesforce Order Management System
+
+
+
+
+
+Order status lifecycle
+
+
+
+
+
+
+Salesforce B2B Commerce Lightning
+
+
+
+
+Shopware 6
+
+
+
+
+
+Supported payment methods
+
+
+
+
+Go-live checklist
+
+
+
+
+Manage orders
+
+
+
+
+Upgrade the plugin
+
+
+
+
+Headless integration
+
+
+
+
+Release notes
+
+
+
+
+
+
+Cegid Retail Y2
+
+
+
+
+Microsoft Dynamics 365
+
+
+
+
+
+
+Unified Commerce
+
+
+
+
+Overview
+
+
+
+
+Insights
+
+
+
+
+Shopper insights
+
+
+
+
+Dashboards
+
+
+
+
+Collect data
+
+
+
+
+Import data
+
+
+
+
+Experiences
+
+
+
+
+Shopper experiences
+
+
+
+
+Endless aisle
+
+
+
+
+Pay by Link
+
+
+
+
+
+Settings
+
+
+
+
+Create payment links
+
+
+
+
+
+API integration
+
+
+
+
+Customer Area
+
+
+
+
+
+
+Supported payment methods
+
+
+
+
+Release notes
+
+
+
+
+
+
+Referenced refunds
+
+
+
+
+Engagement
+
+
+
+
+Shopper engagement
+
+
+
+
+Bespoke interaction on the terminal
+
+
+
+
+Shopper loyalty
+
+
+
+
+
+Creating customer profiles
+
+
+
+
+Recognizing customers
+
+
+
+
+Payment-linked loyalty
+
+
+
+
+
+
+Digital receipts
+
+
+
+
+
+
+Issuing
+
+
+
+
+Overview
+
+
+
+
+Get started
+
+
+
+
+Integration and go-live checklist
+
+
+
+
+Manage access for your team
+
+
+
+
+
+Manage users
+
+
+
+
+User roles
+
+
+
+
+API credentials for Balance Platform
+
+
+
+
+Roles for API credentials
+
+
+
+
+
+
+Onboard account holders
+
+
+
+
+Onboard and verify account holders
+
+
+
+
+
+Required information
+
+
+
+
+Data formats per country
+
+
+
+
+Requirements for document uploads
+
+
+
+
+
+
+Create account holders and balance accounts
+
+
+
+
+Check account holder capabilities
+
+
+
+
+Manage your platform
+
+
+
+
+Create and manage cards
+
+
+
+
+Create cards
+
+
+
+
+Manage cards
+
+
+
+
+Add and manage funds
+
+
+
+
+Add cards to digital wallets
+
+
+
+
+Manage network tokens
+
+
+
+
+authenticate cardholder
+
+
+
+
+Enroll cards in 3D Secure
+
+
+
+
+
+One-time password authentication
+
+
+
+
+Out-of-band authentication
+
+
+
+
+Troubleshooting
+
+
+
+
+
+
+process transactions
+
+
+
+
+Payment stages
+
+
+
+
+
+View payment details
+
+
+
+
+
+
+Payment authorisation
+
+
+
+
+
+Use transaction rules
+
+
+
+
+
+Create and manage rules
+
+
+
+
+Examples
+
+
+
+
+
+
+Use relayed authorisation
+
+
+
+
+
+
+Webhooks
+
+
+
+
+Set up webhooks
+
+
+
+
+
+Best practices
+
+
+
+
+
+
+Webhook structure and types
+
+
+
+
+
+Payment-related events
+
+
+
+
+Fund transfer-related events
+
+
+
+
+
+
+Reports
+
+
+
+
+Generate and download reports
+
+
+
+
+Report types
+
+
+
+
+
+Accounting Report
+
+
+
+
+
+Payment lifecycle
+
+
+
+
+Cash management
+
+
+
+
+Authorization rates and troubleshooting
+
+
+
+
+
+
+Balance Report
+
+
+
+
+Payment Instrument Report
+
+
+
+
+Received Payments Report
+
+
+
+
+
+
+References
+
+
+
+
+Verification codes
+
+
+
+
+
+Remediating action codes
+
+
+
+
+General error codes
+
+
+
+
+Suberror codes
+
+
+
+
+
+
+Test verification/KYC scenarios
+
+
+
+
+Validation types and refusal reasons
+
+
+
+
+Release notes
+
+
+
+
+
+
+Payouts
+
+
+
+
+Overview
+
+
+
+
+Payouts and Payments
+
+
+
+
+
+Get started
+
+
+
+
+Account structure
+
+
+
+
+Integration checklist
+
+
+
+
+Manage access for your team
+
+
+
+
+
+Manage users
+
+
+
+
+User roles
+
+
+
+
+API credentials for Balance Platform
+
+
+
+
+Roles for API credentials
+
+
+
+
+
+Transfer funds
+
+
+
+Make internal fund transfers
+
+
+
+
+
+Scheduled fund transfers
+
+
+
+
+On-demand fund transfers
+
+
+
+
+Webhooks
+
+
+
+
+
+
+Pay out to third parties
+
+
+
+
+
+Transfer routes
+
+
+
+
+Webhooks
+
+
+
+
+
+
+View transfer details
+
+
+
+Webhooks
+
+
+
+Set up webhooks
+
+
+
+
+
+Best practices
+
+
+
+
+
+
+Webhook structure and types
+
+
+
+
+
+
+Payouts and Adyen for Platforms
+
+
+
+
+
+
+Payment methods
+
+
+
+
+Overview
+
+
+
+
+Add payment methods to your account
+
+
+
+
+Cards
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+React Native Drop-in
+
+
+
+
+React Native Component
+
+
+
+
+Custom card integration
+
+
+
+
+Raw card data
+
+
+
+
+Enhanced scheme data
+
+
+
+
+
+Level 2/3 ESD
+
+
+
+
+Airline ESD
+
+
+
+
+Car rental ESD
+
+
+
+
+Lodging ESD
+
+
+
+
+Temporary services ESD
+
+
+
+
+ESD for American Express
+
+
+
+
+
+
+Credit card installments
+
+
+
+
+Card receipts
+
+
+
+
+Card scheme requirements for payment facilitators
+
+
+
+
+Accept partial authorisations
+
+
+
+
+
+
+ACH Direct Debit
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+API only
+
+
+
+
+Account validation with giact
+
+
+
+
+Account validation with Plaid
+
+
+
+
+
+
+Affirm
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+API only
+
+
+
+
+
+
+Afterpay
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+Alipay
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+AlipayHK
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+Alma
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+Amazon Pay
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+API only
+
+
+
+
+
+
+Apple Pay
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+React Native Drop-in
+
+
+
+
+React Native Component
+
+
+
+
+API only
+
+
+
+
+
+Custom integration (Web)
+
+
+
+
+Custom integration (In-app)
+
+
+
+
+
+
+Enable Apple Pay with your own certificate
+
+
+
+
+Handle Apple Pay errors
+
+
+
+
+
+
+Atome
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+BACS Direct Debit
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+API only
+
+
+
+
+
+
+Bancontact
+
+
+
+
+
+Bancontact card
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+Issues processing co-branded Bancontact cards
+
+
+
+
+
+
+Bancontact mobile
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+
+
+Benefit
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+Bizum
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+API-only
+
+
+
+
+
+
+BLIK
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+Boleto BancÃ¡rio
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+API only
+
+
+
+
+
+
+Cash App Pay
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+
+
+Clearpay
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+DANA
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+DuitNow
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+
+
+EPS
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+GCash
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+Gift cards
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+Android Drop-in
+
+
+
+
+API only
+
+
+
+
+Other gift card transactions
+
+
+
+
+
+Issue new gift card
+
+
+
+
+Activate or deactivate
+
+
+
+
+Load an amount
+
+
+
+
+Check balance
+
+
+
+
+Merge balance
+
+
+
+
+Void a transaction
+
+
+
+
+
+
+
+
+giropay
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+Google Pay
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+React Native Drop-in
+
+
+
+
+React Native Component
+
+
+
+
+API only
+
+
+
+
+
+
+GoPay
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+GrabPay
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+iDEAL
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+Indonesian bank transfers and convenience store payments
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+API only
+
+
+
+
+
+
+Japanese convenience stores
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+API only
+
+
+
+
+
+
+KakaoPay
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+Klarna
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+Invoice lines and discounts in API requests
+
+
+
+
+Raw acquirer responses
+
+
+
+
+
+
+KNET
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+MB WAY
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+MobilePay
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+MoMo
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+Multibanco
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+API only
+
+
+
+
+
+
+Napas card
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+Online banking Finland
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+Oney
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+API only
+
+
+
+
+
+
+Online banking Czech Republic
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+API only
+
+
+
+
+
+
+Online banking India
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+API only
+
+
+
+
+
+
+FPX Online banking Malaysia
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+Online banking Poland
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+Online banking Slovakia
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+API only
+
+
+
+
+
+
+Online banking Thailand
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+Open banking
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+API only
+
+
+
+
+
+
+OXXO
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+API only
+
+
+
+
+
+
+PayBright
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+PayNow
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+
+
+PayPal
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+Set up PayPal
+
+
+
+
+Set up PayPal for marketplaces
+
+
+
+
+
+
+PaySafeCard
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+Paytm
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+Pix
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+API only
+
+
+
+
+
+
+PromptPay
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+
+
+Ratepay
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+API only
+
+
+
+
+
+
+Samsung Pay
+
+
+
+
+
+API only
+
+
+
+
+Enable Samsung Pay
+
+
+
+
+
+
+SEPA Direct Debit
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+Sofort
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+Swish
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+API only
+
+
+
+
+
+
+Titres-Restaurant
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+API only
+
+
+
+
+
+
+Touch'n Go
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+Trustly
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+Payouts
+
+
+
+
+
+
+TWINT
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+API only
+
+
+
+
+
+
+UPI
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+API only
+
+
+
+
+
+
+Vipps
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+Wallets India
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+API only
+
+
+
+
+
+
+Walley
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API-only
+
+
+
+
+
+
+WeChat Pay
+
+
+
+
+
+Desktop QR
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+
+
+In-app
+
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+Enable WeChat Pay
+
+
+
+
+
+
+
+
+Zip
+
+
+
+
+
+Web Drop-in
+
+
+
+
+Web Component
+
+
+
+
+iOS Drop-in
+
+
+
+
+iOS Component
+
+
+
+
+Android Drop-in
+
+
+
+
+Android Component
+
+
+
+
+API only
+
+
+
+
+
+
+
+
+Risk management
+
+
+
+
+Overview
+
+
+
+
+Configure risk settings
+
+
+
+
+Risk rules
+
+
+
+
+Create and use risk profiles
+
+
+
+
+Configure manual risk
+
+
+
+
+
+Block and trust lists (Referrals)
+
+
+
+
+Standard risk rules
+
+
+
+
+Custom risk rules
+
+
+
+
+External risk rules
+
+
+
+
+Required risk field reference
+
+
+
+
+
+
+Fraud results in API responses and webhooks
+
+
+
+
+Run A/B test experiments
+
+
+
+
+Other risk engine features
+
+
+
+
+Automate submitting referrals
+
+
+
+
+
+Referrals API reference
+
+
+
+
+
+
+Standalone risk
+
+
+
+
+Skip risk rules
+
+
+
+
+Control traffic
+
+
+
+
+Extra risk management
+
+
+
+
+Address Verification System (AVS)
+
+
+
+
+Dynamic 3D Secure
+
+
+
+
+Case management
+
+
+
+
+Monitor risk performance
+
+
+
+
+Disputes
+
+
+
+
+Understanding disputes
+
+
+
+
+
+Dispute flow and process
+
+
+
+
+Defense requirements
+
+
+
+
+Dispute reason codes
+
+
+
+
+
+
+Manage disputes
+
+
+
+
+Chargeback guidelines
+
+
+
+
+
+ACH chargebacks
+
+
+
+
+Visa chargebacks
+
+
+
+
+Mastercard chargebacks
+
+
+
+
+American Express chargebacks
+
+
+
+
+Elo chargebacks
+
+
+
+
+JCB chargebacks
+
+
+
+
+UnionPay chargebacks
+
+
+
+
+Diners/Discover chargebacks
+
+
+
+
+SEPA/Cartes Bancaires chargebacks
+
+
+
+
+Klarna chargebacks
+
+
+
+
+Mexico domestic chargebacks
+
+
+
+
+eftpos chargebacks
+
+
+
+
+
+
+Chargeback Uploader
+
+
+
+
+Disputes API
+
+
+
+
+
+Dispute webhooks
+
+
+
+
+Disputes API reference
+
+
+
+
+Test a chargeback scenario
+
+
+
+
+
+
+
+
+Reporting
+
+
+
+
+Overview
+
+
+
+
+Get reports
+
+
+
+
+Manually get reports
+
+
+
+
+Automatically get reports
+
+
+
+
+Time zone setting
+
+
+
+
+Financial
+
+
+
+
+Sales to payouts dashboard
+
+
+
+
+Reports and the payments lifecycle
+
+
+
+
+Settlement reconciliation
+
+
+
+
+
+Transaction-level
+
+
+
+
+
+Installments and advancements in Brazil
+
+
+
+
+Reports
+
+
+
+
+Settlement details report
+
+
+
+
+External settlement detail report
+
+
+
+
+
+
+Batch-level
+
+
+
+
+
+Aggregate settlement details report
+
+
+
+
+
+
+
+
+Invoice reconciliation
+
+
+
+
+
+Payment accounting report
+
+
+
+
+Payment processing invoice
+
+
+
+
+
+
+Closing your fiscal period
+
+
+
+
+
+Monthly and Daily finance reports
+
+
+
+
+
+
+Operational
+
+
+
+
+Disputed transactions
+
+
+
+
+3D Secure
+
+
+
+
+
+Authentication report
+
+
+
+
+Conversion report
+
+
+
+
+
+
+Balance transfers
+
+
+
+
+
+Company Payout report
+
+
+
+
+
+
+Dynamic Currency Conversion (DCC) transactions
+
+
+
+
+Received payment details report
+
+
+
+
+Other reports
+
+
+
+
+Modifications not processed
+
+
+
+
+Your payment terminals
+
+
+
+
+Account Updater results
+
+
+
+
+Platform reports
+
+
+
+
+
+
+Account
+
+
+
+
+Overview
+
+
+
+
+Account structure
+
+
+
+
+Defining your account structure
+
+
+
+
+
+Example account structures
+
+
+
+
+Framework entity onboarding
+
+
+
+
+
+
+Manage your account structure
+
+
+
+
+Users
+
+
+
+
+Manage users
+
+
+
+
+
+Manage partner users
+
+
+
+
+
+
+User roles
+
+
+
+
+Single sign-on
+
+
+
+
+
+Set up single sign-on
+
+
+
+
+Migrating users to single sign-on
+
+
+
+
+Log in with single sign-on
+
+
+
+
+
+
+System messages
+
+
+
+
+Multi-factor authentication
+
+
+
+
+Payments
+
+
+
+
+Manage payments
+
+
+
+
+Transaction description
+
+
+
+
+Payments lifecycle
+
+
+
+
+Finance
+
+
+
+
+Balances
+
+
+
+
+
+Next Payout
+
+
+
+
+Reserve
+
+
+
+
+Deposit
+
+
+
+
+
+
+Getting paid
+
+
+
+
+Manage payout accounts
+
+
+
+
+Sales Day Payout
+
+
+
+
+Pass-Through Payout
+
+
+
+
+Supported payout currencies
+
+
+
+
+Configure your invoice settings
+
+
+
+
+
+
+Development resources
+
+
+
+
+Overview
+
+
+
+
+Authentication
+
+
+
+
+API authentication types
+
+
+
+
+API credentials
+
+
+
+
+
+Roles
+
+
+
+
+
+
+Client-side authentication
+
+
+
+
+
+Migrate to client key
+
+
+
+
+
+
+Integration
+
+
+
+
+Webhooks
+
+
+
+
+
+Webhook structure and types
+
+
+
+
+Additional settings
+
+
+
+
+Verify HMAC signatures
+
+
+
+
+Best practices
+
+
+
+
+Domain and IP addresses
+
+
+
+
+Account settings webhooks
+
+
+
+
+Troubleshoot
+
+
+
+
+
+
+Testing
+
+
+
+
+
+Test card numbers
+
+
+
+
+Custom test cards
+
+
+
+
+
+API reference
+
+
+
+
+
+
+Test CVC-CVV result codes
+
+
+
+
+Test authorisation result codes
+
+
+
+
+
+Using additional data
+
+
+
+
+Using cardholder name
+
+
+
+
+
+
+
+
+Libraries
+
+
+
+
+Logs
+
+
+
+
+
+Webhook event logs
+
+
+
+
+API logs
+
+
+
+
+
+
+API idempotency
+
+
+
+
+Live endpoints
+
+
+
+
+Versioning
+
+
+
+
+Batch processing
+
+
+
+
+
+Submit modifications
+
+
+
+
+Submit through SFTP
+
+
+
+
+
+Batch acknowledgement file
+
+
+
+
+Batch file naming and structure
+
+
+
+
+Batch request file
+
+
+
+
+
+Authorisation request file
+
+
+
+
+
+Authorisation for a card payment
+
+
+
+
+Authorisation for an IBAN payment
+
+
+
+
+Authorisation for a recurring payment
+
+
+
+
+Authorisation with airline data
+
+
+
+
+Authorisation for ACH Direct Debit
+
+
+
+
+
+
+Modification request file
+
+
+
+
+
+AuthorisationReferral request
+
+
+
+
+Capture request
+
+
+
+
+
+Capture with airline data
+
+
+
+
+
+
+CancelOrRefund request
+
+
+
+
+Cancel request
+
+
+
+
+Refund request
+
+
+
+
+
+
+RefundWithData request file
+
+
+
+
+
+RefundWithData request
+
+
+
+
+
+
+Payout request file
+
+
+
+
+
+Payout request
+
+
+
+
+
+
+PayoutModification request file
+
+
+
+
+
+PayoutConfirm request
+
+
+
+
+PayoutDecline request
+
+
+
+
+
+
+AccountUpdater request file
+
+
+
+
+StoreToken request file
+
+
+
+
+
+StoreToken request for payout
+
+
+
+
+
+
+
+
+Batch result file
+
+
+
+
+
+Authorisation result file
+
+
+
+
+Modification result file
+
+
+
+
+RefundWithData result file
+
+
+
+
+Payout result file
+
+
+
+
+PayoutModification result file
+
+
+
+
+Account Updater result file
+
+
+
+
+Batch result file with validation errors
+
+
+
+
+
+
+
+
+
+
+Import data from another payment provider
+
+
+
+
+
+Import payment details for recurring payments
+
+
+
+
+Import data into referral lists
+
+
+
+
+
+
+Responses
+
+
+
+
+Response handling
+
+
+
+
+Error codes and messages
+
+
+
+
+Refusal reasons
+
+
+
+
+Raw acquirer responses
+
+
+
+
+Reference
+
+
+
+
+Currency codes
+
+
+
+
+PaymentMethodVariant
+
+
+
+
+Partners
+
+
+
+
+Application information
+
+
+
+
+OAuth
+
+
+
+
+
+OAuth integration
+
+
+
+
+OAuth scopes
+
+
+
+
+Installed OAuth apps
+
+
+
+
+
+
+Security
+
+
+
+
+Data Security at Adyen
+
+
+
+
+
+Security Questionnaire Example
+
+
+
+
+
+
+Integration security guide
+
+
+
+
+Data Protection API
+
+
+
+
+PGP encryption
+
+
+
+
+PCI DSS compliance guide
+
+
+
+
+
+Merchant levels
+
+
+
+
+Engaging a QSA
+
+
+
+
+
+
+Comparing E2EE and P2PE
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Build your integration
+
+
+
+
+
+
+
+
+
+
+Online payments
+
+
+Accept web and mobile payments with our customizable components and API.
+
+
+
+
+
+
+
+
+
+Integration checklist
+Integrations
+PSD2
+API Explorer
+
+
+
+
+
+
+
+
+
+
+
+
+In-person payments
+
+
+Accept point-of-sale payments with our Terminal API and payment terminals.
+
+
+
+
+
+
+
+
+
+Get started
+Terminal API
+Payment terminals
+Mobile solutions
+
+
+
+
+
+
+
+
+
+
+
+
+Platforms
+
+
+Accept payments on your platform or marketplace.
+
+
+
+
+
+
+
+
+
+Get started
+Onboard your users
+Split payments
+Payouts
+
+
+
+
+
+
+
+
+
+
+
+
+Plugins
+
+
+Connect your existing commerce systems to our platform for a seamless payment flow.
+
+
+
+
+
+
+
+
+
+Adobe Commerce
+Salesforce
+Shopware
+Partner directory
+
+
+
+
+
+
+Developer tools
+
+
+
+
+
+Example integrations
+
+
+Check out examples of PCI-compliant UI integrations for online payments with Adyen. Within our demo apps, you'll find simplified versions of an ecommerce website, complete with commented code that highlight key features and concepts of Adyen's API.
+
+
+
+
+
+
+API Explorer 
+Use the Adyen API Explorer to send test requests and learn about the API.
+
+
+Server-side libraries 
+Get a server-side API library in your language of choice to easily work with Adyen's API.
+
+
+Test card numbers 
+See sample cards and payment method details to test your integration before accepting live payments.
+
+
+
+
+
+
+Connect with the community
+
+
+
+News 
+Developer newsletter 
+
+Tech blog 
+
+
+Social
+Developer Twitter 
+
+Twitch 
+
+
+Help
+Stack Overflow 
+
+Support 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adyen
+
+
+
+
+About
+
+
+
+
+Careers
+
+
+
+
+Contact
+
+
+
+
+Support
+
+
+
+
+
+
+Resources
+
+
+
+
+API Explorer
+
+
+
+
+GitHub
+
+
+
+
+Example integrations
+
+
+
+
+Stack Overflow
+
+
+
+
+Tech blog
+
+
+
+
+Developer newsletter
+
+
+
+
+Twitter
+
+
+
+
+
+
+Platform
+
+
+
+
+Infrastructure
+
+
+
+
+Licenses
+
+
+
+
+Terms & conditions
+
+
+
+
+
+
+
+
+Cookies
+
+
+
+Â© Adyen 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+

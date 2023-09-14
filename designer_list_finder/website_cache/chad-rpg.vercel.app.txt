@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome to Chad-Rpg!
+What is That?
+
+FRPG Starter
+Start as a new adventurer in a fantasy role-playing world, entering a tavern.
+Play
+
+Cyberpunk Starter
+Start as a capable human being at a neon city in a Cyberpunk world.
+Play
+
+Random Starter
+Start the game at a random place, in a random world, while on a random event.
+Play
+
+Custom Starter
+Start your own unique adventure in your own world!
+Configure game settings
+
+undefined
+
+Game's Open Back Again
+But free bard API is not responding stable sometimes as it is an experiment ai. I'll try to
+		minimize bugs by game prompt and error handling but ultimate solution is a stable chat api. So
+		don't take your games so seriously for now, as it may get stuck at the most enjoyable moment.
+	
+Game carried from chatgpt to bard's unofficial free api, not the best chatbot solution but
+			only free solution i've found for now.
+		
+Sadly, creating a save system is not possible without a stable chat api, So only quick games
+			can be played for now.
+		
+PR's - ideas are all welcome! (Especially in game prompt.)
+You can share me the bugs u've encountered.
+Okay
+28th of august 2023
+
+
+
+
+
+
+
+
+
+
+
+

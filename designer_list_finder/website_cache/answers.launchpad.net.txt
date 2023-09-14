@@ -1,0 +1,310 @@
+
+
+
+
+
+Launchpad Answers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in / Register
+
+
+
+
+
+
+Launchpad.net
+
+
+
+Launchpad Home
+Code
+Bugs
+Blueprints
+Translations
+Answers
+
+
+
+
+
+Questions and Answers
+
+
+
+
+
+
+
+
+          Launchpad Answers helps you build a
+          community support network and knowledge base for
+          your project. Encourage new users to ask questions
+          rather than file bugs! (Read our guide)
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ All projects
+
+
+ One project:
+
+
+
+(Find…)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Most active projects
+
+
+Ubuntu
+
+
+Launchpad itself
+
+
+MadGraph5_aMC@NLO
+
+
+Yade
+
+
+HPLIP
+
+
+
+
+Latest questions asked
+
+
+707923: Cannot extract audio from video
+      (Open)
+    
+posted
+      3 hours ago
+      in
+      SoundConverter
+    
+
+
+707922: Can't register an account with NLOAccess Tools
+      (Open)
+    
+posted
+      5 hours ago
+      in
+      MadGraph5_aMC@NLO
+    
+
+
+707921: Probleme pour etteindre le pc
+      (Open)
+    
+posted
+      12 hours ago
+      in
+      Ubuntu
+    
+
+
+707920: Cross sections of e+ e- > z h > mu+ mu- b b~
+      (Open)
+    
+posted
+      14 hours ago
+      in
+      MadGraph5_aMC@NLO
+    
+
+
+707919: Unfinished translations and lack of organization of volunteer Brazilian Portuguese translators.
+      (Open)
+    
+posted
+      14 hours ago
+      in
+      Launchpad itself
+    
+
+
+
+
+Latest questions solved
+
+
+707918: Spam in Bug Reports
+      (Solved)
+    
+posted
+      15 hours ago
+      in
+      Launchpad itself
+    
+
+
+707912: Is 'apt update' really needed after 'add-apt-repository'?
+      (Solved)
+    
+posted
+      17 hours ago
+      in
+      Launchpad itself
+    
+
+
+707911: Wifi is not showing up
+      (Solved)
+    
+posted
+      18 hours ago
+      in
+      Ubuntu
+    
+
+
+707909: export the position of sphere 
+      (Solved)
+    
+posted
+      22 hours ago
+      in
+      Yade
+    
+
+
+707903: Package upload failed with timestamp error
+      (Solved)
+    
+posted
+      on 2023-09-12
+      in
+      Launchpad itself
+    
+
+
+
+
+
+
+103791
+          questions answered and
+          99786
+          questions solved out of
+        
+
+705662
+          questions asked across
+          5221
+          projects
+        
+
+
+
+
+
+
+
+
+
+
+           • 
+          Take the tour
+           • 
+          Read the guide
+           
+          
+
+
+
+
+
+
+      © 2004-2023
+      Canonical Ltd.
+       • 
+      Terms of use
+       • 
+      Data privacy
+       • 
+      Contact Launchpad Support
+      
+       • 
+      Blog
+      
+	 • 
+	Careers
+      
+       • 
+      System status
+
+       • 
+        32eed77
+        
+        
+        (Get the code!)
+      
+
+
+
+
+
+
+

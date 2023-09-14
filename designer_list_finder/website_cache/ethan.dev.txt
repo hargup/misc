@@ -1,0 +1,110 @@
+
+
+
+
+
+Ethan Steininger | Engineer and Explorer
+
+
+
+
+
+
+
+
+
+
+
+
+
+cur non?
+
+
+
+
+
+
+
+
+
+
+
+
+
+This Site's Code
+
+
+👋🏻 Howdy, I'm Ethan. Let's explore.
+
+        I'm passionate about merging product and tech to fix societal problems
+        through empathy,
+        ideation, and iteration.
+      
+I've worn many hats - engineer, product manager, sales leader, and startup builder. Despite
+        setbacks, I'll always be a builder.
+      
+Recently, I launched MongoDB's search
+          platform. Now, I'm on a mission to equip anyone with deep
+        multimodal search capabilities in a
+          single line of code.
+      
+Play
+I'm all about work/life balance and love exploring the great outdoors with my pup through mountain biking, backpacking,
+        kayaking, and climbing.
+I learned electricals, plumbing, woodwork and
+        metalwork to equip a badass camper van for off-grid work and travel.
+Check out vanlifecoder for the full build journal, travel log and cost
+        breakdown. Who knows, maybe it'll
+        inspire you to pursue your own epic BHAG!
+Projects
+
+
+VectorSearch.dev - Applying Minimal
+            Viable Discovery principles at
+          MongoDB to
+          release our latest, most complex feature.
+        
+
+Nutripeek.com - Empowering users to take control of their mental and
+          physical health through the research, curation and evaluation of supplement stacks.
+
+        
+
+Meports.com - Enhancing everybody's quality of life by using data and
+          technology. Meports combines genetic reporting with digital wearable
+          monitoring to deliver data-driven lifestyle optimization reporting.
+        
+
+Fandemic - Low code platform allowing anybody to create their
+          branded merchandise ecommerce stores.
+        
+
+ComparedCare - Award winning healthcare cost transparency platform.
+        
+
+Writing
+
+Vertical
+            Integration is Key to Winning the AI Race
+           01/23
+Preparation enables
+            Surrender
+           02/21
+Framework
+            for Self-Experimentation
+           02/18
+
+Talks & Interviews
+
+Ethan Steininger and the AI Landscape on the Weaviate
+            Podcast
+          
+
+
+
+
+me (at) ethan (dot) dev
+
+
+
+

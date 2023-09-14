@@ -1,0 +1,651 @@
+
+
+
+
+
+The Pragmatic Engineer - The Pragmatic Engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+Close
+
+
+Home
+Newsletter
+My Books
+Jobs Board
+Talent Collective
+Reading List
+Popular Articles
+Ethics statement
+Sponsoring
+Investing
+Now
+Contact me
+About
+The Tech Resume Book
+Mobile Apps at Scale Book
+RSS Feed
+twitter
+youtube
+linkedin
+Interview Preparation
+Templates
+Stats
+
+Subscribe
+
+
+
+
+
+Home
+
+
+Newsletter
+
+
+My Books
+
+
+Jobs Board
+
+
+Talent Collective
+
+
+Reading List
+
+
+Popular Articles
+
+
+Ethics statement
+
+
+Sponsoring
+
+
+Investing
+
+
+Now
+
+
+Contact me
+
+
+About
+
+
+The Tech Resume Book
+
+
+Mobile Apps at Scale Book
+
+
+RSS Feed
+
+
+twitter
+
+
+youtube
+
+
+linkedin
+
+
+Interview Preparation
+
+
+Templates
+
+
+Stats
+
+
+
+
+
+
+
+Menu
+
+
+
+The Pragmatic Engineer
+
+Newsletter | Books | Jobs | Talent Collective
+
+
+Scroll Down
+
+
+
+
+Page 1 of 1
+
+
+
+
+How Games Typically Get Built
+
+
+The differences between games development and more “standard” software engineering, roles, and how games are typically built. »
+
+
+22 August 2023
+
+
+
+
+A senior engineer/EM job search story
+
+
+avidson Fellipe, a software engineer with 15 years’ experience, based in New York, was recently let go. After 350 applications and 85 first-round interviews in 4 months, he secured 3 offers, and has now started his new job. He shares first-hand learnings about navigating the jobs market. »
+
+
+10 August 2023
+
+
+
+
+Are reports of StackOverflow’s fall greatly exaggerated?
+
+
+A blog post suggests traffic is down 50% at Stack Overflow, due to ChatGPT gaining popularity. I reached out to Stack Overflow for more details: the company admitted a drop, but it’s only 14% as per data shared with me. »
+
+
+10 August 2023
+
+
+
+
+Google Shutting down Firebase Dynamic Links
+
+
+Firebase Dynamic Links was a popular way to build universal deeplinks that worked across iOS, Android, and the web. Now after 7 years, Google is shutting down this product. But why? I asked the Big Tech giant for details. »
+
+
+03 August 2023
+
+
+
+
+Previous Articles
+
+
+What is a Senior Software Engineer at Wise and Amazon?
+
+Building an an Early Stage Startup: Lessons from Akita Software
+
+The Pulse: VanMoof files for bankruptcy protection
+
+Twitter vs Instagram Threads: two different approaches to throttling
+
+Domain Registrars which Developers Recommend
+
+Google Domains to shut down
+
+An explosion in software engineers using AI coding tools?
+
+Inside Agoda’s Private Cloud - Exclusive
+
+Should you optimize for all-cash compensation, if possible?
+
+An educational side project
+
+Layoffs push down scores on Glassdoor: this is how companies respond
+
+Github Copilot and ChatGPT alternatives
+
+PagerDuty (and OpsGenie) alternatives
+
+Datadog’s $65M/year customer mystery solved
+
+Compensation at Publicly Traded Tech Companies
+
+Uber’s engineering level changes
+
+Is Critical Thinking the Most Important Skill for Software Engineers?
+
+The state of startup funding
+
+Behind the Scenes with Two New Salary Transparency Websites
+
+Lyft in Trouble
+
+Is there a drop in software engineer job openings, globally?
+
+Amazon doubling down on RTO (return to office) - exclusive
+
+The Collapse of Silicon Valley Bank
+
+Big Tech job-switching stats - exclusive
+
+Why did Google close its coding competitions after 20 years? Exclusive details.
+
+The job market for new grads: worse than in 2008, but better than 2002
+
+Apple cracking down to enforce its RTO policy - exclusive
+
+Apple: The Only Big Tech Giant Going Against the Job Cuts Tide
+
+What Big Tech layoffs suggest for the industry
+
+Inside Pollen's Software Engineering Salaries - Exclusive
+
+CircleCI’s unnoticed holiday security breach
+
+A Return to the Office (RTO) Wave?
+
+Twitter’s ongoing cruel treatment of software engineers
+
+Who is Still Hiring Software Engineers and EMs?
+
+The Scoop: Tech Layoffs in 2022
+
+Cruel Changes at Twitter
+
+The Scoop: Turmoil at Twitter
+
+The Big Tech Hiring Slowdown Is Here and it will Hurt
+
+Pollen’s enormous debt left behind: exclusive details
+
+Is the strategy of joining late-stage startups for the financial upside, a dead end?
+
+Will Facebook / Meta do engineering layoffs?
+
+Meta’s historic growth challenge
+
+Resiliency in Distributed Systems
+
+What is Data Engineering: Part 2
+
+Inside Pollen’s Collapse: “$200M Raised” but Staff Unpaid - Exclusive
+
+What is Data Engineering?
+
+Inside the Shutdown of Zenly by Snap
+
+The Scoop: Netflix’s historic introduction of levels for software engineers - exclusive
+
+I removed all affiliate links from my blog: numbers
+
+Three years of advertising on my blog: numbers
+
+Advice for Less Experienced Software Engineers in the Current Tech Market
+
+Oncall Compensation for Software Engineers
+
+Companies Using RFCs or Design Docs and Examples of These
+
+Shipping to Production
+
+Inside the Layoffs at Klarna
+
+Job Ads to Hire Software Engineers: My Advice
+
+Becoming a Full-Time Creator as a Software Engineer: Controversial Advice
+
+Migrations Done Well: Executing Migrations
+
+Big Tech and the reality of scaling customer support
+
+Migrations Done Well: Typical Migration Approaches
+
+Notable Internal Systems at Amazon
+
+The Ukraine War - and Its Impact on the Tech Industry
+
+What TPMs Do and What Software Engineers Can Learn From Them
+
+Becoming a Better Writer as a Software Engineer
+
+Coaches and Mentors for Engineering Managers and Engineering Leaders
+
+Holiday Book Recommendations for Engineering Managers, Software Engineers and Product Managers
+
+Hiring (and Retaining) a Diverse Engineering Team
+
+Exceptional Off-Cycle Compensation Adjustments for Software Engineers in 2021
+
+Platform Teams
+
+How I Motivate Myself to Write
+
+Incident Review and Postmortem Best Practices
+
+Reverse Interviewing Your Future Manager and Team
+
+The Pragmatic Engineer Test: 12 Questions on Engineering Culture
+
+How Big Tech Runs Tech Projects and the Curious Absence of Scrum
+
+The Most Heated Tech Job Market in History: Advice for Software Engineers
+
+The Seniority Roller Coaster and Down-Leveling in Tech
+
+My "Investment Mindset"
+
+Donating My Time to Grow a VC-Funded Company: Why I Quit Mentoring at Plato
+
+I Want to Hire Someone, But My Team Said No to on the Debrief: Ask the EM
+
+I Spent $5,000 Advertising My Free Book to iOS and Android Engineers
+
+Uber's Crazy YOLO App Rewrite, From the Front Seat
+
+Dependency Injection in iOS and Android Apps
+
+A Checklist For First-Time Engineering Managers
+
+EMPOWERED Review: I Needed This Book 4 Years Ago
+
+The Trimodal Nature of Software Engineering Salaries in the Netherlands and Europe
+
+Preparing for the Systems Design and Coding Interview
+
+Equity 101 for Software Engineers at Big Tech and Startups
+
+Mobile Platform Teams
+
+Want to Learn about Entrepreneurship, as a Software Engineer? Sell Something Online.
+
+10 Engineering Challenges Due to the Nature of Mobile Applications
+
+Writing a Performance Self Review for Software Engineers - With an Example
+
+Templates as Inspiration for Software Engineers and Engineering Managers
+
+Common Performance Review Biases: How to Spot and Counter Them
+
+System Design Interview Book Review: Finally, a Book for Getting Better at Architecting Systems
+
+What Becoming an Engineering Manager Feels Like
+
+What Silicon Valley "Gets" about Software Engineers that Traditional Companies Do Not
+
+My Unforgettable Uber Ride
+
+Ask the EM: How Can I work Better with My Product Manager, as an Engineering Lead?
+
+Advice to Myself When Starting Out as a Software Developer
+
+Data Structures & Algorithms I Used Working at Tech Companies
+
+Can You Really Measure Individual Developer Productivity? - Ask the EM
+
+The Cheetah Software Engineer
+
+Become an Effective Software Engineering Manager: My Book Review and Notes
+
+Architecture Jams: a Collaborative Way of Designing Software
+
+Surprising Things About Working at Well-Known Tech Unicorns
+
+I Feel Stuck as a Staff Engineer, Wanting to Move Into an EM Role - Ask the EM
+
+A Software Engineering Culture Test
+
+Paper debugging
+
+Tech Debt and the Pragmatic Middle Ground
+
+The Pyramid of Unit Testing Benefits
+
+I'm Acting as The Team's Lead, But I'm Not Actually One - Ask the EM
+
+Refactoring Typescript: My Book Review
+
+How Can I Prepare to Eventually Move into Engineering Management? - Ask the EM
+
+How to Lead a Project - as a Software Engineer
+
+Performance Reviews for Software Developers – How I Do Them In a (Hopefully) Fair Way
+
+The 2010s in Software Development
+
+Distributed systems learnings in 2019
+
+Readable Code
+
+I'm Writing a Book on Growing as a Software Developer
+
+Don't Work Alone When You're a New or Junior Engineer
+
+An Engineering Team where Everyone is a Leader
+
+A Philosophy of Software Design: My Take (and a Book Review)
+
+Working at Silicon Valley Companies - in Europe
+
+Stretching, Executing, Coasting - and Pacing Yourself to Avoid Burnout
+
+Talk First, Code Later
+
+Seniority for Software Engineers: a Tech Talk
+
+Yes, You Should Estimate Software Projects
+
+Stop Calling it Bad Code
+
+Software Developer Promotions: Advice to Get to That Next Level
+
+Software Architecture is Overrated, Clear and Simple Design is Underrated
+
+Growth hacks: coffee with an experienced engineer you don’t know
+
+The Product-Minded Software Engineer
+
+Developers mentoring other developers: practices I've seen work well
+
+An Elegant Puzzle Book Review: an Overdue Read for Software Engineering Leads
+
+Operating a Large, Distributed System in a Reliable Way: Practices I Learned
+
+Good Code Reviews, Better Code Reviews
+
+Undervalued Software Engineering Skills: Writing Well
+
+Pull request best practices
+
+Scaling Engineering Teams via  RFCs: Writing Things Down
+
+Efficient Software Project Management at its Roots
+
+Distributed architecture concepts I learned while building a large payments system
+
+Seven things that helped me move into engineering management
+
+Things I've learned transitioning from engineer to engineering manager
+
+Transitioning From Objective C to Swift in 4 Steps - Without Rewriting The Existing Code
+
+My Code Ended Up Running an Oil Rig. These are the 5 Things I Learned.
+
+What Agile Really Means
+
+A Comment Is An Invitation For Refactoring
+
+The Software Development Dilemma: Move Fast without Breaking Things?
+
+Swift: The Only Modern Language without Mocking Frameworks
+
+Getting Into the Zone with a Single Pomodoro
+
+From Software Developer to Software Engineer
+
+
+
+
+Page 1 of 1
+
+
+
+
+
+by Gergely Orosz
+
+Menu
+
+Close
+
+
+Home
+Newsletter
+My Books
+Jobs Board
+Talent Collective
+Reading List
+Popular Articles
+Ethics statement
+Sponsoring
+Investing
+Now
+Contact me
+About
+The Tech Resume Book
+Mobile Apps at Scale Book
+RSS Feed
+twitter
+youtube
+linkedin
+Interview Preparation
+Templates
+Stats
+
+Subscribe
+
+
+
+
+
+Home
+
+
+Newsletter
+
+
+My Books
+
+
+Jobs Board
+
+
+Talent Collective
+
+
+Reading List
+
+
+Popular Articles
+
+
+Ethics statement
+
+
+Sponsoring
+
+
+Investing
+
+
+Now
+
+
+Contact me
+
+
+About
+
+
+The Tech Resume Book
+
+
+Mobile Apps at Scale Book
+
+
+RSS Feed
+
+
+twitter
+
+
+youtube
+
+
+linkedin
+
+
+Interview Preparation
+
+
+Templates
+
+
+Stats
+
+
+
+
+Subscribe via email
+Subscribe in a reader
+
+
+The Pragmatic Engineer © 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

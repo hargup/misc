@@ -1,0 +1,699 @@
+
+
+
+
+
+
+      Dale on AI
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dale on AI.
+
+
+Main navigation
+
+
+Articles
+
+
+About
+
+
+Close Menu
+
+
+
+
+
+Twitter
+
+
+
+GitHub
+
+
+
+Instagram
+
+
+
+LinkedIn
+
+
+
+YouTube
+
+
+Open Menu
+
+
+
+
+
+
+
+
+
+
+
+
+March 8, 2022
+
+
+
+Machine Learning's Most Useful Multitool: Embeddings
+
+
+              
+              Are embeddings machine learning's most underrated but super useful tool?
+              
+            
+
+
+
+
+
+
+
+
+
+
+September 13, 2021
+
+
+
+You, Me, and My AI-Generated Alternate Identity
+
+
+              
+              Using machine learning and AI to generate a fake identity online, for art and profit
+              
+            
+
+
+
+
+
+
+
+
+
+
+September 8, 2021
+
+
+
+An Impractical Guide to AI on Google Cloud
+
+
+              
+              Everything you wanted to know about AI on Google Cloud, and much more
+              
+            
+
+
+
+
+
+
+
+
+
+
+June 17, 2021
+
+
+
+Build an Animal/Object Tracking Camera App with TensorFlow.js
+
+
+              
+              Build a smart camera that tracks your pets (and whatever else) using privacy-preserving, on-device ML.
+              
+            
+
+
+
+
+
+
+
+
+
+
+May 6, 2021
+
+
+
+Transformers, Explained: Understand the Model Behind GPT-3, BERT, and T5
+
+
+              
+              A quick intro to Transformers, a new neural network transforming SOTA in machine learning.
+              
+            
+
+
+
+
+
+
+
+
+
+
+March 9, 2021
+
+
+
+How I, One Humble Engineer, Deal With Imposter Syndrome
+
+
+              
+              But it's just, like, my opinion.
+              
+            
+
+
+
+
+
+
+
+
+
+
+February 3, 2021
+
+
+
+AI Dubs Over Subs? Translating and Dubbing Videos with AI
+
+
+              
+              Use AI-powered translation and text-to-speech to automatically translate and "dub" any video.
+              
+            
+
+
+
+
+
+
+
+
+
+
+January 6, 2021
+
+
+
+DALL·E Explained in Under 5 Minutes
+
+
+              
+              OpenAI's new image-generating-model does more than just paint pictures
+              
+            
+
+
+
+
+
+
+
+
+
+
+December 9, 2020
+
+
+
+AlphaFold 2 Explained: A Semi-Deep Dive
+
+
+              
+              A quick look into the biology and machine learning behind DeepMind's new AlphaFold
+              
+            
+
+
+
+
+
+
+
+
+
+
+October 28, 2020
+
+
+
+I Built an AI Stylist Inspired by Social Media
+
+
+              
+              I let an AI pick out my outfits using computer vision and pictures of social media fashion influencers.
+              
+            
+
+
+
+
+
+
+
+
+
+
+October 19, 2020
+
+
+
+A Beginner's Guide to Painless ML on Google Cloud
+
+
+              
+              A round up of my favorite Google Cloud tools that make it easy for developers to use ML. 
+              
+            
+
+
+
+
+
+
+
+
+
+
+October 5, 2020
+
+
+
+Build a Machine Learning Model in 10 Minutes
+
+
+              
+              Seriously. No excuses!
+              
+            
+
+
+
+
+
+
+
+
+
+
+September 1, 2020
+
+
+
+Convert PDFs to Audiobooks with Machine Learning
+
+
+Ever wish you could listen to documents? In this post, we’ll use machine learning to transform PDFs into audiobooks.
+
+
+
+
+
+
+
+
+
+
+
+August 26, 2020
+
+
+
+Employers: Your Machine Learning Hires Don't Need PhDs or Masters Degrees
+
+
+Asking Machine Learning/AI hires to have fancy degrees is outdated. Here’s why.
+
+
+
+
+
+
+
+
+
+
+
+August 5, 2020
+
+
+
+Build Apps Powered by Language with Semantic ML
+
+
+In this post, I’ll show you how to use beginner-friendly ML tools–Semantic Reactor and TensorFlow.js–to build an app that’s powered by natural language.
+
+
+
+
+
+
+
+
+
+
+
+July 22, 2020
+
+
+
+GPT-3 Explained in Under 3 Minutes
+
+
+Peek under the hood of GPT-3 in under 3 minutes.
+
+
+
+
+
+
+
+
+
+
+
+July 16, 2020
+
+
+
+Can AI Make You a Better Athlete? Using Machine Learning to Analyze Tennis Serves and Penalty Kicks
+
+
+I’ll show you how to use machine learning to analyze your performance in your sport of choice (mine’s Tennis!).
+
+
+
+
+
+
+
+
+
+
+
+June 30, 2020
+
+
+
+Build Your Own AI Moderator Bot for Discord with the Perspective API
+
+
+In this post, I’ll show you how to build an AI-powered moderator bot for the Discord chat platform using the Perspective API.
+
+
+
+
+
+
+
+
+
+
+
+June 12, 2020
+
+
+
+Building an AI-Powered Searchable Video Archive
+
+
+In this post, I’ll show you how to build an AI-powered, searchable video archive using machine learning and Google Cloud–no experience required.
+
+
+
+
+
+
+
+
+
+
+
+February 25, 2020
+
+
+
+Building a Talking Trivia Alarm Clock, Part 3: Dialogflow Fulfillments
+
+
+              
+              Learn how to use Fulfillments with Dialogflow to augment your chatbot with custom code.
+              
+            
+
+
+
+
+
+
+
+
+
+
+February 25, 2020
+
+
+
+Building a Talking Trivia Alarm Clock, Part 2: Streaming Dialogflow on a Raspberry Pi
+
+
+              
+              Learn how to use Dialogflow with voice with the Streaming API
+              
+            
+
+
+
+
+
+
+
+
+
+
+February 25, 2020
+
+
+
+Building a Talking Trivia Alarm Clock, Part 1: Intro to Dialogflow
+
+
+Learn how to get started with Dialogflow by building a simple alarm clock chatbot.
+
+
+
+
+
+
+
+
+
+
+
+February 6, 2020
+
+
+
+Streaming Dialogflow on your Desktop/Device/Raspberry Pi
+
+
+Turn your local computer into a listening, talking Voice User Interface powered by Dialogflow.
+
+
+
+
+
+
+
+
+
+
+
+February 6, 2020
+
+
+
+Building a Deep-Learning-Powered (Baby) Name Generator
+
+
+What can Wikipedia biographies and Deep Neural Networks tell us about what’s in a name?
+
+
+
+
+
+
+
+
+
+
+
+December 17, 2019
+
+
+
+Software Developers: You’re Learning Machine Learning Upside Down
+
+
+Most of us learn Machine Learning from the ground up. But the skills developers need to be effective users of ML is something totally different. So what should the forward-looking software engineer learn about AI today?
+
+
+
+
+
+
+
+
+
+
+
+November 5, 2019
+
+
+
+Improving Machine Translation with the Google Translation API Advanced
+
+
+What’s Google’s new Translation API Advanced (v3), and how can you use it to improve machine translations?
+
+
+
+
+
+
+
+
+
+
+
+October 4, 2019
+
+
+
+How Machine Learning is Transforming Healthcare at Google and Beyond
+
+
+Google and others are recruiting algorithms to spot cancer in medical scans, predict the outcome of hospital visits, and more. Here’s how.
+
+
+
+
+
+
+
+
+
+
+
+May 20, 2019
+
+
+
+Parsing Structured Documents with Custom Entity Extraction
+
+
+Build your own custom entity extraction model with easy-to-use Machine Learning tools
+
+
+
+
+
+
+
+About Dale
+
+
+
+Generative AI DevRel Lead @ Google Labs.
+          Dale is a coder, writer, maker, and napper at Google Labs. Here, she writes about Machine Learning for developers, AI in the world, and a whole lot more.
+        
+
+
+Article Tags
+
+ai
+automl
+chatbots
+computer vision
+computervision
+deepfakes
+dialogflow
+gan
+generative models
+google cloud
+googlecloud
+gpt3
+healthcare
+life
+machine learning
+machine translation
+machinelearning
+ml
+natural language processing
+nlp
+nlp 
+openai
+tensorflow
+tensorflow.js
+video intelligence
+videointelligence
+
+
+Never miss an update
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Back to the top ↑
+
+
+
+
+
+
+
+
+
+
+
+

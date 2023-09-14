@@ -1,0 +1,561 @@
+
+
+
+
+
+
+Beamable - Game Server and LiveOps Platform for Unity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+LiveOps Portal
+Serverless Game Backend
+Unity SDK
+Unreal SDK
+Beamable Private Cloud
+Web3 Integration
+Playfab Migration
+
+
+Pricing
+Marketplace
+Resources
+
+Features List
+Documentation
+Change Logs
+Sample Projects
+Technical Whitepaper
+Blog
+Community
+
+
+Company
+
+About Us
+Partners
+Customers
+
+
+Sign UpLogin
+
+
+
+
+
+
+
+One Line of Code Unlocks:												    
+
+var Beamable = BeamContext.Default;
+That's all that's needed to get the ability to build your own custom server logic via microservices along with a world of LiveOps tools and live services to build games in Unity and Unreal that players love.
+
+
+								   Sign Up Today														   
+
+
+										Learn more about Live Games									
+
+										Learn More About LiveOps									
+
+										Learn More About Game Content									
+
+										Learn More About Inventory									
+
+										Learn More About Stores									
+
+										Learn More About Live Events									
+
+										Learn More About Microservices									
+
+										Learn More About Leaderboards									
+
+										Learn More About Groups									
+
+										Learn More About Chat & Mail									
+
+										Learn More About Multiplayer									
+
+										Learn More About Matchmaking									
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Built on Beamable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Build on Beamable
+Single tenant, multi tenant, drag-and-drop game server features, and more!
+
+
+
+
+
+
+								Live Services							
+
+								Starting building cloud-native live services for your game today. One line of code unlocks systems like persistent worlds, customized servers, social systems and managed inventory—with no backend servers to configure or install.							
+
+
+															Get Started													
+
+
+
+
+
+								Private Cloud							
+
+								Deliver state-of-the-art live services to all of your game teams. The entire Beamable Live Services stack can be deployed on-prem or in your own cloud environment, providing the ultimate in security, control, and flexibility.							
+
+
+															Learn More													
+
+
+
+
+
+								Plug-in Marketplace							
+
+								The first marketplace of Live Services solutions for games: plug-ins for monetization, generative AI, blockchain, and more. Built around a common data fabric that lets you snap-together components that extend your game—without the headaches.							
+
+
+															Browse the Marketplace													
+
+
+
+
+
+
+
+
+
+
+
+Some Games on Beamable
+
+
+
+
+
+
+
+
+
+Build Games That Players Love
+Get everything you need to give players a live gaming experience that will keep them coming back for years (not days).
+
+
+
+
+
+
+
+LiveOps Portal
+Web-based admin portal for all your LiveOps, customer support, and game management tasks.
+Explore the Portal						    
+
+
+
+Developer SDKs
+Fully-integrated tooling for Unity and Unreal with a flexible REST API to rapidly implement game features and content.
+Explore  the SDK						    
+
+
+
+
+
+Serverless Game Backend
+Build a game server without needing to run a game server using simple C# scripting and a Mongo cloud datastore.
+Explore the Backend						    
+
+
+
+Platform Features
+Keep players coming back for more with live content like events, tournaments and leaderboards.
+Explore the Features						    
+
+
+
+
+
+
+
+
+
+
+
+
+Beamable: Recipient of an Epic MegaGrant for Unreal Engine
+Beamable is the recipient of an Epic MegaGrant to accelerate development of our Unreal SDK to quickly add live game features via Blueprints. 
+
+						   Learn more about our Unreal SDK										   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome to Easy Mode
+When creating Live Games, you don’t just have to be an expert at building the fun—you also have to take on all the underlying server infrastructure and game architecture to power social, connected content-driven experiences. But with Beamable, you don’t have to go it alone.
+
+
+
+
+
+
+
+								Build Games Faster							
+
+								Beamable accelerates the speed of game development and deployment by streamlining the process of building game server features like never before. Get faster time to market with built-in frameworks and prefabs, plus you can continue building with the languages you already know.							
+
+
+															Explore Features													
+
+
+
+
+
+
+
+								Use What You Already Know							
+
+								Beamable directly integrates with the workflow in Unity3D and Unreal Engine. Build live games without the need to learn a new programming language, learn complicated server-tech paradigms, or even leave the game engine editor.							
+
+
+															Try a Sample Project													
+
+
+
+
+
+
+								Scale with Confidence							
+
+								Get access to new sources of revenue faster. By shipping more games more quickly, you will have more opportunities to create new streams of revenue. And with Beamable’s low cost of ownership, you’ll see even more financial growth.							
+
+
+															See Pricing													
+
+
+
+
+
+
+
+
+
+Download Our Technical Whitepaper
+Learn how the game platform Beamable, with one line of code, enables integrated, full-stack LiveOps for your Unity or Unreal game.
+
+						   Download the Whitepaper										   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Here’s What Beamable Customers Are Saying			
+
+
+
+
+
+									Of all the companies I've been in touch with, Beamable is one of the first companies to be so nice and open, and supportive, and it's really cool to see. I think that's one of the biggest things that gave me the motivation to go with Beamable.								
+
+								Just van der Linde, Co-Founder, Knucklehead Studios							
+
+
+
+
+
+
+									Beamable supports our ambition to provide regular content updates and live events for our players--and at a scale and frequency appropriate for a game based on a hit television show.								
+
+								Jason Bailey, CEO, East Side Games Group							
+
+
+
+
+
+
+									Beamable’s AWS integrated solution for LiveOps allowed Old Skull Games to implement important game infrastructure rapidly saving our team more time to focus on creating awesome player experiences.								
+
+								Hervé Sohm, Chief Business Officer, Old Skull Games							
+
+
+
+
+
+
+									Beamable enables live operations for our games with far more capital efficiency than building and maintaining our own Live Games platform.								
+
+								Omar Abdelwahed, VP & Studio Head, East Side Games							
+
+
+
+
+
+
+									I've never worked with a third party that's as available as Beamable. So that's incredibly nice to deal with. It's definitely worth it. This is unparalleled customer service, for sure.								
+
+								Michael Jones, CEO & Founder, Daft Resolutions Studios							
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ready to Start Building with Beamable?
+Download one of our developer SDKs and give Beamable a try—let’s start bringing your game ideas to life.
+
+
+							Get Started						
+
+							Try a Sample Project						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+LiveOps Portal
+Serverless Game Backend
+Unity SDK
+Unreal SDK
+Marketplace
+Beamable Private Cloud
+Web3 Integration
+Playfab Migration
+
+
+Resources
+
+Features List
+Documentation
+Change Logs
+Sample Projects
+Blog
+Community
+
+
+Company
+
+About Us
+Partners
+Customers
+
+
+Get Started
+
+Pricing
+Contact Us
+Log In
+Sign Up
+
+
+ 
+
+
+
+
+© 2022 Beamable
+
+
+								Terms of Use							
+
+								Privacy Policy							
+
+								License Reference							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

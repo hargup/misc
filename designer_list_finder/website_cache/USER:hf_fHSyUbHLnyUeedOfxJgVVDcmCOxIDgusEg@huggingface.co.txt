@@ -1,0 +1,441 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hugging Face – The AI community building the future.
+
+
+
+
+
+Hugging Face
+
+
+
+
+
+
+
+					Models
+
+					Datasets
+
+					Spaces
+
+					Docs
+
+
+
+
+			Solutions
+		
+
+Pricing
+			
+
+
+
+
+
+
+Log In
+				
+Sign Up
+					
+
+
+
+The AI community building the future.
+			
+The platform where the machine learning community collaborates on models, datasets, and applications.
+			
+
+
+
+
+
+
+			Trending onthis week
+			
+
+
+					Models
+				
+
+tiiuae/falcon-180B
+
+
+Updated
+				8 days ago
+• 
+
+				40.9k
+			• 
+
+				584
+			
+microsoft/phi-1_5
+
+
+Updated
+				about 3 hours ago
+• 
+
+				11.8k
+			• 
+
+				367
+			
+tiiuae/falcon-180B-chat
+
+
+Updated
+				8 days ago
+• 
+
+				6.18k
+			• 
+
+				309
+			
+lllyasviel/sd_control_collection
+
+
+Updated
+				5 days ago
+• 
+
+				307
+			
+stabilityai/stable-diffusion-xl-base-1.0
+
+
+Updated
+				9 days ago
+• 
+
+				1.22M
+			• 
+
+				2.59k
+			
+Browse 300k+ models
+
+					Spaces
+				
+
+
+		Running
+		oncpu upgrade
+
+
+1.16k
+👩‍🎨
+AI Comic Factory
+
+
+
+
+579
+💬
+Falcon-180B Demo
+
+
+
+
+5.18k
+🏆
+Open LLM Leaderboard
+
+
+		Running
+		ona10g
+
+
+89
+🚀
+T2I Adapter SDXL Sketch
+
+
+		Running
+		ona10g
+
+
+82
+🚀
+T2I-Adapter-SDXL
+
+Browse 100k+ applications
+
+					Datasets
+				
+
+fka/awesome-chatgpt-prompts
+
+
+Updated
+				Mar 7
+• 
+
+				3.1k
+			• 
+
+				3.34k
+			
+tiiuae/falcon-refinedweb
+
+
+Updated
+				Jun 20
+• 
+
+				1.52k
+			• 
+
+				526
+			
+taesiri/arxiv_qa
+
+
+Updated
+				1 minute ago
+• 
+
+				30
+			
+dell-research-harvard/AmericanStories
+
+
+Updated
+				5 days ago
+• 
+
+				1.03k
+			• 
+
+				70
+			
+garage-bAInd/Open-Platypus
+
+
+Updated
+				about 1 month ago
+• 
+
+				11k
+			• 
+
+				203
+			
+Browse 50k+ datasets
+
+
+The Home of Machine Learning
+
+Create, discover and collaborate on ML better.
+			
+The collaboration platform
+Host and collaborate on unlimited models, datasets and applications.
+					
+
+
+Move faster
+With the HF Open source stack.
+
+
+Explore all modalities
+Text, image, video, audio or even 3D.
+
+Build your portfolio
+Share your work with the world and build your ML profile.
+Sign Up
+					
+
+
+
+Accelerate your ML
+
+We provide paid Compute and Enterprise solutions.
+			
+Compute
+Deploy on optimized Inference Endpoints or update your
+						Spaces applications to a GPU in a few clicks.
+					
+View pricing
+						
+Starting at $0.60/hour for GPU
+
+Enterprise
+Give your team the most advanced platform to build AI with enterprise-grade security, access controls and
+						dedicated support.
+					
+Getting started
+						
+Starting at $20/user/month
+
+
+More than 50,000 organizations are using Hugging Face
+					
+
+
+Allen Institute for AI
+
+non-profit
+•
+				203 models
+				
+
+Amazon Web Services
+
+company
+•
+				8 models
+				
+
+Meta AI
+
+company
+•
+				1845 models
+				
+
+Google
+
+company
+•
+				594 models
+				
+
+Grammarly
+
+company
+•
+				6 models
+				
+
+Microsoft
+
+company
+•
+				254 models
+				
+
+SpeechBrain
+
+non-profit
+•
+				101 models
+				
+
+
+
+
+Our Open Source
+
+We are building the foundation of ML tooling with the community.
+			
+
+
+							Transformers
+
+111,733
+State-of-the-art ML for Pytorch, TensorFlow, and JAX.
+
+
+							Diffusers
+
+17,816
+State-of-the-art diffusion models for image and audio generation in PyTorch.
+
+
+							Safetensors
+
+1,538
+Simple, safe way to store and distribute neural networks weights safely and quickly.
+
+
+							Hub Python Library
+
+1,149
+Client library for the HF Hub: manage repositories from your Python runtime.
+
+
+							Tokenizers
+
+7,546
+Fast tokenizers, optimized for both research and production.
+
+
+							PEFT
+
+9,591
+Parameter efficient finetuning methods for large models
+
+
+							Transformers.js
+
+3,574
+Community library to run pretrained models from Transformers in your browser.
+
+
+							timm
+
+26,726
+State-of-the-art computer vision models, layers, optimizers, training/evaluation, and utilities.
+
+
+
+Website
+Models 
+Datasets 
+Spaces 
+Tasks 
+Inference Endpoints 
+Expert Acceleration Program 
+Company
+About 
+HF Store 
+Brand assets 
+Terms of service 
+Privacy 
+Jobs 
+Press 
+Resources
+Learn 
+Documentation 
+Blog 
+Forum 
+Service Status 
+Social
+GitHub 
+Twitter 
+LinkedIn 
+Discord 
+
+
+
+
+
+
+
+
+
+

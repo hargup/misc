@@ -1,0 +1,70 @@
+
+
+
+
+deforum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+about resources challenges
+
+d̷̨̗͎̲̟̤̀͆̿͒͆̈́̕e̵̦̓̍̉́̆͂f̵̨͖͙͉͇͊͑͠o̶̹̤͉̼̹͍͇͋̈́r̴̖̾̂͌̆ū̶̳̟͈͕͌̎͑̒͐̏͜m̶̻̭͎͇͔͎̜͐͒̈̓̽
+
+
+ Notebook
+ GitHub
+
+Join us on
+
+ Discord
+ Twitter
+
+Support us on
+ Patreon
+
+
+
+
+About
+We are a community of AI image synthesis developers, enthusiasts, and artists.
+We have created a notebook using Stable Diffusion and continue to improve its functionality daily. It's free, it's amazing, and you can use it to make cool stuff with AI.
+
+
+Resources
+Below you find some guides and examples on how to use Deforum
+Deforum Cheat Sheet - Quick guide to Deforum 0.6
+Animation Examples - Examples of animation parameters
+Here are some links to resources to help you get started and learn more about AI art.
+AI Generative art tools - The best and most frequently updated overview over tools and guides by pharmapsycothic
+
+
+Contact
+If you have any questions or need help join us on discord.gg/deforum.
+
+
+
+ 
+

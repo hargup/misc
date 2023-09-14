@@ -1,0 +1,249 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Coda Hale writes things. | codahale.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coda Hale
+
+          {
+          writing,
+          projects,
+          about,
+          contact
+          }
+        
+
+
+
+
+writing
+
+
+
+        The Joy Of Duplexes
+        
+03 Apr 2022
+          
+
+
+
+
+
+        Work Is Work
+        
+12 Jan 2020
+          
+
+
+
+
+
+        Towards A Safer Footgun
+        
+08 Jun 2017
+          
+
+
+
+
+
+        usl4j And You
+        
+31 May 2017
+          
+
+
+
+
+
+        Risky Business Requires Active Operators
+        
+19 May 2017
+          
+
+
+
+
+
+        Virtual Machines Are Fleeting Things
+        
+18 May 2017
+          
+
+
+
+
+
+        On The Difficulty Of Conjuring Up A Dryad
+        
+17 May 2017
+          
+
+
+
+
+
+        The Happy Genius Of My Household
+        
+16 May 2017
+          
+
+
+
+
+
+        On Containers
+        
+30 Aug 2016
+          
+
+
+
+
+
+        Fan-In
+        
+01 Feb 2016
+          
+
+
+
+
+
+        A Small, Nice Thing
+        
+30 Jan 2016
+          
+
+
+
+
+
+        The Rest Of The Story
+        
+29 Nov 2011
+          
+
+
+
+
+
+        You Can’t Sacrifice Partition Tolerance
+        
+07 Oct 2010
+          
+
+
+
+
+
+        How To Safely Store A Password
+        
+31 Jan 2010
+          
+
+
+
+
+
+        FOSS and Male Privilege
+        
+27 Aug 2009
+          
+
+
+
+
+
+        A Lesson In Timing Attacks (or, Don’t use MessageDigest.isEquals)
+        
+13 Aug 2009
+          
+
+
+
+
+
+        How Not To Fix A Security Bug
+        
+14 Jun 2009
+          
+
+
+
+
+
+        What Makes Jersey Interesting: Injection Providers
+        
+16 May 2009
+          
+
+
+
+
+
+        Ruby and Male Privilege
+        
+10 May 2009
+          
+
+
+
+
+
+        When Formality Works
+        
+07 May 2009
+          
+
+
+
+
+
+        What Makes Jersey Interesting: Parameter Classes
+        
+02 May 2009
+          
+
+
+
+
+
+
+
+
+        ©
+        2009-2023
+        Coda Hale
+      
+
+
+

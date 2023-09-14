@@ -1,0 +1,862 @@
+
+
+
+
+
+
+
+
+Meaningful Code Tests for Busy Devs | CodiumAI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CodiumAI launches open-source PR review agent 🎉 We are hiring 
+
+
+
+
+
+
+
+
+
+Products
+
+ IDE Extension
+ PR-Agent
+
+
+Pricing
+Blog
+About
+
+ Our Mission
+ IDE Integrations
+ Meet the Team
+ Backed by
+ Useful Resources
+ Careers
+
+
+Contact
+ 
+
+
+
+113.5K43.9KNEW2.0K 
+JOIN OUR DISCORD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generating meaningful tests for busy devs
+
+With CodiumAI, you get non-trivial tests (and trivial, too!) suggested right inside your IDE, so you can code smart, create more value, and stay confident when you push.Code, as you meant it. 
+
+
+Get CodiumAI
+
+VS Code
+JetBrains
+
+
+SUBSCRIBE  
+
+
+
+
+
+
+
+
+
+Write code that works the way you meant it to
+By analyzing your code, docstring, and comments, and by interacting with you,  TestGPT suggests tests as you code. All you have to do is accept and commit them.
+
+
+
+
+def gaussian_elimination(
+    coefficients: NDArray[float64], vector: NDArray[float64]) -> NDArray[float64]:
+    
+    if (check_valid_input(coefficients, vector) == False):
+        return np.array((), dtype=float)
+
+    rows, columns = np.shape(coefficients)
+
+    # augmented matrix
+    augmented_mat = create_augmented_matrix(coefficients, vector)
+
+    # scale the matrix leaving it triangular
+    augmented_mat = scale_matrix(augmented_mat, rows)
+
+    x = retroactive_resolution_full_augmented_mat(augmented_mat, columns)
+    return x
+						
+
+Generate test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Code smart
+Get full visibility of how your code behaves and how the changes you make affect the rest of your code.
+
+
+
+Create value
+Spend fewer hours writing questionable test cases and more time developing useful features for your users.
+
+
+
+Stay confident
+Unlike code coverage quotas, meaningful tests actually check your code’s functionality. So you get the confidence needed to commit.
+
+
+
+
+
+
+
+Generates meaningful tests that help you understand how your code behaves
+ Generate meaningful tests, find edge cases and suspicious behaviors, and be empowered to write reliable code.
+
+
+Code analysis
+
+
+
+
+
+
+
+
+Test plan
+
+
+
+
+
+
+
+
+Test code
+
+Copy All
+
+
+
+
+
+
+
+
+
+
+Finds edge casesand suspicious behaviors
+
+
+
+Empowers you to write code that functions the way you meant it
+
+
+
+Beyond code completion and generation tools, TestGPT helps you improve your code's integrity
+
+
+
+
+TestGPT supports Python, JS, TS and Java (soon), and tackles big and complicated code
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Over 100,000 installsJoin the CodiumAI community
+
+
+
+
+
+
+
+Visual Studio Code
+
+
+4.8
+
+
+    
+167 reviews
+
+
+
+
+
+
+
+
+What a great tool !!! I improved my development time by 2x at least.
+It’s incredible to write docs and tests, two very boring tasks. And almost plug and play, not many configurations 🙂
+However, I couldn’t set up to run the tests on my pipenv environment (maybe It has been my fault)
+
+
+Ariel Catalá Valencia
+Jun 30, 2023
+
+
+
+
+
+
+
+
+Even though I have limited experience writing tests, I know that it is an essential, although slightly tedious, task. CodiumAI changes this and makes testing fun! I like that it caters to many frameworks, e.g., Vitest, Mocha, Jasmine, and more. The code suggestions are the cherry on top, though, I love it!
+
+
+Jurgen Geitner
+Jun 27, 2023
+
+
+
+
+
+
+
+
+The future is here. This gives more in-depth code reviews than many humans. It also comes up with test cases I would not have thought of and catches edge case bugs.
+
+
+Austin Gregg-Smith
+Jun 22, 2023
+
+
+
+
+
+
+
+
+Just started to use CodiumAI, and fell in love. The test option, suggestions, and detail about the code, etc are very good.
+Testing a function and codes may need to adjust some parameters to get the desired result, but yes it is still a lot more to go.
+Kudos to all the teams for this fantastic add-on.
+
+
+Sanjay Sharma
+Jun 13, 2023
+
+
+
+
+
+
+
+
+As a developer who spends countless hours coding, I’m always looking for tools that can enhance my productivity and workflow.
+Codium AI is a game-changer for me. Even though it’s not perfect, it boosts productivity a lot!
+
+
+Boris Ballester
+May 31, 2023
+
+
+
+
+
+
+
+
+One of the best extensions, it makes life easier by generating unit tests automatically, Integrates smoothly with VSCode, and assists in enhancing the quality of your code. Amazingly good !!
+
+
+Godknows Pesanai
+May 09, 2023
+
+
+
+
+
+
+
+
+Once in a while, you encounter a tool that radically improves your productivity.
+CodiumAI may just have joined the ranks of tools like Storybook and Gherkin for me in reducing my work-load while improving its output quality.
+Amazing extension!
+
+
+Michael Ikechi
+May 01, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+Trust our Twitter communityYou can also contribute to our open-source projects 
+
+
+“Collaborating and coding is never going to be same with this!”
+
+
+
+Amit
+Web Developer @Amit_T18
+
+
+“This is a literal game changer.
+Any newer dev that starts using this is going to be so far ahead of their competition”
+
+
+
+Jack Forge
+Founder @FiveSurge
+
+
+“Optimistic and inspired. Just tried the @CodiumAI tool today, and I think it is the first true 10x dev tool. I find it far more utilitarian than co-pilot.”
+
+
+
+Travis
+Full Stack Web Developer @Travis_codez
+
+
+“I think a big portion of my shock was that I thought the tests were going to be just some random templates that didn’t do much. I didn’t think it would generate so many and they actually be detailed.”
+
+
+
+Danny Thompson
+@DThompsonDev
+
+
+“I have already used @CodiumAI and would be glad to recommend it to the community to give a try ✔️”
+
+
+
+Sami Nas
+@digitalhealthxx
+
+
+“damn, how is @CodiumAI free? It is a best automated unit writing experience I had so far”
+#SoftwareDeveloper #DevOps
+
+
+
+Buildhub
+@ElixirOwn
+
+
+“Codium is such an amazing tool!”
+
+
+
+Eyisha Zyer
+@eyishazyer
+
+
+“I must say this VS code extension is amazing and saves a lot of time & effort”
+
+
+
+Kartikey Verma
+@KartikeyStack
+
+
+“Yup, this is it! Such a great use of AI! 👍💯”
+
+
+
+Madza
+@madzadev
+
+
+“Writing less tests, not going to say no to that!
+Have heard great things about Codium. On my lists to play around with.”
+
+
+
+Chris Staudinger
+Co-Founder of LevelUpCoding @ChrisStaud
+
+
+ 
+
+
+
+
+
+
+
+
+
+Review from  
+The software development I knew is now gone forever.Last week, I started testing @CodiumAI's Visual Studio Code plugin to propose and generate unit tests for my code. I'm never going back.I'm now 10x faster, and my code is much better.
+Santiago@svpino
+
+
+
+
+Review from  
+This is the best superpower AI tool for Developers. This tool can enables busy devs to create meaningful tests for Python, JavaScript, or TypeScript code.
+Hasan ToorFull Stack Developer @ Accenture
+
+
+
+
+AA
+JOIN OUR DISCORD
+
+
+
+
+
+Recents posts from our blog
+Check out our musings on generative AI, code integrity, and other geeky stuff:
+
+
+
+
+
+
+
+ 
+
+
+
+General 
+
+
+ 5 min
+
+Automate Approval Testing What It Is and How to Use It
+
+
+CodiumAI Team Sep 13, 2023
+
+Read more
+
+
+
+
+
+
+ 
+
+
+
+General 
+
+
+ 2 min
+
+Hosted PR-Agent for GitLab (Teams & Enterprise)
+
+
+Itamar Friedman Sep 06, 2023
+
+Read more
+
+
+
+
+
+
+ 
+
+
+
+General 
+
+
+ 4 min
+
+Best Practices of Versioning in Software Engineering
+
+
+CodiumAI Team Sep 06, 2023
+
+Read more
+
+
+
+ 
+
+BROWSE THE BLOG
+
+
+
+
+
+We take security, privacy and compliance seriously.
+
+
+
+Only necessary code analyzed
+
+
+
+Data is SSL Encrypted
+
+
+
+SOC2 certification
+
+
+TRUST CENTER 
+
+
+
+CodiumAI isn't perfect
+You should always double-check the tests CodiumAI generates
+
+
+AI and ML have come a long way, but they're far from perfect. So while CodiumAI helps you break fewer things and be more productive, it needs your help to do so. That's why we designed it to be interactive – so you can edit the tests it generates and perfect them.
+
+Found a bug?
+
+LET US KNOW
+
+
+
+
+
+
+
+
+
+
+I have a few questions…
+
+
+
+
+Why don’t I just ask ChatGPT/Copilot to write my tests? How is CodiumAI different? 
+
+
+
+
+Unlike general-purpose code completion or generation tools, CodiumAI is focuses on code integrity: generating tests that help you understand how your code behaves, finding edge cases and suspicious behaviors, and making your code more robust. CodiumAI is not another fancy ‘Language-model-API in your IDE’, because - a. We’re pro at testing-domain prompting b. We parallelize and chain multiple prompts to create a unique variety of meaningful tests c. We efficiently gather broad code context for the prompts d. We let you interact on each test separately.
+
+
+
+
+When will I be able to start using CodiumAI? Is it free?
+
+
+
+
+You already can! Just download our free VSCode extension and/or JetBrains plugin and get meaningful tests. CodiumAI is free for individual developers, and we even plan to publish an open-source. In the future, we'll launch a paid plan for enterprises.
+
+
+
+What languages are supported?
+
+
+
+
+We support practically every programming language. However, some features (such as unit-test generation) are only supported by Python, JavaScript, TypeScript, and Java. We support these in VSCode & JetBrains IDEs.
+
+
+
+
+How does CodiumAI make sure my code stays secure?
+
+
+
+
+We take security, privacy, and compliance very seriously. CodiumAI only analyzes the code necessary to give it enough context to generate meaningful tests, and the data is SSL encrypted. Also, we are SOC2 certified. To learn more, please visit our Trust Center.
+
+
+
+Does CodiumAI write perfect tests?
+
+
+
+
+AI and ML have come a long way, but nothing's perfect. While CodiumAI can boost your productivity and improve code integrity, please always double-check the tests it generates. We are here to give you superpowers, but you still need to think and use them wisely.
+
+
+
+I want to join you guys!
+
+
+
+
+We’d love to have that conversation. Feel free to email us at [email protected], please attach your resume.
+
+
+
+SEE ALL QUESTIONS
+SEE FEWER QUESTIONS 
+
+
+
+
+
+
+
+
+
+
+Subscribe to our newsletter
+Get news about code integrity, our product updates, company news, and more. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CODIUM.AI
+
+Community
+Useful Resources
+Developer’s Tips
+Developer’s Hub
+CodiumAI vs. ChatGPT 4
+CodiumAI vs. GitHub Copilot
+Security
+FAQs
+Status
+ 
+
+
+Product
+
+IDE Extension
+PR-Agent
+Why Code Integrity?
+Trust Center
+Pricing
+Report an issue
+ 
+
+
+About
+
+Our Mission
+IDE Integrations
+Meet the Team
+Backed by
+Careers
+ 
+
+
+Navigation
+
+
+
+Blog
+Glossary
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Available now on 
+
+We support all major programming languages 
+
+
+
+
+
+@  CodiumAI All. Rights Reserved.
+
+
+
+
+
+
+Terms of Use
+Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+Products
+
+ IDE Extension
+ PR-Agent
+
+
+Pricing
+Blog
+About
+
+ Our Mission
+ IDE Integrations
+ Meet the Team
+ Backed by
+ Useful Resources
+ Careers
+
+
+Contact
+ 
+
+113.5K43.9KNEW2.0K 
+ JOIN OUR DISCORD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,86 @@
+Dustycloud Brainstorms
+Dusty Cloud Brainstorms: Don't mind the mess
+
+    My name is Christine Lemmer-Webber.
+    Welcome to my humble home.
+    I'm not very good at hospitality, but help yourself to whatever's
+    in the pantry.
+    Would you like a cup of
+    honeybush tea?
+    There was some green tea in there too but I don't know
+    where I put it.
+  
+
+    A lot of my work is funded by generous donors these days.
+    If you find my work interesting, maybe join the
+    FOSS & Crafts Studios
+    Patreon thing
+    (which covers my work under its umbrella...
+    or you could also donate to my Liberapay,
+    if you prefer).
+    Your support is appreciated!
+  
+
+    Additionally, I co-host (with my spouse Morgan!) a podcast about
+    user freedom and crafting called
+    FOSS and Crafts, if you are
+    into that kind of thing.
+  
+
+    I keep a blog (well kind of), and much more
+    frequently I microblog
+    (on the birdsite too,
+    if you must).
+    Occasionally I also do some artwork.
+    I am most happy in life when I am being creative.
+  
+
+    Aside from writing, I do a fair amount of coding, even outside of
+    work.
+    I like Lisps a lot, especially
+    Guile and
+    Racket.
+    I've done a lot of Python, but less so lately.
+    I am an avid supporter of both
+    Free Software
+    and Free Culture;
+    most of the work I do involves user freedom in some way,
+    particularly in conjunction with network freedom issues.
+  
+
+    I guess if you're here you might be interested in knowing a bit
+    about me.  I'm a native of
+    Milwaukee but these days I
+    reside in Easthampton, MA (a lovely little town).
+    I am co-editor of the ActivityPub
+    federated social networking standard, and I co-founded
+    GNU MediaGoblin.
+    Previously I worked as as a software engineer at
+    Creative Commons.  I used
+    to do a bunch of other things, but I have decided having a long
+    list on the front page of my site was rather silly.  I am married
+    to Morgan Lemmer-Webber, who has been the most wonderful and
+    loving partner I could ever imagine.  I still don't know how she
+    manages to put up with me.
+  
+
+    I used to go by "Christopher Allan Webber"
+    but I found appending part of my spouse's name resulted in less
+    naming conflicts, which were common even in FOSS.
+    Then later, I went by "Christopher Lemmer Webber".
+    However, since coming out as
+    trans-femme nonbinary
+    I go by "Christine Lemmer-Webber" now.
+    If you are wondering about temporary lexical variables (pronouns)
+    in the English language, please use feminine or nonbinary pronouns.
+    Thanks!
+  
+
+    Socially, I'm a bit odd.  I don't like large parties or loud
+    organizations of people I don't know.  I do, however, enjoy
+    dialogue, and if you think you'd enjoy meeting up for a cup of
+    coffee or tea, and you're in the Western Massachusetts
+    area, contact me.
+  
+
+Recent blogpostsA Guile Steel smelting pot -- Sat 06 August 2022The Beginning of A Grueling Diet -- Wed 13 July 2022Guile Steel: a proposal for a systems lisp -- Sat 09 July 2022Site converted to Haunt -- Tue 05 July 2022Hello, I'm Chris Lemmer-Webber, and I'm nonbinary trans-femme -- Mon 28 June 2021Beyond the shouting match: what is a blockchain, really? -- Sat 24 April 2021The hurt of this moment, hopes for the future -- Wed 31 March 2021Vote for Amy Guy on the W3C TAG (if you can) -- Mon 21 December 2020Identity is a Katamari, language is a Katamari explosion -- Wed 09 December 2020Spritely website launches, plus APConf video(s)! -- Wed 30 September 2020[--latest--] [--archive--] by Christine Lemmer-Webber. Powered by Haunt! [source]

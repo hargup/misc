@@ -1,0 +1,1494 @@
+
+
+
+
+
+
+
+
+Argo CD - Declarative GitOps CD for Kubernetes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Skip to content
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Argo CD - Declarative GitOps CD for Kubernetes
+          
+
+
+
+            
+              Overview
+            
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Initializing search
+          
+
+
+
+
+
+
+
+
+
+
+
+
+    GitHub
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Argo CD - Declarative GitOps CD for Kubernetes
+  
+
+
+
+
+
+
+    GitHub
+  
+
+
+
+
+
+
+          Overview
+          
+
+
+        Overview
+      
+
+
+
+      Table of contents
+    
+
+
+
+    What Is Argo CD?
+  
+
+
+
+    Why Argo CD?
+  
+
+
+
+    Getting Started
+  
+
+
+
+
+    Quick Start
+  
+
+
+
+
+
+
+    How it works
+  
+
+
+
+    Architecture
+  
+
+
+
+    Features
+  
+
+
+
+    Development Status
+  
+
+
+
+    Adoption
+  
+
+
+
+
+
+
+        Understand The Basics
+      
+
+
+
+        Core Concepts
+      
+
+
+
+        Getting Started
+      
+
+
+
+
+        Operator Manual
+        
+
+
+
+
+          Operator Manual
+        
+
+
+
+        Overview
+      
+
+
+
+        Architectural Overview
+      
+
+
+
+        Installation
+      
+
+
+
+        Argo CD Core
+      
+
+
+
+        Declarative Setup
+      
+
+
+
+        Applications in any namespace
+      
+
+
+
+        Ingress Configuration
+      
+
+
+
+
+        User Management
+        
+
+
+
+
+          User Management
+        
+
+
+
+        Overview
+      
+
+
+
+        Auth0
+      
+
+
+
+        Microsoft
+      
+
+
+
+        Okta
+      
+
+
+
+        OneLogin
+      
+
+
+
+        Keycloak
+      
+
+
+
+        OpenUnison
+      
+
+
+
+        Google
+      
+
+
+
+        RBAC Configuration
+      
+
+
+
+
+
+
+
+        Security
+        
+
+
+
+
+          Security
+        
+
+
+
+        Overview
+      
+
+
+
+        Snyk Scans
+      
+
+
+
+        Verification of Argo CD Artifacts
+      
+
+
+
+
+
+
+        TLS configuration
+      
+
+
+
+        Cluster Bootstrapping
+      
+
+
+
+        Secret Management
+      
+
+
+
+        Disaster Recovery
+      
+
+
+
+        High Availability
+      
+
+
+
+        Reconcile Optimization
+      
+
+
+
+        Git Webhook Configuration
+      
+
+
+
+        Resource Health
+      
+
+
+
+        Resource Actions
+      
+
+
+
+        Custom Tooling
+      
+
+
+
+        Custom Styles
+      
+
+
+
+        UI Customization
+      
+
+
+
+        Metrics
+      
+
+
+
+        Web-based Terminal
+      
+
+
+
+        Config Management Plugins
+      
+
+
+
+        Deep Links
+      
+
+
+
+
+        Notification
+        
+
+
+
+
+          Notification
+        
+
+
+
+        Overview
+      
+
+
+
+        Triggers
+      
+
+
+
+        Templates
+      
+
+
+
+        Functions
+      
+
+
+
+        Triggers and Templates Catalog
+      
+
+
+
+        Monitoring
+      
+
+
+
+        Subscriptions
+      
+
+
+
+        Troubleshooting
+      
+
+
+
+        Troubleshooting commands
+      
+
+
+
+        Troubleshooting errors
+      
+
+
+
+
+        Notification Services
+        
+
+
+
+
+          Notification Services
+        
+
+
+
+        Alertmanager
+      
+
+
+
+        Email
+      
+
+
+
+        GitHub
+      
+
+
+
+        Google Chat
+      
+
+
+
+        Grafana
+      
+
+
+
+        Mattermost
+      
+
+
+
+        NewRelic
+      
+
+
+
+        Opsgenie
+      
+
+
+
+        Overview
+      
+
+
+
+        Pagerduty
+      
+
+
+
+        PagerDuty V2
+      
+
+
+
+        Pushover
+      
+
+
+
+        Rocket.Chat
+      
+
+
+
+        Slack
+      
+
+
+
+        Teams
+      
+
+
+
+        Telegram
+      
+
+
+
+        Webex Teams
+      
+
+
+
+        Webhook
+      
+
+
+
+
+
+
+
+
+
+        Troubleshooting Tools
+      
+
+
+
+
+        ApplicationSet
+        
+
+
+
+
+          ApplicationSet
+        
+
+
+
+        Introduction
+      
+
+
+
+        Installations
+      
+
+
+
+        Use Cases
+      
+
+
+
+        Security
+      
+
+
+
+        How ApplicationSet controller interacts with Argo CD
+      
+
+
+
+
+        Generators
+        
+
+
+
+
+          Generators
+        
+
+
+
+        Generators
+      
+
+
+
+        List Generator
+      
+
+
+
+        Cluster Generator
+      
+
+
+
+        Git Generator
+      
+
+
+
+        Matrix Generator
+      
+
+
+
+        Merge Generator
+      
+
+
+
+        SCM Provider Generator
+      
+
+
+
+        Cluster Decision Resource Generator
+      
+
+
+
+        Pull Request Generator
+      
+
+
+
+        Post Selector all generators
+      
+
+
+
+        Plugin Generator
+      
+
+
+
+
+
+
+
+        Template fields
+        
+
+
+
+
+          Template fields
+        
+
+
+
+        Templates
+      
+
+
+
+        Go Template
+      
+
+
+
+
+
+
+        Controlling Resource Modification
+      
+
+
+
+        Application Pruning & Resource Deletion
+      
+
+
+
+        Progressive Syncs
+      
+
+
+
+        Git File Generator Globbing
+      
+
+
+
+        ApplicationSet Specification Reference
+      
+
+
+
+        ApplicationSet in any namespace
+      
+
+
+
+
+
+
+
+        Server Configuration Parameters
+        
+
+
+
+
+          Server Configuration Parameters
+        
+
+
+
+        Argocd server
+      
+
+
+
+        Argocd application controller
+      
+
+
+
+        Argocd repo server
+      
+
+
+
+        Argocd dex
+      
+
+
+
+        Additional configuration method
+      
+
+
+
+
+
+
+
+        Upgrading
+        
+
+
+
+
+          Upgrading
+        
+
+
+
+        Overview
+      
+
+
+
+        v2.7 to 2.8
+      
+
+
+
+        v2.6 to 2.7
+      
+
+
+
+        v2.5 to 2.6
+      
+
+
+
+        v2.4 to 2.5
+      
+
+
+
+        v2.3 to 2.4
+      
+
+
+
+        v2.2 to 2.3
+      
+
+
+
+        v2.1 to 2.2
+      
+
+
+
+        v2.0 to 2.1
+      
+
+
+
+        v1.8 to 2.0
+      
+
+
+
+        v1.7 to 1.8
+      
+
+
+
+        v1.6 to 1.7
+      
+
+
+
+        v1.5 to 1.6
+      
+
+
+
+        v1.4 to 1.5
+      
+
+
+
+        v1.3 to 1.4
+      
+
+
+
+        v1.2 to 1.3
+      
+
+
+
+        v1.1 to 1.2
+      
+
+
+
+        v1.0 to 1.1
+      
+
+
+
+
+
+
+        Project Specification Reference
+      
+
+
+
+
+
+
+
+        User Guide
+        
+
+
+
+
+          User Guide
+        
+
+
+
+        Overview
+      
+
+
+
+        Tools
+      
+
+
+
+        Kustomize
+      
+
+
+
+        Helm
+      
+
+
+
+        Importing Argo CD go packages
+      
+
+
+
+        Jsonnet
+      
+
+
+
+        Directory
+      
+
+
+
+        Tool Detection
+      
+
+
+
+        Projects
+      
+
+
+
+        Private Repositories
+      
+
+
+
+        Multiple Sources for an Application
+      
+
+
+
+        GnuPG verification
+      
+
+
+
+        Automated Sync Policy
+      
+
+
+
+        Diffing Customization
+      
+
+
+
+        Orphaned Resources Monitoring
+      
+
+
+
+        Compare Options
+      
+
+
+
+        Sync Options
+      
+
+
+
+        Parameter Overrides
+      
+
+
+
+        Environment Variables
+      
+
+
+
+        Build Environment
+      
+
+
+
+        Tracking and Deployment Strategies
+      
+
+
+
+        Resource Tracking
+      
+
+
+
+        Resource Hooks
+      
+
+
+
+        Selective Sync
+      
+
+
+
+        Sync Phases and Waves
+      
+
+
+
+        Sync Windows
+      
+
+
+
+        Sync Applications with Kubectl
+      
+
+
+
+        Skip Application Reconcile
+      
+
+
+
+        Generating Applications with ApplicationSet
+      
+
+
+
+        Automation from CI Pipelines
+      
+
+
+
+        App Deletion
+      
+
+
+
+        Best Practices
+      
+
+
+
+        Status Badge
+      
+
+
+
+        Add external URL
+      
+
+
+
+        Add extra Application info
+      
+
+
+
+        Notification subscriptions
+      
+
+
+
+        Annotations and Labels used by Argo CD
+      
+
+
+
+        Command Reference
+      
+
+
+
+        Application Specification Reference
+      
+
+
+
+
+
+
+
+        Developer Guide
+        
+
+
+
+
+          Developer Guide
+        
+
+
+
+        Overview
+      
+
+
+
+
+        Architecture
+        
+
+
+
+
+          Architecture
+        
+
+
+
+        Authentication and Authorization
+      
+
+
+
+        Component Architecture
+      
+
+
+
+
+
+
+        Code Contribution Guide
+      
+
+
+
+        Toolchain Guide
+      
+
+
+
+        Contributors Quick-Start
+      
+
+
+
+        Release Process And Cadence
+      
+
+
+
+        Running Argo CD locally
+      
+
+
+
+        Debugging a Remote ArgoCD Environment
+      
+
+
+
+        Use Gitpod
+      
+
+
+
+        API Docs
+      
+
+
+
+        E2E Tests
+      
+
+
+
+        Managing Dependencies
+      
+
+
+
+        Continuous Integration (CI)
+      
+
+
+
+        Releasing
+      
+
+
+
+        Site
+      
+
+
+
+        Static Code Analysis
+      
+
+
+
+
+        Extensions
+        
+
+
+
+
+          Extensions
+        
+
+
+
+        UI Extensions
+      
+
+
+
+        Proxy Extensions
+      
+
+
+
+
+
+
+        Contribution FAQ
+      
+
+
+
+
+
+
+        FAQ
+      
+
+
+
+        Security Considerations
+      
+
+
+
+        Support
+      
+
+
+
+        Roadmap
+      
+
+
+
+        Releases ⧉
+      
+
+
+
+        Blog ⧉
+      
+
+
+
+
+
+
+
+
+
+
+
+
+      Table of contents
+    
+
+
+
+    What Is Argo CD?
+  
+
+
+
+    Why Argo CD?
+  
+
+
+
+    Getting Started
+  
+
+
+
+
+    Quick Start
+  
+
+
+
+
+
+
+    How it works
+  
+
+
+
+    Architecture
+  
+
+
+
+    Features
+  
+
+
+
+    Development Status
+  
+
+
+
+    Adoption
+  
+
+
+
+
+
+
+
+
+
+
+
+Overview¶
+
+What Is Argo CD?¶
+
+Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes.
+
+
+Why Argo CD?¶
+
+Application definitions, configurations, and environments should be declarative and version controlled.
+Application deployment and lifecycle management should be automated, auditable, and easy to understand.
+Getting Started¶
+Quick Start¶
+kubectl create namespace argocd
+kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml
+
+Follow our getting started guide. Further user oriented documentation
+is provided for additional features. If you are looking to upgrade ArgoCD, see the upgrade guide.
+Developer oriented documentation is available for people interested in building third-party integrations.
+How it works¶
+Argo CD follows the GitOps pattern of using Git repositories as the source of truth for defining
+the desired application state. Kubernetes manifests can be specified in several ways:
+
+kustomize applications
+helm charts
+jsonnet files
+Plain directory of YAML/json manifests
+Any custom config management tool configured as a config management plugin
+
+Argo CD automates the deployment of the desired application states in the specified target environments.
+Application deployments can track updates to branches, tags, or pinned to a specific version of
+manifests at a Git commit. See tracking strategies for additional
+details about the different tracking strategies available.
+For a quick 10 minute overview of Argo CD, check out the demo presented to the Sig Apps community
+meeting:
+
+Architecture¶
+
+Argo CD is implemented as a kubernetes controller which continuously monitors running applications
+and compares the current, live state against the desired target state (as specified in the Git repo).
+A deployed application whose live state deviates from the target state is considered OutOfSync.
+Argo CD reports & visualizes the differences, while providing facilities to automatically or
+manually sync the live state back to the desired target state. Any modifications made to the desired
+target state in the Git repo can be automatically applied and reflected in the specified target
+environments.
+For additional details, see architecture overview.
+Features¶
+
+Automated deployment of applications to specified target environments
+Support for multiple config management/templating tools (Kustomize, Helm, Jsonnet, plain-YAML)
+Ability to manage and deploy to multiple clusters
+SSO Integration (OIDC, OAuth2, LDAP, SAML 2.0, GitHub, GitLab, Microsoft, LinkedIn)
+Multi-tenancy and RBAC policies for authorization
+Rollback/Roll-anywhere to any application configuration committed in Git repository
+Health status analysis of application resources
+Automated configuration drift detection and visualization
+Automated or manual syncing of applications to its desired state
+Web UI which provides real-time view of application activity
+CLI for automation and CI integration
+Webhook integration (GitHub, BitBucket, GitLab)
+Access tokens for automation
+PreSync, Sync, PostSync hooks to support complex application rollouts (e.g.blue/green & canary upgrades)
+Audit trails for application events and API calls
+Prometheus metrics
+Parameter overrides for overriding helm parameters in Git
+
+Development Status¶
+Argo CD is being actively developed by the community. Our releases can be found here.
+Adoption¶
+Organizations who have officially adopted Argo CD can be found here.
+
+
+
+
+
+
+
+
+
+
+                Next
+              
+              Understand The Basics
+            
+
+
+
+
+
+
+
+
+
+        
+        Made with
+        
+          Material for MkDocs
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,441 @@
+
+
+
+
+
+Home - colah's blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+colah's blog
+
+
+
+
+ Blog
+ About
+ Contact
+
+
+
+
+
+
+
+
+Recent Exciting Things!
+
+
+
+Transformer Circuits
+
+
+
+
+
+Multimodal Neurons
+On Distill
+
+
+
+
+
+Circuits
+On Distill
+
+
+
+Neural Networks (General)
+
+
+
+
+Neural Networks, Manifolds, and Topology
+
+
+
+
+
+Deep Learning, NLP, and Representations
+
+
+
+
+
+Calculus on Computational Graphs: Backpropagation
+
+
+
+
+
+Neural Networks, Types, and Functional Programming
+
+
+
+Recurrent Neural Networks
+
+
+
+
+Understanding LSTM Networks
+
+
+
+
+
+Attention and Augmented Recurrent Neural Networks
+                        
+On Distill
+
+
+
+Convolutional Neural Networks
+
+
+
+
+Conv Nets
+A Modular Perspective
+
+
+
+
+
+Understanding Convolutions
+
+
+
+
+
+Groups & Group Convolutions
+
+
+
+
+
+Deconvolution and Checkerboard Artifacts
+On Distill
+
+
+
+Visualizing Neural Networks
+
+
+
+
+Visualizing MNIST
+An Exploration of Dimensionality Reduction
+
+
+
+
+
+Visualizing Representations
+Deep Learning and Human Beings
+
+
+
+
+
+Inceptionism
+Going Deeper into Neural Networks
+On the Google Research Blog
+
+
+
+
+
+Four Experiments in Handwriting with a Neural Network
+                        
+On Distill
+
+
+
+
+
+Feature Visualization
+How neural networks build up their understanding of images
+On Distill
+
+
+
+
+
+The Building Blocks of Interpretability
+On Distill
+
+
+
+
+
+Differentiable Image Parameterizations
+On Distill
+
+
+
+
+
+Activation Atlases
+On Distill
+
+
+
+
+
+Circuits
+On Distill
+
+
+
+
+
+Understanding RL Vision
+On Distill
+
+
+
+
+
+Multimodal Neurons
+On Distill
+
+
+
+
+
+Transformer Circuits
+
+
+
+Individual Circuits Articles
+
+
+
+
+Zoom In: An Introduction to Circuits
+On Distill
+
+
+
+
+
+An Overview of Early Vision in InceptionV1
+On Distill
+
+
+
+
+
+Curve Detectors
+On Distill
+
+
+
+
+
+Naturally Occurring Equivariance in Neural Networks
+                        
+On Distill
+
+
+
+
+
+High-Low Frequency Detectors
+On Distill
+
+
+
+
+
+Curve Circuits
+On Distill
+
+
+
+
+
+Visualizing Weights
+On Distill
+
+
+
+Miscellaneous
+
+
+
+
+
+Fanfiction, Graphs, and PageRank
+
+
+
+
+
+Data.List Recursion Illustrated
+
+
+
+
+
+Visual Information Theory
+
+
+
+
+
+Research Debt
+On Distill
+
+
+
+
+
+The Paths Perspective on Value Learning
+On Distill
+
+
+
+
+
+
+
+
+
+Rough Notes
+Writing rough notes allows me share more content, since polishing takes lots of time.
+                            While I hope it's useful,
+                            it's
+                            likely lower quality and less carefully considered than my usual articles.
+
+Research Taste Exercises
+                                Five exercises for building
+                                research taste (and three failure modes).
+Interpretability vs Neuroscience
+                                Six major
+                                advantages which
+                                make artificial neural networks easier to study than biological ones.
+Analogies between Biology and Deep Learning
+                                        Unusual analogies between biology and deep learning research.
+
+
+
+
+Personal Writing
+
+Micromarriages
+                                A unit for romantic success (mostly humor).
+Collaboration & Credit Principles
+                                How can we be good stewards of collaborative trust?
+Do I Need to Go to University?
+                                Instead of asking “Is university good?”, ask “Do I have something more compelling to do?”
+Notes on Habbema et al. (2015): "Realizing a Desired Family"
+
+
+Matchmaking Party
+                                A small amount of time matchmaking might be life changing for our friends. 
+Dating Info
+                                Normal online dating seems pretty suboptimal, so I just wrote a public dating profile.
+
+
+
+
+Selected Twitter Threads
+Sometimes I write twitter threads as a low-effort way to express something I'd have
+                                    written an essay about if I
+                                    had more time.
+
+On Wanting Kids
+                                        I really deeply want to have kids, to an extent I rarely see men talk about.
+The Elegance of ML is the Elegance of
+                                            Biology
+                                        One of the main aesthetics driving my research.
+The Wonders of Atmospheric
+                                            Dynamics
+                                        Like bio/chem/physics, meteorology has beautiful simple theories.
+Research Intimacy
+                                        Deeply internalizing knowledge and ways of thinking related to a research topic.
+
+Why is fantasy so emotionally compelling
+                                            to many of us?
+                                        Magic as a metaphor for the humane and intimate aspects missing in technology.
+Reflections on Gilead
+                                        Thoughts on one of my favorite novels. Kindness, loneliness, and blessing.
+Winter in San Francisco
+                                        San Francisco has seasons. The winter is breathtakingly beautiful.
+Integrity and Relationships Based on Values vs
+                                            Beliefs
+                                        Can we reconcile wanting to make those close to us proud with moral independence?
+Against Polarization in the “Do Neural Networks
+                                            Understand” Debate
+                                        A lack of nuanced intermediate positions makes this conversation confusing.
+
+
+
+
+Traditional Papers
+
+Document embedding with paragraph vectors
+TensorFlow: Large-scale machine
+                                    learning on heterogeneous systems
+Concrete Problems in AI Safety
+Conditional Image Synthesis with Auxiliary Classifier
+                                    GANs
+Changing Model Behavior at Test-Time Using Reinforcement
+                                    Learning
+
+Is Generator Conditioning Causally Related to GAN
+                                    Performance?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enable JavaScript for footnotes, Disqus comments, and other cool stuff.
+

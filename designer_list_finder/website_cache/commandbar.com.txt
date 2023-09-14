@@ -1,0 +1,52 @@
+CommandBar | AI-powered user assistance
+
+
+
+
+
+
+
+At SaaStr?Take your app fromÂ  ð¤¡ Â to at booth 120
+
+Get started âProductProductsUniversal SearchBlazingly-fast content & action searchNudges & QuestlistsMake your app addictively easy to useHelpHubBring your help center inside your appIntegrationsPlug your tools into CommandBarMobileÂ Coming SoonA purpose-built mobile experienceGuides âTutorials to unlock the power of CommandBarResourcesIntegrationsIntegrate your stackProduct DemoPlay around with CommandBarÂ liveUser ProductivityA line about WordpressUniversal SearchAnother about this MobileFunctionProductOnline Desktop experienceEngineeringBuilt in analytics for usersCS/SupportA line about WordpressBlogCareers2DocsPricingLoginGet started âGet started â
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New:AI-Powered docs &Â chat
+
+HelpHub:AI-powered chat for any site
+
+AI-powered user assistanceIn-app help +Â natural language search + non-annoying nudges â in one powerful platform ðYour help center, in your appMake your help docs, walkthrough videos, and blog posts searchable in-app, always at your users' fingertips.Custom ChatGPT for your appUse that content in HelpHub to train a custom AI-powered chatbot.Experience the future
+
+Search that feels like magicLet users search for anything.An easy and fast way to find features, data, and help content.Right place, right timeGive users a gentle nudge down happy paths. Intercept confusion, spotlight features, nudge upgrades.Go on a questOnboard users or teach them something new. Checklists to go from âyou are hereâ to âI love this product.âDevelop delight, not codeBuild, target, then measure â no code required. Create personalized experiences that feel native.Ask AI
+
+Say goodbye to cover sheets ð
+
+
+You can now submit TPS reports without a cover sheet.Noice!New:AI-Powered docs &Â chat
+
+HelpHub:AI-powered chat for any site
+
+AI-powered user assistanceIn-app help +Â natural language search + non-annoying nudges â in one powerful platform ðYour help center, in your appMake your help docs, walkthrough videos, and blog posts searchable in-app, always at your users' fingertips.Custom ChatGPT for your appUse that content in HelpHub to train a custom AI-powered chatbot.Experience the future
+
+Search that feels like magicLet users search for anything. An easy and fast way to find features, data, and help content.Right place, right timeGive users a gentle nudge down happy paths. Intercept confusion, spotlight features, nudge upgrades.Guide users on a quest.Onboard users or teach them something new. Checklists to go from âyou are hereâ to âI love this product.âDevelopÂ delight, notÂ code.Build, target, then measure â no code required. Create personalized experiences that feel native."We were able to get CommandBar up and running in production in only a few days, and our testing showed that it made our usersâ in-app experience easier and faster."Yoko LiSenior Product ManagerIntegrationsBring the tools you lovePlug your existing tools into CommandBar with our built-in integrations. No code required.AlgoliaUse CommandBar as a frontend for Algolia search.SearchAppcuesTrigger an Appcues flow with a command.CommandIntercomAutomatically sync Intercom help documents with CommandBar.Help Center SyncSegmentDeliver event data into Segment to analyze in your own tools.AnalyticsWordPressAutomatically sync WordPress help documents with CommandBar.Help Center SyncYouTubeEasily embed YouTube video content within your Bar.CommandZendeskAutomatically sync Zendesk help documents with CommandBar.Help Center SyncExplore all integrations â"We use CommandBar to allow our users to really do anything that you can do inside the application....in a way thatâs faster and easier than anything they could do before."Kurt SchraderCEOGet startedBuilt for developers and product teamsBuilt for developers and product teamsGet started todayimport { init } from 'commandbar';init('42424242');window.CommandBar.boot("foobar", {  Â Â Â Â jawDropped:Â true, Â Â Â Â isConfused:Â false,},{Â Â Â Â formFactor:Â {Â Â Â Â Â Â Â Â type:Â 'inline',Â Â Â Â Â Â Â Â rootElement:Â 'commandbar-inline-root'Â Â Â Â }});Copyright Â© Foobar, Inc. 2023. All rights reserved.ResourcesDocumentationIntegrationsWordPress pluginPricingChangelogPodcastSystem StatusMedia KitCompanyCareersSecurityDisclosurePrivacyTermsStay in the loopBest practices for building delightful, useful products.
+
+Thank you! Your submission has been received!Oops! Something went wrong while submitting the form.TwitterLinkedInG2Copyright Â© Foobar, Inc. 2023. All rights reserved.

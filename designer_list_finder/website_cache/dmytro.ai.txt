@@ -1,0 +1,726 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dmytro Mishkin, PhD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Consulting projects
+
+
+Bio
+
+
+Talks
+
+
+Interviews
+
+
+Publications
+
+
+Teaching
+
+
+Blog
+
+
+Contact
+
+
+
+
+
+
+
+
+
+
+Dmytro Mishkin
+Computer vision and deep learning consultant, PhD
+
+ I save your time and money by advising directions that are more suitable, from a performance, sustainability, and business perspective. While the current frameworks allow good software engineers to replace domain experts in computer vision, when it comes to implementation, expertise is required to decide, which should and, more importantly, should not be implemented.  I currently do not take projects
+
+
+
+
+
+
+
+
+
+Recent consulting projects
+
+realtime object tracking for augmented reality
+camera localization for virtual reality
+deep genomics
+anomaly detection for material quality inspection
+image recommendation for fashion
+
+
+
+
+
+
+Since 2019
+
+
+
+
+
+Serve as volunteer Member of the Expert Committee on Artificial Intelligence at Ministry of Digital Transformation Of Ukraine. Areas of responsibility: science and education.
+
+
+
+
+2019 — 2020
+
+
+Co-founder of the Eastern European Computer Vision Conference. We running the largest computer vision conference in Eastern Europe to connect industrial and academic worlds.
+
+
+
+
+
+
+
+Since 2016
+
+
+
+
+
+Have started Ukrainian Research Group "Szkocka" is an initiative to promote and advance Ukrainian science. It is a platform for cooperation between researchers and supervisors on doing high-quality academic research. It is non-government organization free from bureaucracy and regulations, it exists due to free cooperation and donations.
+We supervise and fund students, PhD students and volunteers research in computer vision and machine learning area. Group is named after Lviv mathematician community in 1930s 
+
+
+
+
+2015 — 2021
+
+
+I did my PhD at CTU in Prague under supervision of Prof. Jiri Matas to deepen and expand my expertise in computer vision and machine learning. My research is mostly devoted to wide baseline stereo and local features: the workhorse of 3D reconstuction, SLAM and image retrieval. During the study, I have done reserch internship at Intel Labs Munich, where I studied classical and learning-based navigation algorithms. 
+ My PhD thesis "Learning and Crafting for the Wide Multiple Baseline Stereo got Dean's  Prize, Rector's prize and got into the final of Antonín Svoboda Award for the Best Ph.D. Thesis.
+I am the maintainer of the open source Kornia library — OpenCV in PyTorch.
+
+
+
+
+
+
+
+2014 — 2017
+
+
+
+
+
+Co-founder and CTO of Clear Research. Team under my supervision have developed a mobile visual commerce system for madora.co app.
+        In particular:
+
+bags and shoes recommendation engine, based on actual photos of things user like, or already have;
+proprietary deep learning powered similarity search engine, based on user tap on camera photo;
+proprietary algorithm, which discovers potential items to sell, based on photo and description from supplier web-page;
+proprietary automatic image adjustment algorithm, so all things we sell, have standardized view and and the photos are of desired quality, even the items are from different suppliers
+
+
+
+
+
+2012 — 2013
+
+
+Worked as visiting researcher at Center of Machine perception at CTU in Prague. I have developed MODS - the state-of-the-art method for the wide baseline stereo matching under the extreme viewpoint change.
+
+
+
+
+
+
+
+2011 — 2014
+
+
+
+
+
+Was an Assistant Professor at National Technical University of Ukraine "KPI". I taught masters and undergraduate courses:
+
+Image recognition
+Satellite imagery processing
+Microcontroller systems
+
+
+
+
+
+
+Invited talks
+
+
+2022
+
+
+
+
+19.06.2021. New Orleans, USA. CVPR 2022. Tutorial "Affine Correspondences and Their Applications".
+            Talk "Affine Correspondences and Where to Find Them"
+
+
+[Tutorial]
+[YouTube]
+[Slides]
+
+
+
+
+
+
+02.03.2022. Mantova, Italy. 3D Arch 2022. .
+            Keynote "Crafting and Learning for Image Matching"
+
+
+[Conference]
+[YouTube]
+[Slides]
+
+
+
+ 
+
+
+
+2020
+
+
+
+
+14.06.2020. Seattle, USA. CVPR 2020. Tutorial "RANSAC in 2020".
+            Talk "Benchmarking Robust Estimation Methods"
+
+
+[Tutorial]
+[YouTube]
+[Slides]
+
+
+
+
+15.06.2020. Seattle, USA. CVPR 2020. Tutorial "Local features: from SIFT to differentiable methods".
+            Talk "Local features: from paper to practice".
+
+
+[Tutorial]
+[YouTube]
+[Slides]
+
+
+
+ 
+
+
+
+2019
+
+
+
+
+13.12.2019. Barcelona, Spain. Computer Vision Center of Autonomous University of Barcelona.
+            "Crafting and learning for image matching".
+
+
+[Event]
+[Video]
+
+
+
+
+26.09.2019. Tallinn, Estonia. Veriff Computer Vision Meet-up.
+            "Deep-learned vs Handcrafted navigation".
+
+
+[Event]
+[Slides]
+
+
+
+
+06.07.2019. Odesa, Ukraine.  Eastern European Conference on Computer Vision.
+            "Crafting and learning for image matching".
+
+
+[Conference]
+[Video]
+[Slides]
+
+
+
+ 
+
+
+
+2018
+
+
+
+
+29.03.2018. Prague, Czech Republic. Institute of Informatics, Academy of Science.
+            Convolutional neural networks from basics to the recent advances
+
+
+[Event]
+
+
+
+ 
+
+
+
+Interviews
+
+24.01.2020 [Sayak Paul Interviews] 
+12.04.2020 [Chai Time Data Science] 
+08.09.2017  [The Ukrainians] 
+
+
+
+
+Selected publications
+
+
+
+2021
+
+
+
+
+
+
+
+Efficient Initial Pose-graph Generation for Global SfM
+Authors: Daniel Barath, Dmytro Mishkin, Ivan Eichhardt, Ilia Shipachev, Jiri Matas
+CVPR 2021.[pdf],[bib]
+
+
+
+
+
+
+
+
+
+ 
+
+
+2020
+
+
+
+
+
+
+
+Image Matching across Wide Baselines: From Paper to Practice
+Authors: Yuhe Jin, Dmytro Mishkin, Anastasiia Mishchuk, Jiri Matas, Pascal Fua, Kwang Moo Yi, Eduard Trulls
+IJCV 2020.[preprint],[bib], [sources], [web-site]
+
+
+
+
+
+
+
+
+
+
+Kornia: an open source differentiable computer vision library for PyTorch
+Authors: Edgar Riba, Dmytro Mishkin, Daniel Ponsa, Ethan Rublee, Gary Bradski
+WACV 2020.[pdf],[bib], [sources], [docs]
+
+
+
+
+
+
+
+
+
+ 
+
+
+2019
+
+
+
+
+
+
+
+Benchmarking Classic and Learned Navigation in Complex 3D Environments
+Authors: D. Mishkin, A. Dosovitskiy, V. Koltun
+arXiv 2019.[preprint],[bib], [sources], [video], [web-site]
+
+
+
+
+
+
+
+
+
+ 
+
+
+2018
+
+
+
+
+
+
+
+DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks
+Authors: O.Kupyn, V.Budzan, M.Mykhailych, D. Mishkin, J.Matas
+CVPR 2018.[preprint],[bib], [sources]
+
+
+
+
+
+
+
+
+
+
+Repeatability Is Not Enough: Learning Affine Regions via Discriminability
+Authors: D. Mishkin, F.Radenovic, J.Matas
+ECCV 2018.[preprint],[bib], [sources]
+
+
+
+
+
+
+
+
+
+ 
+
+
+2017
+
+
+
+
+
+
+
+Working hard to know your neighbor's margins: Local descriptor learning loss
+Authors: A.Mishchuk, D. Mishkin, F.Radenovic, J.Matas
+NeurIPS 2017. [preprint],[bib], [sources], [poster][slides]
+
+
+
+
+
+
+
+
+
+
+Systematic evaluation of convolution neural network advances on the Imagenet
+Authors: D. Mishkin, N.Sergievskiy, J.Matas
+CVIU 2017.[paper],[preprint],[bib], [sources], [slides]
+
+
+
+
+
+
+
+
+
+ 
+
+
+2016
+
+
+
+
+
+
+
+All you need is a good init
+Authors: D. Mishkin and J.Matas
+ICLR, 2016. [pdf], [bib], [poster]
+
+
+
+
+
+
+
+
+
+ 
+
+
+2015
+
+
+
+
+
+
+
+MODS: Fast and Robust Method for Two-View Matching
+Authors: D. Mishkin, J.Matas, M.Perdoch
+CVIU 2015.[preprint],[paper],[bib], [sources]
+
+
+
+
+
+
+
+
+
+
+WxBS: Wide Baseline Stereo Generalizations
+Authors:  D. Mishkin, M. Perdoch, J.Matas, K. Lenc
+BMVC, 2015. [pdf], [bib], [poster]
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Teaching
+
+
+
+2022
+
+
+
+
+
+
+
+Intellectual property of AI companies
+Joint lecture with LawLawLaw  about how AI works and which additional intellectual property AI company generates compared to the non-AI information technology company. Invited by WIPO Egypt
+
+
+
+
+
+
+
+
+
+
+
+
+Efficient ML Research
+Lecture on How to navigate through the ML research information flood. For Ukrainian Catholic University Winter Schhol on "How to run an effective machine learning research 2022"
+
+
+
+
+
+
+
+
+
+
+
+
+Computer Vision Methods
+Lectures on correspondence methods for computer vision: local feature detectors, descriptors and matching. [MPV course] at CTU in Prague. Slides and videos are available at the course page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021
+
+
+
+
+
+
+
+Intellectual property of AI companies
+Joint lecture with LawLawLaw  about how AI works and which additional intellectual property AI company generates compared to the non-AI information technology company. Invited by WIPO
+
+
+
+
+
+
+
+
+
+
+
+
+Computer Vision Methods
+Lectures on correspondence methods for computer vision: local feature detectors, descriptors and matching. [MPV course] at CTU in Prague. Slides and videos are available at the course page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2020
+
+
+
+
+
+
+
+Local features in computer vision
+Private 3 days workshop about modern local detectors, descriptor for correspondence search. 
+                  For University of Ostrava Institute for Research and Applications of Fuzzy Modeling
+
+
+
+
+
+
+
+
+
+
+
+Computer Vision Methods
+I have re-designed and taught the practical part of the [MPV course] at CTU in Prague.
+
+
+
+
+
+
+
+
+
+i
+    
+
+
+
+2018
+
+
+
+
+
+
+
+Visual object tracking course
+For Winter School at Ukrainian Catholic University. [Course link]
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+2016
+
+
+
+
+
+
+
+Intro into Deep Learning course
+At Kyivstar Big Data School
+
+
+
+
+
+
+
+
+
+ 
+
+
+Contact
+    The best way to contact me is email: ducha.aiki@gmail.com 
+    I also write about computer vision and science on: 
+ twitter
+ Mastodon 
+ my new blog 
+ medium  (old blog) 
+ blog devoted to wide baseline stereo. 
+    
+ In my free time I am playing kaggle (Kaggle Master), chess and practicing aikido. Yes, that's where my nickname comes from. 
+  
+
+
+
+© 2020 Design by Ole-ks
+
+
+
+
+
+

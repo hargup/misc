@@ -1,0 +1,791 @@
+
+
+
+
+
+
+
+
+
+
+YouTube Title and Thumbnail Combo Ranker | CreatorML by Charles Weill
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CreatorML
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          
+                            Y Combinator   Demo
+
+
+                            1.12M subscribers
+                          
+
+
+
+
+
+A.I. Tools for YouTubers
+
+
+
+
+
+
+Ranker
+New
+
+
+
+
+
+
+
+
+Predictor 🚧👷‍♂️
+
+
+
+
+Thumbnails
+
+
+
+
+
+
+Thumbnail Search
+
+
+
+
+
+Extensions
+
+
+
+
+
+
+
+
+Chrome Extension  
+                            New
+
+
+
+
+
+
+About
+
+
+
+
+
+FAQ
+
+
+
+
+ 
+Pricing
+
+
+
+
+
+
+Manage Subscription
+
+
+
+
+
+
+
+Community
+
+
+
+ 
+Discord
+
+
+
+
+ 
+Twitter
+
+
+
+
+
+
+Legal
+
+
+
+
+
+Terms and Conditions
+
+
+
+
+
+
+Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Views (Since published) Mode
+        
+Likes (Since published) Mode
+CTR (Last 28 days) Mode
+Views (Last 28 days) Mode
+Impressions (Last 28 days) Mode
+
+          Views from Impressions (Last 28 days) Mode
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Get Your Free Predictor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Channels 
+
+
+
+ Go Incognito
+
+
+              Demo channels
+            
+
+
+
+Y Combinator   
+                  
+                  Demo
+
+
+
+
+Sign in
+
+
+
+
+
+
+
+
+
+
+
+
+
+YouTube Video Title and Thumbnail View Ranker
+
+
+
+                                Compare thumbnails and titles and see which will get more Views on YouTube. Predict YouTube
+                                Views before you upload.
+                            
+Please sign up or sign
+    in to save your
+  work.
+
+
+New Ranking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Enter video details below or import from URL.
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                        Drag and Drop or Select Thumbnails
+
+
+
+
+
+
+
+                                        Please upload at least one thumbnail image.
+                                        
+
+Thumbnails are cropped to a 16:9 aspect ratio.
+
+
+
+
+
+
+
+
+
+
+                                            Video Titles* 
+
+Titles should be between 1 and 100 characters long.
+
+One title per line. The ranker is case-insensitive.
+0/100
+
+
+
+
+
+
+English
+Spanish
+French
+German
+Chinese
+Japanese
+Russian
+Swedish
+Arabic
+Finnish
+Italian
+Portuguese
+
+
+                                                        Language*
+
+
+
+
+
+
+Tone of voice
+
+
+
+
+                                                    Generate
+                                                    
+                                                    similar video titles
+                                                
+
+
+                                                    Generating similar titles...
+                                                
+
+
+Uses 1 credit per generated title. Learn
+                                            more.
+
+
+
+
+
+
+
+
+                                                Video Duration*
+
+Duration must have the form 00:00 or 00:00:00.
+
+
+
+
+
+Choose a Category
+Autos & Vehicles
+Comedy
+Education
+Entertainment
+Film & Animation
+Gaming
+Howto & Style
+Music
+News & Politics
+Nonprofits & Activism
+People & Blogs
+Pets & Animals
+Science & Technology
+Sports
+Travel & Events
+
+
+                                                Category*
+
+
+
+
+
+
+
+Video ID
+
+
+
+
+
+
+Predictor Secret
+
+
+
+
+
+
+
+
+
+Average View %
+
+
+
+
+
+
+Publish Date
+
+
+
+
+
+
+
+
+License Key
+
+
+
+
+
+
+
+
+
+
+
+
+
+0/50 credits used. Resets on the 1st of the month for paid plans. Please upgrade your subscription to increase your credit limit.
+
+
+
+
+
+
+Sign in to rank combinations
+View Paid
+                                        Plans
+
+
+                                            Calculating...
+                                        
+
+
+Uses 1 credit per combination.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Learn More About Title Generation
+                    
+
+
+
+
+                        CreatorML uses OpenAI's GPT-4 to generate titles similar to the ones you've input.
+                        
+                            Before returning title suggestions, CreatorML tries to filter them based on their risk of containing
+                            offensive
+                            content, and as a result may return fewer titles than requested.
+                        
+
+However, you will only be charged credits
+                                for
+                            the titles that are returned, and not for the ones that are dropped.
+
+
+
+Close
+
+
+
+
+
+
+
+
+Try An Example
+Click on an example below to get a View prediction for the video.
+
+
+
+
+
+
+
+
+
+
+          17:35
+
+
+
+          Why You Shouldn't Copy Your Tech Idols
+        
+Y Combinator 
+
+11.5K views • 1 day ago
+Science & Technology
+09mXPGVkfVA
+
+
+
+
+
+
+
+
+
+
+          24:03
+
+
+
+          Critiquing Startup Mobile Apps with Glide CEO
+        
+Y Combinator 
+
+34K views • 13 days ago
+Science & Technology
+4N55fVuxxOg
+
+
+
+
+
+
+
+
+
+
+          11:40
+
+
+
+          The Secret That Silicon Valley's Top Investors All Share
+        
+Y Combinator 
+
+26.1K views • 3 weeks ago
+Science & Technology
+bgp5QZwuNQI
+
+
+
+
+
+
+
+
+
+
+
+CreatorML
+Just now
+
+
+
+        Scroll up to see your view predictions.
+      
+
+
+
+
+
+
+
+
+
+
+          Import Video from YouTube URL
+        
+
+
+
+
+
+
+YouTube Video URL
+.
+
+
+For example, https://www.youtube.com/watch?v=dQw4w9WgXcQ  or choose a video from your channel .
+
+Import
+
+
+            Importing...
+          
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+Trusted by Innovative 
+          YouTube Creators
+
+
+
+
+
+The Infographics Show
+11.3M subscribers
+We love using CreatorML to learn what stands out and what we simply miss with our own eyes.
+        This
+        way we can
+        make sure our audience will have the best experience when seeing our videos.
+
+
+
+
+Promoting Sounds
+2.9M subscribers
+Using the YouTube Click-Through Rate Predictor has helped me optimise my thumbnails to not
+        only stand out more, but be something that people actually want to click on. CTR is one of
+        the most important metrics on YouTube, so to be able to have a tool out there that helps me decide and one
+        that really does work is now crucial for my videos. Highly recommend!
+
+
+
+Vexian, Content Strategist at Astralis R6
+218K subscribers
+CreatorML has been a fantastic tool for YouTube and our strategy moving forward. It has taken
+        a
+        lot of the
+        guesswork out and has helped increase our overall CTR. There really is no other tool that has had such a
+        positive impact on our channels.
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Made with  by Charles Weill
+                                    to help the YouTube community.
+                                    Backed by Y Combinator (W23).
+                                
+
+
+
+
+                                    ©
+                                    
+                                    Antifragile Research Inc. All Rights Reserved.
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

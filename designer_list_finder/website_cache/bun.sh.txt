@@ -1,0 +1,111 @@
+
+
+
+Bun — A fast all-in-one JavaScript runtimeBun 1.0 is here! Read the announcement →DocsGuidesBlogDocsGuidesBlogBun is a fast JavaScriptall-in-one toolkit|Develop, test, run, and bundle JavaScript & TypeScript projects—all with Bun. Bun is an all-in-one JavaScript runtime & toolkit designed for speed, complete with a bundler, test runner, and Node.js-compatible package manager.Install Bun v1.0.1curl -fsSL https://bun.sh/install | bashSupported on macOS, Linux, and WSLView sourceBun.serve()WebSocketbun:sqliteServer-side rendering ReactHTTP requests per second (Linux x64)bun: 66,706 requests per second66,706deno: 32,921 requests per second32,921node: 13,967 requests per second13,967Bunv1.0Deno.serve()v1.36.2Node.js20.5.0View benchmarkWebSocket chat serverMessages sent per second (Linux x64, 32 clients)bun: 1,098,870 messages sent per second1,098,870deno: 512,000 messages sent per second512,000node: 179,185 messages sent per second179,185Bun.serve()v1.0Deno.serve()v1.36.2ws (Node.js)v20.5.0View benchmarkLoad a huge tableAverage queries per secondbun: 81.37 queries per second81.37deno: 43.5 queries per second43.5better-sqlite3: 21.29 queries per second21.29bun:sqlitev1.0deno (x/sqlite3)v1.35.2better-sqlite3Node v20.4.0View benchmark$ bun runBun is a JavaScript runtime.Bun is a new JavaScript runtime built from scratch to serve the modern JavaScript ecosystem. It has three major design goals:Speed. Bun starts fast and runs fast. It extends JavaScriptCore, the performance-minded JS engine built for Safari. As computing moves to the edge, this is critical.Elegant APIs. Bun provides a minimal set of highly-optimimized APIs for performing common tasks, like starting an HTTP server and writing files.Cohesive DX. Bun is a complete toolkit for building JavaScript apps, including a package manager, test runner, and bundler.Bun is designed as a drop-in replacement for Node.js. It natively implements hundreds of Node.js and Web APIs, including fs, path, Buffer and more.The goal of Bun is to run most of the world's server-side JavaScript and provide tools to improve performance, reduce complexity, and multiply developer productivity.Drop-in Node.js compatibilityBun aims to be a drop-in replacement for Node.js. It implements Node's module resolution algorithm, globals like Buffer and process, and built-in modules like fs and path. Click to track Bun's progress towards full compatibility.Fast running performanceBun extends the JavaScriptCore engine—the performance-minded JS engine built for Safari—with native-speed functionality implemented in Zig.Works with node_modulesWith Bun, you still use package.json to manage your dependencies. Use Bun's native npm client to see just how fast installing dependencies can be.No more module madnessForget the complicated rules around CommonJS, ESM, file extensions, resolution priority, and package.json configurations. With Bun, it just works.TypeScriptTypeScript is a first-class citizen in Bun. Directly execute .ts and .tsx files. Bun respects your settings configured in tsconfig.json, including "paths", "jsx", and more.Web-standard APIsBun implements the Web-standard APIs you know and love, including fetch, ReadableStream, Request, Response, WebSocket, and FormData.JSXJSX just works. Bun internally transpiles JSX syntax to vanilla JavaScript. Like TypeScript itself, Bun assumes React by default but respects custom JSX transforms defined in tsconfig.json.Watch modeThe bun run CLI provides a smart --watch flag that automatically restarts the process when any imported file changes.The APIs you need. Baked in.Start an HTTP serverStart a WebSocket serverRead and write filesHash a passwordBundle for the browserWrite a testFile system routingRead a streamSpawn a child processCall a C functionindex.tsxconst server = Bun.serve({
+  port: 3000,
+  fetch(request) {
+    return new Response("Welcome to Bun!");
+  },
+});
+
+console.log(`Listening on localhost:${server.port}`);index.tsxconst server = Bun.serve<{ authToken: string; }>({
+  fetch(req, server) {
+    // use a library to parse cookies
+    const cookies = parseCookies(req.headers.get("Cookie"));
+    server.upgrade(req, {
+      data: { authToken: cookies['X-Token'] },
+    });
+  },
+  websocket: {
+    // handler called when a message is received
+    async message(ws, message) {
+      console.log(`Received: ${message}`);
+      const user = getUserFromToken(ws.data.authToken);
+      await db.Message.insert({
+        message: String(message),
+        userId: user.id,
+      });
+    },
+  },
+});
+
+console.log(`Listening on localhost:${server.port}`);index.tsxconst file = Bun.file(import.meta.dir + '/package.json'); // BunFile
+
+const pkg = await file.json(); // BunFile extends Blob
+pkg.name = 'my-package';
+pkg.version = '1.0.0';
+
+await Bun.write(file, pkg);
+index.tsxconst password = "super-secure-pa$$word";
+
+const hash = await Bun.password.hash(password);
+// => $argon2id$v=19$m=65536,t=2,p=1$tFq+9AVr1bfPxQdh...
+
+const isMatch = await Bun.password.verify(password, hash);
+// => truebundle.tsxawait Bun.build({
+  entrypoints: ["./index.tsx"],
+  outdir: "./build",
+  minify: true,
+  plugins: [ /* ... */ ]
+})index.tsximport { describe, expect, test, beforeAll } from "bun:test";
+
+beforeAll(() => {
+  // setup tests
+});
+
+describe("math", () => {
+  test("addition", () => {
+    expect(2 + 2).toBe(4);
+    expect(7 + 13).toMatchSnapshot();
+  });
+});
+index.tsxconst router = new Bun.FileSystemRouter({
+  style: "nextjs",
+  dir: "/path/to/pages"
+});
+
+const match = router.match("/blog/my-cool-post");
+match.filePath; // "/path/to/pages/blog/[slug].tsx",
+match.kind; // "dynamic"
+match.params; // { slug: "my-cool-post" }
+index.tsxconst response = await fetch("https://bun.sh");
+
+await Bun.readableStreamToArrayBuffer(response.body); // => ArrayBuffer
+await Bun.readableStreamToBlob(response.body); // => Blob
+await Bun.readableStreamToJSON(response.body); // => object
+await Bun.readableStreamToText(response.body); // => string
+await Bun.readableStreamToArray(response.body); // => unknown[]
+index.tsxconst proc = Bun.spawn(["echo", "hello"], {
+  cwd: "./path/to/subdir", // specify a working direcory
+  env: { ...process.env, FOO: "bar" }, // specify environment variables
+  onExit(proc, exitCode, signalCode, error) {
+    // exit handler
+  },
+});
+
+const text = await new Response(proc.stdout).text();
+console.log(text); // => "hello"index.tsximport { dlopen, FFIType, suffix } from "bun:ffi";
+
+// `suffix` is either "dylib", "so", or "dll" depending on the platform
+const path = `libsqlite3.${suffix}`;
+
+const {
+  symbols: {
+    sqlite3_libversion, // the function to call
+  },
+} = dlopen(path, {
+  sqlite3_libversion: {
+    args: [], // no arguments
+    returns: FFIType.cstring, // returns a string
+  },
+});
+
+console.log(`SQLite 3 version: ${sqlite3_libversion()}`);$ bun installBun is an npm-compatible package manager.Bunpnpm17x slowernpm29x slowerYarn33x slowerInstalling dependencies from cache for a Remix app. View benchmarkNode.js compatibleBun still installs your dependencies into node_modules like npm and other package managers—it just does it faster. You don't need to use the Bun runtime to use Bun as a package manager.Crazy fastBun uses the fastest system calls available on each operating system to make installs faster than you'd think possible. WorkspacesWorkspaces are supported out of the box. Bun reads the workspaces key from your package.json and installs dependencies for your whole monorepo.Global install cacheDownload once, install anywhere. Bun only downloads a particular version of a package from npm once; future installations will copy it from the cache.Binary lockfileAfter installation, Bun creates a binary bun.lockb lockfile with the resolved versions of each dependency. The binary format makes reading and parsing much faster than JSON- or Yaml-based lockfiles.Familiar APIBun's CLI uses commands and flags that will feel familiar to any users of npm, pnpm, or yarn.Replace yarn with bun install to get 30x faster package installs.Try it $ bun testBun is a test runner that makes the rest look like test walkers.BunVitest5x slowerJest+SWC8x slowerJest+tsjest18x slowerJest+Babel20x slower Running the test suite for ZodView benchmarkJest-compatible syntaxBun provides a Jest-style expect() API. Switch to bun test with no code changes.Crazy fastBun's fast startup times shine in the test runner. You won't believe how much faster your tests will run.Lifecycle hooksRun setup and teardown code per-test with beforeEach/afterEach or per-file with beforeAll/afterAll.Snapshot testingFull support for on-disk snapshot testing with .toMatchSnapshot(). Overwrite snapshots with the --update-snapshots flag.DOM APIsSimulate DOM and browser APIs in your tests using happy-dom.Watch modeUse the --watch flag to re-run tests when files change using Bun's instantaneous watch mode.Function mocksMock functions with mock() or spy on methods with spyOn().Replace jest with bun test to run your tests 10-30x faster.Try it 1Install Buncurl -fsSL https://bun.sh/install | bash2Write your codeindex.tsxconst server = Bun.serve({
+  port: 3000,
+  fetch(request) {
+    return new Response("Welcome to Bun!");
+  },
+});
+
+console.log(`Listening on localhost:${server.port}`);3Run the filebun index.tsxInstall BunQuick start Learn by example.Our guides break down how to perform common tasks with Bun.ProcessesSpawn a child process with BunView guide StreamsConvert a ReadableStream to a string with BunView guide EcosystemBuild a frontend using Vite and BunView guide Package managerAdd a dependencyAdd a Git dependencyAdd a peer dependencyAdd a tarball dependencyAdd a trusted dependencyAdd an optional dependencyAdd a development dependencyGenerate a human-readable lockfileConfiguring a monorepo using workspacesInstall a package under a different nameInstall dependencies with Bun in GitHub ActionsOverride the default npm registry for bun installConfigure a private registry for an organization scope with bun installHTTPHot reload an HTTP serverWrite a simple HTTP serverConfigure TLS on an HTTP serverSend an HTTP request using fetchStream a file as an HTTP ResponseUpload files via HTTP using FormDataRuntimeImport a JSON fileImport a TOML fileRe-map import pathsSet a time zone in BunSet environment variablesRead environment variablesDebugging Bun with the web debuggerInstall and run Bun in GitHub ActionsInstall TypeScript declarations for BunDebugging Bun with the VS Code extensionWebSocketBuild a simple WebSocket serverEnable compression for WebSocket messagesBuild a publish-subscribe WebSocket serverSet per-socket contextual data on a WebSocketUpgrade an HTTP request to a WebSocket connectionTest runnerMock functions in bun testSpy on methods in bun testUpdate snapshots in bun testRun tests in watch mode with BunUse snapshot testing in bun testBail early with the Bun test runnerSkip tests with the Bun test runnerMigrate from Jest to Bun's test runnerRun your tests with the Bun test runnerSet the system time in Bun's test runnerWrite browser DOM tests with Bun and happy-domSet a per-test timeout with the Bun test runnerMark a test as a "todo" with the Bun test runnerRe-run tests multiple times with the Bun test runnerSet a code coverage threshold with the Bun test runnerGenerate code coverage reports with the Bun test runnerReading filesRead a JSON fileCheck if a file existsRead a file to a BufferRead a file as a stringGet the MIME type of a fileRead a file to a Uint8ArrayRead a file to an ArrayBufferWatch a directory for changesRead a file as a ReadableStreamUtilitiesHash a passwordEscape an HTML stringGet the current Bun versionEncode and decode base64 stringsCheck if two objects are deeply equalDetect when code is executed with BunGet the directory of the current fileGet the file name of the current fileConvert a file URL to an absolute pathCompress and decompress data with gzipConvert an absolute path to a file URLSleep for a fixed number of millisecondsCompress and decompress data with DEFLATEGet the absolute path of the current fileCheck if the current file is the entrypointGet the absolute path to the current entrypointProcessesRead from stdinListen for CTRL+CListen to OS signalsSpawn a child processParse command-line argumentsRead stderr from a child processRead stdout from a child processGet the process uptime in nanosecondsStreamsConvert a ReadableStream to a BlobConvert a ReadableStream to a JSONConvert a ReadableStream to a BufferConvert a ReadableStream to a stringConvert a ReadableStream to a Uint8ArrayConvert a ReadableStream to an ArrayBufferConvert a ReadableStream to an array of chunksWriting filesDelete a fileWrite to stdoutWrite a Blob to a fileWrite a file to stdoutWrite a string to a fileWrite a file incrementallyWrite a Response to a fileCopy a file to another locationWrite a ReadableStream to a fileEcosystemUse React and JSXCreate a Discord botGet started using PrismaBuild an app with Nuxt and BunBuild an app with Astro and BunBuild an app with Remix and BunBuild an app with Next.js and BunBuild an app with SvelteKit and BunBuild a frontend using Vite and BunBuild an app with SolidStart and BunBuild an HTTP server using Hono and BunBuild an HTTP server using Elysia and BunBuild an HTTP server using Express and BunServer-side render (SSR) a React componentBuild an HTTP server using StricJS and BunRead and write data to MongoDB using Mongoose and BunResourcesDocsGuidesDiscordGitHubBlog ToolkitRuntimePackage managerTest runnerBundlerPackage runnerProjectRoadmapContributingLicenseBaked with ❤️ in San FranciscoWe're hiring →
+

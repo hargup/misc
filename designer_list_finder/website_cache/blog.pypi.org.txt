@@ -1,0 +1,606 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Python Package Index
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Skip to content
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              The Python Package Index
+            
+
+
+
+
+            
+              The PyPI Blog
+            
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    GitHub
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    GitHub
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The PyPI Blog
+
+
+
+
+
+
+
+
+
+
+
+        
+          Tags
+        
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Posts
+          
+
+
+
+
+
+
+          Posts
+        
+
+
+
+
+
+
+        
+          Welcome to the PyPI Blog
+        
+      
+
+
+
+
+
+        
+          Introducing 'Trusted Publishers'
+        
+      
+
+
+
+
+
+        
+          Introducing PyPI Organizations
+        
+      
+
+
+
+
+
+        
+          Announcing the PyPI Safety & Security Engineer role
+        
+      
+
+
+
+
+
+        
+          Removing PGP from PyPI
+        
+      
+
+
+
+
+
+        
+          PyPI was subpoenaed
+        
+      
+
+
+
+
+
+        
+          Securing PyPI accounts via Two-Factor Authentication
+        
+      
+
+
+
+
+
+        
+          Reducing Stored IP Data in PyPI
+        
+      
+
+
+
+
+
+        
+          Enforcement of 2FA for upload.pypi.org begins today
+        
+      
+
+
+
+
+
+        
+          Announcing the launch of PyPI Malware Reporting and Response project
+        
+      
+
+
+
+
+
+        
+          Deprecation of bdist_egg uploads to PyPI
+        
+      
+
+
+
+
+
+        
+          PyPI hires a Safety & Security Engineer
+        
+      
+
+
+
+
+
+        
+          2FA Enforcement for New User Registrations
+        
+      
+
+
+
+
+
+        
+          GitHub now scans public issues for PyPI secrets
+        
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The PyPI Blog
+
+
+
+
+
+
+
+
+GitHub now scans public issues for PyPI secrets
+
+      
+        by: Mike Fiedler · 
+2023-08-17
+
+GitHub will now scan public repositories' issues for PyPI API tokens, and will notify repository owners when they are found.
+
+#integrations
+#security
+
+
+
+
+
+2FA Enforcement for New User Registrations
+
+      
+        by: Mike Fiedler · 
+2023-08-08
+
+PyPI requires new users to enable 2FA before performing management actions.
+
+#2fa
+#security
+
+
+
+
+
+PyPI hires a Safety & Security Engineer
+
+      
+        by: Mike Fiedler · 
+2023-08-05
+
+Mike Fiedler joins PSF as inaugural PyPI Safety & Security Engineer
+
+#hiring
+
+
+
+
+
+Deprecation of bdist_egg uploads to PyPI
+
+      
+        by: Ee Durbin · 
+2023-06-26
+
+PyPI will stop accepting .egg uploads August 1, 2023.
+
+#deprecation
+
+
+
+
+
+Announcing the launch of PyPI Malware Reporting and Response project
+
+      
+        by: Shamika Mohanan · 
+2023-06-22
+
+
+#security
+
+
+
+
+
+Enforcement of 2FA for upload.pypi.org begins today
+
+      
+        by: Ee Durbin · 
+2023-06-01
+
+PyPI now requires all uploads from accounts with 2FA enabled to use an API token or Trusted Publisher configuration.
+
+#security
+#2fa
+
+
+
+
+
+Reducing Stored IP Data in PyPI
+
+      
+        by: Mike Fiedler · 
+2023-05-26
+
+PyPI has stopped using IP data when possible, and is continuing to reduce the amount of IP data stored overall.
+
+#security
+#transparency
+
+
+
+
+
+Securing PyPI accounts via Two-Factor Authentication
+
+      
+        by: Donald Stufft · 
+2023-05-25
+
+PyPI will require all users who maintain projects or organizations to enable one or more forms of two-factor authentication (2FA) by the end of 2023.
+
+#security
+#2fa
+
+
+
+
+
+PyPI was subpoenaed
+
+      
+        by: Ee Durbin · 
+2023-05-24
+
+The PSF received three subpoenas from the US Department of Justice for PyPI user data in March and April of 2023.
+
+#transparency
+#compliance
+
+
+
+
+
+Removing PGP from PyPI
+
+      
+        by: Donald Stufft · 
+2023-05-23
+
+PyPI has removed support for uploading PGP signatures with new releases.
+
+#security
+
+
+
+
+
+
+
+Announcing the PyPI Safety & Security Engineer role
+
+      
+        by: Ee Durbin · 
+2023-05-09
+
+PyPI is hiring, thanks to funding from Amazon Web Services!
+
+#security
+#hiring
+
+
+
+
+
+Introducing PyPI Organizations
+
+      
+        by: Ee Durbin · 
+2023-04-23
+
+Announcing the launch of a significant new collaboration feature for PyPI
+
+#organizations
+#sustainability
+
+
+
+
+
+Introducing 'Trusted Publishers'
+
+      
+        by: Dustin Ingram · 
+2023-04-20
+
+Announcing a new, more secure way to publish to PyPI
+
+#publishing
+#security
+#oidc
+
+
+
+
+
+Welcome to the PyPI Blog
+
+      
+        by: Ee Durbin · 
+2023-03-21
+
+Announcing the launch of blog.pypi.org
+
+#meta
+#welcome
+#blogs-about-blogs
+
+
+
+
+
+
+
+1
+2
+
+Total 14 posts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    Made with
+    
+      Material for MkDocs
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

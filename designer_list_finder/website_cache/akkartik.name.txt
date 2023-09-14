@@ -1,0 +1,309 @@
+
+
+
+Kartik Agaram
+
+
+
+
+
+
+
+
+
+about
+contact
+
+
+Kartik Agaram
+
+
+
+Aug 22, 2023
+Quickly make any LÃVE app programmable from within the app
+
+It's a very common workflow. Type out a LÃVE
+app. Try running it. Get an error, go back to the source code.
+
+
+How can we do this from within the LÃVE app? So there's nothing to
+install?
+
+
+This is a story about a hundred lines of code that do it. I'm probably not the
+first to discover the trick, but I hadn't seen it before and it feels a bit
+magical.
+
+
+Read more
+permalink
+* *
+
+
+May 23, 2023
+Using computers more freely and safely
+
+A 15-minute manifesto (video and transcript) on
+lessons learned trying to build situated software for a year.
+permalink
+* *
+
+
+Dec 29, 2022
+A year of freewheeling apps
+
+Over the course of 2022, I've found myself gradually programming in a certain
+way that has been working really well. Here, let me show you a few examples,
+see if you can spot the pattern:
+
+
+
+ A plain-text editor where you can
+also draw line drawings.
+
+
+
+Minimal dependencies, easy to build, runs anywhere you can install apps
+without asking permission, thoroughly tested, designed above all to reward
+curiosity about its internals.
+
+
+ A different
+way to draw polygons. Old way:
+
+
+Read more →
+* *
+
+
+Nov 30, 2021
+Linear reading and the Silfen Paths
+
+I spent the pandemic year reading a lot of Peter Hamilton. I wouldn't necessarily
+recommend it; they all blur together after a while, and I start to wonder if
+they aren't perhaps all the same story…
+
+
+Regardless, the first Peter Hamilton I read, Pandora's Star, still
+sticks with me for a motif that didn't come together until right at the end:
+the Silfen Paths. In this universe humanity has portals that can span light
+years, often conveying train service between star systems, but there are
+occasional legends of an older interstellar network by an ancient alien
+civilization. Needless to say, our intrepid protagonist manages to get on this
+network. And suffers years of privation and amazing adventures (while everyone
+else in the novel is moving the story forward) before coming out the other
+end. Unlike the portals created by humans, the Silfen paths don't contain
+abrupt transitions between two points in space. Things blend together more
+gradually. Also unlike portals, the Silfen Paths aren't in the traveller's
+control. Instead, to go forth on the paths is to open oneself to the new, the
+unexpected. Extreme heat and cold. Danger. The occasional prancing Silfen
+who'll happen upon you and help you out, but who doesn't quite seem to get the
+idea of “home,” or that you're trying to get there, before
+outpacing you again, inevitably leaving you behind to find your own path
+through the maze.
+
+
+Read more →
+* *
+
+
+Jun 13, 2021
+Mu's neighborhood
+
+My goal for Mu is
+software that is accountable to the people it affects. But it's been difficult
+to talk to people about Mu's goals because of the sheer number of projects
+that use similar words but lead to very different priorities and actions. Some
+of these I like to be associated with, some not so
+much.
+
+
+if you care about making software accountable
+
+Read more →
+* *
+
+
+Dec 30, 2020
+The Mu computer in 2020
+
+
+“There are two ways of constructing
+software. One way is to make it so simple that there are obviously no deficiencies,
+and the other way is to make it so complicated that there are no obvious
+deficiencies. The first method requires a willingness to accept limitations,
+and to compromise when conflicting objectives cannot be met.”
+— C.
+A. R. Hoare
+
+
+It seems to me that modern computers trap people in a vicious cycle. Compatibility
+guarantees breed complexity over time as the world changes. Complexity is
+managed by introducing layers of abstraction. Abstractions introduce new
+compatibility guarantees. Over the decades this vicious cycle leads to even
+professional programmers understanding only a tiny fraction of the software
+infrastructure that runs their computers. As a result, our world is increasingly
+captured by software that is unaccountable to people.
+
+
+For several years now I've had a vision for a computer
+that allows anyone to audit its inner workings, where any operation can be
+decomposed strictly into a parsimonious combination of simpler operations,
+terminating without cyclic dependencies or circular reasoning at some ground
+level. Ideally it would do this in a way that rewards curiosity, leading to a
+virtuous cycle where an order of magnitude more people grow to understand how
+their computer works as they use it.
+
+
+Nowhere in this picture are compatibility guarantees, version numbers or
+forced upgrades. At any point your computer should be internally consistent
+and free of known historical accidents. Even if this means upgrades are more
+work and so more infrequent, and that our computers must be slower. Or do
+less. That seems like a worthwhile trade for a
+more sustainable world.
+
+
+At the start of 2020 the state of the
+Mu computer looked like this:
+
+
+Read more →
+* *
+
+
+Mar 15, 2020
+Mu: The first 6 years
+
+Over the last few months I've written up in one place the entire argument
+for—and comprehensive description of—what I've been working on
+since 2014. It will be published in the proceedings of the Convivial
+Computing Salon. From the
+call for submissions:
+
+
+
+In Tools for Conviviality [1973], Ivan Illich said, “I choose
+the term ‘conviviality’ to designate the opposite of industrial
+productivity… Tools foster conviviality to the extent to which they can
+be easily used, by anybody, as often or as seldom as desired, for the accomplishment
+of a purpose chosen by the user… People need new tools to work with
+rather than tools that work ‘for’ them.”
+
+
+We were promised bicycles for the mind, but we got aircraft carriers instead.
+We believe Illichâs critique of the damage to society from technology
+escalation offers a fresh perspective from which to discuss the pathologies of
+modern software development, and to seek better alternatives.
+
+
+An inspiring theme. My response: “Bicycles
+for the mind have to be see-through.” Get it? When I look over at my
+bicycle I can see right through its frame. I can take in at a glance how the
+mechanism works, how the pedals connect up with the wheels, and how the wheels
+connect up with the brakes. And yet, when we try to build bicycles for the
+mind, we resort to “hiding” and “abstraction”. I think
+this analogy has a lot more power than we credit, a lot more wisdom to impart
+if we only let it in. I think conviviality requires tools with exposed
+mechanisms that reward curiosity.
+
+
+I've been trying to falsify this hypothesis for 6 years. There are still large
+gaps to investigate, but so far it's holding up. Read
+on → [pdf; 25 pages]
+
+permalink
+* *
+
+
+Oct 15, 2019
+Mu: Sketching out a minimal system programming language
+
+In the previous post, I described what my
+new hobbyist computing stack looks like today, and how the design decisions
+seemed to accumulate inevitably from a small set of axiomatic goals. In this
+post I describe some (far more speculative) future plans for Mu and try to
+articulate how the design process continues to seem pre-ordained.
+
+
+(Many of the sections below outline constraints before describing a design
+that mostly fits them. This flow is inspired by 
+Christopher Alexander's “Notes on the synthesis of form”.)
+
+
+Read more →
+* *
+
+
+Oct 14, 2019
+Mu: A minimal hobbyist computing stack
+
+
+“It is far better to have an
+under-featured product that is rock solid, fast, and small than one that
+covers what an expert would consider the complete requirements.”
+— Richard
+Gabriel's best
+summary (pg 219) of his essay, “Worse
+is Better”
+
+
+Over the past year I've been working on a minimal-dependency hobbyist computing
+stack (everything above the processor) called Mu.
+The goal is to:
+
+ build up infrastructure people can enjoy programming on,
+ using as little code as possible, so that people can also hack on the
+underpinnings, modifying them to suit diverse desires.
+
+
+Read more →
+* *
+
+
+Mar 16, 2019
+Four example projects
+
+“Most kinds of power require a
+substantial sacrifice… By the time someone has acquired it, he has also
+matured to the point where he won't use it unwisely.”
+— Ian Malcolm, “Jurassic Park”
+
+
+“It is impossible to form
+anything which has the character of nature by adding pre-formed parts.”
+— Christopher Alexander, “A Timeless Way of Building”
+
+
+Lately I tend to program in a certain unconventional manner. A series of design
+choices, each seemingly reasonable in isolation, take me pretty far from
+conventional wisdom.
+
+Read more →
+* *
+
+
+
+older→
+
+
+
+
+
+
+archive
+projects
+writings
+videos
+interviews
+
+
+subscribe
+Mastodon
+RSS (?)
+twtxt (?)
+Station (?)
+
+
+
+
+

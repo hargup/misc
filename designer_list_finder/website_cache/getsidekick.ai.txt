@@ -1,0 +1,31 @@
+Data integration platform for LLMsDocsBlog
+
+
+
+
+
+
+
+
+
+
+
+SupportGithub
+
+View on Github
+
+
+
+
+
+
+
+
+The data integration platform for LLMsGet Started
+
+Psychic lets you connect your private data sources to applications built with LLMs.Backed bySupports 10+Â Integrations... and moreBook a Demo
+
+FeaturesPsychic is built for enterprise.Start quicklyPsychic takes care of auth, data synchronization and access control management, so you can focus on your core application logic.Robust integrationsA growing catalogue of connectors lets you get unstructured data out of third party tools without spending days writing custom integrations.Open sourcePsychic is open source and integrates seamlessly with LangChain and your favorite vector database.Talk to usHomePrivacy PolicyDocsBlogCareersPsychic Â© 2023
+
+
+

@@ -1,0 +1,494 @@
+
+
+
+
+
+
+
+
+Big Mail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Big Mail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smart.Fast.Private.
+A fresh new email experience designed to leverage the full power of iOS and macOS.
+Now in TestFlight
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smartboxes organise your inbox. Neat.
+Smartboxes are like playlists for emails. Stack live filters to group related messages together. So whether it's conversations for a project or keeping track of your deliveries, with Smartboxes, they're always just a tap away.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A new view on things.
+Not all emails are equal, so why read them all in the same way? Layouts bring a whole new dimension to your inbox. Browse newsletters with "Timeline" or skim purchases with "Gallery". You won't look at email the same.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear up in a snap. Just tap.
+Want to archive everything you've read? Or only the messages you've replied to? With Quick Actions, bulk tasks are just a tap. Set one for each of your Smartboxes. If only all tidying were this easy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Labels hereand there.
+Big Mail has full support for Gmail labels and even extends support to providers without them. Mix and match labels between different accounts however you like. And, of course, there's folders too.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Newsletters, taken to the edge.
+Experience distraction-free reading with an interface that recedes away. Colours from each message take over the UI, and with smooth swipe gestures, gliding through your inbox is a breeze.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Auto Reply.When youâre lost for words.
+Stuck on how to phrase a reply? Big Mail can draft entire emails for you. Steer it with a prompt, or let it go full-on Domo arigato, Mr. Roboto. Choose from a range of writing styles to find your ideal voice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stick it to forgetting.
+Have you ever read a message and wanted to jot down a quick note? With Big Mail, you can literally stick a note to it. Notes are fully searchable and can even be used in Smartbox filters.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Put a Pin in it.
+Need to keep a particular message front of mind? Just pin it. Pinned messages stick to the bottom of your iPhone or the sidebar on your iPad or Mac.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search at the speed of type.
+Find what youâre looking for faster with blazing-fast search and suggestions. Plus, Big Mail can understand natural phrases like "opened yesterday" or "pdf last week".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Contact.And last.
+Received a message from someone new? Find out more about them with Contact Profiles. See recent messages, related links, and options like notifications and unsubscribe, all in one convenient place.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get Connected
+Sync your Smartboxes, Notes, Labels and more, across all your devices with Big Mail Online. Its free, secure, and easy.No strings (or cables) attached.
+
+
+
+
+
+
+
+
+
+Private Push
+Receive push notifications that don't compromise privacy. Big Mail Online notifies your device of new mail without our servers (or Apple's) seeing what was said or even who said it.
+
+
+
+
+
+Secret Sync
+By generating a unique hash for each message locally on your device, Big Mail can sync message data like Notes and Reply Later without seeing anything about the message itself.
+
+
+
+
+
+
+
+
+
+
+The Big Difference
+
+
+
+
+
+IMAP. SMTP. OMG.
+The open web is great, and thatâs why Big Mail was designed to work with all modern mail providers, not just one.
+
+
+
+On your device.Stays in your control.
+Unlike some mail clients that store your messages on their servers, Big Mail talks directly to your mail provider from your device.
+
+
+
+
+
+A simple business model.It makes cents.
+We sell a subscription, not you. Thatâs why weâll never share your data with third parties. And thatâs a promise you can take to the bank.
+
+
+
+Come on in.We're Open (source).
+When Big Mail launches later this year, we'll be open-sourcing our core technologies: SwiftIMAP, SwiftSMTP, and SwiftEmail.
+
+
+
+
+
+
+
+
+
+
+
+
+Plus, Big Mail has all the things you'd expect(and some you might not)
+
+
+
+
+
+ReplyLater
+
+
+
+UndoSend
+
+
+
+MagicAvatars
+
+
+
+SystemWidgets
+
+
+
+UnifiedTimeline
+
+
+
+Face IDUnlock
+
+
+
+CalendarInvites
+
+
+
+AllAttachments
+
+
+
+Mark as ReadOn Scroll
+
+
+
+SmartLabels
+
+
+
+SenderAliases
+
+
+
+EmailBankruptcy
+
+
+
+
+
+
+
+
+
+
+
+
+Now Testing
+Help us get Big Mail ready for its App Store debut later this year by joining the TestFlight.
+
+
+
+
+New invites are released weekly and are first come first serve. Register below to get notified of new invite drops.
+Register
+(btw we're testing just the iPhone app right now)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Questions? Answers.
+
+How much will Big Mail cost?
+We'll have more to share on Big Mail's pricing closer to launch.
+
+
+Will there be a one-time purchase option?
+So we can deliver continuous updates, as well as finance the ongoing cost of Big Mail Online's infrastructure, Big Mail will only be available as a subscription.
+
+
+What mail providers do you support?
+Big Mail supports all modern IMAP mail providers. That includes (but is not limited to): Gmail, Yahoo, AOL, iCloud, Outlook, Microsoft 365, Fastmail, and many more.
+
+
+Can I join the TestFlight?
+Yes! To give everyone a fair chance to join the beta, we aren't operating a queue but instead are releasing new invites weekly. Sign up to be notified of new invite drops.
+
+
+When will Big Mail be available on the App Store?
+We're aiming to launch on the App Store later this year.
+
+
+Will there be a way to upgrade from Big Mail 1?
+No, but getting setup again will take just a couple of minutes.
+
+
+Do I have to use Big Mail Online?
+No. Big Mail Online is an entirely optional service, and Big Mail can be used without it. However, features like Push Notifications and AutoReply require a Big Mail Online account.
+
+
+Why not use iCloud for sync?
+We wanted to offer real-time push notifications and reliable syncing for some of Big Mail's unique features, like Smartboxes and Notes. We also have exciting features planned for the future that just aren't possible with iCloud.
+
+
+How do push notifications work without you seeing my email?
+The Big Mail app on your device grants Big Mail Online a temporary access token to listen out for new inbox events (this is known as IMAP idling). When a new message arrives, Big Mail Online sees only the response "EXISTS". This is then pushed to your device, which in the background, wakes up and connects directly to your mail provider to fetch the message, then presents the notification locally. We call it Private Push Relay. The contents of your message are not fetched, or stored on our servers. And it also means no message details are sent through Apple's push service either. 
+
+
+
+
+
+
+
+
+
+
+
+
+Need help?
+(with the app)
+
+
+
+
+[email protected]
+
+Twitter
+Mastodon
+
+
+
+
+
+
+
+
+
+© The Not So Big Company, London
+
+Terms
+Privacy
+
+
+
+
+
+
+
+
+

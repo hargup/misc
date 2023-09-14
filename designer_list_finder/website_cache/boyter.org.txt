@@ -1,0 +1,1072 @@
+
+
+
+
+
+
+Ben E. C. Boyter | Ben E. C. Boyter
+
+
+
+
+
+
+
+
+
+
+
+
+Ben E. C. Boyter's Blog
+
+Home
+About
+Decoding Captchas
+China Trip
+Talks
+
+
+
+
+
+2023/08/26
+DataEngBytes 2023
+
+
+2023/08/07
+Walk code repositories respecting .gitignore files in Go
+
+
+2023/06/06
+Code Spelunker how it works
+
+
+2023/06/05
+Code Spelunker a Code Search Command Line Tool
+
+
+2023/05/21
+To all Companies Currently Recruiting
+
+
+2023/05/16
+How to start a Go project in 2023
+
+
+2023/04/12
+Real World CPU profiling of ngram/trigram tokenization in Go to reduce index time in searchcode.com
+
+
+2023/04/11
+Deduplicate a slice in Go, use sort or a map?
+
+
+2023/03/13
+How to implement Go Channels in Java
+
+
+2023/01/23
+ActivityPub -> Announce -> Post
+
+
+2022/12/28
+Explore the fediverse, but use block like it's a machine gun in a zombie apocalypse
+
+
+2022/11/22
+Building a custom code search index in Go for searchcode.com
+
+
+2022/11/07
+Elite speak GUID script
+
+
+2022/09/28
+Go install loop. The "clang" command requires the command line developer tools.
+
+
+2022/09/09
+Decompiling Java, Excel and the Vista TCP/IP stack
+
+
+2022/08/29
+Some of the more annoying Go bugs I have dealt with
+
+
+2022/08/22
+Cost of a integer cast in Go
+
+
+2022/07/21
+If you succeed, you will fail
+
+
+2022/07/17
+AWS Abusing Search Engine Gets Abused
+
+
+2022/06/26
+Search index implementations
+
+
+2022/04/25
+Testing and Running Go API GW Lambda's Locally
+
+
+2022/02/10
+The Most Incompetent Person I Ever Worked With
+
+
+2022/02/03
+Installing voice2json on Ubuntu
+
+
+2022/02/01
+Resurrecting Bogan Ipsum
+
+
+2021/11/24
+Development Practices
+
+
+2021/10/20
+Moving a MySQL/MariaDB database between servers using SSH
+
+
+2021/09/14
+Abusing AWS Lambda to make an Aussie Search Engine
+
+
+2021/08/23
+The National Broadband Network - A Real Ending
+
+
+2021/08/09
+Upgrading my old desktop
+
+
+2021/07/19
+Interesting Go Memory Issue
+
+
+2021/06/07
+Useful bootstrap checklist for Go Projects
+
+
+2021/01/03
+Intern interview questions
+
+
+2020/12/10
+Bloom Filters - Much, much more than a space efficient hashmap!
+
+
+2020/11/12
+My First PC
+
+
+2020/09/30
+Faster Literal String Matching in Go
+
+
+2020/08/02
+Stay Safe on the Road
+
+
+2020/07/14
+The National Broadband Network (NBN) A Massive Dissapointment
+
+
+2020/06/14
+Unicode support. What does that actually mean? 😃
+
+
+2020/05/04
+Building a API rate limiter in Go for searchcode
+
+
+2020/04/22
+searchcode Rebuilt with Go
+
+
+2019/11/04
+The Three F's of Open Source Development
+
+
+2019/10/31
+Sloc Cloc and Code - Can a crusty Go program outperform a well written Rust Project?
+
+
+2019/10/12
+Elasticsearch mappings - How to add Facets and Aggregations
+
+
+2019/10/10
+How Elasticsearch Stores Documents
+
+
+2019/10/09
+My list of useful command line tools
+
+
+2019/09/30
+Processing 40 TB of code from ~10 million projects with a dedicated server and Go for $100
+
+
+2019/07/03
+How AWS and Go Transformed a Public Broadcaster
+
+
+2019/06/27
+Sloc Cloc and Code Badges for Github/Bitbucket/Gitlab
+
+
+2019/06/19
+A really cheap chatbot in Python
+
+
+2019/06/11
+How good does the Monaro look
+
+
+2019/06/10
+A non-gamers attempt at Sea of Thieves
+
+
+2019/05/08
+Processing Large Files – Java, Go and 'hitting the wall'
+
+
+2019/04/16
+Developer Empowerment - Move fast, don't break things (for long), be productive
+
+
+2019/04/04
+Media Clipping using ffmpeg and Cache Eviction 2 Random for Disk Caching at Scale
+
+
+2019/03/14
+My Personal Complaints about Programming in Go
+
+
+2019/02/24
+Learn Enough tmux to be Productive in 5 Minutes
+
+
+2019/02/21
+Why I Turned Down My Silicon Valley Dream Offer
+
+
+2019/01/22
+Use Go to Restore Glacier to S3
+
+
+2019/01/09
+Sloc Cloc and Code a Performance Update
+
+
+2019/01/06
+Trimming the fat from a Golang binary
+
+
+2018/11/27
+Expert Excuses for Not Writing Unit Tests
+
+
+2018/11/25
+Types of Development
+
+
+2018/10/28
+Generating Harry Potter Spell Names and Kelewan House Names
+
+
+2018/09/19
+Sloc Cloc and Code Revisited - Optimizing an already fast Go application
+
+
+2018/08/28
+Sloc Cloc and Code Revisited - A focus on accuracy
+
+
+2018/08/20
+Reading files quickly in Rust
+
+
+2018/06/11
+Why count lines of code?
+
+
+2018/05/24
+How to add multiple tags to a Go struct
+
+
+2018/05/10
+How to start a Go project in 2018
+
+
+2018/04/23
+Python SimpleHTTPServer to serve a directory
+
+
+2018/04/16
+Sloc Cloc and Code - What happened on the way to faster Cloc
+
+
+2018/03/11
+A quick comparison between different Go file walk implementations
+
+
+2018/03/08
+Collection of my favorite optimization posts and articles
+
+
+2018/03/01
+Licensechecker. A command line application which identifies what software license things are under
+
+
+2017/12/18
+Simply encrypt or decrypt a string using Boto3 Python and AWS KMS
+
+
+2017/12/05
+searchcode plexus
+
+
+2017/10/17
+BBQ with a Dutch ICT/start up Delegation
+
+
+2017/09/09
+Working with Rust
+
+
+2017/06/27
+Design for searchcode server
+
+
+2017/06/14
+Home Battery Systems – You may de-rate system capacity
+
+
+2017/05/08
+How to identify software licenses using Python, Vector Space Search and Ngram Keywords
+
+
+2017/03/30
+Why is this GoLang solution faster than the equivalent Java Solution?
+
+
+2017/02/12
+Setup up ConcourseCI 2.6.0 behind Nginx with Self Signed Certificates on Ubuntu 16.04
+
+
+2017/01/30
+Repository overview now in searchcode server
+
+
+2016/11/11
+Sphinx Real Time Index How to Distribute and Hidden Gotcha
+
+
+2016/10/26
+Explaining VarnishHist – What Does it Tell Us
+
+
+2016/10/26
+MySQL Dump Without Impacting Queries
+
+
+2016/09/08
+To all Companies Currently Recruiting
+
+
+2016/08/29
+GPL Time-bomb an interesting approach to #FOSS licensing
+
+
+2016/08/24
+searchcode server under fair source
+
+
+2016/08/23
+The Worst Individual I Ever Worked With
+
+
+2016/08/17
+Types of Testing in Software Engineering
+
+
+2016/08/04
+Syncing Stash/BitBucket with searchcode server
+
+
+2016/08/01
+Python Fabric: Getting File from Host as String
+
+
+2016/07/28
+searchcode.com: The Architecture – migration 3.0
+
+
+2016/07/21
+How to Hide Methods From Fabric Task Listing
+
+
+2016/07/20
+Python Fabric How to Show or List All Available Tasks
+
+
+2016/07/19
+Set Ubuntu Linux Swapfile Using Python Fabric
+
+
+2016/07/18
+Python Fabric Set Host List at Runtime
+
+
+2016/07/02
+What is Chaos Testing / Engineering
+
+
+2016/04/22
+A Collection of O'rly book Covers
+
+
+2016/03/31
+searchcode server released
+
+
+2015/12/29
+searchcode server
+
+
+2015/12/26
+Pi-Hole for Ubuntu 14.04
+
+
+2015/10/30
+searchcode local
+
+
+2015/09/02
+Go Forth and Search
+
+
+2015/09/01
+Exporting Documents from KnowledgeTree 3.7.0.2
+
+
+2015/08/25
+Decoding CAPTCHA's Handbook
+
+
+2015/08/18
+Running three hours of Ruby tests in under three minutes
+
+
+2015/08/10
+A Culture of Quality
+
+
+2015/08/05
+C# as a Language from old Google+ Post
+
+
+2015/07/27
+A/B Testing
+
+
+2015/07/21
+Five ways to avoid and control flaky tests
+
+
+2015/07/20
+Why Does Software Contain Bugs?
+
+
+2015/07/17
+searchcode the path to profitability
+
+
+2015/07/16
+The benefit of testing for Developers, Managers and the Business
+
+
+2015/07/10
+AWS EC2 Instance Types to Use as Test Agents
+
+
+2015/07/08
+Issues with Google's Bug Prediction Algorithm
+
+
+2015/07/06
+What is Usability Testing?
+
+
+2015/07/05
+Mutation Testing or How to Test Tests
+
+
+2015/07/04
+Who is Responsible for Software Quality?
+
+
+2015/07/04
+Talks
+
+
+2015/07/03
+A story about Hubris and Integration Tests
+
+
+2015/07/01
+How searchcode.com is Unit and Integration Tested
+
+
+2015/06/30
+Flaky Tests
+
+
+2015/06/30
+Clean Testable Repository Data Access in C Sharp
+
+
+2015/06/29
+The Unsung Benefits of Software Testing
+
+
+2015/06/28
+Testing In Software Engineering
+
+
+2015/06/28
+Grouping Tests: Unit/Integration vs Fast/Slow Tests
+
+
+2015/06/28
+Sanity Testing
+
+
+2015/04/14
+Filetree Listing
+
+
+2015/03/18
+Updates to searchcode.com
+
+
+2015/03/08
+Decoding Captcha's Presentation
+
+
+2015/02/19
+C# XML Cleaner Regex
+
+
+2015/02/15
+Regular Expressions are Fast, Until they Aren't
+
+
+2015/01/30
+Rebound Project
+
+
+2014/12/07
+Portfold: Topic Research Software
+
+
+2014/10/10
+Why searchcode.com isn't 100% free software
+
+
+2014/08/11
+Interesting Code Comment
+
+
+2014/07/28
+Feedback Loop
+
+
+2014/07/19
+What is special about DDG
+
+
+2014/07/08
+YourStory Interview
+
+
+2014/06/20
+Sphinx and searchcode
+
+
+2014/06/19
+Estimating Sphinx Search RAM Requirements
+
+
+2014/06/16
+searchcode next
+
+
+2014/06/09
+Chatbot Nonsense
+
+
+2014/05/28
+Not so unique GUID
+
+
+2014/05/07
+Implementing C# Linq Distinct on Custom Object List
+
+
+2014/04/13
+Installing Phindex
+
+
+2014/04/02
+More interview snippets….
+
+
+2014/04/01
+Another day another interview…
+
+
+2014/03/26
+searchcode screenshot
+
+
+2014/02/28
+Sample Coding Test
+
+
+2014/02/21
+Bitcoin Clones use Same Network?
+
+
+2014/02/13
+Python pep8 git commit check
+
+
+2014/02/12
+Regarding the Zombie Apocalypse
+
+
+2014/02/10
+New searchcode Logo
+
+
+2014/02/08
+The worst program I ever worked on
+
+
+2014/02/07
+Why you should never ask permission to clean up code
+
+
+2014/02/06
+Why is storing, tracking and managing billions of tiny files directly on a file system a nightmare?
+
+
+2014/02/05
+Counter-counter argument TDD
+
+
+2014/02/04
+China Trip 3
+
+
+2014/02/04
+China Trip 2
+
+
+2014/02/04
+China Trip
+
+
+2014/02/04
+Can anyone explain how this regex [ -~] matches ASCII characters?
+
+
+2013/12/06
+Quora answer about writing a search engine
+
+
+2013/09/16
+Introducing SingleBugs the Bug Tracker for Single Developers
+
+
+2013/09/06
+The Fizzbuzz Bug Tracker A Bug Tracker for Single Developers
+
+
+2013/09/03
+Collection of Letters for Neural Network OCR Training
+
+
+2013/08/27
+Saving Resources for Humans in PHP
+
+
+2013/08/13
+C# Vector Space Implementation
+
+
+2013/08/12
+GoLang Vector Space Implementation
+
+
+2013/07/31
+Clean Repository Data Access in C#
+
+
+2013/07/29
+Gigablast Aquired and Code Posted
+
+
+2013/07/18
+List of useful CAPTCHA Decoding Articles
+
+
+2013/07/11
+About
+
+
+2013/07/11
+Decoding CAPTCHA’s
+
+
+2013/04/16
+Building a Search Result Extract Generator in PHP
+
+
+2013/02/28
+Why Code Search is Difficult
+
+
+2013/01/30
+Want to write a search engine? Have some links
+
+
+2013/01/10
+Code a Search Engine in PHP Part 5
+
+
+2013/01/10
+Code a Search Engine in PHP Part 4
+
+
+2013/01/10
+Code a Search Engine in PHP Part 3
+
+
+2013/01/10
+Code a Search Engine in PHP Part 2
+
+
+2013/01/10
+Code a Search Engine in PHP Part 1
+
+
+2012/12/03
+Variety of Updates
+
+
+2012/11/15
+Building a search engine? The most important feature you can add.
+
+
+2012/10/12
+Updates in the Works
+
+
+2012/07/16
+Billions of lines of code
+
+
+2012/06/26
+Codesearch API
+
+
+2012/05/29
+Running the Numbers
+
+
+2012/05/13
+Who Knows Regex
+
+
+2012/05/01
+Expanded Syntax lang Keyword Now Supported
+
+
+2012/04/13
+Growing Index
+
+
+2012/04/12
+Performance
+
+
+2012/02/29
+Improving the Index
+
+
+2012/02/06
+Growing Pains
+
+
+2012/01/13
+Updates Coming Soon
+
+
+2012/01/06
+Mutation Tester for All Languages
+
+
+2012/01/04
+Errors in Search
+
+
+2011/12/17
+searchcode now supports regex code search
+
+
+2011/11/28
+Wildcards
+
+
+2011/10/18
+Hello World Collection
+
+
+2011/10/17
+Underscore.js joins the party
+
+
+2011/10/15
+Google Killing off Code Search
+
+
+2011/10/10
+Coverage
+
+
+2011/09/06
+Slow
+
+
+2011/08/04
+Hard Numbers
+
+
+2011/06/28
+Vector Space Search Model Explained
+
+
+2011/06/07
+Grep Match a Tab
+
+
+2011/06/06
+Clojure 1.3 Now Avaliable
+
+
+2011/06/01
+Link Love
+
+
+2011/05/20
+Nginx HttpCoreModule Documentation
+
+
+2011/04/15
+jQuery Hello World Plugin
+
+
+2011/04/13
+jQuery Documention Now Avaliable
+
+
+2011/03/30
+How I store Enumerations in the Database
+
+
+2011/03/28
+Lesson Learnt – Save Assets
+
+
+2011/03/20
+iOS Documention Now Available
+
+
+2011/03/17
+Lorem Ipsum Word Generation
+
+
+2011/03/15
+List of Most Commonly Used PHP Functions
+
+
+2011/03/14
+List of MySQL, SQL Server 2008 and Apache Directives
+
+
+2011/03/14
+List of all GNU/Linux and Windows Commands
+
+
+2011/03/07
+BATF – Big Arse Text File
+
+
+2011/02/28
+Using wget and xargs
+
+
+2011/02/14
+MySQL Export to CSV
+
+
+2011/01/27
+MySQL Command Line Import UTF-8
+
+
+2010/12/24
+MySQL Popularity Ranking Algorithm
+
+
+2010/11/03
+The Web is Bigger Then You Think
+
+
+2010/10/17
+Minimum Viable Product MVP
+
+
+2010/10/14
+MySQL Error – Error:1356: View references invalid..
+
+
+2010/10/13
+Startupcamp Opinions
+
+
+2010/09/29
+Python Snippet
+
+
+2010/09/20
+How Cuil got $33 million in funding?
+
+
+2010/09/15
+PHP Entity Generator
+
+
+2010/09/12
+Google's “Colossus”
+
+
+2010/09/06
+First Failure at Selling an Application Online
+
+
+2010/09/05
+Small Steps 2 – Teaching a Neural Network to Learn the Letter A from B-Z
+
+
+2010/08/31
+Small Steps 1 – Teaching a Neural Network to Learn the Letter A from B
+
+
+2010/08/25
+Always Go To First Principles
+
+
+2010/08/23
+Building a Vector Space Indexing Engine in Python
+
+
+2010/08/18
+Why CAPTCHA's Never Use Number's 0 1 5 7
+
+
+2010/08/18
+Setting up GIT to use a Subversion (SVN) style workflow
+
+
+2010/08/16
+Why You Shouldn't roll your own CAPTCHA
+
+
+2010/08/15
+MySQL Backups Done Easily
+
+
+2010/08/11
+Richard Stallman to visit Australia
+
+
+2010/08/11
+At Scale You Will Hit Every Performance Issue
+
+
+2010/08/07
+Examples of Bad Website Search
+
+
+2010/08/06
+Test Driven Development
+
+
+2010/08/05
+Why Writing a Web Crawler isn't Easy
+
+
+2010/08/04
+MySQL Exporting All Databases
+
+
+2010/08/03
+PHP Bug Trackers
+
+
+2010/08/02
+Launched. Somewhat.
+
+
+2009/08/19
+Impressed
+
+
+2009/06/04
+Interface Vs Inheritance
+
+
+2009/03/26
+On LINQ
+
+
+2009/01/28
+How will a Athlon 64 PC with 512 of ram hold up as a home server?
+
+
+2008/09/22
+Data Mining
+
+
+2008/02/26
+SQL For Fun!?
+
+
+
+
+
+  © Ben Boyter | Github | Twitter | @boyter@honk.boyter.org
+
+
+
+
+

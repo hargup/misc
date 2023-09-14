@@ -1,0 +1,10 @@
+Drifting in SpaceHi, we’re Drifting in Space 👋
+We believe that browser-based applications can feel like magic if they’re built with the right tools.
+We make Jamsocket, a platform for building applications with session backends, and Plane, the open-source server that powers it.
+We also write things like:
+
+Session backends
+All software is web software now
+
+Our founders are Paul and Taylor. We’re based in NYC 🗽 and backed by Y Combinator and other fine folks.
+You can find us on Twitter and GitHub.

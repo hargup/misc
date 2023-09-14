@@ -1,0 +1,223 @@
+
+
+
+The DevSecOps Platform | GitLab
+
+
+ GitLab named a Leader in the GartnerÂ® Magic Quadrantâ¢ for DevOps
+    Platforms
+   Read the report
+       Software. Faster. GitLab is the most comprehensive AI-powered DevSecOps Platform. Get free trial
+              Software. Faster. GitLab is the most comprehensive AI-powered DevSecOps Platform. Get free trial
+                 
+    Industry leaders choose GitLab to build missionâcritical software
+   
+    Why GitLab?
+       
+    AI-powered workflows boost efficiency and reduce cycle times
+   
+    Meet GitLab Duo
+       
+    GitLab named a Leader for DevOps Platforms
+   
+    Read the report
+        Get Started Today See what your team could do with the AI-powered DevSecOps Platform. Get free trial
+               Talk to sales
+                    
+        previous slide
+        
+        next slide
+       Trusted by
+        
+            Balance speed and security in a single platform Automate software delivery, boost productivity, and secure your end-to-end software supply chain.
+           Discover the platform
+           What is GitLab?
+                    
+            Simplify your toolchain All the essential DevSecOps tools in one place.                 
+            Accelerate software delivery Automation, AI-powered workflows, and more.             
+            Integrate security Security thatâs built in, not bolted on. 
+            Deploy anywhere Say goodbye to cloud vendor lock-in.  See how Lockheed Martin saves time, money, and tech muscle with GitLab  80x 
+              faster CI pipeline builds 90% 
+              less time spent on system maintenance 
+          Read story
+                  
+          How much is your toolchain costing you? 
+          Try our ROI calculator
+                   
+          New to GitLab and not sure where to start? 
+          Explore resources
+           
+          DevSecOps
+         
+        From planning to production, GitLab brings your team together
+       Development
+             
+              Dev
+            Security
+             
+              Sec
+            Operations
+             
+              Ops
+             
+              Development
+             
+              Automated tasks improve efficiency and free up developersâ time â without sacrificing security.
+              
+                  Continuous integration and delivery
+                           
+                  AIâpowered workflows with GitLab Duo
+                   
+                  Source code management
+                   
+                  Automated software delivery
+                   
+      translate.py
+    
+      get_unique_int.go
+    
+      numbersArray.js
+     
+          1
+        
+          2
+        
+          3
+        
+          4
+        
+          5
+        
+          6
+        
+          7
+        
+          8
+        
+          9
+        
+          10
+        
+          11
+        
+          12
+        
+          13
+          languages = {
+    'en': {
+     'hello': 'Hello',
+     'goodbye': 'Goodbye'
+   },
+   'es': {
+     'hello': 'Hola',
+     'goodbye': 'AdiÃ³s'
+   }
+ }
+ 
+          code suggestion
+            
+              Security
+             
+              Manage threat vectors and ensure adherence to compliance standards, without compromising speed.
+              
+                  Security and compliance
+                   
+                  Software supply chain security
+                   
+                  Integrated testing and remediation
+                   
+                  Vulnerability and dependency management
+                   
+              Operations
+             
+              Automate software deployment and optimize processes, whatever your environment: cloud native, multi-cloud, or legacy.
+              
+                  GitOps and infrastructure as code
+                   
+                  Automated software delivery
+                            
+                  Value stream management
+                    
+          iron mountain
+        
+          lockheed martin case study
+        
+          haven technology
+        
+          ubs
+        
+          singleron video
+         Iron Mountain drives DevOps evolution with GitLab Ultimate  $150k 
+                  approximate cost savings per year 20 hours 
+                  saved in onboarding time per project 
+                Read More
+                  
+                  "The vision that GitLab has in terms of tying strategy to scope and to code is very powerful. I appreciate the level of investment they are continuing to make in the platform." 
+                    Jason Monoharan 
+                    VP of Technology 
+                    Iron Mountain Lockheed Martin saves time, money, and tech muscle with GitLab  80x 
+                  faster CI pipeline builds 90% 
+                  less time spent on system maintenance 
+                Read more
+                  
+                  "By switching to GitLab and automating deployment, teams have moved from monthly or weekly deliveries to daily or multiple daily deliveries." 
+                    Alan Hohn 
+                    Director of Software Strategy 
+                    Lockheed Martin Haven Technologies moved to Kubernetes with GitLab  62% 
+                  of monthly users ran secret detection jobs 66% 
+                  of monthly users ran secure scanner jobs 
+                Read more
+                  
+                  "GitLabâs commitment to an open source community meant that we could engage directly with engineers to work through difficult technical problems." 
+                    Evan OâConnor 
+                    Platform Engineering Manager 
+                    Haven Technologies UBS created their own DevOps platform using GitLab  1 million 
+                  successful builds in first six months 12,000 
+                  active GitLab users 
+                Read more
+                  
+                  "We have an expression at UBS, âall developers wait at the same speed,â so anything we can do to reduce their waiting time is value added. And GitLab allows us to have that integrated experience." 
+                    Rick Carey 
+                    Group Chief Technology Officer 
+                    UBS Singleron uses GitLab to collaborate on a single platform to improve patient care  Watch the video
+                  
+                  "GitLab allows us to collaborate very well with team members and between different teams. As a project manager, being able to track a project or the workload of a team member helps prevent a project from delays. When the project is done, we can easily automate a packaging process and send results back to the customer. And with GitLab, it all resides within one house." 
+                    Lakshmi Venkatraman 
+                    Project Manager 
+       
+      previous case study
+     
+          0
+        
+          1
+        
+          2
+        
+          3
+        
+          4
+         
+      next case study
+     GitLab is the leading DevSecOps platform 50%+ Fortune 10030m+ Registered users   GitLab is a Leader in the 2023 GartnerÂ® Magic Quadrantâ¢ for DevOps Platforms  
+          Read the report
+            GitLab is the only Leader in The Forrester Waveâ¢: Integrated Software Delivery Platforms, Q2 2023  
+          Read the report
+          GitLab ranks as a G2 Leader across DevSecOps categories    
+          What industry analysts are saying about GitLab
+           
+              Ready to get started?
+             
+            See what your team could do with a unified DevSecOps Platform.
+           
+            Start free trial
+                          
+                Find out which plan works best for your team
+               
+                Learn about pricing
+                      
+                Learn more about what GitLab can do for your team
+               
+                Talk to an expert
+                 Â®
+
+

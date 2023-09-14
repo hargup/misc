@@ -1,0 +1,36 @@
+Giskard - Open-source Solution for AI Quality
+
+
+
+
+
+
+
+
+
+
+Webinar: Detect vulnerabilities in your AI modelsThursday, June 22nd 2023 - 11:00 AM (CEST)0Days:0Hours:0Minutes:0SecondsJoin event
+
+â­ Check out our repository: Star us on GitHub â­ProductsTesting frameworkLLM MonitoringKnowledgeBlogNewsTutorialsPricingCommunityCompanyAboutTeamAdvisorsJobsContact
+
+
+
+
+
+
+
+
+StarDocumentation0The testing framework for ML modelsEliminate risks of biases, performance issues and errors in ML models. In 4 lines of code. From tabular models to LLMs.Try it in ColabDocumentationCopy to clipboard# Get startedpip install "giskard>=2.0.0b" -UListed by GartnerAI Trust, Risk and SecurityDetect hidden vulnerabilities in your ML modelPerformance biasIdentify discrepancies in accuracy, precision, recall, or other evaluation metrics on specific data slices.UnrobustnessDetect when your model is sensitive to small perturbations in the input data.OverconfidenceAvoid incorrect predictions when your model is overly confident. Data leakageDetect inflated performance metrics and inaccuracy due to unintentional external data used in your model.Unethical behaviorIdentify perturbations in your model behavior when switching input data (gender, ethnicity...).StochasticityDetect inherent randomness in your model and avoid variations in your results. Automatically scan your model to find hidden vulnerabilitiesIn a few lines of code, identify vulnerabilities that may affect the performance of your model, such as data leakage, non-robustness, ethical biases, and overconfidence. Directly in your notebook.Copy to clipboardimport giskardâmodel, df = giskard.demo.titanic()dataset = giskard.Dataset(df, target="Survived")model = giskard.Model(model, model_type="classification")giskard.scan(model, dataset)Copy to clipboardscan = giskard.scan(model, data)test_suite = scan.generate_test_suite()test_suite.run()Design & run custom ML testsIf the scan found some issues with your model, you can automatically generate a test suite, add your own custom tests, and execute them with our native Python API.Centralize tests, compare models & share results with your teamUpload the generated test suite to the Giskard server, create reusable test suites, and get ready-made dashboards you can share with the rest of your team. Compare different model versions over time.Copy to clipboardpip install "giskard[server]>=2.0.0b" -Uâgiskard server startCollaborative and shareable testingLeverage the power of our open-source community by easily uploading test fixtures, including AI detectors for identifying issues like hate speech, toxicity, and more. Access data transformation tools for tasks like rewriting and introducing typos, allowing you to simulate a wide range of real-world scenarios for comprehensive testing. Benefit from the collective knowledge and resources of our community while enhancing your AI model testing and evaluation processes. (product page)Collaborative and shareable testingLeverage the power of our open-source community by easily uploading test fixtures, including AI detectors for identifying issues like hate speech, toxicity, and more. Access data transformation tools for tasks like rewriting and introducing typos, allowing you to simulate a wide range of real-world scenarios for comprehensive testing. Benefit from the collective knowledge and resources of our community while enhancing your AI model testing and evaluation processes. (product page)Explore our full ML test suiteGet startedSave time with our catalog ofreusable test componentsStop wasting time creating new testing components for every new ML use case. Use our ready-made tests, create new ones, and easily add them to your test suite. Apply data slicing functions for identifying issues like hate speech, toxicity, and more. Access data transformation tools for tasks like rewriting and introducing typos, allowing you to simulate a wide range of real-world scenarios for comprehensive testing. Trusted by Modern MLÂ TeamsGiskard really speeds up input gatherings and collaboration between data scientists and business stakeholders!Emeric TROSSATHead of DataGiskard has become a strong partner in our purpose for ethical AI. It delivers the right tools for releasing fair and trustworthy models.Arnault GombertHead of Data ScienceGiskard enables to integrate Altaroad business experts' knowledge into our ML models and test them.Jean MILPIEDData Science ManagerGiskard allows us to easily identify biases in our models and gives us actionable ways to deliver robust models to our customers.Maximilien BaudryChief Science OfficerJoin the communityThis is an inclusive place where anyone interested in ML Quality is welcome! Leverage best practices from the community, contribute new tests, build the future of AI safety standards.All resourcesThought leadership articles about ML Quality: Risk Management, Robustness, Efficiency, Reliability & Ethics
+
+See allAI Safety and Security: A Conversation with Giskard's Co-Founder and CPOGiskard's Co-Founder and CPO, Jean-Marie John-Mathews was recently interviewed by Safety Detectives and he shared insights into the company's mission to advance AI Safety and Quality. In this interview, Jean-Marie explains the strategies, vulnerabilities, and ethical considerations at the forefront of AI technology, as Giskard bridges the gap between AI models and real-world applications. Opening the Black Box: Using SHAP values to explain and enhance Machine Learning modelsSHAP stands for "SHapley Additive exPlanations", and is a unified approach that explains the output of any machine learning model; by delivering cohesive explanations it provides invaluable insight into how predictions are being made and opens up immense possibilities in terms of practical applications. In this tutorial we'll explore how to use SHAP values to explain and improve ML models, delving deeper into specific use cases as we go along.Ready. Set. Test!âGet started todayGet startedStay updated withthe Giskard Newsletter
+
+Giskard is the first collaborative & open-source software to ensure the quality of all AI models.Â© GISKARD AI SAS - Built in Europe ð«ð· with Trust, Privacy & SafetyCookies settingsProductFeaturesAI ScanAI TestQuickstartBenefitsKnowledgeBlogNewsTutorialsCommunityDocumentationCompanyAboutTeamAdvisorsJobsContact us
+
+
+
+
+
+
+
+âA robot may not harm humanity, or, by inaction, allow humanity to come to harm.â
+

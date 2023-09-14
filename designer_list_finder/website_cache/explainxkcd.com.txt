@@ -1,0 +1,276 @@
+
+
+
+
+explain xkcd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Main Page
+
+Explain xkcd: It's 'cause you're dumb.
+
+
+					Jump to:					navigation, 					search
+
+
+Welcome to the explain xkcd wiki!
+We have an explanation for all 2828 xkcd comics,
+and only 36
+(1%) are incomplete. Help us finish them!
+
+
+Latest comic
+
+Go to this comic explanation
+
+
+|<< PrevComic #2828 (September 13, 2023)                                      Exoplanet ObservationTitle text: NASA prefers to say that their rovers are 'looking for signs of past life on Mars' and not 'ghost hunting.'
+Explanation
+
+
+ 
+
+ This explanation may be incomplete or incorrect: Created by an ALIEN GHOST EXORCIST - Please change this comment when editing this page. Do NOT delete this tag too soon.
+
+Spectral analysis as used in the study of exoplanets and other distant objects in space refers to using the intensities of different frequencies of light (and other electromagnetic frequencies) from stars which they occlude to infer data about their chemical composition. This is used to detect certain gases in the atmosphere, such as free oxygen, which might suggest generation by and for Earth-like life. On the day before this comic was published, NASA announced that spectral analysis of the exoplanet K2-18b showed abundance of methane and carbon dioxide, and shortage of ammonia, which are chemical footprints that support the hypothesis that it may have a life-supporting water ocean; and there was possible detection of dimethyl sulfide, which on Earth is only produced by life.[1] The word spectral as in spectral analysis refers to the electromagnetic spectrum. If confirmed, these would be very interesting scientific facts that would definitely drive further scrutiny, although it may yet turn out to be less remarkable on closer study.
+"Spectral" is also a term sometimes used as a descriptor/adjective: to originate from (or exhibit properties of) supposed ghosts or "specters". "Specter" and "spectrum" have the same etymological root, deriving from Latin "spectrum" meaning "appearance", with a specter specifically referring to a visible shadow or ghost. This comic leverages this pun, to humorously suggest that close study of exoplanetary shading could present a reasonable method of hunting for such ghosts:
+In this comic, Cueball states that the specific reductions in detected light are theorized to indicate the presence of ghosts/specters in the planet's atmosphere, similar to how gases or suspended particles absorb certain wavelengths. Like many atmospheric gases, ghosts/specters are frequently presumed to be invisible under most conditions.[citation needed] However, if these specters have their own absorption spectrum distinguishing them from ordinary gases, the presence of such specters in an exoplanet's atmosphere could be considered evidence of (past) alien life.
+The title text refers to the search for past life on Mars. It humorously conflates the practice of searching for signs of past life, such as specific molecules or fossils (which NASA does actively search for), versus the disreputable practice of searching for evidence to support the existence of ghosts, with this conflation framing both as an equally scientific indication of past life. In a very loose sense, real signs such as gases or fossils could be considered "ghosts" of past life.
+
+Transcript
+
+
+ 
+
+ This transcript is incomplete. Please help editing it! Thanks.
+
+ [Cueball is holding a stick and pointing at a slide with two ghosts and a planet]
+ Cueball: When the planet passed in front of its host star, some of the light was absorbed by ghosts, indicating that the planet is likely haunted.
+ [Caption below the panel]
+ Exoplanet Spectral Analysis
+
+
+
+Is this out of date? Clicking here will fix that.
+
+New here?
+
+
+Last 7 days (Top 10)
+
+
+
+
+
+RankScorePagesChangesUsername
+1
+28
+22
+30
+An user who has no account yet
+
+2
+22
+18
+22
+TheusafBOT
+
+3
+14
+8
+18
+oh no
+
+4
+10
+7
+9
+Certified nqh
+
+5
+7
+4
+6
+Hkmaly
+
+6
+6
+1
+7
+Eelitee
+
+7
+6
+3
+5
+BunsenH
+
+8
+6
+3
+5
+Barry Margolin
+
+9
+5
+2
+5
+Asdf
+
+10
+5
+3
+4
+Trogdor147
+
+
+Lots of people contribute to make this wiki a success. Many of the recent contributors, listed above, have just joined. You can do it too! Create your account here.
+You can read a brief introduction about this wiki at explain xkcd. Feel free to sign up for an account and contribute to the wiki! We need explanations for comics, characters, themes and everything in between. If it is referenced in an xkcd web comic, it should be here.
+
+ If you're new to wiki editing, see the explain xkcd:Editor FAQ for a specific guidance to this Wiki and the more general help on how to edit wiki pages. There's also a handy wikicode cheatsheet.
+ Discussion about the wiki itself happens at the Community portal.
+ You can browse the comics from List of all comics or by navigating the category tree at Category:Comics.
+ There are incomplete explanations listed here. Feel free to help out by expanding them!
+Rules
+Don't be a jerk.
+There are a lot of comics that don't have set-in-stone explanations; feel free to put multiple interpretations in the wiki page for each comic.
+If you want to talk about a specific comic, use its discussion page.
+Please only submit material directly related to (and helping everyone better understand) xkcd... and of course only submit material that can legally be posted (and freely edited).  Off-topic or other inappropriate content is subject to removal or modification at admin discretion, and users who repeatedly post such content will be blocked.
+If you need assistance from an admin, post a message to the Admin requests board.
+
+
+
+ 
+						Retrieved from "https://www.explainxkcd.com/wiki/index.php?title=Main_Page&oldid=240165"					
+Categories: Pages with ignored display titlesPages using the "citation needed" templateComics featuring CueballAstronomyExoplanetsAliensPunsRoot category 
+
+
+
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Main page
+Discussion
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+View source
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageLatest comicCommunity portalxkcd.comRecent changesRandom pageAll comicsBrowse comicsRSS feedHelp 
+
+
+
+Tools
+
+
+What links hereRelated changesSpecial pagesPrintable versionPermanent linkPage information 
+
+
+
+
+
+
+
+Follow @explainxkcd
+
+
+
+
+
+
+
+
+Ads
+
+
+
+
+ 
+
+
+
+
+
+ This page was last edited on 4 May 2022, at 05:04.
+
+
+Privacy policy
+About explain xkcd
+Disclaimers
+
+
+
+ 
+
+
+
+
+
+

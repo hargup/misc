@@ -1,0 +1,1928 @@
+
+
+
+
+
+
+
+
+Analytics India Magazine | Artificial Intelligence, Data Science, Machine Learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+About
+Advertise
+Conferences
+Research
+Community
+Contact Us
+ 
+
+ Menu
+
+
+About
+Advertise
+Conferences
+Research
+Community
+Contact Us
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+
+ Search
+
+
+Search
+
+
+ Close this search box.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Breaking Boundaries
+Edge of Innovation
+Endless Origins
+Mystery Vault
+Quixotic Intellectuals
+Branded Content
+ 
+
+ Menu
+
+
+Breaking Boundaries
+Edge of Innovation
+Endless Origins
+Mystery Vault
+Quixotic Intellectuals
+Branded Content
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+				Why OpenAI Needs To Be Singled Out in the Troubled Tech Valley 			
+
+
+
+			Tasmia Ansari		
+
+
+Even though Silicon Valley has been feeding on the public’s data, fingers have been particularly raised at the celebrity — OpenAI — for its closed-door activities. 
+
+
+
+
+
+
+
+
+
+
+				Apple Hates AI So Much That It…			
+
+
+
+			Siddharth Jindal		
+
+
+Didn’t say it even once – not even by mistake 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Why India is the Biggest Bet for NVIDIA			
+
+
+
+			Shyam Nandan Upadhyay		
+
+
+A study by Microsoft and IAMAI found that India’s AI market is set to grow by 20% in the next five years, second only to China. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Mojo🔥 is Fast, but Not Furiously Open Source			
+
+
+
+			Mohit Pandey		
+
+
+Modular claims that its “Python++” language is 68,000X faster than Python 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				6 Generative AI Jobs in India			
+
+
+
+			Shritama Saha		
+
+
+
+
+
+
+
+
+
+
+				Now, Build Software Engineering Teams Using AI within Minutes 			
+
+
+
+			Vandana Nair		
+
+
+
+
+
+
+
+
+
+
+				Top AI Leaders who were Left Out of the TIME AI 100 List (Part-2)			
+
+
+
+			Tasmia Ansari		
+
+
+
+
+
+
+
+
+
+
+				Why Tower Semiconductor Emerges as a Compelling Choice for Reliance			
+
+
+
+			Pritam Bordoloi		
+
+
+
+
+
+
+
+
+
+
+				Jensen Uses ChatGPT to Dissolve Plastic			
+
+
+
+			Shritama Saha		
+
+
+
+
+
+
+
+
+
+
+				Soon, Everyone Will be a Gamer			
+
+
+
+			Mohit Pandey		
+
+
+
+
+
+
+
+
+
+
+				How Many GPUs is India Buying from NVIDIA? 			
+
+
+
+			Siddharth Jindal		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Featured 
+
+
+
+
+
+
+
+
+
+
+
+				Analytics and Data Science Jobs in India 2023 by AIM Research & Great Learning			
+
+
+In comparison to the previous year, the research found a decline in the trend of open jobs for data science		
+
+
+
+
+
+
+
+
+
+				Quantum Computing: A Game-Changer in Healthcare and Life Sciences			
+
+
+With the ability to process vast amounts of data in parallel, quantum computing opens up new horizons for simulating intricate		
+
+
+
+
+
+
+
+
+
+				Climate Crisis Meets Data Genius: Top 3 Winners Announced from Genpact-Google Hackathon			
+
+
+Data scientists across the globe came together to use technology for the good of the planet.
+
+
+
+
+
+
+
+
+
+
+				L&T Finance is Certified as a Best Firm for Data Scientists			
+
+
+The Best Firm For Data Scientists certification surveys a company’s data scientists and analytics employees to identify and recognise organisations		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe to The Belamy: Our Weekly Newsletter 
+
+
+
+Biggest Tech stories, delivered to your inbox every week. 
+
+
+
+ 
+
+
+
+
+
+
+
+								Email							
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spotlight 
+
+
+
+
+
+
+
+
+
+
+
+				AWS, ISRO, & IN-SPACe Partner to Fuel Space-Tech Startups			
+
+
+
+			Shyam Nandan Upadhyay		
+
+			13/09/2023		
+
+
+The collaboration accelerates innovation in space-tech providing cloud access to startups, research, and students.
+
+
+
+
+
+
+
+
+
+
+				SiMa.ai Revolutionises Deployment of ML Applications, from Weeks to Hours			
+
+
+
+			Pranav Kashyap		
+
+			13/09/2023		
+
+
+SiMa’s new browser-based visual programming makes AI & ML accessible to all, streamlining the creation & deployment of ML apps		
+
+
+
+
+
+
+
+
+
+				Microsoft’s 1.3-Billion Model Outperforms Llama 2			
+
+
+
+			Mohit Pandey		
+
+			12/09/2023		
+
+
+phi-1.5 is trained mostly on synthetic data, which proves that high-quality data is indeed all you need. 
+
+
+
+
+
+
+
+
+
+
+				Coca-Cola Unveils New AI-Created Flavour, Y3000 Zero Sugar			
+
+
+
+			Shritama Saha		
+
+			12/09/2023		
+
+
+Sipping into the future for real!
+
+
+
+
+
+
+
+
+
+
+				KaleidEO Becomes the First Indian Company to Achieve Edge Computing in Space			
+
+
+
+			Pritam Bordoloi		
+
+			12/09/2023		
+
+
+The team at KaleidEO has successfully demonstrated deep learning based algorithms to analyze imagery in-orbit
+
+
+
+
+
+
+
+
+
+
+				MongoDB Launches Academia Program in India to Upskill 500k+ Students			
+
+
+
+			Pranav Kashyap		
+
+			12/09/2023		
+
+
+This program will train 5,00,000+ students and 1000 plus educators in India
+
+
+
+
+
+
+
+
+
+
+				Apple Will Sell Made-in-India iPhone on Launch Day			
+
+
+
+			Mohit Pandey		
+
+			12/09/2023		
+
+
+Production of the iPhone 15 commenced last month at Foxconn Technology Group’s factory in southern Tamil Nadu.
+
+
+
+
+
+
+
+
+
+
+				Midjourney Shows the Way to Success without VC Funding			
+
+
+
+			Shyam Nandan Upadhyay		
+
+			12/09/2023		
+
+
+While others have picked up millions of dollars for an idea without a product in hand, Midjourney is doing it		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Mystery Vault 
+
+
+
+Unravel enigmatic tales, solve data-driven puzzles, and uncover hidden knowledge in this captivating corner 
+
+
+
+
+
+
+
+
+
+
+
+				Top 10 Space Tech Startups in India in 2023 			
+
+
+
+			K L Krithika		
+
+			11/09/2023		
+
+
+India’s space tech landscape saw remarkable growth, with approximately $205 million raised in funding across 30+ deals between 2014 and		
+
+
+
+
+
+
+
+
+
+				Top 15 AI Leaders who were Left Out of the TIME AI 100 List (Part 1)			
+
+
+
+			Shritama Saha		
+
+			10/09/2023		
+
+
+In Part 1, we discuss the journey and contributions of nine leaders behind several AI revolutions that TIME missed out		
+
+
+
+
+
+
+
+
+
+				6 Brilliant New Free Courses by Andrew Ng on Generative AI			
+
+
+
+			Shritama Saha		
+
+			07/09/2023		
+
+
+Andrew Ng has added six new short courses that cover the current AI topics with a fresh set of partnerships,		
+
+
+
+
+
+
+
+
+
+				7 Game-changing Startups in OpenAI’s Investment Portfolio			
+
+
+
+			Vandana Nair		
+
+			06/09/2023		
+
+
+The OpenAI Startup Fund has invested in emerging AI companies, and many of them have raised multi-million dollars to date
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quixotic Intellectuals
+ 
+
+
+
+Celebrating unorthodox thinkers and visionary trailblazers who reshape our world with their insatiable curiosity and passion for innovation. 
+
+
+
+
+
+
+
+
+
+
+
+				Meet the Genius behind Med-PaLM 2			
+
+
+
+			Shritama Saha		
+
+			08/09/2023		
+
+
+Having witnessed the challenging conditions under which people in India access medical care, Vivek Natarajan of Google Health aims to		
+
+
+
+
+
+
+
+
+
+				Meet Sam Altman’s Hyderabad Companion			
+
+
+
+			K L Krithika		
+
+			28/08/2023		
+
+
+Atty Eleti, an OpenAI software engineer, joined during ChatGPT’s launch. 
+
+
+
+
+
+
+
+
+
+
+				Former Google DeepMind Researchers Go Deep for Sales Triumph			
+
+
+
+			Vandana Nair		
+
+			28/08/2023		
+
+
+Currently, with ten employees, Glyphic focuses on applying large language models and generative AI to transform B2B sales processes
+
+
+
+
+
+
+
+
+
+
+				Snowflake Now Wants You to Converse With Your Data			
+
+
+
+			Pritam Bordoloi		
+
+			14/08/2023		
+
+
+The Neeva AI acquisition will give Snowflake’s customers the ability to talk to their data essentially in a conversational way
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AIM Favorites 
+
+
+
+
+
+
+
+
+
+
+
+				When Journalists Write about AI			
+
+
+
+
+
+
+
+
+
+
+				Is IBM the NVIDIA of Quantum Computing?			
+
+
+
+
+
+
+
+
+
+
+				Are Innovators Moving Away from Silicon Valley?			
+
+
+
+
+
+
+
+
+
+
+				NVIDIA, Apple Have Got a Real Competitor Now			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Popular 
+
+
+
+
+
+
+
+
+
+
+
+				Infosys Likely to Partner with NVIDIA to Train 3 Lakh+ Employees in AI 			
+
+
+
+			Siddharth Jindal		
+
+			11/09/2023		
+
+
+On his recent visit to India, Huang met with influential tech leaders in India, including Infosys co-founder Nandan Nilekani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In Case You Missed It
+ 
+
+
+
+
+
+
+
+
+
+
+
+				Black Mirror Feels Closer Than Ever			
+
+
+
+
+
+
+
+
+
+
+				Top 8 Courses & Certifications on AI Ethics 			
+
+
+
+
+
+
+
+
+
+
+				China and Middle East to Checkmate US in AI			
+
+
+
+
+
+
+
+
+
+
+				NVIDIA Introduces TensorRT-LLM To Accelerate LLM Inference on H100 GPUs			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Edge of Innovation
+ 
+
+
+
+
+
+
+
+
+
+
+
+				Apple Springs a Surprise, Embraces Open-Source Training Method			
+
+
+
+			Vandana Nair		
+
+
+Apple recently released the code for its internal software used for training its new LLM on GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+Our boldest stories, spotlighting trailblazing technologies, audacious discoveries, and creative visionaries.  
+
+
+
+
+
+
+
+
+
+
+
+				LLMs Ride the Overconfidence Wave			
+
+
+
+			K L Krithika		
+
+
+Is overfitting the cause of overconfident models?
+
+
+
+
+
+
+
+
+
+
+				Indian Developers Top Hugging Face Leaderboard with GenZ 70B			
+
+
+
+			Vandana Nair		
+
+
+The GenZ 70B open source model ranks No.6 among all open LLMs and sits atop the leaderboard for instruction-tuned LLMs on Hugging Face
+
+
+
+
+
+
+
+
+
+
+				US Sanctions to Cripple Chinese Innovation Backfires			
+
+
+
+			Pritam Bordoloi		
+
+
+Huawei unveils its latest Mate 60 Pro smartphone powered by a 7nm processor, completely designed and manufactured in China
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Myntra’s New Generative AI Tool Will Surprise You			
+
+
+
+			Vandana Nair		
+
+
+
+
+
+
+
+				After Getting Banned in Schools, OpenAI Launches ChatGPT Tool for Teachers			
+
+
+
+			Vandana Nair		
+
+
+
+
+
+
+
+				Key Highlights of Google Cloud Next ‘23			
+
+
+
+			Shritama Saha		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Endless Origins 
+
+
+
+Explore the vibrant nexus of data science, AI, and human ingenuity in this realm of endless possibilities. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Will the Real NVIDIA Please Stand Up?			
+
+
+
+			Mohit Pandey		
+
+			08/09/2023		
+
+
+Microsoft, Meta, Google, IBM, and Amazon, all try to compete with NVIDIA chips, but end up using them at the		
+
+
+
+
+
+
+
+
+
+				Soon, UAE will Dethrone OpenAI			
+
+
+
+			Siddharth Jindal		
+
+			07/09/2023		
+
+
+Interestingly, Falcon 180B ranks just behind OpenAI’s latest GPT-4 and is on par with the performance of Google’s PaLM 2		
+
+
+
+
+
+
+
+
+
+				arXiv Doesn’t Need Ethicists’ Opinion			
+
+
+
+			Mohit Pandey		
+
+			07/09/2023		
+
+
+Pushing anonymity and embargoing papers that need to be reviewed by an “expert committee” runs contrary to the principles of		
+
+
+
+
+
+
+
+
+
+				IBM Catches India’s AI Talent Young 			
+
+
+
+			Shyam Nandan Upadhyay		
+
+			07/09/2023		
+
+
+IBM is awaiting favourable policies for AI research but is actively upskilling and supporting grassroots growth among children in India.
+
+
+
+
+
+
+
+
+
+
+				25 Years of Google: What Went Wrong?			
+
+
+
+			Siddharth Jindal		
+
+			06/09/2023		
+
+
+Today, Google has about 4.3 billion users. However, along with many triumphs, Google has also experienced its fair share of		
+
+
+
+
+
+
+
+
+
+				The Problems with LLM Benchmarks			
+
+
+
+			K L Krithika		
+
+			06/09/2023		
+
+
+AI benchmarks are flawed – with dataset contamination, biases and are often not representative of real world use cases. But		
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video 
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our mission is to bring about better-informed and more conscious decisions about technology through authoritative, influential, and trustworthy journalism. 
+
+
+
+Shape The Future of Tech 
+
+
+
+
+
+
+CONTACT US ⟶
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+AIM discovers new ideas and breakthroughs that create new relationships, new industries, and new ways of thinking. AIM is the crucial source of knowledge and concepts that make sense of a reality that is always changing. Our discussions shed light on how technology is transforming many facets of our life, from business to society to culture.  
+
+
+
+ 
+
+
+Facebook
+ 
+
+
+
+Twitter
+ 
+
+
+
+Youtube
+ 
+
+
+
+Linkedin
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Download our Mobile App 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Who we are 
+
+
+
+ 
+
+
+About Us
+
+
+
+
+Newsletters
+
+
+
+
+Podcast
+
+
+
+
+Videos
+
+
+
+
+Events
+
+
+
+
+Careers
+
+
+
+
+Editorial Calendar
+
+
+
+
+Contact Us
+
+
+
+
+
+
+
+OUR brands 
+
+
+
+
+
+
+MachineHack
+
+
+
+
+Best Firm Certification
+
+
+
+
+AIM Recruits
+
+
+
+
+AIM Research
+
+
+
+
+AIM Leaders Council
+
+
+
+
+Association of Data Scientists
+
+
+
+
+AI Forum for India
+
+
+
+
+
+
+
+
+
+
+
+OUR Services 
+
+
+
+
+
+
+Advertise with us
+
+
+
+
+Branded Content
+
+
+
+
+Bespoke Events
+
+
+
+
+Hackathons
+
+
+
+
+Recruitment Services
+
+
+
+
+Research & Advisory
+
+
+
+
+
+
+
+our conferences 
+
+
+
+
+
+
+Cypher
+
+
+
+
+MachineCon India
+
+
+
+
+MachineCon USA
+
+
+
+
+Machine Learning Developers Summit
+
+
+
+
+The Rising | Women in Tech Conference
+
+
+
+
+Data Engineering Summit
+
+
+
+
+
+
+
+
+
+
+
+AWARDS & lists 
+
+
+
+
+
+
+Upcoming Awards & Lists
+
+
+
+
+PeMa Quadrant
+
+
+
+
+AI100 Awards
+
+
+
+
+Data Science Excellence Awards
+
+
+
+
+40 under 40 Data Scientists
+
+
+
+
+Women in Tech Leadership
+
+
+
+
+Data Engineering Awards
+
+
+
+
+
+
+
+FOR DEVELOPERS 
+
+
+
+
+
+
+Hackathons
+
+
+
+
+Practice Skills
+
+
+
+
+Courses
+
+
+
+
+Discussion Board
+
+
+
+
+Job Board
+
+
+
+
+Technical Blogs
+
+
+
+
+AIM Campus Ambassador
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© Analytics India Magazine Pvt Ltd & AIM Media House LLC 2023 
+
+
+
+
+
+
+
+
+
+
+Terms of use
+
+
+
+
+Privacy Policy
+
+
+
+
+Copyright
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Name							
+
+
+
+
+								Email							
+
+
+
+
+								Phone							
+
+
+
+
+								Organization							
+
+
+
+
+								Designation							
+
+
+
+
+
+
+
+DOWNLOAD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

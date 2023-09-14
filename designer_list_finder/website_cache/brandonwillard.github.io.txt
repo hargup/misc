@@ -1,0 +1,196 @@
+
+
+
+Brandon T. Willard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+
+Brandon T. Willard            
+
+
+
+
+                             Publications
+                          
+
+                             Projects
+                          
+
+                             About
+                          
+
+Articles
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Dynamic Linear Models in Theano
+
+more ...
+
+
+
+
+Symbolic PyMC Radon Example in PyMC4
+
+more ...
+
+
+
+
+Random Variables in Theano
+
+more ...
+
+
+
+
+Readable Strings and Relational Programming in Hy
+
+more ...
+
+
+
+
+Data Science at Citybase
+
+more ...
+
+
+
+
+Symbolic Math in PyMC3
+
+more ...
+
+
+
+
+More Proximal Estimation
+
+more ...
+
+
+
+
+A Role for Symbolic Computation in the General Estimation of Statistical Models
+
+more ...
+
+
+
+
+Regarding Statistical Model Specification and Sample Results
+
+more ...
+
+
+
+
+SymPy Expression Tree Manipulation
+
+more ...
+
+
+
+
+
+
+
+
+
+
+
+About Brandon T. Willard
+        applied math/stats person
+    
+
+
+
+
+
+Social
+
+ github
+ google scholar
+ linkedin
+ bitbucket
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+© 2020 Brandon T. Willard
+            · Powered by pelican-bootstrap3,
+            Pelican,
+            Bootstrap  
+    Content
+  licensed under a Creative Commons Attribution-NonCommercial 4.0 International License, except where indicated otherwise.
+
+
+ Back to top
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

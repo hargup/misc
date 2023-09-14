@@ -1,0 +1,38 @@
+What is Slai? - SlaiSlai home pageSearch...Start a new projectDashboardStart a new projectSwitch themeSearchNavigationHomeWhat is Slai?DocumentationLaunchpadChat with usMigrate Your ModelHomeWhat is Slai?SandboxTrainHandlerTestingDatasetsRevisionsDependenciesDeploymentsIntegrationsImport Code from GithubShipping Metrics Outside SlaiSlack NotificationsConnecting S3 BucketsConnecting to Google BigQueryUser GuidesMigrating an existing modelUsing Pre-Trained ModelsAdvanced Deployment OptionsCustom Docker ImagesRecommendation SystemDashboardTracking UsageAPI KeysAPI ReferenceModelPricingUsage-Based BillingResourcesDebugging GuideSecurityTerms and ConditionsPrivacy PolicyGuidesIntroductionHomeWhat is Slai?Slai is the fastest way for developers to build machine learning applications that can be deployed on serverless infrastructure and shared with anyone in the world.On Slai, a machine learning app is more than just the model — it consists of pre and post-processing logic, datasets, Python requirements, in addition to the training code for the model itself.
+We started Slai to help developers build and deploy machine learning
+applications on powerful cloud environments, without having to think about
+infrastructure.
+​Slai’s 3 core components
+​Build in the Sandbox
+The sandbox is a cloud-based IDE to build and manage your ML apps.
+
+Write pre and post-processing logic in the handler
+Write and run tests on your model
+Connect datasets from an integration
+Version your work as you iterate
+
+
+​Deploy and Monitor
+Applications are hosted on our serverless backend, with automatic scaling built-in.
+
+Deploy a model to a serverless endpoint
+Monitor inference time, traffic, and latency
+Search through the Deployment Logs
+Integrate the API into your app
+
+
+​Share
+Share your application with friends and colleagues. Slai makes your work fully reproducible - your end-to-end applications can be shared with anyone to customize and fork.
+
+Publish your app and share it with your colleagues and friends
+Fork a sandbox to customize and iterate on any model shared with you
+Pin your model as a template for use in your organization
+
+
+​Getting Started
+Here are a few resources to help you get started:
+
+Browse our Template Library with featured projects
+Connect a data source to your account
+
+If you have any questions about these docs, or just want to chat through your project, feel free to send us a note at support@slai.io, or chat with us by clicking the blue chat icon on the bottom left side of your screen.TrainwebsitePowered by MintlifySlai's 3 core componentsBuild in the SandboxDeploy and MonitorShareGetting Started

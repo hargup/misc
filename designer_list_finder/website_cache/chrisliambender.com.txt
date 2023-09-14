@@ -1,0 +1,90 @@
+
+
+
+
+
+
+Chris Bender
+
+
+
+
+
+
+      Christopher Bender
+    
+
+
+
+        How can programmable money align market systems with human values?
+      
+
+        Currently, I'm building a new crypto exchange based on strong
+        zero-knowledge cryptography:
+        Renegade.
+      
+
+        Email: chris@renegade.fi
+
+
+
+
+        Previously, I shipped a port of Tornado Cash to Solana,
+        the first zero-knowledge application on the Solana network:
+        Otter Cash.
+      
+
+        Before that, I tried to align incentives in politics by making markets on city equity:
+        CityStocks.
+      
+
+        I studied pure math and computer science at Berkeley. I was involved with
+        Machine Learning at Berkeley,
+        Accel Scholars,
+        and
+        Berkeley AI Research.
+        I've previously worked at 
+        Nuro
+        and Tesla Autopilot.
+      
+
+
+
+
+
+            Bookshelf
+          
+
+
+
+
+
+            Resume
+          
+
+
+
+            Google Scholar
+          
+
+
+
+            Twitter
+          
+
+
+
+            GitHub
+          
+
+
+
+
+
+            Bias-Variance Tradeoff in Everything
+          
+
+
+
+
+

@@ -1,0 +1,1 @@
+{"error":"resource_not_found","error_description":"No resource was found at this URL. See https://pinpayments.com/docs/api for API documentation and a list of valid URLs."}

@@ -1,0 +1,8204 @@
+
+
+
+
+            Replit - Blog
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Features
+Careers
+Blog
+Pricing
+
+
+
+☀️
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Introducing Replit ModelFarm
+      
+
+
+
+
+        Wed Sep 13 2023 by James Austin and the Replit AI team
+      
+
+
+
+
+
+
+
+
+
+
+
+        Deploy Bun Apps that Autoscale on Replit
+      
+
+
+
+
+        Tue Sep 12 2023 by Sam Bartlett, David Morgan, and Jeff Burke
+      
+
+
+
+
+
+
+
+
+
+
+
+        HeyDATA.org Profile: Personalized AI Built with Replit Deployments
+      
+
+
+
+
+        Fri Sep 8 2023 by Kevin Leffew
+      
+
+
+
+
+
+
+
+
+
+
+
+        Announcing Autoscale and Static Deployments
+      
+
+
+
+
+        Wed Sep 6 2023 by The Replit Team
+      
+
+
+
+
+
+
+
+
+
+
+
+        Speeding up Deployments with Lazy Image Streaming
+      
+
+
+
+
+        Wed Sep 6 2023 by Connor Brewster
+      
+
+
+
+
+
+
+
+
+
+
+
+        Showcasing Startups on Replit
+      
+
+
+
+
+        Wed Aug 30 2023 by The Startups Team
+      
+
+
+
+
+
+
+
+
+
+
+
+        Upgrading Analytics for Deployments
+      
+
+
+
+
+        Mon Aug 28 2023 by Andy Tang
+      
+
+
+
+
+
+
+
+
+
+
+
+        Packages: Powered Up
+      
+
+
+
+
+        Fri Aug 25 2023 by Jake Hamilton
+      
+
+
+
+
+
+
+
+
+
+
+
+        Performance Mystery: Is Golang's Startup Time Slow?
+      
+
+
+
+
+        Fri Aug 18 2023 by Toby Ho
+      
+
+
+
+
+
+
+
+
+
+
+
+        New Workspace Features to Keep Your API Keys Safe
+      
+
+
+
+
+        Wed Aug 16 2023 by Brady Madden
+      
+
+
+
+
+
+
+
+
+
+
+
+        Improving the Inline Ghostwriter Experience
+      
+
+
+
+
+        Fri Aug 11 2023 by Xiaoyi Chen, Tyler Angert, and Brian Pool
+      
+
+
+
+
+
+
+
+
+
+
+
+        Expand possibilities on Replit with Expandable Storage
+      
+
+
+
+
+        Tue Aug 8 2023 by The Expandable Storage Team
+      
+
+
+
+
+
+
+
+
+
+
+
+        Why We Changed Our Resource Limits and Plans
+      
+
+
+
+
+        Mon Aug 7 2023 by The Replit Team
+      
+
+
+
+
+
+
+
+
+
+
+
+        Fewer Restarts and Faster Networking for All
+      
+
+
+
+
+        Fri Aug 4 2023 by Scott Kennedy
+      
+
+
+
+
+
+
+
+
+
+
+
+        Rebuilding the Replit Filetree for Superior Performance and Accessibility
+      
+
+
+
+
+        Tue Aug 1 2023 by Moudy Elkammash
+      
+
+
+
+
+
+
+
+
+
+
+
+        Replit Deployments: 3x Faster and Even More Features
+      
+
+
+
+
+        Mon Jul 31 2023 by The Replit Team
+      
+
+
+
+
+
+
+
+
+
+
+
+        Replit Storage: The Next Generation
+      
+
+
+
+
+        Wed Jul 19 2023 by Zach Anderson and Luis Héctor Chávez
+      
+
+
+Repls today allow 256+ GiB of storage space, up from a historical 1GiB limit. This post is about the infrastructure that enabled that change.
+
+
+
+
+
+
+
+
+
+        State of AI Development: 34x growth in AI projects, OpenAI's dominance, the rise of open-source, and more
+      
+
+
+
+
+        Fri Jul 14 2023 by Jeff Burke
+      
+
+With the introduction of Large Language Models (LLMs), for the first time, Machine Learning (ML) and Artificial Intelligence (AI) became accessible to everyday developers. Apps that feel magical, even software that was practically impossible to build by big technology companies with billions in R&D spend, suddenly became not only possibly, but a joy to build and share.
+
+
+
+
+
+
+
+
+
+        Empowering Educators with MagicSchool and Replit Deployments
+      
+
+
+
+
+        Fri Jun 30 2023 by The Replit Team
+      
+
+
+
+
+
+
+
+
+
+
+
+        Internship Experience At Replit
+      
+
+
+
+
+        Sun Jun 25 2023 by Nathan Pham
+      
+
+Hey! I'm Nathan. It's been a short but exciting few months at Replit, and I wanted to share my experience with you all.
+
+
+
+
+
+
+
+
+
+        The Journey To Code Search
+      
+
+
+
+
+        Sun Jun 25 2023 by Jake Hamilton
+      
+
+
+
+
+
+
+
+
+
+
+
+        June 6, 2023, Single-Sign-On Security Vulnerability
+      
+
+
+
+
+        Mon Jun 12 2023 by Replit Team
+      
+
+Earlier today, we emailed users about a security vulnerability affecting parts of our single-sign-on functionality. While we’ve fixed the vulnerability and have found no evidence of any exploit, we are publishing this post out of transparency.
+
+
+
+
+
+
+
+
+
+        Keeping Your API Keys Safe
+      
+
+
+
+
+        Fri Jun 9 2023 by J Malcolm
+      
+
+Replit gives you the power to both build your own applications and to leverage powerful third party services through their APIs. By integrating third party services into their Repls, Replit users have unlocked a diverse range of capabilities such as speech to text, video livestreaming, embedding data into AI applications, and even tracking Amtrak trains. 
+
+
+
+
+
+
+
+
+
+        Revolutionizing Language Learning with Replit Deployments
+      
+
+
+
+
+        Wed Jun 7 2023 by The Replit Team
+      
+
+
+
+
+
+
+
+
+
+
+
+        Replit AI Manifesto
+      
+
+
+
+
+        Tue Jun 6 2023 by Michele Catasta
+      
+
+Amjad Masad, CEO: I'm excited to welcome Michele Catasta to the Replit team as our VP of AI. Michele joins us from Google, where he was Head of Applied Research at Google Labs and, before that, Google X, where he researched Large Language Models applied to code. Michele has a Ph.D. in Computer Science and was Research Scientist and Instructor in AI at Stanford University. This manifesto is a culmination of a conversation Michele and I have had for over a year on the future of AI and its impact on the software industry:
+
+
+
+
+
+
+
+
+
+        Replit Builders Series - NodePad: From Idea to MVP with Replit Deployments
+      
+
+
+
+
+        Thu Jun 1 2023 by The Replit Team
+      
+
+
+Replit is where builders come to bring their software and app ideas to life, fast. We’re showcasing builders and software they created and deployed on Replit. 
+
+
+
+
+
+
+
+
+
+        Configurable Keybindings for the Workspace
+      
+
+
+
+
+        Tue May 30 2023 by Brady Madden
+      
+
+
+
+
+
+
+
+
+
+
+
+        Super Colliding Nix Stores: Nix Flakes for Millions of Developers
+      
+
+
+
+
+        Thu May 25 2023 by Ryan Mulligan
+      
+
+
+
+
+
+
+
+
+
+
+
+        May 18 Replit downtime
+      
+
+
+
+
+        Sat May 20 2023 by Luis Héctor Chávez
+      
+
+Yesterday, we had a period of about 2h from 11:45 to 13:56 (Pacific Time) in which all users were unable to access their Repls through the site. We have addressed the root cause, and the system is now operating normally. We know a two-hour downtime is not acceptable for you or your users. This post summarizes what happened and what we're doing to improve Replit so that this does not happen again.
+
+
+
+
+
+
+
+
+
+        Making Git Good
+      
+
+
+
+
+        Mon May 15 2023 by Brian Pool, Ian Kirkpatrick, Tyler Angert
+      
+
+
+
+
+
+
+
+
+
+
+        Recapping the SPC-Replit AI Hackathon
+      
+
+
+
+
+        Tue May 9 2023 by South Park Commons
+      
+
+
+
+
+
+
+
+
+
+
+
+        Replit Bounties: AI-Powered Real Estate Recommendation Webapp
+      
+
+
+
+
+        Fri May 5 2023 by Replit Team
+      
+
+
+
+
+
+
+
+
+
+
+
+        Announcing Replit Extensions
+      
+
+
+
+
+        Mon May 1 2023 by Arnav Bansal
+      
+
+
+
+
+
+
+
+
+
+
+
+        Copyright Law in the Age of AI: The Role of Licensing in Replit's Development
+      
+
+
+
+
+        Mon May 1 2023 by J Malcolm
+      
+
+
+
+
+
+
+
+
+
+
+
+        Replit Bounties: Ship Code in Your Sleep
+      
+
+
+
+
+        Sun Apr 30 2023 by Replit Team
+      
+
+
+
+"Through Bounties, I was able to get high-quality developers that are able to fulfill a problem statement really fast. Replit’s Bounty Hunters ensure that the client is happy with the end product and have a high quality of work product.. and are interested in making the best versions of the apps possible."
+@girlbossintech | Software Engineer
+
+
+
+
+
+
+
+
+
+
+        A Recap of Replit Developer Day
+      
+
+
+
+
+        Tue Apr 25 2023 by The Replit Team
+      
+
+
+
+
+
+
+
+
+
+
+
+        Raising $97.4M at $1.16B Valuation to Expand our Cloud Services and Lead in AI Development
+      
+
+
+
+
+        Tue Apr 25 2023 by The Replit Team
+      
+
+
+
+
+
+
+
+
+
+
+
+        How to train your own Large Language Models
+      
+
+
+
+
+        Wed Apr 19 2023 by The AI Team @ Replit
+      
+
+
+
+
+
+
+
+
+
+
+
+        Replit Deployments - the fastest way from idea → production
+      
+
+
+
+
+        Wed Apr 12 2023 by The Replit Team
+      
+
+
+
+
+
+
+
+
+
+
+
+        Hackers, Pros, and Teams users can now code for hours without restarts
+      
+
+
+
+
+        Thu Apr 6 2023 by Scott Kennedy
+      
+
+
+
+
+
+
+
+
+
+
+
+        Replit + Chroma: AI for the next billion software creators
+      
+
+
+
+
+        Wed Apr 5 2023 by Anton Troynikov
+      
+
+
+
+
+
+
+
+
+
+
+
+        Replit Bounties: The Best Place to Build and Launch MVPs
+      
+
+
+
+
+        Wed Apr 5 2023 by The Replit Team
+      
+
+
+
+"If I had turnkey access to this liquid, global talent pool in previous product roles, it would have been amazing for developing prototypes and taking ideas from 0 to 1."
+Christian Ulstrup / founder and CEO of GSD @ Work
+
+
+
+
+
+
+
+
+
+
+        April 2 Potential GitHub Credentials Exposure
+      
+
+
+
+
+        Tue Apr 4 2023 by Luis Héctor Chávez
+      
+
+Yesterday, on April 2, 2023, Replit discovered a site vulnerability that may have exposed GitHub auth tokens for <0.01% of Replit users, stemming from use of the GitHub import feature. This could have permitted unauthorized read/write access to all the repositories of those users by default (users can choose to authorize just a subset of repositories).
+
+
+
+
+
+
+
+
+
+        Applications of Generative AI Webinar
+      
+
+
+
+
+        Fri Mar 31 2023 by Ornella Altunyan
+      
+
+
+
+
+
+
+
+
+
+
+
+        Introducing Jassim Latif, Replit’s VP of Operations
+      
+
+
+
+
+        Wed Mar 29 2023 by Jassim Latif
+      
+
+
+
+
+
+
+
+
+
+
+
+        Replit and Google Cloud Partner to Advance Generative AI for Software Development
+      
+
+
+
+
+        Tue Mar 28 2023 by The Replit Team
+      
+
+
+
+
+
+
+
+
+
+
+
+        Building Ghostwriter Chat
+      
+
+
+
+
+        Mon Mar 27 2023 by Muhammad Sareini
+      
+
+At Replit, we strive to give our users the most powerful programming environment, and what better way is there than giving them an AI pair programmer directly in their workspace? Enter Ghostwriter Chat. 
+
+
+
+
+
+
+
+
+
+        Announcing Outbound Data Transfer Limits
+      
+
+
+
+
+        Wed Mar 22 2023 by Madison Fitch
+      
+
+Beginning April 7th, Replit will begin enforcing limits on the amount of outbound data that developers can transmit from their Repls to users and external services. Inbound data transfer is free.
+
+
+
+
+
+
+
+
+
+        An update to cover pages
+      
+
+
+
+
+        Mon Mar 20 2023 by Omar Abdul-Rahim & Tiga Wu
+      
+
+
+
+
+
+
+
+
+
+
+
+        Worldwide Repls, part 3: Firing Up The Engines
+      
+
+
+
+
+        Thu Mar 16 2023 by Breno de Bortolli, Connor Brewster
+      
+
+
+
+
+
+
+
+
+
+
+
+        Get Started with LLMs: AI Camp x Replit Course Now Available
+      
+
+
+
+
+        Thu Mar 9 2023 by David Morgan
+      
+
+Replit and AI Camp are launching a brand new, 4-hour course, right here on Replit! Unlock the Power of LLMs like GPT with Python, is a four-lesson course that’ll teach you:
+
+
+
+
+
+
+
+
+
+        BerriAI—The Y Combinator company that brings LLM products to market quickly with Replit
+      
+
+
+
+
+        Mon Mar 6 2023 by The Replit Team
+      
+
+
+
+
+
+
+
+
+
+
+
+        Remote Access to Your Repls via SSH
+      
+
+
+
+
+        Thu Mar 2 2023 by Matt Iselin
+      
+
+Last week we announced the Pro plan to speed up your development with Replit's AI tools and an even more powerful Workspace.
+
+
+
+
+
+
+
+
+
+        Deploy a Cloudflare Worker from Replit – anytime, anywhere
+      
+
+
+
+
+        Wed Mar 1 2023 by The Replit Team
+      
+
+
+From large-scale businesses to nonprofits to anyone on the Internet, Cloudflare aims to make developer applications faster, more secure and more reliable. Cloudflare also offers an entire suite of developer products to help build the fundamental pieces of their applications. Every day, thousands of new developers around the world use the Cloudflare Developer Platform offerings from compute to storage to opinionated developer products to deploy everything from serverless functions to full-stack applications. 
+
+
+
+
+
+
+
+
+
+        Announcing the Pro Plan: The Most Powerful Development Experience on Replit
+      
+
+
+
+
+        Thu Feb 23 2023 by The Replit Team
+      
+
+Today, we are launching a new plan for you to speed up your development with Replit's AI tools and an even more powerful Workspace. 
+
+
+
+
+
+
+
+
+
+        Replit x Weights & Biases Machine Learning Hackathon Winners
+      
+
+
+
+
+        Tue Feb 21 2023 by Ornella Altunyan
+      
+
+
+
+
+
+
+
+
+
+
+
+        Celebrating 20 Million Replit Developers
+      
+
+
+
+
+        Thu Feb 16 2023 by Amjad Masad
+      
+
+
+
+
+
+
+
+
+
+
+
+        Announcing Ghostwriter Chat: The first conversational AI programmer
+      
+
+
+
+
+        Wed Feb 15 2023 by The Replit Team
+      
+
+
+
+
+
+
+
+
+
+
+
+        Altimeter Capital: Supporting builders in AI with Bounties
+      
+
+
+
+
+        Sat Feb 11 2023 by The Replit Team
+      
+
+
+
+
+
+
+
+
+
+
+
+        Git in the Shell
+      
+
+
+
+
+        Mon Jan 30 2023 by Ryan Mulligan
+      
+
+
+
+
+
+
+
+
+
+
+
+        Replit x India 🇮🇳 (Part 2)
+      
+
+
+
+
+        Fri Jan 27 2023 by Anshul
+      
+
+
+Introducing the official launch of Replit India - Replit's first international launch! Thank you to the 2M+ developers from India who have signed up for Replit to learn to code, and host & deploy projects.
+
+
+
+
+
+
+
+
+
+        It's Genuary!
+      
+
+
+
+
+        Thu Jan 26 2023 by Ornella Altunyan
+      
+
+
+
+
+
+
+
+
+
+
+
+        PostgreSQL Database Preview Now Available On Replit
+      
+
+
+
+
+        Mon Jan 23 2023 by Lincoln Bergeson, Xiaoyi Chen
+      
+
+
+
+
+
+
+
+
+
+
+
+        Announcing more power and changes to pricing
+      
+
+
+
+
+        Tue Jan 17 2023 by Amjad Masad
+      
+
+Launching more power and upcoming changes to your Hacker benefits and individual powerups 
+
+
+
+
+
+
+
+
+
+        Apply for Replit’s first Machine Learning Hackathon
+      
+
+
+
+
+        Wed Jan 11 2023 by Ornella Altunyan
+      
+
+
+
+
+
+
+
+
+
+
+
+        Making Repl Identity More Accessible
+      
+
+
+
+
+        Tue Jan 10 2023 by Matt Iselin
+      
+
+In August last year, we announced Repl Identity, a signed identity for every Repl that your code can use to authenticate other Repls when communicating with your APIs and services.
+
+
+
+
+
+
+
+
+
+        The Fourth Age Of Programming
+      
+
+
+
+
+        Wed Jan 4 2023 by Jon Stokes
+      
+
+
+
+
+
+
+
+
+
+
+        Replit in Review: A Recap of What We Shipped in 2022
+      
+
+
+
+
+        Tue Jan 3 2023 by The Replit Team
+      
+
+
+
+
+
+
+
+
+
+
+
+        Redesigning Cycles Transaction History
+      
+
+
+
+
+        Fri Dec 23 2022 by Mathurah Ravigulan
+      
+
+
+
+
+
+
+
+
+
+
+
+        Custom Themes
+      
+
+
+
+
+        Thu Dec 22 2022 by Sergei Chestakov
+      
+
+
+
+
+
+
+
+
+
+
+
+        Creating a Stable Diffusion Startup in 60 Days with Replit Bounties — A Case Study
+      
+
+
+
+
+        Fri Dec 2 2022 by The Bounties Team
+      
+
+
+
+
+
+
+
+
+
+
+
+        Announcing Replit Reps Cohort 2
+      
+
+
+
+
+        Fri Nov 25 2022 by Ornella Altunyan
+      
+
+
+
+
+
+
+
+
+
+
+
+        Tutorial Jam Winners
+      
+
+
+
+
+        Thu Nov 17 2022 by David Morgan
+      
+
+The inaugural tutorial jam has come to an end! Our wonderful Replit community shipped some fantastic learning experiences! Contestants were tasked with building a learning Repl using our new .tutorial functionality, including using the new floating video pane, just like we've used on 100 Days of Code!
+
+
+
+
+
+
+
+
+
+        Bounties - Bring your ideas to life
+      
+
+
+
+
+        Tue Nov 15 2022 by Michael Hadley, Søren Rood, Talor Anderson, Aman Mathur, Horacio Lopez
+      
+
+
+
+
+
+
+
+
+
+
+
+        How the Deel content team shipped an internal website in 1 week with Replit Bounties — A Case Study
+      
+
+
+
+
+        Tue Nov 15 2022 by The Replit Team
+      
+
+
+
+
+
+
+
+
+
+
+
+        Branching out the Filetree
+      
+
+
+
+
+        Mon Nov 14 2022 by Adriana Poznanski, Tyler Angert, Xiaoyi Chen, Arnav Bansal
+      
+
+
+
+
+
+
+
+
+
+
+        See Your Currently Running Repls
+      
+
+
+
+
+        Fri Nov 11 2022 by Joe Thom, Lincoln Bergeson
+      
+
+Have you ever wondered which of your repls are running at a given time? Do you know which ones are currently serving traffic, and which ones need to be woken up? Do you wish you had more visibility into when your repls have stopped in the past and when they've been restarted?
+
+
+
+
+
+
+
+
+
+        Meet Replit Ghostwriter, your partner in code
+      
+
+
+
+
+        Mon Oct 31 2022 by The Replit Team
+      
+
+
+
+
+
+
+
+
+
+
+
+        Replit Mobile App
+      
+
+
+
+
+        Wed Oct 19 2022 by Laima Tazmin, Abdel Rahman Elleithy, Matthew Chen, Ian Kirkpatrick
+      
+
+
+
+
+
+
+
+
+
+
+
+        Replit x India (Part 1)
+      
+
+
+
+
+        Tue Oct 18 2022 by Anshul
+      
+
+
+Plug: If you're excited about what we're building and would like to partner with us in India, please reach out at [email protected]!
+
+
+
+
+
+
+
+
+
+        Discuss code in context with Inline Threads
+      
+
+
+
+
+        Thu Oct 13 2022 by Devin Halladay
+      
+
+Part of what makes Replit so exciting to us is our community. We're always looking for new ways to help our creators connect, collaborate, and create something great together. 
+
+
+
+
+
+
+
+
+
+        Analytics For Every Repl
+      
+
+
+
+
+        Wed Oct 12 2022 by Lincoln Bergeson
+      
+
+Web hosting on Replit is simple yet effective. When you start a server in your repl, we automatically detect which port it opened on and provide a public endpoint for you to access it.
+
+
+
+
+
+
+
+
+
+        Replit's New Logomark
+      
+
+
+
+
+        Tue Oct 4 2022 by Barron Webster
+      
+
+
+
+
+
+
+
+
+
+
+
+        Fluid layout customization with Splits
+      
+
+
+
+
+        Wed Sep 28 2022 by Tyler Angert and Moudy Elkammash
+      
+
+A few weeks ago we released Tabs, which allowed people to open up different files and tools you want, side by side. But the Workspace’s overall layout was still pretty static: you can only open things side by side, with no way to remove panes or quickly rearrange what you're focused on. That's changing today!
+
+
+
+
+
+
+
+
+
+        Worldwide Repls, part 2: Load balancing for fun (although not quite profit)
+      
+
+
+
+
+        Fri Sep 23 2022 by Luis Héctor Chávez, Connor Brewster, Matt Iselin
+      
+
+In our previous blog post about Worldwide Repls, we talked about how we revamped part of our infrastructure to build a new abstraction that allowed us to build other components on top of it: the control plane. In this entry, we'll talk about the very first thing we built on top: a load balancer.
+
+
+
+
+
+
+
+
+
+        Productizing Large Language Models
+      
+
+
+
+
+        Wed Sep 21 2022 by Amjad Masad, Samip Dahal, Luis Héctor Chávez
+      
+
+Large Language Models (LLMs) are known for their near-magical ability to learn from very few examples -- as little as zero -- to create language wonders. LLMs can chat, write poetry, write code, and even do basic arithmetic. However, the same properties that make LLMs magical also make them challenging from an engineering perspective.
+
+
+
+
+
+
+
+
+
+        Replit 100 Days of Code
+      
+
+
+
+
+        Tue Sep 20 2022 by Replit Team
+      
+
+We're excited to announce that today we are launching Replit's 100 Days of Code!! In just 15 minutes a day, you will build real world projects every day, totaling up to - you guessed it - 100 projects! 
+
+
+
+
+
+
+
+
+
+        History++ - A Better Way to Do Versioning
+      
+
+
+
+
+        Thu Sep 15 2022 by Giuseppe Burtini
+      
+
+Have you ever had to start over on a piece of code because you overwrote something by accident? Made an edit, replaced it, and then wished you could go back?
+
+
+
+
+
+
+
+
+
+        Replit’s Commitment to Trust, Safety, and Integrity
+      
+
+
+
+
+        Mon Sep 12 2022 by J Malcolm
+      
+
+
+
+
+
+
+
+
+
+
+
+        Ghostwriter AI & Complete Code Beta
+      
+
+
+
+
+        Thu Sep 8 2022 by Amjad Masad, Samip Dahal, Giuseppe Burtini, Alexandre Cai
+      
+
+Update: Ghostwriter is out now!
+
+
+
+
+
+
+
+
+
+        My internship experience at Replit.
+      
+
+
+
+
+        Fri Sep 2 2022 by Lily Khan
+      
+
+Hey, it’s your friendly community intern, Lily! It’s been 8 months since I became an intern at Replit, and this blog post concludes my awesome journey. 
+
+
+
+
+
+
+
+
+
+        Welcoming Heroku Users to Replit
+      
+
+
+
+
+        Tue Aug 30 2022 by Replit Team
+      
+
+
+
+
+
+
+
+
+
+
+        Ethical hacking on Replit
+      
+
+
+
+
+        Mon Aug 15 2022 by J Malcolm
+      
+
+We’re proud to say that Replit was built by and for hackers. A hacker, as defined in an early Internet glossary, is “A person who delights in having an intimate understanding of the internal workings of a system, computers and computer networks in particular.” It’s this sense of curiosity and delight that motivates our community to grow and share their skills, and to show off their creations in our Community.
+
+
+
+
+
+
+
+
+
+        Mini Curriculum Jam 2022 Winners
+      
+
+
+
+
+        Fri Aug 12 2022 by David Morgan
+      
+
+During EdFest 2022 we started our first Mini Curriculum Jam where anyone with an interest in education was asked to submit a sample project and a video outlining a curriculum that they'd like to build. Our panel of judges (including Sean Glantz, Craig'n'Dave and our Student Panel) have spent the last two-weeks reviewing and scoring the entries and the winners are here!
+
+
+
+
+
+
+
+
+
+        A Tale of Two Tabs
+      
+
+
+
+
+        Thu Aug 11 2022 by Tyler Angert and Moudy Elkammash
+      
+
+Today we're launching a long-awaited feature in the Workspace: Tabs! Yes, you can finally:
+
+
+
+
+
+
+
+
+
+        My Experience as a Replit Design Intern
+      
+
+
+
+
+        Fri Aug 5 2022 by Clément Roze
+      
+
+
+
+
+
+
+
+
+
+
+        Zero-Click Auth For Your Apps
+      
+
+
+
+
+        Tue Aug 2 2022 by Matt Iselin
+      
+
+Picture this: you've built an arcade game on Replit. Gamers playing your game will head to the repl's cover page and click "Run". They love your game, and they send you feature requests and ideas in the comments. Now, you want to keep track of high scores and add other social features to your game. This used to be a show-stopper: there was no way to verify the API requests coming in, so your high-score feature was either easy to spoof, or simply didn't get off the ground.
+
+
+
+
+
+
+
+
+
+        Template Jam 2022 — Phase 2 Winners
+      
+
+
+
+
+        Mon Aug 1 2022 by Replit Team
+      
+
+We are now finished calculating the winners for the second phase of the contest using a super-secret formula that measures community reception! You can check out all the phase 1 winners here, which were hand-selected by a group of judges.
+
+
+
+
+
+
+
+
+
+        Get Replit Famous
+      
+
+
+
+
+        Thu Jul 28 2022 by Søren Rood & Nassim Saboundji
+      
+
+
+
+
+
+
+
+
+
+
+
+        The New Game: Engaging 15M Next Generation Developers
+      
+
+
+
+
+        Wed Jul 27 2022 by Jeff Burke
+      
+
+Today, we launch partnerships with 19 companies, offering 35+ templates for Replit users to build with. The goal? Helping our community build the next-generation of projects. Let me explain.
+
+
+
+
+
+
+
+
+
+        Announcing Replit Creates — Build something beautiful
+      
+
+
+
+
+        Tue Jul 26 2022 by Ornella Altunyan & Conner Schafer
+      
+
+
+
+
+
+
+
+
+
+
+
+        Kajam Mentors Experience
+      
+
+
+
+
+        Mon Jul 25 2022 by Replit community
+      
+
+
+
+
+
+
+
+
+
+
+        Revamping the GitHub Import Flow
+      
+
+
+
+
+        Thu Jul 21 2022 by Victor Wang, Emilie Ma
+      
+
+Early last year, we made the announcement that our infrastructure and Repls now had Nix baked in. Just a few months ago, we announced all new Repls would be Nix-based. And today, we're happy to announce that our GitHub imports flow is now also powered by Nix!
+
+
+
+
+
+
+
+
+
+        Template Jam 2022 — Phase 1 Winners
+      
+
+
+
+
+        Fri Jul 15 2022 by Replit Team
+      
+
+Template Jam is Replit's annual template contest where our community builds repls that help themselves and others build projects on top of. These templates range widely from new language support, framework starter kits, to beginner guides.
+
+
+
+
+
+
+
+
+
+        Inspect your HTML/CSS/JS Repls with native DevTools
+      
+
+
+
+
+        Fri Jul 15 2022 by Alexandre Cai & Faris Masad
+      
+
+We recently launched a new Replit-native way to inspect and debug web pages you build on Replit. Whether you're learning the basics or hosting a rich application, quickly being able to inspect the console and DOM is critical to your workflow.
+
+
+
+
+
+
+
+
+
+        Kajam 2022 Winners
+      
+
+
+
+
+        Thu Jul 14 2022 by Replit Team
+      
+
+What’s Kajam?
+Kajam is Replit’s official game jam where members of our community build games, play games, and sometimes even win cash prizes for their games in the span of a single week! This year, from June 25th to July 2nd, Replit spiced things up with a grand prize of $10,000, category prizes of $5,000, and a new Crowd Pleaser prize of $1,000. The catch? The games had to meet the theme: SPICY! 
+
+
+
+
+
+
+
+
+
+        Leaky UIs
+      
+
+
+
+
+        Wed Jul 13 2022 by Faris Masad
+      
+
+
+
+
+
+
+
+
+
+
+        Worldwide Repls, part 1: The Control Plane
+      
+
+
+
+
+        Fri Jul 8 2022 by Luis Héctor Chávez
+      
+
+During the ReplCon 2022 keynote, we announced that we were going to geo-distribute our infrastructure so that your Repls are much faster when accessed outside of the United States. The speed of electrons / light in a medium is a fundamental speed limit. Most of our users are several thousand kilometers away from the data centers where we host Repls (currently limited to the United States), so the round trip from them to the users' homes is going to necessarily take several hundred milliseconds just to traverse the series of tubes that is the Internet. Today, we have finished the first milestone to make this a reality, and that comes with some pretty neat side-effects!
+
+
+
+
+
+
+
+
+
+        How to Get Your Repl Noticed
+      
+
+
+
+
+        Fri Jul 8 2022 by Horacio Lopez
+      
+
+Ok, so you've built an awesome project on Replit and are ready to share it. Now what? How do you get your first users? How do you make it stand out?
+
+
+
+
+
+
+
+
+
+        Improving Domain Linking for Repls
+      
+
+
+
+
+        Mon Jul 4 2022 by Matt Iselin
+      
+
+For some time now, it's been possible to link your custom domain to your Repl. You buy that perfect domain name, connect it to your website hosted on Replit, and you're good to go! Custom domains help you create a unique home on the internet - for your blog, a product you're launching, or just a space to try new ideas.
+
+
+
+
+
+
+
+
+
+        Supporting IB Computer Science with Replit
+      
+
+
+
+
+        Mon Jun 27 2022 by Lindsey Stephenson and Ian Simpson
+      
+
+Welcome to the first of a series of blog posts about Computer Science curriculum around the world. The purpose of this series is to highlight the similarities in Computer Science curriculum across the globe and how Replit can be used to support students and educators.
+
+
+
+
+
+
+
+
+
+        Announcing the Replit Ventures 2022 (RV1) Cohort
+      
+
+
+
+
+        Thu Jun 23 2022 by Jeff Burke
+      
+
+
+
+
+
+
+
+
+
+
+
+        Embedding an Editable Repl is Going Away
+      
+
+
+
+
+        Tue Jun 21 2022 by David Morgan
+      
+
+We've started the process of deprecating editable embedded Repls, these will become read-only from August 1st. You might be wondering why?
+
+
+
+
+
+
+
+
+
+        Educators, School is Out! Let’s Party!
+      
+
+
+
+
+        Tue Jun 7 2022 by Brittany Pirkle and David Morgan
+      
+
+Anyone else hearing "School's out for Summer" lyrics in your head when they read that?! Students may be out of session, but Replit has three days worth of reasons for educators to be in session!
+
+
+
+
+
+
+
+
+
+        The New Publish Flow
+      
+
+
+
+
+        Thu Jun 2 2022 by Søren Rood
+      
+
+TL;DR - sharing stuff you make on Replit is now easier than ever.
+
+
+
+
+
+
+
+
+
+        “Generate code”: state what you want, get code back
+      
+
+
+
+
+        Wed Jun 1 2022 by Jonathan Unikowski
+      
+
+Today, we're launching “Generate code” to all subscribers of our Hacker Plan. With “Generate code”, you state what you'd like your code to do, and an artifical intelligence writes it for you. You can then run the code right from your repl, with all the other Replit features you know and love (packages get magically installed, a web server gets started if you need it, you can invite your friends for a multiplayer session, and much more).
+
+
+
+
+
+
+
+
+
+        Announcing Kajam 2022! Here's how to get started...
+      
+
+
+
+
+        Tue May 31 2022 by Conner Schafer and Lena Sawyer
+      
+
+We are stoked to announce Kajam 2022 - Replit's second annual game jam! If you're interested in registering head right on over to the official Kajam site. 
+
+
+
+
+
+
+
+
+
+        Computing Superpower... At School?
+      
+
+
+
+
+        Tue May 31 2022 by Brittany Pirkle
+      
+
+Replit offers everyone the power of their own computer in the cloud. Access it from anywhere, program it to do (almost) anything, and share your programs and apps with whoever you want. It’s a computing superpower that we deeply believe will change the world.
+
+
+
+
+
+
+
+
+
+        Announcing the Replit Ventures Builder Kit
+      
+
+
+
+
+        Thu May 26 2022 by Jeff Burke
+      
+
+
+
+
+
+
+
+
+
+
+
+        Educators, Need Ideas for the End of the School Year?
+      
+
+
+
+
+        Fri May 20 2022 by David Morgan and Brittany Pirkle
+      
+
+You can do it, teachers! The end of the school year is in sight (at least for our North American friends 😭)
+
+
+
+
+
+
+
+
+
+        Tips for safer social repl development
+      
+
+
+
+
+        Wed May 18 2022 by J Malcolm
+      
+
+Replit makes coding into a social activity, in many different ways. You can easily share your repl with our vibrant developer community to receive feedback, tips, and kudos. Our multiplayer features allow you to write, review and debug your code together with buddies. And with access to the full power of the Internet and dozens of powerful programming languages, you can even write code that brings other users into your repl in real time.
+
+
+
+
+
+
+
+
+
+        Template Jam 2022
+      
+
+
+
+
+        Mon May 16 2022 by Replit Team
+      
+
+Since we introduced templates, many of you have asked to get in on the action. We have some amazing community templates already, but we want to get everyone involved.
+
+
+
+
+
+
+
+
+
+        Automating Minecraft on Replit
+      
+
+
+
+
+        Mon May 9 2022 by Lee Fleming
+      
+
+Replcraft is a library that allows you to automate parts of your base on a
+Minecraft server using code, directly from a repl. Replcraft allows you to
+get and place blocks, check for entities, move and craft items, read
+redstone, and more.
+
+
+
+
+
+
+
+
+
+        Announcing Replit Ventures 2022
+      
+
+
+
+
+        Thu May 5 2022 by Søren Rood and Jeff Burke
+      
+
+
+
+
+
+
+
+
+
+
+
+        Winning projects of MadeWithReplit
+      
+
+
+
+
+        Fri Apr 22 2022 by Replit Team
+      
+
+Whats #MadeWithReplit?
+MadeWithReplit was our first ever ReplCon hackathon! Participants had the chance to win amazing cash prizes, share their work with the world, and hone their coding skills.
+
+
+
+
+
+
+
+
+
+        How Do You Do, Fellow Teachers?
+      
+
+
+
+
+        Tue Apr 19 2022 by David Morgan
+      
+
+Hi everyone! I'm David Morgan (@LessonHacker), I'm stepping into the Teacher + Customer Success role and am ridiculously excited to be working at Replit and being part of this amazing community. I have been working as a secondary school Computer Science teacher in the UK for the best part of two decades, and am passionate about making CompSci education frictionless and accessible for all.
+
+
+
+
+
+
+
+
+
+        Your New Replit Profile
+      
+
+
+
+
+        Mon Apr 18 2022 by Søren Rood and Omar Abdul-Rahim
+      
+
+You may have noticed that the "My Repls" and "profile" pages look different. We decided to combine these surfaces into one unified page. The new profiles are fresh, more social, and more customizable than ever before.
+
+
+
+
+
+
+
+
+
+        QLTY SZN 1
+      
+
+
+
+
+        Mon Apr 18 2022 by Replit Team
+      
+
+A commitment to quality
+
+
+
+
+
+
+
+
+
+        Replit is Now Free for Educators!
+      
+
+
+
+
+        Mon Apr 11 2022 by Amjad Masad
+      
+
+
+
+
+
+
+
+
+
+
+
+        We Built a Search Engine
+      
+
+
+
+
+        Thu Mar 31 2022 by Søren Rood and Lincoln Bergeson
+      
+
+For the past few months, we have been building a Replit-native search engine. It is remarkably powerful, and we are really excited for you all to try it out. We believe that you should be able to find anything on Replit in less than 30 seconds.
+
+
+
+
+
+
+
+
+
+        Introducing Kyle Alisharan, Replit's first CFO
+      
+
+
+
+
+        Wed Mar 30 2022 by Replit Team
+      
+
+We've got a new star on our executive team, Kyle Alisharan, who is joining us as CFO. 
+
+
+
+
+
+
+
+
+
+        Build a Speech-to-Text App with AssemblyAI on Replit
+      
+
+
+
+
+        Tue Mar 29 2022 by Arek Nawo
+      
+
+Transcription, or speech-to-text (STT), is a very helpful feature for various use cases, from AI assistants to video captioning. You can use it to create immersive virtual experiences and accessible interfaces unlike ever before. It’s no wonder STT-driven apps and services are in high demand.
+
+
+
+
+
+
+
+
+
+        Build Your Own Livestreaming Service with api.video
+      
+
+
+
+
+        Sat Mar 26 2022 by Rahul Banerjee
+      
+
+
+
+
+
+
+
+
+
+
+        Making a Real-Time Chat App with Supabase on Replit
+      
+
+
+
+
+        Wed Mar 23 2022 by Arek Nawo
+      
+
+Firebase is arguably the most popular backend as a service (BaaS) offering. It’s created by Google and comes with almost everything you’d need to create a great app, including a database, file storage, user authentication, and real-time communication. However, it’s closed source, meaning all your and your users’ data is under Google’s control.
+
+
+
+
+
+
+
+
+
+        Operating Principles
+      
+
+
+
+
+        Tue Mar 22 2022 by Replit Team
+      
+
+
+
+
+
+
+
+
+
+
+
+        Introducing Cecilia Ziniti as Replit's General Counsel and Head of Business Development
+      
+
+
+
+
+        Mon Mar 21 2022 by Replit Team
+      
+
+We're so excited to announce that Cecilia Ziniti will be joining the Replit executive team as General Counsel and Head of Business Development. 
+
+
+
+
+
+
+
+
+
+        Reasons Not to Join Replit
+      
+
+
+
+
+        Thu Mar 17 2022 by Replit Team
+      
+
+We want the people at Replit to really love working here (we do!).
+
+
+
+
+
+
+
+
+
+        Escaping Dirty Pipe (a.k.a. CVE-2022-0847), mostly unscathed
+      
+
+
+
+
+        Wed Mar 16 2022 by Luis Héctor Chávez
+      
+
+You may have heard that there was a very critical Linux kernel vulnerability making the rounds. As with all important enough vulnerabilities, this one has a catchy name: Dirty Pipe (no logo, though). This blogpost attempts to explain how that vulnerability impacted Replit. The good news is that as far as we know, there weren't any successful exploitations of it!
+
+
+
+
+
+
+
+
+
+        Betting on CodeMirror
+      
+
+
+
+
+        Thu Mar 10 2022 by Sergei Chestakov
+      
+
+At Replit, our mission is to bring the next billion software creators online. In order to achieve that ambitious goal, we need to make sure that the experience of writing, running, and sharing code is as seamless as possible. At the heart of that experience is the editor itself. As a result, we dedicate a huge amount of time and energy to improving the stability, performance, and accessibility of our editor.
+
+
+
+
+
+
+
+
+
+        Hack Week 2022 Recap
+      
+
+
+
+
+        Wed Mar 9 2022 by Jeffery Matthews
+      
+
+Hey, everyone!
+
+
+
+
+
+
+
+
+
+        10 Resources for Beginners: Learn to Code on Replit
+      
+
+
+
+
+        Sat Mar 5 2022 by Brittany Choi
+      
+
+Hello! I’m Brittany Choi. A little bit about me: I was an English teacher, but I recently transitioned to Technical and Content Writing. I started learning how to code on Replit to gain technical skills and to learn something new.
+
+
+
+
+
+
+
+
+
+        Kaboom Draw
+      
+
+
+
+
+        Mon Feb 28 2022 by tga
+      
+
+Programming is hard, especially for beginners where the code <-> output feedback loop is cumbersome. People need to click run button, see output, change code, click run again see output. There are a lot of ideas that greatly improved this experience like live-reloading (a lot in the audio / visual context, and UI dev). However the most exciting idea I've seen is still the experiments done by Bret Victor, like in Learnable Programming. Seeing his experiements on combining live reload + sensible controls still takes my breath every time.
+
+
+
+
+
+
+
+
+
+        All New Repls are Powered By Nix
+      
+
+
+
+
+        Wed Feb 23 2022 by Connor Brewster
+      
+
+
+
+
+
+
+
+
+
+
+        Getting Started with Solidity on Replit
+      
+
+
+
+
+        Fri Feb 18 2022 by Osinachi Chukwujama
+      
+
+Have you ever wanted to quickly prototype an idea, reproduce a bug, or share a code demo? Maybe you just got an idea for a new smart contract that allows users to bet on soccer teams, and you want to quickly prototype this and share it with your teammates. In all of these instances, Replit is the perfect solution. 
+
+
+
+
+
+
+
+
+
+        Make a Multiplayer Game with Kaboom.js and Heroic Labs
+      
+
+
+
+
+        Tue Feb 15 2022 by Josh Alleto
+      
+
+
+
+
+
+
+
+
+
+
+        Design to code better
+      
+
+
+
+
+        Mon Feb 14 2022 by Lily Khan
+      
+
+
+
+
+
+
+
+
+
+
+        Announcing File Persistence in Hosted Apps… for Everyone!
+      
+
+
+
+
+        Fri Feb 11 2022 by Luis Héctor Chávez
+      
+
+Replit is your computer — for whatever you need to do. We announced last year that Hackers would be able to have their hosted apps be able to persist file changes since that made it possible to build a lot more apps. But we were not quite satisfied that only Hackers were going to get this new feature.
+
+
+
+
+
+
+
+
+
+        How to Start Coding | 10 Best Resources to Get Started
+      
+
+
+
+
+        Sat Feb 5 2022 by Conner Schafer
+      
+
+
+
+
+
+
+
+
+
+
+        Making new Python repls 100x faster to start up
+      
+
+
+
+
+        Fri Feb 4 2022 by Luis Héctor Chávez
+      
+
+Python is currently the world's (and Replit's) most popular programming language. We've improved the Python experience during last year, with a Python package cache to make installs faster, and an  integrated, multiplayer debugger to increase the understanding of what programs do. But there are still a few problems with Python. Packages are often very space-consuming, so they are installed into an ephemeral 2 GiB scratch disk to avoid filling up repl directories. Unfortunately this means that every time a Python repl starts, a lengthy package installation process must happen. This makes some Python repls take forever to start! Some other packages that have a large number of dependencies (like TensorFlow and Torch) were completely unusable because they don't even fit on the scratch directory.
+
+
+
+
+
+
+
+
+
+        What We Look for When We Interview
+      
+
+
+
+
+        Thu Feb 3 2022 by Laima Tazmin
+      
+
+We’re on a mission to bring the next billion software creators online.
+
+
+
+
+
+
+
+
+
+        Understanding Repl Resource Utilization
+      
+
+
+
+
+        Mon Jan 31 2022 by Lincoln Bergeson
+      
+
+Every computer on earth needs these three essential resources in some form:
+
+
+
+
+
+
+
+
+
+        Going Where the Next Billion Creators Are
+      
+
+
+
+
+        Fri Jan 21 2022 by Laima Tazmin
+      
+
+Mobile is the future of computing. But building good software creation tools for mobile devices is hard. Luckily, at Replit, we like to run toward the hard things.
+
+
+
+
+
+
+
+
+
+        Getting Started with Rust on Replit
+      
+
+
+
+
+        Fri Jan 21 2022 by Jura Gorohovsky
+      
+
+
+
+
+
+
+
+
+
+
+        Use Replit At Work With Teams Pro
+      
+
+
+
+
+        Wed Jan 19 2022 by Søren Rood, Obaida Albaroudi, Brittany Pirkle
+      
+
+
+
+
+
+
+
+
+
+
+
+        Using Replit and Google Sheets to Make a Simple Google Forms Alternative
+      
+
+
+
+
+        Tue Jan 18 2022 by Nicolas Bohorquez
+      
+
+Replit, a cloud native code environment, provides all the tools you need to collaborate, create, test, and deploy software applications in a single place. Think of it as a new-generation Integrated Development Environment (IDE), with integrated support for authentication/authorization, data persistence, and auto deployment that makes your software development experience thrive. 
+
+
+
+
+
+
+
+
+
+        Migrating our Web App from Heroku to GCP
+      
+
+
+
+
+        Tue Jan 11 2022 by Matt Iselin
+      
+
+After many years of running on Heroku, Replit has fully migrated to Google Cloud Platform.
+
+
+
+
+
+
+
+
+
+        Python for Beginners: Interpreting My Amazon Spending with a Repl, Part Three
+      
+
+
+
+
+        Sat Jan 1 2022 by Brittany Pirkle
+      
+
+I know you have been on the edge of your seats wondering why in the world a repl is better than a spreadsheet to calculate so much data?! In case you need a refresher, I analyzed my Amazon spending for 2021 using a Python repl and with just a few lines of code I could discern a variety of answers about my spending. Not only did I find out that I am spending way too much money on Amazon, but I also came to the conclusion of why a repl is better than a spreadsheet (read to the bottom to find out).
+
+
+
+
+
+
+
+
+
+        2021 Kajam Winners
+      
+
+
+
+
+        Thu Dec 23 2021 by Nathan Zilora
+      
+
+
+
+
+
+
+
+
+
+
+
+        Implementing RUI, Replit's Design System
+      
+
+
+
+
+        Thu Dec 23 2021 by Alex Kotliarskyi
+      
+
+At Replit, we have a small engineering and design team supporting millions of users. Our secret is investing in good tools that make us more productive. In this blog post we'll give you an insider look into how we implemented one such tool - the Replit design system (or RUI for short).
+
+
+
+
+
+
+
+
+
+        Getting Started with the SpaceTraders API on Replit
+      
+
+
+
+
+        Fri Dec 17 2021 by Veronica Stork
+      
+
+SpaceTraders is an online multiplayer game where you buy a spaceship, explore space, and set up trades. But it’s not just any other space exploration game—this one you play by manipulating a REST API. It’s a fun, interactive way for new programmers to learn and stretch their skills. 
+
+
+
+
+
+
+
+
+
+        Replit and Hack Club - Tools to Enhance Education
+      
+
+
+
+
+        Wed Dec 15 2021 by Arihant Swain and JP Kerrane
+      
+
+
+
+
+
+
+
+
+
+
+
+        Repl Space and Templates
+      
+
+
+
+
+        Wed Dec 15 2021 by Tyler Angert, Moudy Elkammash, Connor Brewster
+      
+
+When we want to support a new technology, we're faced with the question: "Do we (the Replit team) build this capability into the Replit directly, or can our users add it themselves?". Usually, we want the answer to be the latter. Repls are like personal computers for your projects. And the more these personal computers can be customized, the more they'll be used in creative, unexpected ways.
+
+
+
+
+
+
+
+
+
+        Ace, CodeMirror, and Monaco: A Comparison of the Code Editors You Use in the Browser
+      
+
+
+
+
+        Tue Dec 14 2021 by Faris Masad
+      
+
+I’ve been working on Replit for roughly six years now, and as the team has grown, I’ve focused on the IDE (what we call the workspace) portion of the product. Naturally, I was increasingly preoccupied with the code editor. While we’ve considered creating a code editor that meets our needs, the complexity involved in developing one, the richness of open-source choices available, and the size of our staff made it a fruitless rabbit hole to enter. Our time is best spent elsewhere. I have had the pleasure (and the pain) of using Ace, Monaco, and CodeMirror in production settings, sometimes simultaneously (more on that later). In this post, I’ll go over some Replit history, my experience using the editors, and how they stack up against one another.
+
+
+
+
+
+
+
+
+
+        $80m to bring the next billion software creators online
+      
+
+
+
+
+        Thu Dec 9 2021 by Amjad Masad
+      
+
+Following our Series A announcement earlier this year, I'm thrilled to announce that we raised Series B financing from new and existing investors. This year alone we've doubled our user base to reach 10m+ users, tripled concurrent containers on our network, and grew traffic to sites and apps on the network by orders of magnitude. This is a major milestone for our team & community.
+
+
+
+
+
+
+
+
+
+        Deploying Django to Replit
+      
+
+
+
+
+        Fri Dec 3 2021 by Samuel Torimiro
+      
+
+Django is a Python framework for building out full-fledged web applications. It’s loved by developers due to its battery-included philosophy and comes preloaded with features you can use to rapidly develop your web application. 
+
+
+
+
+
+
+
+
+
+        Replit Blocks Adult Content and Malware
+      
+
+
+
+
+        Thu Dec 2 2021 by Lincoln Bergeson
+      
+
+At Replit, we have created a general purpose computing environment that anyone can use to run whatever programs they want, and access whatever services they want. You can run almost any type of software in a repl, including Mac OS, a Commodore 64 emulator, DOOM, or even a web browser.
+
+
+
+
+
+
+
+
+
+        Will Nix Overtake Docker?
+      
+
+
+
+
+        Mon Nov 29 2021 by Connor Brewster
+      
+
+In many discussions about Nix, the comparison of Nix and Docker comes up frequently. This question could be dismissed by saying that Nix and Docker are different tools that solve different problems. One is a toolkit for building and deploying containers and the other is a package and configuration manager. However, these tools do have some overlap: they can both be used to create reproducible environments. A reproducible environment is one that can be recreated from scratch in an identical way (ideally bit-for-bit). Practically, this means having the same tools, versions, and configuration between the environments.
+
+
+
+
+
+
+
+
+
+        How to Turn on Dark Mode and Switch Themes on Replit
+      
+
+
+
+
+        Tue Nov 23 2021 by Piero Maddaleni
+      
+
+We recently changed how you change themes on Replit, and since people have been asking, we'll show you how it's done in this short blogpost. Start off by clicking on the hamburger button in the top right corner to open up the sidebar: 
+
+
+
+
+
+
+
+
+
+        How to Set Up Your Own Mastodon Instance with Replit
+      
+
+
+
+
+        Mon Nov 22 2021 by Arek Nawo
+      
+
+With many development tools and even whole development environments moving to the cloud, Replit is at the forefront of this change.
+
+
+
+
+
+
+
+
+
+        Back to School 101: Mastery-Based Programming Tasks
+      
+
+
+
+
+        Fri Nov 19 2021 by Sarah Strong
+      
+
+Part 3 of our back-to-school series. 
+
+
+
+
+
+
+
+
+
+        Announcing File Persistence in Hosted Apps for Hackers
+      
+
+
+
+
+        Thu Nov 11 2021 by Luis Héctor Chávez
+      
+
+We mostly think of repls as being full computers in the cloud, and one of the goals of the platform team at Replit is to enable people to build almost anything in replspace. In the past, when a file was stored in a repl, it would only be saved when the editor was opened. This went against our goal and made it impossible to write certain servers that changed files at runtime. This was especially hard for newcomers, because that's the easiest way to persist information. Starting today, Hacker and Teams subscribers will be able to write services that accept file uploads or store data in a local database (think SQLite) or text file, regardless of how the repl was started.
+
+
+
+
+
+
+
+
+
+        Python for Beginners: Interpreting My Amazon Spending with a Repl
+      
+
+
+
+
+        Wed Nov 3 2021 by Brittany Pirkle
+      
+
+About a year ago, I created a blog series on a novice learner’s journey into the world of code through a look at the basics (read the whole series here). Now, with a much larger knowledge base and understanding of both code and Replit, I am taking it a step further into a new language and project. My goal is to create a practical beginner project and justify why using Replit is the best option, even for beginners.
+
+
+
+
+
+
+
+
+
+        Replit Art Gallery: An introduction to Replit's Illustrator - Joe Baker
+      
+
+
+
+
+        Wed Oct 27 2021 by Joe Baker
+      
+
+Who makes Replit art?
+
+
+
+
+
+
+
+
+
+        Design Systems @ Replit: Better Tokens
+      
+
+
+
+
+        Tue Oct 26 2021 by Barron Webster
+      
+
+
+
+
+
+
+
+
+
+
+
+        Betting on Nix: donating $25K to the NixOS Foundation
+      
+
+
+
+
+        Mon Oct 25 2021 by Dan Stowell
+      
+
+As building software grows more like snapping Legos together, how people find and use those Legos becomes more important. That's why we are donating $25,000 to the NixOS Foundation and betting on Nix as the future of software distribution.
+
+
+
+
+
+
+
+
+
+        Solidity on Replit: Diving into Web3
+      
+
+
+
+
+        Thu Oct 14 2021 by Tyler Angert, Søren Rood, Alex Kotliarskyi
+      
+
+
+
+
+
+
+
+
+
+
+
+        Faster Nix Repl Startup
+      
+
+
+
+
+        Wed Oct 13 2021 by Connor Brewster
+      
+
+For the past few months we have been working on improving our Nix integration. Nix allows users to easily use over 80,000 Linux packages in a repl. Nix opens the door to many exciting tools and applications on the platform. Our goal is for every repl to be backed by Nix. Before we can do that, we need to ensure that the Nix experience is just as good, if not better, than our existing Polygott solution.
+
+
+
+
+
+
+
+
+
+        Replit privacy & terms updates: commercial embeds + student privacy pledge!
+      
+
+
+
+
+        Wed Oct 6 2021 by Amjad Masad
+      
+
+Today we're excited to announce that anyone can embed repls on their site, in their app, or as part of their business, including for commercial use. This update is reflected in our terms and conditions. We can't wait to see what you all build.
+
+
+
+
+
+
+
+
+
+        Enter the Shadows with Dark Mode
+      
+
+
+
+
+        Tue Oct 5 2021 by Barron Webster
+      
+
+Looking for how to change your Replit theme? Click here.
+
+
+
+
+
+
+
+
+
+        Changelog - September 2021
+      
+
+
+
+
+        Fri Oct 1 2021 by Replit team
+      
+
+Welcome back to our monthly changelog! This month was full of bug fixes and small tweaks during one of our busiest times of the year. As always, we love hearing from you! Drop us a line on twitter or on our feedback board!
+
+
+
+
+
+
+
+
+
+        Replit + Codex - Beta Release
+      
+
+
+
+
+        Tue Sep 28 2021 by Barron Webster
+      
+
+Update: To stay up to date on Replit and AI, check out our Ghostwriter Beta & AI mode announcement. In it we discuss how we infused state-of-the-art intelligence into nearly all IDE features as well as the future of AI on Replit.
+
+
+
+
+
+
+
+
+
+        Back to School 101 - Curriculum Resources
+      
+
+
+
+
+        Mon Sep 27 2021 by Lena Vu Sawyer
+      
+
+Part 2 of our back-to-school series. 
+
+
+
+
+
+
+
+
+
+        Alexa Summer Hackathon Results
+      
+
+
+
+
+        Fri Sep 24 2021 by Søren Rood
+      
+
+During our summer hackathon, we challenged our community to build Amazon Alexa skills. As usual, we were blown away at the results. This blogpost will announce the winners and showcase some of our favorite submissions.
+
+
+
+
+
+
+
+
+
+        A New Code Editor for Mobile - CodeMirror 6
+      
+
+
+
+
+        Tue Sep 21 2021 by Faris Masad
+      
+
+
+
+
+
+
+
+
+
+
+        Back to School 101 - The Replit Teacher Community
+      
+
+
+
+
+        Mon Sep 20 2021 by Lena Vu Sawyer
+      
+
+Part 1 of our back-to-school series. 
+
+
+
+
+
+
+
+
+
+        How I Created an NPM Package to Access Amtrak's Semi-Private API
+      
+
+
+
+
+        Wed Sep 15 2021 by Piero Maddaleni
+      
+
+Recently, I took it upon myself to both learn TypeScript and reverse engineer Amtrak's train tracking API. The result of this was the Amtrak NPM Package and my own Amtrak Train Tracking API. I wanted to make it easier for others to use the API, as the data received from Amtrak's endpoint isn't useable without the use of decryption, and even then the resulting data is all in one massive JSON object.
+
+
+
+
+
+
+
+
+
+        Data Loss: a sad tale with a happy ending
+      
+
+
+
+
+        Fri Sep 10 2021 by Luis Héctor Chávez
+      
+
+Earlier this year, we discovered that we were losing data for some of our users. This manifested as either repls being completely empty after reloading, or some of the changes to files not being present after reloading. Obviously losing data is the worst we can do, so we had to fix this immediately. This blog post narrates the adventure of how we discovered this, how we fixed it, and the lessons we learned during the way.
+
+
+
+
+
+
+
+
+
+        New Kaboom Workspace
+      
+
+
+
+
+        Thu Sep 9 2021 by Tiga Wu
+      
+
+
+
+
+
+
+
+
+
+
+
+        Announcing the Replit Curriculum Hub!
+      
+
+
+
+
+        Thu Sep 2 2021 by Derrick McMillen and Lena Vu Sawyer
+      
+
+Say hello to the Replit Curriculum Hub, your one-stop-shop for quality CS learning materials!
+
+
+
+
+
+
+
+
+
+        Making Replit Faster for Everyone
+      
+
+
+
+
+        Wed Sep 1 2021 by Matt Iselin
+      
+
+Replit's mission is to make programming accessible and provide computer superpowers. To achieve that goal, repls need to be fast. To that end we've been working on a number of improvements in our infrastructure and code to unlock faster repls.
+
+
+
+
+
+
+
+
+
+        Changelog - August 2021
+      
+
+
+
+
+        Wed Sep 1 2021 by Replit team
+      
+
+Fall is right around the corner, and its time for the August edition of our monthly changelog!
+
+
+
+
+
+
+
+
+
+        Coding for Change
+      
+
+
+
+
+        Wed Sep 1 2021 by Lena Vu Sawyer
+      
+
+Replit and Congressional App Challenge are joining efforts to increase Computer Science literacy and access in the U.S. 
+
+
+
+
+
+
+
+
+
+        Replit Teacher Updates - August 2021
+      
+
+
+
+
+        Sat Aug 28 2021 by Lena Vu Sawyer
+      
+
+*Edit: As of March 2022, Teams for Education is now free to all educators. You can gain access here.
+
+
+
+
+
+
+
+
+
+        Replit Joins Google for Education Integrated Solutions Initiative
+      
+
+
+
+
+        Tue Aug 24 2021 by Lena Vu Sawyer
+      
+
+New Replit features, powered by Google Cloud, make it easier than ever for students to code.
+
+
+
+
+
+
+
+
+
+        Announcing $100,000 Grant to freeCodeCamp
+      
+
+
+
+
+        Mon Aug 23 2021 by Patrick Coleman
+      
+
+
+
+
+
+
+
+
+
+
+        Everyone will learn to program (or why the computer revolution *still* hasn't happened yet)
+      
+
+
+
+
+        Thu Aug 19 2021 by Patrick Coleman
+      
+
+Last week I spoke on behalf of Replit at the ASU+GSV summit, one of the largest education technology conferences in the world, on the topic "Is coding an essential modern fluency?". For me and the rest of the panelists (Mike Smith of Harvard, Taniya Mishra of SureStart, and Krishna Vedati of Tynker) the answer is an easy and obvious YES. And I'm guessing if you've been coding along with Replit's journey, it's a yes too.
+
+
+
+
+
+
+
+
+
+        Replit²
+      
+
+
+
+
+        Fri Aug 6 2021 by Guillaume St-Pierre
+      
+
+Replit has many use cases and features, but one that's less talked about is its ability to serve as a secure compute environment for specialized apps. What if you want to build some tool that will generate code, then execute it for your users? Or maybe you are building a specialized online IDE that injects code for users, then executes the bundle? With Replit, you can start building those kinds of applications quickly without having to focus on building a fast and secure backend. Build the frontend, we'll provide the compute power.
+
+
+
+
+
+
+
+
+
+        The Replit Summer Hackathon
+      
+
+
+
+
+        Tue Aug 3 2021 by Søren Rood
+      
+
+We're excited to announce the Replit summer hackathon! What you'll be building: Amazon Alexa skills!
+
+
+
+
+
+
+
+
+
+        Building Alexa Skills On Replit
+      
+
+
+
+
+        Mon Aug 2 2021 by Søren Rood
+      
+
+At Replit, we want to give everyone in the world computer superpowers.
+
+
+
+
+
+
+
+
+
+        Changelog - July 2021
+      
+
+
+
+
+        Sun Aug 1 2021 by Replit team
+      
+
+We're back for the July edition of our monthly changelog where we highlight some of our big and small feature releases, user experience changes, and bug fixes!
+
+
+
+
+
+
+
+
+
+        The wild west of the internet
+      
+
+
+
+
+        Thu Jul 29 2021 by Nathan Zilora
+      
+
+Emails are the wild west of the internet. A lawless land filled with incompatibility and unexpected behaviors. At the same time, it’s still one of the best ways we can reach our customers and inform them about new features and events that they might be interested in. I’m going to talk about a recent experience I had with the emails, specifically Gmail iOS dark mode. My hope is that you can learn from this experience and it’ll save you the time and turmoil it cost me.
+
+
+
+
+
+
+
+
+
+        A Python Framework With Built-in Database and Auth Support
+      
+
+
+
+
+        Wed Jul 28 2021 by Spencer Pogorzelski
+      
+
+Replit enables coders to build apps quickly. With nothing but a browser, a developer can spin up a server, store data in Repl DB, and authenticate users using Repl Auth. However, until today, users had to string together all these components to build an app. This is why we're excited to announce replit.web, a Python framework focused on making apps quickly. Building an app with user auth and persistence has never been easier:
+
+
+
+
+
+
+
+
+
+        Building a web app with Nix (Because why not?)
+      
+
+
+
+
+        Fri Jul 16 2021 by Guillaume St-Pierre
+      
+
+Learning a new programming language can be a very difficult task. Where should you start? How do I improve my skills from "Hello, World!" to building complete applications? It helps to have a starter project. One of my favourites is building a web app. I have been learning the Nix package manager for a few weeks now - starting with creating a dynamic version system - and I think its the perfect time to write a web application with it (Even though I probably shouldn't).
+
+
+
+
+
+
+
+
+
+        Building the future of collaborative coding
+      
+
+
+
+
+        Fri Jul 9 2021 by Sergei Chestakov
+      
+
+One of the most powerful aspects of Replit is the
+ability to collaborate with friends and peers in real time.
+When we first added support for multiplayer,
+we set out to make it as easy as possible to code with others.
+Since then, collaboration has become an integral part of our product
+with the release of features like threads
+and draw.
+
+
+
+
+
+
+
+
+
+        Our First Replit Ventures
+      
+
+
+
+
+        Tue Jul 6 2021 by Søren Rood
+      
+
+Our first Replit Ventures was a tremendous success. 
+
+
+
+
+
+
+
+
+
+        Changelog - June 2021
+      
+
+
+
+
+        Fri Jul 2 2021 by Replit team
+      
+
+Welcome to the June edition of our monthly changelog, where we highlight some of our big and small feature releases, user experience changes, and bug fixes!
+
+
+
+
+
+
+
+
+
+        Multiplayer Debugging Experience for Python, Node.js, Java, and C/C++
+      
+
+
+
+
+        Fri Jul 2 2021 by Luis Héctor Chávez, Alex Kotliarskyi, Tyler Angert
+      
+
+A couple of months ago, we announced our intention to create a new collaborative program comprehension experience for your repls. This project isn't just about figuring out what's wrong with your code, but really understanding what's going on, together with the people you work with. Today, we are happy to announce that we're releasing the first phase of this experience: a Replit-native, zero-configuration, multiplayer-friendly, interactive debugger for C, C++, Node.js, Python, and Java repls!
+
+
+
+
+
+
+
+
+
+        AmpleMarket gets their whole team coding with Replit
+      
+
+
+
+
+        Wed Jun 30 2021 by Obaida Albaroudi & Patrick Coleman
+      
+
+Speed is the number one thing that lets startups compete against the big companies. Imagine how fast you could move if your whole team could do even just a little bit of coding. That tedious repetitive task? Automate it. Communicating product requirements? Code an MVP. Etc. Etc.
+
+
+
+
+
+
+
+
+
+        Dynamic version for Nix derivations
+      
+
+
+
+
+        Fri Jun 25 2021 by Guillaume St-Pierre
+      
+
+UPDATE - 05/07/2021 Thanks to Travis Cardwell for letting us know that Nix requires the version part of the derivation name to start with a digit. The post has been upated from its original version to include this requirement. 
+
+
+
+
+
+
+
+
+
+        How I learned to code by creating a simple Slack bot
+      
+
+
+
+
+        Fri Jun 25 2021 by Tala Awwad
+      
+
+Hi, my name is Tala👋 , and I have always been so inspired by engineers and their ability to create something out of basically nothing. So one goal of mine was to be able to create something just like they do every day. Mind you, in no way am I experienced in programming; I actually find it quite intimidating (my background is business). However, I wanted to challenge myself and start off small by creating a Slack bot that can automatically send our “Weekly Wins” thread. 
+
+
+
+
+
+
+
+
+
+
+        [RV0] How a team of high schoolers built a tool to make machine learning easy
+      
+
+
+
+
+        Thu Jun 24 2021 by Pranav Teegavarapu, Benjamin Smith, Makuza Mugabo Verite
+      
+
+Hello! Today, we're announcing the beta launch of Kobra, a visual programming language for machine learning.
+
+
+
+
+
+
+
+
+
+        Lessons on CS Equity from the RESPECT Conference
+      
+
+
+
+
+        Fri Jun 11 2021 by Lena Vu Sawyer
+      
+
+I had the pleasure of attending the RESPECT conference last month, convening with and hearing from a number of CS educators and researchers throughout the week. The focus of the conference was on equity in CS education.
+
+
+
+
+
+
+
+
+
+        [RVO] How Nisawa is Enabling Reliable Delivery in African Cities
+      
+
+
+
+
+        Thu Jun 10 2021 by Francois Birori & Anselme Mucunguzi
+      
+
+Can you imagine how you’d get a package or meal delivered to you if your house did not have a physical address? Now imagine how that would work if your local food delivery, postal, or parcel services were also ineffective, lacked the technology, or didn't exist at all. 
+
+
+
+
+
+
+
+
+
+        [RV0] How we used focus and prioritization to transform our student-run startup
+      
+
+
+
+
+        Wed Jun 9 2021 by Karan Dalal and Arnuv Tandon
+      
+
+Running a successful startup is like driving a nail through a thick piece of wood. You can hammer as hard as you want, but without a sharp nail–extreme focus and a specific target–you’re not going anywhere.
+
+
+
+
+
+
+
+
+
+        Top 8 Common Java Errors for Beginners - and How to Solve Them
+      
+
+
+
+
+        Tue Jun 8 2021 by Matthew Wallace
+      
+
+Did you know that in Java's standard library, there are a total of more than 500 different exceptions! There lots of ways for programmers to make mistakes - each of them unique and complex. Luckily we've taken the time to unwrap the meaning behind many of these errors, so you can spend less time debugging and more time coding. To begin with, let's have a look at the syntax errors!
+
+
+
+
+
+
+
+
+
+        [RV0] How we gameified exploratory CS with Tech Roulette
+      
+
+
+
+
+        Fri Jun 4 2021 by Mingjie Jiang, Megan Cui, Brian Xiang
+      
+
+We're Execute Big, a CS education non-profit org, and as three-person strong team, our mission is to give every student the chance to explore and experience CS education. We've been bringing unique programs to students across the country, and the move to virtual programs sparked a little creativity in us — after all, virtualization has made education more accessible than ever.
+
+
+
+
+
+
+
+
+
+        How we went from supporting 50 languages to all of them
+      
+
+
+
+
+        Mon May 24 2021 by Connor Brewster and Mason Clayton
+      
+
+At Replit, we want to give our users the most powerful, flexible, and easy-to-get-started coding environment. However, it has been limiting because we only support a fixed set of languages and OS packages, some of which are outdated. Ideally, users should be able to use any language and install any package with minimal fuss. That's why today, we're announcing that we've incorporated Nix in our infrastructure to give users access to over 30,000 OS packages instantly.
+
+
+
+
+
+
+
+
+
+        Replit Apps
+      
+
+
+
+
+        Wed May 12 2021 by Tyler Angert
+      
+
+
+
+
+
+
+
+
+
+
+
+        A URL Shortener in 16 Lines of Code with Node.js and nanoexpress
+      
+
+
+
+
+        Tue May 11 2021 by Piero Maddaleni
+      
+
+The Backstory
+
+In October of 2020, Meghan, our people person, messaged me asking if there was a professional-looking URL shortener. Over the next 48 hours, I created Replit.sh, a URL shortener for use by the Replit team and published it on Github for anyone to use. For the past few days, I have been working on rewriting the entire system from the ground up and so it just made sense for me to make a tutorial on how it is done.
+
+
+
+
+
+
+
+
+
+        How to send $ETH in 19 lines of Python
+      
+
+
+
+
+        Wed May 5 2021 by Soren Rood
+      
+
+With the emergence of blockchain technology, people can get paid from anywhere in the world. This type of transaction is revolutionary because we are able to send value from one person to another with no bank.
+
+
+
+
+
+
+
+
+
+        Team Nicknames
+      
+
+
+
+
+        Wed May 5 2021 by Lena Vu Sawyer
+      
+
+You can now give your team members nicknames in Replit Teams! This will help admins better organize and view their teammates.
+
+
+
+
+
+
+
+
+
+        Replit Empowers Synctera to Find Hidden Talent
+      
+
+
+
+
+        Mon May 3 2021 by Obaida Albaroudi & Patrick Coleman
+      
+
+Talent is one of the most important factors in the success of a new business, and Synctera has been using Replit to run a technical interview process that effectively uncovers the best engineers, whether they have a stellar resume or a nontraditional background.
+
+
+
+
+
+
+
+
+
+        Why We Built Our Own DNS Infrastructure
+      
+
+
+
+
+        Thu Apr 29 2021 by Connor Brewster
+      
+
+This post is part of a series about the wonderful world of clusters. Check out the first post for an overview of what clusters are all about. In this post we will take a peek under the hood of our hosting infrastructure and walk through how we made hosting work in a multi-cluster world.
+
+
+
+
+
+
+
+
+
+        Why We Switched From Webpack To Vite
+      
+
+
+
+
+        Wed Apr 28 2021 by Sergei Chestakov
+      
+
+At Replit, our mission is to make programming more accessible. We provide people with free compute in the cloud so that they can build apps on any device. Among the most popular ways to create apps on the web today is React. Historically, however, React tooling has been slow on Replit. While the JavaScript ecosystem has produced excellent tools for professional developers, many of the most popular ones, like Create React App and Webpack, have become increasingly complex and inefficient.
+
+
+
+
+
+
+
+
+
+        Debug, Debugger, Debuggest!—A new Collaborative Comprehension Experience
+      
+
+
+
+
+        Fri Apr 23 2021 by Luis Héctor Chávez
+      
+
+Earlier this year, we decided to close the #1 most requested entry in our Canny board, which requested to improve our previous debugger so that it could also work with multiple files in a project. This was done because it became very clear that there is a need to have better tools to aid with program comprehension built directly into Replit. But we also realized that we could go even further. Even though most of our users could be happy with a traditional debugger experience, our mission is to give people computer superpowers! So today we are announcing that we are working on a new, reimagined, collaborative debugging experience (or maybe we should call it a "program comprehension experience?").
+
+
+
+
+
+
+
+
+
+        A whiteboard for every repl
+      
+
+
+
+
+        Fri Apr 23 2021 by Jeremy Press
+      
+
+Replit is a place where beginners, educators, and professionals alike can code and share their ideas collaboratively. Something that goes hand and hand with your source code is how you communicate it. We built threads, which allow you to leave contextual messages around code, and added better markdown support for READMEs and other guides. However, we were missing a visual way for people to explain and collaborate around code. Today we're excited to announce support for draw files, powered by excalidraw.
+
+
+
+
+
+
+
+
+
+        Announcing Secrets Management
+      
+
+
+
+
+        Mon Apr 19 2021 by Faris Masad
+      
+
+
+
+
+
+
+
+
+
+
+        Meet the college students who used Replit to build a startup with $1,000 in monthly revenue in 3 weeks
+      
+
+
+
+
+        Tue Apr 13 2021 by Søren Rood
+      
+
+Hi 👋🏻, I'm Søren. I'm a computer science student based in Seattle, Washington. I've always been interested in the intersection of finance and computer science and I tend to find myself building things in the space. Before I was offered a position at Replit, I worked as a software engineer at a FinTech startup writing market-making systems for various crypto brokerages. While I was doing this, I was also working on a side-project with my close friends and co-founders Justin and Steven. This project is called Blubbr.
+
+
+
+
+
+
+
+
+
+        Announcing Replit Ventures
+      
+
+
+
+
+        Tue Apr 13 2021 by Søren Rood
+      
+
+
+
+
+
+
+
+
+
+
+
+        Boosts
+      
+
+
+
+
+        Mon Apr 12 2021 by Sergei Chestakov
+      
+
+Our Hacker plan has always been a great choice if you need more powerful repls. In addition to benefits like private repls, more storage, and always on, the Hacker plan gives all of your repls 4x the CPU and RAM compared to those in our free plan.
+
+
+
+
+
+
+
+
+
+        Introducing system audio
+      
+
+
+
+
+        Thu Apr 8 2021 by Luis Héctor Chávez
+      
+
+We know that games are an important part of our commitment to making programming more accessible, more creative, and more fun. Back in February when we announced a significant revamp to our graphics stack, we also promised that we would also provide system audio integration. That support is finally available today, as an opt-in feature.
+
+
+
+
+
+
+
+
+
+        Securing your graphic repls
+      
+
+
+
+
+        Wed Apr 7 2021 by Luis Héctor Chávez
+      
+
+Have you ever wished to be able to protect your graphic repls against prying eyes? Starting today, all VNC connections are automatically protected by the same token that keep your connection to the repl secure. There is nothing you need to do, since this is completely transparent.
+
+
+
+
+
+
+
+
+
+        Introducing Kaboom
+      
+
+
+
+
+        Tue Apr 6 2021 by Tiga Wu
+      
+
+
+Games are awesome, making games is even more awesome. I love making games, making games makes me happy, being happy makes me make better games, i hope everyone can be happy and enjoy making games!
+-- me, today
+
+
+
+
+
+
+
+
+
+
+        Welcome to the Wonderful World of Clusters
+      
+
+
+
+
+        Fri Mar 26 2021 by Luis Héctor Chávez
+      
+
+Having a solid foundation is critical for us to be able to fulfill our mission of making programming more accessible, more creative, and more fun. We did a great job of making the platform more stable during last year, but every now and then we would still run into unforeseen problems that cascaded into other parts of the platform, producing a bad experience for everyone. So back in October (just a few weeks after I joined the team) when we had 2 load-related site-wide outages within a week, we knew it was time to do a major overhaul of how our infrastructure handles traffic. And now today, we're announcing that as a side effect of that infrastructure change, Hacker repls now run in newer, more powerful machines, which means that we'll have more room to grow and experiment with more benefits for Hackers (and you might find that things feel a little bit snappier lately). This is the first of a three-part series of blogposts on how we rebuilt our infrastructure over the course of ~5 months.
+
+
+
+
+
+
+
+
+
+        Replit Case Study - Creating a 700+ User Web App in a Month
+      
+
+
+
+
+        Tue Mar 23 2021 by Rishabh Anand
+      
+
+
+
+
+
+
+
+
+
+
+        Introducing the Python package cache
+      
+
+
+
+
+        Fri Mar 19 2021 by Luis Héctor Chávez
+      
+
+Figuring out how to install third-party libraries can derail people from learning to code or starting a new side project. We built the Universal Package Manager (UPM for short) to save people from having to think about package installation at all. Just import the library, press run, and UPM will install it into your repl!
+
+
+
+
+
+
+
+
+
+        Replit Case Study - Catalyst Coding Club
+      
+
+
+
+
+        Thu Mar 11 2021 by Aaryan Jain
+      
+
+Realizing the lack of exposure to STEM skills for younger students, a group of high school students started Catalyst, a club to introduce students all ages to CS and making sure it is accessible for everyone. Located in Redmond WA, Catalyst strives to produce an environment in which students can thrive and become passionate about the technological world. It is our goal to help ensure students in our community get the exposure they need to computer science and make an informed decision about their future careers.
+
+
+
+
+
+
+
+
+
+        Markdown Preview
+      
+
+
+
+
+        Thu Mar 11 2021 by Sergei Chestakov
+      
+
+It's always been super fast to start writing markdown in a repl. However, the more we used it, the more we realized there were some key features we were missing that would make our lives easier. Which is why we're excited to announce all of the new improvements we've made to the markdown editing experience on Replit!
+
+
+
+
+
+
+
+
+
+        Replit Dotcom
+      
+
+
+
+
+        Wed Mar 10 2021 by Amjad Masad
+      
+
+tl;dr In the next few days, we'll be moving domains from "repl.it" to "replit.com." Nothing is required on your end -- all urls will automatically redirect and you'll remain logged-in (as if by magic). Nothing else changes. We prefer if people referred to us as "Replit" (pronounced rep-lit 🔥). To understand the origins of our name and how we got here, it's useful to tell you the Replit genesis story:
+
+
+
+
+
+
+
+
+
+        Replit's Intern Interview Process
+      
+
+
+
+
+        Wed Mar 10 2021 by Meghan Larson
+      
+
+Our team is blown away by the level of talent that applied to our 2021 internship programs. I read every official application (over 500!) and looked at countless projects. Our initial intention was to be open to community members that saw the post on our jobs page, applicants that I spoke with at college career fairs, and people that our teammates referred. However, our application link was quickly shared, and we had an avalanche of talented and passionate candidates applying.
+
+
+
+
+
+
+
+
+
+        Introducing Threads: Have Conversations Around Code
+      
+
+
+
+
+        Tue Mar 9 2021 by Arnav Bansal
+      
+
+A few months ago, we announced Annotations for our education users, a feature which lets Replit collaborators highlight code and discuss it in context.
+
+
+
+
+
+
+
+
+
+        Project Due Dates
+      
+
+
+
+
+        Thu Mar 4 2021 by Alisa Chan
+      
+
+*Edit: As of March 2022, Teams for Education is free for all educators. You can gain access here.
+
+
+
+
+
+
+
+
+
+        March 2021 Privacy Update - better protection for you and your data
+      
+
+
+
+
+        Wed Mar 3 2021 by Patrick Coleman
+      
+
+At Replit our mission is to make programming more accessible to everyone, everywhere, and as we've been going global, we know that we have to comply with various privacy laws and regulations around the world, so that you can focus on coding, not privacy compliance.
+
+
+
+
+
+
+
+
+
+        Replit Teams for Education is Leaving Beta!
+      
+
+
+
+
+        Tue Mar 2 2021 by Patrick Coleman
+      
+
+*Edit: As of March 2022, Teams for Education is free for all educators. You can gain access here.
+
+
+
+
+
+
+
+
+
+        No-setup Unit Testing
+      
+
+
+
+
+        Mon Mar 1 2021 by Faris Masad & Jeremy Press
+      
+
+Unit testing is a powerful way to verify that code works as intended and creates a quick feedback loop for development & learning. However, setting up a reproducible unit-testing environment is a time-consuming and delicate affair. At Replit, our goal is to give people coding superpowers by demolishing barriers and democratizing access to expert tools. Today, we're launching our zero-setup unit testing environment.
+
+
+
+
+
+
+
+
+
+        HTTPS by default
+      
+
+
+
+
+        Fri Feb 26 2021 by Newman Hu and Sidney Kochman
+      
+
+The easiest, fastest way to put a server on the internet should also come with secure defaults. That's why we're excited to announce that Replit is now HTTPS-first, which brings additional privacy, integrity, and security benefits to servers hosted on our platform. This applies to every HTTP server repl on Replit.
+
+
+
+
+
+
+
+
+
+        Series A to Revolutionize Computing
+      
+
+
+
+
+        Thu Feb 18 2021 by Amjad Masad & Haya Odeh
+      
+
+Our mission is to give everyone in the world computer superpowers. We build powerful yet approachable tools & platforms for developers, students, and educators.
+
+
+
+
+
+
+
+
+
+        Responsible Disclosure
+      
+
+
+
+
+        Fri Feb 12 2021 by Dan Stowell
+      
+
+On Sunday, January 31st, a vulnerability was disclosed to us by Replit users. People had been allowed to transfer repls they did not own to teams they did own. Within minutes of finding out, we disabled the affected endpoint. We have found no evidence that this vulnerability was exploited to transfer repls from any of our users. If we had found evidence, we would have contacted the affected community members immediately.
+
+
+
+
+
+
+
+
+
+        Hosting Apps with Always On
+      
+
+
+
+
+        Tue Feb 9 2021 by Mason Clayton, Connor Brewster, Sidney Kochman
+      
+
+Today we're excited to announce that Always On repls are available to all hackers! Anyone with Hacker plan can choose up to 5 repls and keep them running all the time. Users with a free plan can access Always On power ups using Cycles! With Always On, you can for example spin up and host an app like a Discord bot in 30 seconds:
+
+
+
+
+
+
+
+
+
+        Introducing Spotlight pages
+      
+
+
+
+
+        Wed Feb 3 2021 by Tyler Angert and Moudy Elkammash
+      
+
+Replit has never been just about code.
+
+
+
+
+
+
+
+
+
+        The Internet of Fun
+      
+
+
+
+
+        Tue Feb 2 2021 by Amjad Masad
+      
+
+Yesterday, I accidentally built a chat app. Surprisingly, it wasn't the first time it happened.
+
+
+
+
+
+
+
+
+
+        A final farewell to Classroom and a hello to the future with Replit Teams
+      
+
+
+
+
+        Mon Feb 1 2021 by Patrick Coleman, Tala Awwad
+      
+
+Hello teachers, and welcome back to another week of updates to Teams for Education. We're continuing to invest heavily in the product, with over half of our engineers working on Teams right now, and are committed to education and to helping give computer science teachers super powers!
+
+
+
+
+
+
+
+
+
+        Killing Containers at Scale
+      
+
+
+
+
+        Mon Feb 1 2021 by Connor Brewster
+      
+
+To make it so that anyone with a web browser can code on Replit, our backend infrastructures runs on preemptible VMs. That means the computer running your code can shutdown at any time! We've made it really fast for repls to reconnect when that happens. Despite our best efforts, though, people had been seeing repls stuck connecting for a long time. After some profiling and digging into the Docker source code, we found and fixed the problem. Our session connection error rate dropped from 3% to under 0.5% and our 99th percentile session boot time dropped from 2 minutes to 15 seconds.
+
+
+
+
+
+
+
+
+
+        Rails in 30 seconds
+      
+
+
+
+
+        Sat Jan 30 2021 by Amjad Masad
+      
+
+Philosophically, Replit and Rails are incredibly aligned. We both exist to remove excessive configuration and complexity that stands in the way of building things. However, for a long time, it bothered me that Replit didn't work well with Rails because we focus on small and lightweight projects. Recently, our infrastructure has gotten much more powerful, and I decided to give Rails another spin. It turns out it's not only possible to do Rails on Replit; it's quite a delightful experience. It takes less than 30 seconds from starting a project to seeing the welcome screen:
+
+
+
+
+
+
+
+
+
+        Going Global
+      
+
+
+
+
+        Thu Jan 28 2021 by Amjad Masad & Zach Anderson
+      
+
+We had the idea for Replit in Jordan, launched as a startup in New York, and incorporated as a company in San Mateo. The US gave us the infrastructure, the capital, and network to launch our business, and for that we're forever grateful. However, to us, the internet is a new country and we want to make our citizenship official and our commitment real. We're joining our global community of hackers, students, teachers, and entrepreneurs and becoming a global company and service. Starting today:
+
+Our first two non-US compute regions are up --  Mumbai, India and London, England -- making us a global service
+We're hiring worldwide making us a globally distributed company
+
+
+
+
+
+
+
+
+
+
+        Ode to Educators
+      
+
+
+
+
+        Thu Jan 28 2021 by Derrick McMillen
+      
+
+"Why am I here? I don't even like computer science", Raul lingered by the door, his body language showing his discomfort. "This is a mistake. I'm not supposed to be here". Now fully within the classroom, Raul alternated between pacing in circles and eyeing the last few good seats left in our quickly filling classroom. Several minutes passed, and my students used the last remaining minutes of their passing period to trade stories from their summer and muse about the overwhelming sensation of the coming year. They were 11th graders now, after all; this was "the most important year to appeal to colleges." 
+
+
+
+
+
+
+
+
+
+        Check out Project Sharing, new to Teams, plus just 9 more days left in Classroom
+      
+
+
+
+
+        Fri Jan 22 2021 by Patrick Coleman, Tala Awwad
+      
+
+*Edit: As of March 2022, Teams for Education is now free to all educators. You can gain access here.
+
+
+
+
+
+
+
+
+
+        Native Graphics Love ❤️
+      
+
+
+
+
+        Fri Jan 15 2021 by Luis Héctor Chávez
+      
+
+We have reimagined the native graphics experience on Replit. Our community of educators and hackers have given us immense feedback on graphics performance and reliability.
+
+
+
+
+
+
+
+
+
+        Classroom & Teams for Education, January 2021 Update
+      
+
+
+
+
+        Thu Jan 14 2021 by Patrick Coleman
+      
+
+*Edit: As of March 2022, Teams for Education is free for all educators. You can gain access here.
+
+
+
+
+
+
+
+
+
+        Improving Graphics
+      
+
+
+
+
+        Sat Jan 9 2021 by Dan Stowell
+      
+
+Since we introduced native graphics in the browser in 2019, our community has built awesome games and programs in LÖVE, Pygame, and Java Swing. Being able to write some code and see the results right away is what Replit is all about. That and finding peace in a bouncing DVD logo:
+
+
+
+
+
+
+
+
+
+        Tabbed Shell
+      
+
+
+
+
+        Tue Dec 29 2020 by Sergei Chestakov
+      
+
+Among the many things that makes Repl.it special is our ability to provide free
+compute to millions of users. We've built a platform that not only lets you
+write and run code, but also gives you access to a Linux container through which
+you can execute arbitrarily complex commands. Despite being such a powerful feature,
+we haven't done a great job of exposing that capability to its fullest.
+
+
+
+
+
+
+
+
+
+        Input/Outputing Testing & Autograding
+      
+
+
+
+
+        Wed Dec 16 2020 by Wade Bourne & Derrick McMillen
+      
+
+Today, a highly requested feature has been released: Input/Output testing & autograding.  The Input/Output Tests pane is embeded within all new and existing Teams for Education projects.
+
+
+
+
+
+
+
+
+
+        Servers just got 4x more powerful
+      
+
+
+
+
+        Tue Dec 15 2020 by Sidney Kochman
+      
+
+This week, we’ve rolled out a change for our Hacker plan subscribers: your servers have up to 4x the speed!
+
+
+
+
+
+
+
+
+
+        Anyone Can Code - Week 7
+      
+
+
+
+
+        Mon Dec 14 2020 by Brittany Pirkle
+      
+
+I have come to the end of my journey and have to say I am pleased with the outcome. My knowledge level before this experiment was literally zero. My husband even told me that code was hard and it would be difficult to produce an entire website in a short period of time. I will admit there were several times of head scratching and google searches galore. I also had several experts I could go to when CSS was confusing me. However, overall, I feel I gained knowledge on a subject that was, formerly, completely foreign to me. Ironically, an associate of mine reached out looking for someone who could assist her in solving an HTML code issue on her website. I was able to successfully help her fix the problem and explain to her some of the basics of code. I wouldn’t go so far as saying the former teacher turned student has become the teacher again, but this new skill set is already coming in handy. 
+
+
+
+
+
+
+
+
+
+        Top 8 JavaScript Errors with Solutions
+      
+
+
+
+
+        Wed Dec 9 2020 by Kelly M.
+      
+
+According to the JavaScript MDN web docs there are six types of JavaScript errors, seven if we count warnings. However, the most common JavaScript errors triggered while coding are reference, syntax, and type errors. This article dives into the top eight of these errors, with examples and descriptive solutions on how to fix them.
+
+
+
+
+
+
+
+
+
+        Anyone Can Code - Week 6
+      
+
+
+
+
+        Thu Dec 3 2020 by Brittany Pirkle
+      
+
+Here we are at week six and the web page is essentially done! That wasn’t so bad, was it? (Here is what I have done the last five weeks). The final step is to create a customized domain. This final step is optional because Repl.it does provide a domain name when a web page is created. However, for something more personalized, a customized domain name can be purchased. The cool part about this is when a domain name is purchased, you can call it whatever you want (as long as the name’s available), you own it, and no one else can use it.
+
+
+
+
+
+
+
+
+
+        We've Been Pwned
+      
+
+
+
+
+        Thu Dec 3 2020 by Mason Clayton
+      
+
+As long as I can remember Replit has been receiving a large number of vulnerability reports. We're very grateful for these and take them extremely seriously. However, 99% of them stem from a misunderstanding of what we do. Our main product is RCE (remote code execution) and naturally this leads to a whole lot of RCE vulnerability reports.
+
+
+
+
+
+
+
+
+
+        How Far We've Come
+      
+
+
+
+
+        Tue Dec 1 2020 by Dan Stowell
+      
+
+In early September we set out to simplify and stabilize Replit. "There's no better time to cut back than when you're growing," said Amjad. We've been working on this project in earnest for 10 weeks now. When you're in the thick of improving things all you can see is what remains undone, so it's good to look at how far you've come!
+
+
+
+
+
+
+
+
+
+        Anyone Can Code - Week 5
+      
+
+
+
+
+        Mon Nov 23 2020 by Brittany Pirkle
+      
+
+How are we already into week 5 of this project? It’s amazing how much I have learned in such a short time. (If you need a recap of the last four weeks, you can go here). When the basic foundational steps are broken down into small chunks, the world of code doesn’t seem as overwhelming as I thought it would be!
+
+
+
+
+
+
+
+
+
+        Markdown syntax for Annotations
+      
+
+
+
+
+        Sat Nov 21 2020 by Arnav Bansal
+      
+
+Great news! We just made it a lot easier to have conversations about code. You can now use familiar markdown syntax in annotations and chat.
+
+
+
+
+
+
+
+
+
+        Teams for Education, Fall 2020 Updates
+      
+
+
+
+
+        Thu Nov 19 2020 by Arnav Bansal and Derrick McMillen
+      
+
+*Edit: As of March 2022, Teams for Education is free for all educators. You can gain access here.
+
+
+
+
+
+
+
+
+
+        Anyone Can Code - Week 4
+      
+
+
+
+
+        Tue Nov 17 2020 by Brittany Pirkle
+      
+
+I am over halfway done with this project and I have learned so much. Coding intimidated me at first, but with Replit it has been extremely user friendly, fun, and attainable! 
+
+
+
+
+
+
+
+
+
+        In-Demand Technologies to Learn to Get Into Tech Industry in 2020
+      
+
+
+
+
+        Mon Nov 16 2020 by Christina Kopecky
+      
+
+It is no surprise that the information technology and software industries will continue to grow as an in-demand profession with many pathways that can be pursued. For software development alone, according to the U.S. Bureau of Labor Statistics projects that the job outlook will increase by 22% by 2030.
+
+
+
+
+
+
+
+
+
+        Anyone Can Code - Week 3
+      
+
+
+
+
+        Mon Nov 9 2020 by Brittany Pirkle
+      
+
+Remember how I said three weeks ago (see the first week of my journey here) that anyone can code? Well, it really is true. In fact, I am kind of impressed with myself in how quickly I have been able to figure out the basics of coding ;). Using Replit, online tutorials, videos, and the guidance of a few experts (at Repl.it) has made the learning curve way less intimidating. But if you follow along with me, it can be easy for you too!
+
+
+
+
+
+
+
+
+
+        reCAPTCHA and the anonymous experience
+      
+
+
+
+
+        Wed Nov 4 2020 by Amjad Masad
+      
+
+When we started Repl.it, we set out to remove all friction from getting started with programming. That also meant getting out of the way and letting you code as quickly as possible. As part of that, and for a long time, you could start coding on Repl.it without a user account. 
+
+
+
+
+
+
+
+
+
+        Anyone Can Code - Week 2
+      
+
+
+
+
+        Mon Nov 2 2020 by Brittany Pirkle
+      
+
+Now that I know WHAT I am going to do (read last week’s blog post here), I need to learn HOW to do it. The world of coding can be overwhelming if you try to learn too much at once. Like school, you have to learn the basics before you can learn more advanced concepts. In this instance, I need to learn basic languages, skills, and concepts first and not get consumed by the many, many advanced concepts of coding. 
+
+
+
+
+
+
+
+
+
+        Group Projects on Teams for Education
+      
+
+
+
+
+        Wed Oct 21 2020 by David Cako
+      
+
+
+
+
+
+
+
+
+
+
+        Programming Language Jam Results
+      
+
+
+
+
+        Sun Oct 11 2020 by Amjad Masad
+      
+
+We're thrilled to announce the PL Jam results. Here are the criteria our judges used:
+
+
+
+
+
+
+
+
+
+        Top 7 CSS Interview Questions
+      
+
+
+
+
+        Fri Oct 9 2020 by Christina Kopecky
+      
+
+In web developer job interviews, you may come across some Cascading Style Sheets (CSS) questions when a hiring team assesses your knowledge of the differences between the main languages used in web development. The cool thing is CSS and HTML are used by all web developers ranging from Wordpress developers to Python developers.
+
+
+
+
+
+
+
+
+
+        Top 7 CSS Interview Questions
+      
+
+
+
+
+        Fri Oct 9 2020 by Christina Kopecky
+      
+
+As one the first topics a full stack web developer or web designer learns, Hypertext Markup Language (HTML) is the basis of a website. It is one of the most popular languages to use in the construction of a web page, used by web developers and designers.
+
+
+
+
+
+
+
+
+
+        How Fig Shipped an MVP in Two Weeks During YC
+      
+
+
+
+
+        Tue Oct 6 2020 by Brendan Falk
+      
+
+My name is Brendan Falk. I am one of the co-founders of Fig (YC S20). Fig adds visual apps and shortcuts to your Terminal. We make it easy for developers to build visual apps that streamline terminal workflows. We then let developers share apps with their team and the community. Our website gives a good demo.
+
+
+
+
+
+
+
+
+
+        Classroom is Transitioning to Teams for Education
+      
+
+
+
+
+        Tue Sep 29 2020 by Patrick Coleman
+      
+
+Edit on Thursday, November 12:
+We've prolonged the Classroom deprecation date to 1/31/2021 to give teachers whose fall classes carry over into the new year extra time to transition.
+
+
+
+
+
+
+
+
+
+        Code Annotations (available now for Teams for Education!)
+      
+
+
+
+
+        Tue Sep 29 2020 by Arnav Bansal
+      
+
+The future of programming is collaborative. To this end, we've just added a new feature that unlocks a lot of potential for educators: the ability to annotate code.
+
+
+
+
+
+
+
+
+
+        Education Privacy Update
+      
+
+
+
+
+        Mon Sep 21 2020 by Patrick Coleman
+      
+
+Teachers, educators, and administrators, we've heard your concerns about privacy. We're excited to announce a new feature for Teams for Education, Private Invites, designed specifically to keep students' (including those under the age of 13) information private. Click here to create a team.
+
+
+
+
+
+
+
+
+
+        Focusing on a solid foundation
+      
+
+
+
+
+        Mon Sep 21 2020 by Amjad Masad
+      
+
+At Repl.it, our mission is to make programming more accessible, more creative, and more fun. A place away from the modern software development grind. It’s an ambitious mission, and it's already resonated with millions of coders who followed their creative energy to build great apps, like repl.email, a free email service built and hosted entirely on Repl.it and available to anyone with a Repl.it account.
+
+
+
+
+
+
+
+
+
+        A database for every repl
+      
+
+
+
+
+        Mon Sep 14 2020 by Sidney Kochman
+      
+
+Repl.it is already the best place to build your apps. But there was a missing piece: where do you store your data?
+We’re introducing Repl.it Database: a fast, free, and easy key-value store that’s built into every repl.
+
+
+
+
+
+
+
+
+
+        How to Land Your First Job as a Python Developer
+      
+
+
+
+
+        Thu Sep 10 2020 by Galina Divakova
+      
+
+Python’s status as one of the world’s most widely used programming languages is well known. Some experts rank it to be at par with JavaScript in terms of simplicity, flexibility, and popularity. Its syntax is so straightforward and easy to read, custom-built software packages written in Python are the most shared in top online repositories. From app development to Google using the language for crawling webpages — Python is everywhere and it’s an exciting time to be a Python Developer.
+
+
+
+
+
+
+
+
+
+        Fall 2020 Education Update
+      
+
+
+
+
+        Sat Sep 5 2020 by Patrick Coleman
+      
+
+Hey teachers! Back to school is here and we've got an update on our education products and pricing.
+
+
+
+
+
+
+
+
+
+        Top 8 Python TypeErrors (and How to Solve Them)
+      
+
+
+
+
+        Wed Sep 2 2020 by James Gallagher
+      
+
+Encountering errors is a natural part of working in computer science. Whether you are a seasoned coding expert or a newbie, seeing some red text in a console accompanied by an error message is an experience that you will have often.
+
+
+
+
+
+
+
+
+
+        CLUI Command bar and Search
+      
+
+
+
+
+        Thu Aug 27 2020 by Moudy Elkammash and Sergei Chestakov
+      
+
+One of the challenges of adding new functionality to any interface is balancing discoverability with visual clutter. We've written before about how a universal command bar can be a great way to expose features without overloading the UI with buttons. This pattern already works well for us in our mobile interface, so now we're bringing it to desktop! Here's a demo of what it looks like:
+
+
+
+
+
+
+
+
+
+        Prepare for a Python Interview with These 7 Questions
+      
+
+
+
+
+        Tue Aug 25 2020 by James Gallagher
+      
+
+How you respond to questions in a technical interview has a massive impact on whether you’re offered a job with an organization. If you can answer technical questions well and explain your reasoning, your chances of being offered a job is greatly improved.
+
+
+
+
+
+
+
+
+
+        7 Questions to Help You Prepare for a JavaScript Interview
+      
+
+
+
+
+        Fri Aug 14 2020 by James Gallagher
+      
+
+Job interviews are stressful enough. Technical interviews take the process a step further. In a technical interview, knowing the answer to a question does not necessarily mean you’ll be able to answer it. You need to know how to articulate the complex technical topics that you’ve mastered.
+
+
+
+
+
+
+
+
+
+        The role of AI in coding
+      
+
+
+
+
+        Sat Aug 8 2020 by Amjad Masad
+      
+
+Update: To stay up to date on Replit and AI, check out our Ghostwriter Beta & AI mode announcement. In it we discuss how we infused state-of-the-art intelligence into nearly all IDE features as well as the future of AI on Replit.
+
+
+
+
+
+
+
+
+
+        Common Errors Python Beginners Encounter (with Solutions)
+      
+
+
+
+
+        Tue Aug 4 2020 by James Gallagher
+      
+
+Like English, Python has its own set of rules. Lines of code have to be written in a certain way, just like how sentences must follow a specific structure. Punctuation must be used within a set of guidelines when you’re writing in both English and Python code.
+
+
+
+
+
+
+
+
+
+        Language Jam Registration is Open
+      
+
+
+
+
+        Sat Aug 1 2020 by Amjad Masad
+      
+
+You can now register your team to enter the programming language jam! In addition to setting up your team you can start brainstorming ideas, but we ask you to wait until the 10th before you start hacking. 
+
+
+
+
+
+
+
+
+
+        Audio - Play sound in any language on the web
+      
+
+
+
+
+        Fri Jul 31 2020 by Wade Bourne
+      
+
+Audio brings games and projects to life! Web developers have it easy, they can publish their apps on the web and play audio using the browser API no problem. However, what about those of us that are command-line and graphics apps in other languages? Repl.it is a special place on the web where you can publish any app in any language, but so far it’s been missing audio capabilities because code executes in a container on the backend. This summer, for my internship I set out to solve this problem and make it possible to play audio in any repl in any language. In this post I’ll show you how to play audio in your repl and then I will chronicle the journey that got us here. 
+
+
+
+
+
+
+
+
+
+        New course - How to teach yourself coding with Quizlet Founder Andrew Sutherland
+      
+
+
+
+
+        Wed Jul 29 2020 by Patrick Coleman
+      
+
+Like many of you, we’ve been stuck at home, trying out new hobbies, attempting to learn new things, and anxiously waiting until life “gets back to normal.” Well, regardless of how you’ve been spending your time during COVID, if you (or a friend or family member) have been wanting to learn how to code, we want to help!
+
+
+
+
+
+
+
+
+
+        Shareable Computing
+      
+
+
+
+
+        Wed Jul 29 2020 by GPT-3
+      
+
+This is a guest blogpost by GPT-3, the new AI software from OpenAI. We only gave it the title and "Repl.it" and it generated the following post for us
+
+
+
+
+
+
+
+
+
+        A Beginner's Guide to SQL
+      
+
+
+
+
+        Tue Jul 28 2020 by James Gallagher
+      
+
+Data is absolutely everywhere. When you visited this web page, you generated data. When you took a note of your to-dos for the day in your reminders, you generated data.
+
+
+
+
+
+
+
+
+
+        Emmet support
+      
+
+
+
+
+        Mon Jul 27 2020 by Amjad Masad
+      
+
+Emmet is a plugin for many popular text editors which greatly improves HTML & CSS workflow, it's also one that's been requested by many of our users.
+
+
+
+
+
+
+
+
+
+        Dear users coming from Glitch
+      
+
+
+
+
+        Thu Jul 23 2020 by Amjad Masad
+      
+
+First, at Replit we're not motivated by competition. What we care about the most is making programming and computing more accessible. That means anyone who wants to code and build things should be able to do so without any hurdles.
+
+
+
+
+
+
+
+
+
+        The Programming Language Jam & Grant
+      
+
+
+
+
+        Tue Jul 21 2020 by Amjad Masad
+      
+
+UPDATE: The jam registration is now open. Read the instructions.
+
+
+
+
+
+
+
+
+
+        HTML Concepts to Start Your Web Development Journey
+      
+
+
+
+
+        Fri Jul 17 2020 by Christina Kopecky, Career Karma
+      
+
+
+
+
+
+
+
+
+
+
+        Java Concepts I Wish I Knew Years Ago
+      
+
+
+
+
+        Fri Jul 10 2020 by James Gallagher
+      
+
+When I think about the best programming languages to learn, Java is near the top of the list. The language has a wide range of use cases and a beginner-friendly syntax that makes it a great language to learn. While Java may be older than some languages like Ruby or Python, it’s a valuable skill to have if you’re willing to devote the time to learning Java.
+
+
+
+
+
+
+
+
+
+        CSS Concepts I Wish I Had Known Years Ago
+      
+
+
+
+
+        Mon Jul 6 2020 by Christina Kopecky
+      
+
+When I think of web development, I like to think of it in terms of building a house. When we learn HTML, we are learning how to build the web page from the ground up, framing it with the lumber that will eventually become our end product.
+
+
+
+
+
+
+
+
+
+        Multitabs
+      
+
+
+
+
+        Thu Jul 2 2020 by Sergei Chestakov
+      
+
+Repl.it is a great place for prototyping ideas and starting new projects. However as your projects get bigger, the editing experience starts feeling a little limited. That's why we're exciting to announce that we're adding support for tabs!
+
+
+
+
+
+
+
+
+
+        Teams for Education
+      
+
+
+
+
+        Tue Jun 30 2020 by Amjad Masad
+      
+
+*Edit: As of March 2022, Teams for Education is free for all educators. You can gain access here.
+
+
+
+
+
+
+
+
+
+        Git: An Introduction for Beginners
+      
+
+
+
+
+        Mon Jun 29 2020 by James Gallagher
+      
+
+When you’re working on a software project, it’s crucial to keep a log of all the changes made to the project. This will help you see how your work has evolved over time. It will also allow other collaborators on a project to keep track of what changes have been made and by who. That’s where Git comes in.
+
+
+
+
+
+
+
+
+
+        Community Video Competition
+      
+
+
+
+
+        Tue Jun 23 2020 by Patrick Coleman
+      
+
+Over the past week, we ran a video competition for Replers. We got some great submissions from the community, and now it's time to announce the winners!
+
+
+
+
+
+
+
+
+
+        Popular Beginner JavaScript Concepts
+      
+
+
+
+
+        Mon Jun 22 2020 by James Gallagher
+      
+
+JavaScript is behind nearly every modern website on the web. JavaScript powers most of the dynamic features you see on the web, such as buttons which change when they’re clicked or images with zoom capabilities.
+
+
+
+
+
+
+
+
+
+        Popular Beginner Python Concepts
+      
+
+
+
+
+        Mon Jun 15 2020 by James Gallagher
+      
+
+Python is a programming language that’s widely favored by beginners. It’s no wonder, really. Python has a simple syntax which many people say resembles English, so it’s easy to read and write. In addition, Python is used for a wide array of purposes, from data science to web development.
+
+
+
+
+
+
+
+
+
+        Repl.it and GitHub Classroom
+      
+
+
+
+
+        Thu May 28 2020 by Tyler Angert & Jeremy Press
+      
+
+Repl.it has always tried to make coding fast, easy, and work seamlessly with your other tools. That’s why we’re excited to announce that Repl.it has teamed up with GitHub Classroom to make learning how to code even easier.
+
+
+
+
+
+
+
+
+
+        Share where you are in a Repl with Deeplinking
+      
+
+
+
+
+        Fri May 22 2020 by Sergei Chestakov
+      
+
+Oftentimes when we're sharing a repl with a friend we want to link them to exactly where we are in our project. Well now you can with deeplinking!
+
+
+
+
+
+
+
+
+
+        Terminal Links
+      
+
+
+
+
+        Thu Apr 30 2020 by Arnav Bansal
+      
+
+Terminals make it hard to copy things: Selecting text works differently to what people are used to, and ^C aborts the current program. Links are hard to use.
+
+
+
+
+
+
+
+
+
+        Improving Repl.it's Mobile UX
+      
+
+
+
+
+        Tue Apr 28 2020 by Moudy Elkammash
+      
+
+I like the process of writing because of how simple and portable the tools are. Regardless of time or place, a way to write things down is never far away. There's very little friction between inspiration and experimentation. I wish writing code was more like this.
+
+
+
+
+
+
+
+
+
+        Bringing Repl.it's Marketing to the Modern Age
+      
+
+
+
+
+        Fri Apr 17 2020 by Tyler Angert
+      
+
+
+
+
+
+
+
+
+
+
+        Terminal Search
+      
+
+
+
+
+        Tue Apr 14 2020 by Amjad Masad
+      
+
+When you're deep into a debugging session printing a bunch of here, there, and wat, the output in the terminal can get hard to read. That's when search comes in handy, and that's why we're excited to announce our new terminal search functionality. 
+
+
+
+
+
+
+
+
+
+        Packaging Support for Java - Try Maven Packages in Your Browser
+      
+
+
+
+
+        Wed Mar 25 2020 by Amjad Masad
+      
+
+Java is one of the most popular languages on Repl.it, and the JVM powers many of our other languages (Java Swing, Clojure, Kotlin). We want to make it as easy as possible to code with other people and build new programs out of programs that already exist. So we've added packaging support for Java!
+
+
+
+
+
+
+
+
+
+        Using Repl.it as a CMS
+      
+
+
+
+
+        Mon Mar 23 2020 by Tyler Angert
+      
+
+At Repl.it, we try to dogfood (use our own product) as much as we can. Parts of Repl.it are already developed on / hosted entirely on itself-- our blog, our docs, and even our new UI library is being developed almost entirely on Repl.it. But one interesting use case we’re exploring now is using Repl.it as a CMS for all of our new marketing pages.
+
+
+
+
+
+
+
+
+
+        How to Conduct Remote Interviews
+      
+
+
+
+
+        Fri Mar 20 2020 by Amjad Masad
+      
+
+Remote interviews can be hard, especially if you’ve never done them before. With the COVID-19 crisis, we’re seeing a lot of teams forced to transition to remote interviewing. Luckily, we’ve done hundreds of remote phone screens, and more recently we’ve been doing what we’re calling “remote onsites.” In this post, we'll describe how we and some of our customers leverage Repl.it Multiplayer -- our realtime collaborative development environment -- and other tools to interview candidates remotely.
+
+
+
+
+
+
+
+
+
+        Teach Coding Remotely - free for public schools and 80% discount for everyone else
+      
+
+
+
+
+        Fri Mar 13 2020 by Amjad Masad
+      
+
+
+
+
+
+
+
+
+
+
+        CLUI: Building a Graphical Command Line
+      
+
+
+
+
+        Thu Mar 5 2020 by Tyler Angert and Moudy Elkammash
+      
+
+
+“Command line interfaces. Once that was all we had. Then they disappeared, replaced by what we thought was a great advance: GUIs. GUIs were - and still are - valuable, but they fail to scale to the demands of today's systems. So now command line interfaces are back again, hiding under the name of search. Now you see them, now you don't. Now you see them again. And they will get better and better with time: mark my words, that is my prediction for the future of interfaces.” [1]
+
+
+
+
+
+
+
+
+
+
+        Repl from Repo
+      
+
+
+
+
+        Tue Dec 10 2019 by Amjad Masad
+      
+
+When I think of GitHub I imagine a vast network of people and code; a
+superorganism that changed how we make software. When I was getting into
+programming, starting a new project was daunting -- you had to imagine and
+build everything nearly from scratch. My version of code-sharing was calling my
+older cousin who was going to college for CS and getting code dictated to me
+over the phone. When the Internet arrived in my home town, it made hacking on new
+projects so much more fun. Starting a new project, at least initially, became
+about discovery:
+
+
+
+
+
+
+
+
+
+        Open-Sourcing the Universal Package Manager
+      
+
+
+
+
+        Wed Oct 30 2019 by Radon Rosborough
+      
+
+
+
+
+
+
+
+
+
+
+
+        Free Private Repls for Eligible Students
+      
+
+
+
+
+        Tue Sep 24 2019 by Bryan Byrne
+      
+
+We believe everyone should have instant access to a complete coding environment in their browser. That’s why Repl.it has joined the GitHub Student Developer Pack, giving eligible students free access to private repls and unlimited multiplayer sessions. Students can now focus on learning and collaborating with their classmates in new ways, without the hassle of setting up a new environment each time.
+
+
+
+
+
+
+
+
+
+        Making Repl.it Collaborative at Heart
+      
+
+
+
+
+        Wed Sep 18 2019 by Amjad Masad
+      
+
+Coding, people believed, was an activity hackers did alone. While that might
+have been true in the past, the world is changing. New programmers come online
+every day and they want to effortlessly work and interact with others while
+writing code. Yet collaborative coding environments have remained troublesome to
+setup.
+
+
+
+
+
+
+
+
+
+        SQLite, replified
+      
+
+
+
+
+        Fri Aug 2 2019 by Sidney Kochman
+      
+
+SQLite is now a supported language on Repl.it! Our SQLite support brings the entire SQLite command-line interface right into your workspace. Now you have a simple way to experiment, prototype, or refine your data model with SQL.
+
+
+
+
+
+
+
+
+
+        Previewing Markdown in Repls
+      
+
+
+
+
+        Fri Aug 2 2019 by Tim Chen
+      
+
+When our community members want to provide instructions within a repl,
+the most common pattern we've seen is in a .txt file, or as a code
+comment. Users quickly figured out that while they could make markdown
+files, there was no way to render it in a more readable format. Today,
+that changes. We're happy to announce that you can now preview markdown
+in repls!
+
+
+
+
+
+
+
+
+
+        Dev Spotlight with Chad Fowler: Build something useless, become a better developer.
+      
+
+
+
+
+        Mon Jul 1 2019 by Katya Delaney & Katherine Huang
+      
+
+Last week, Kat and I were lucky enough to sit down with Chad Fowler, programmer, author of The Passionate Programmer, start-up investor, founder of both The International Ruby Conference and RailsConf, and musician. 
+
+
+
+
+
+
+
+
+
+        Adding a language to Repl.it: Emacs Lisp
+      
+
+
+
+
+        Mon Jun 24 2019 by Radon Rosborough
+      
+
+At Repl.it, we want to provide a top-tier online programming
+experience in as many languages as we can support. Today, we’ll show
+you just how we do that.
+
+
+
+
+
+
+
+
+
+        Make coding your jam
+      
+
+
+
+
+        Thu Jun 20 2019 by Katherine Huang
+      
+
+Code + music: In tune with each other
+
+
+
+
+
+
+
+
+
+        Repl.it Q&A
+      
+
+
+
+
+        Tue May 14 2019 by Katya Delaney
+      
+
+Building tools for a helpful community
+“Community” is one of the hardest concepts to define in the English language. Weird, right? It seems like it would be intuitive, but it’s actually something sociologists have struggled with for hundreds of years. Is a community defined by a shared space? A language? A goal? Something as nebulous as just a feeling or an attitude? The answer changes dramatically depending on who you ask.
+
+
+
+
+
+
+
+
+
+        Repl.it GFX: Native graphics development in the browser
+      
+
+
+
+
+        Thu Mar 21 2019 by Amjad Masad
+      
+
+At Repl.it we live and breathe making software creation easier. With our
+programming environment, you could start coding in your favorite language in
+seconds. With live deployments, we made web hosting a breeze. With Multiplayer,
+we've removed the drudgery from coding with friends. And today, we're excited to
+bring native GUI applications and game development to the browser.
+
+
+
+
+
+
+
+
+
+        Repl.it Multiplayer
+      
+
+
+
+
+        Thu Dec 6 2018 by Faris & Amjad Masad
+      
+
+Today we're announcing the most-significant evolution of our platform — something we've been building towards for a long time that we're thrilled to share with you.
+
+
+
+
+
+
+
+
+
+        Colorizing Stderr: racing pipes, and libc monkey-patching
+      
+
+
+
+
+        Fri Nov 2 2018 by Rob Blanckaert
+      
+
+Errors are red,
+Outputs are white,
+File descriptor injection is bold,
+Let me tell you about LD_PRELOAD.
+
+
+
+
+
+
+
+
+
+        Repl.it raises $4.5M, announces a million users
+      
+
+
+
+
+        Mon Oct 22 2018 by Amjad Masad
+      
+
+We're thrilled to announce that we have raised a Seed round led by Andreessen
+Horowitz, with Marc Andreessen and Andrew Chen championing the deal. We're also
+sharing that a million users are now using Repl.it. Moreover,
+our developers have shipped 250,000 websites/apps since our hosting platform launch in March.
+
+
+
+
+
+
+
+
+
+        File Switcher
+      
+
+
+
+
+        Tue Oct 16 2018 by Faris Masad
+      
+
+A few days ago we shipped a simple feature that will save our users time in finding and opening files, especially for larger projects.  This can even be used without having the file tree visible.  Read on to see how to use it and to see a demonstration.
+
+
+
+
+
+
+
+
+
+        Rejected Then Recruited: Our Journey into Y Combinator
+      
+
+
+
+
+        Tue Sep 25 2018 by Amjad Masad
+      
+
+"The intoxicating delight of sudden understanding"1 best describes what I felt the first time I derived the Y Combinator (guided by the Little Schemer book). Learning Lisp (by way of Scheme) is how I first came about Paul Graham's essays. Which was, of course, a gateway drug to startups.
+
+
+
+
+
+
+
+
+
+        Databases Built by Students
+      
+
+
+
+
+        Mon Sep 24 2018 by Nathan Zilora
+      
+
+In case you weren't aware, the repl.it discord server recently had a code jam, with the objective being to make a database. Over 14 people finished and submitted a design for the jam. However this jam was a bit different compared to our first and second jams. First of all, we have groups of 2, instead of individual people. This could be viewed and a boon or a bane, but we'll go over that in more detail later. The second set differences were the bonus points. In the past, we've always graded on code quality, efficiency, and creativity.
+
+
+
+
+
+
+
+
+
+        Bash Shell Experiment
+      
+
+
+
+
+        Fri Sep 14 2018 by Rob Blanckaert
+      
+
+Repl's now provide access to an experimental bash shell via the command palette (F1)
+
+
+
+
+
+
+
+
+
+        Dark Theme Released
+      
+
+
+
+
+        Thu Sep 13 2018 by Tim Chen
+      
+
+Looking for how to change your Replit theme? Click here.
+
+
+
+
+
+
+
+
+
+        Hack Chicago
+      
+
+
+
+
+        Fri Aug 10 2018 by Yev Barkalov
+      
+
+On the weekend of July 21st, we sponsored and attended the Midwest's largest high school hackathon, Hack Chicago!
+
+
+
+
+
+
+
+
+
+        Community-Led Code Jams
+      
+
+
+
+
+        Fri Aug 10 2018 by Tim Chen
+      
+
+A few months ago, we created a new Discord channel - a real time chat app - for Repl.it.  We've since expanded our user count to be well over 500.  Our Discord server is community-driven - we have a team of three users who help us moderate the server and facilitate a culture of friendly collaboration and sharing knowledge.  However, our favorite outcome of this community are the code jams.
+
+
+
+
+
+
+
+
+
+        How to use Firebase for a website with Replit
+      
+
+
+
+
+        Thu Jul 26 2018 by Yev Barkalov
+      
+
+Today we're going to learn how to use Firebase as a database for a simple website using JavaScript!
+
+
+
+
+
+
+
+
+
+        Not Hotdog
+      
+
+
+
+
+        Thu Jul 19 2018 by Yev Barkalov
+      
+
+Today we're going to write a program that tells you whether an image is a hotdog or not!
+
+
+
+
+
+
+
+
+
+        Universal Package Manager
+      
+
+
+
+
+        Thu Jul 19 2018 by Amjad Masad
+      
+
+Open-source has revolutionized software development -- it wouldn't be an
+overstatement to say that it's been the most significant productivity win for developers
+in the last decade or so. At Repl.it, our goal is to make programming more
+accessible and what better way to do that than make available to programmers the
+entirety of open-source packages available at their fingertips.
+
+
+
+
+
+
+
+
+
+        July Repl.it IRL Recap
+      
+
+
+
+
+        Mon Jul 16 2018 by Yev Barkalov
+      
+
+On July 11th, we had our second Repl.it IRL and it was an amazing event!
+
+
+
+
+
+
+
+
+
+        Zero Setup VSCode Intelligence
+      
+
+
+
+
+        Mon Jul 2 2018 by Faris Masad
+      
+
+At Repl.it our goal is to provide state of the art in developer tools to
+everyone in the world, for free. When we started moving our product beyond a
+simple REPL and started adding IDE features, we had to invent standards and
+wrappers around every language tool for our frontend to consume. For every
+editor feature, say errors and warnings (linting), we had to extend our
+development protocol with a set of commands and data structures, and then teach
+our development containers how to wrap the given tool, say Pylint, and our
+frontend on how to consume it (say annotate the editor with errors and
+warnings). A similar thing has been happening with IDEs for the past few decades
+-- every editor had to come up with their in-house ad-hoc protocol, and every
+tool developer had to build adapters and wrappers for editors to consume.
+
+
+
+
+
+
+
+
+
+        Showcase Repls on your Profile
+      
+
+
+
+
+        Mon Jul 2 2018 by Tim Chen
+      
+
+As you use Repl.it more and more, you often find yourself frequently creating repls for quick testing.  On your repls dashboard, you can mark important repls by starring them - allowing you to quickly access them.  However, there was no way to surface your best work on your profile - users would have to sift through all your repls to find the one they were looking for - until now.
+
+
+
+
+
+
+
+
+
+        Repl.it @ StuyHacks
+      
+
+
+
+
+        Wed Jun 27 2018 by Yev Barkalov
+      
+
+I’m still in high school but I just flew from San Francisco to New York City to be a sponsor at a high school hackathon so, yeah, you already know that the whole experience was pretty awesome.
+
+
+
+
+
+
+
+
+
+        July IRL Info
+      
+
+
+
+
+        Wed Jun 27 2018 by Yev Barkalov
+      
+
+For the month of July, our Repl.it IRL will be taking place on July 11th from 4 to 7 PM at the Bradfield School of Computer Science!
+
+
+
+
+
+
+
+
+
+        Image Previews with Live Reloading
+      
+
+
+
+
+        Fri Jun 15 2018 by Tim Chen
+      
+
+We recently added some changes to how eval mode/project mode operates.  These changes allow you to interact with generated files through the console.
+
+
+
+
+
+
+
+
+
+        How To Build a Website with Replit
+      
+
+
+
+
+        Thu Jun 14 2018 by Yev Barkalov
+      
+
+While you can write web applications and text-based ensembles in Repl.it, sometimes it's nice to be able to just put together a simple HTML/CSS website using the same awesome editor!
+
+
+
+
+
+
+
+
+
+        React Framework Preboot
+      
+
+
+
+
+        Wed Jun 13 2018 by Amjad Masad
+      
+
+Two days ago we introduced our beta support for React frameworks, ranging from
+static-site generators like GatsbyJS, to fullstack frameworks like
+Next.js. Today we're launching a significant performance enhancement that we're
+calling preboot.
+
+
+
+
+
+
+
+
+
+        Repl.it IRL
+      
+
+
+
+
+        Wed Jun 13 2018 by Yev Barkalov
+      
+
+On Monday, June 11th, we had our first Repl.it Meetup and it was super awesome!
+
+
+
+
+
+
+
+
+
+        Repl.it ❤️  React
+      
+
+
+
+
+        Thu Jun 7 2018 by Amjad Masad
+      
+
+Despite the negative press
+covfefe around React.js
+when it first came out, I instantly fell
+in love with it. The thing I liked the most about it was the component model. Until then
+the JavaScript community has been trying for years to come up with the correct
+abstraction for creating reusable modules, but it was always leaky. Because React
+components are essentially functions, and because functions are the undisputed
+champion of reusable code, it worked out extraordinarily well. You don't need
+dependency-injection, or any other modularity hacks, you simply pass props! Also,
+the virtual dom made it so that components are, by default,
+protected from other components prying into their internals.
+
+
+
+
+
+
+
+
+
+        Don't Let Your Development Environment Rot
+      
+
+
+
+
+        Mon Jun 4 2018 by Amjad Masad
+      
+
+Most systems -- both natural and artificial -- decay, rot, and eventually
+die. Software is no different. A lot has been written about fighting
+"software rot" but there's another
+type of rot related to software that's not talked about much -- the development
+environment rot.
+
+
+
+
+
+
+
+
+
+        Guest Blog Post: Neural Networks and Primes
+      
+
+
+
+
+        Thu May 3 2018 by Ollie Parish
+      
+
+Ollie Parish, also known as @op on Repl.it, is an avid Repler and constantly pushes our systems to its limits (in the best way).  In this guest blog post, he describes his journey in using neural networks to generate large primes.  You can also check out the repl described in his research: https://repl.it/@op/DNN-3-1
+
+
+
+
+
+
+
+
+
+        A Better Way to Search Your Repls
+      
+
+
+
+
+        Mon Mar 19 2018 by Tim Chen
+      
+
+Along with the ability to star repls and tag repls, we now take repl organization one step further with the ability to search through your repls.
+
+
+
+
+
+
+
+
+
+        Repl.it: the IDE That Grows—from Playgrounds to Fullstack Apps
+      
+
+
+
+
+        Tue Mar 13 2018 by Amjad Masad
+      
+
+At Repl.it we come to work every day to explore a single idea—what if
+programming just worked? What if instead of fiddling around with packages,
+configurations, and mismatching versions, you just open your IDE and start
+coding. What if developers can go from an idea to coding and shipping software
+with no time in between. What if teachers who want to teach programming don't
+have to also work as IT administrators. What if students can just code their
+homework without having to set up the development environment on every computer
+they wanted to code on.
+
+
+
+
+
+
+
+
+
+        Live Server Development and Deployment (Beta)
+      
+
+
+
+
+        Mon Mar 12 2018 by Amjad Masad
+      
+
+Repl.it is becoming the platform where developers come to learn and
+build. With web hosting we also made it possible to host websites and
+since then we've seen an explosion of websites hosted on Repl.it. Today we're
+going further by making it possible to deploy servers on Repl.it.
+
+
+
+
+
+
+
+
+
+        Require Ruby Gems
+      
+
+
+
+
+        Thu Mar 8 2018 by Amjad Masad
+      
+
+On the heels of our Node.js npm support announcement, we're pleased to announce that we now
+support Ruby Gems too. We're excited to have the Ruby
+community join the fun.
+
+
+
+
+
+
+
+
+
+        I Built This - Feb 2018 Competition Summary
+      
+
+
+
+
+        Thu Mar 8 2018 by Tim Chen
+      
+
+As we released I Built This, our community where users can post about their repl creations, we were exposed to many amazing projects created by our users.  To kick it off, we hosted a competition where users post their work and garner upvotes for prizes.  The projects shared in the competition spanned a wide range of skill levels, from beginner to advanced, from simple to complex.
+
+
+
+
+
+
+
+
+
+        Introducing Node.js package support
+      
+
+
+
+
+        Wed Mar 7 2018 by Amjad Masad
+      
+
+Ever since we introduced third-party package support for Python we've seen an
+explosion of exciting programs on Repl.it. Everything from games to
+machine-learning applications that just weren't possible before.
+
+
+
+
+
+
+
+
+
+        New and improved repls page
+      
+
+
+
+
+        Mon Feb 26 2018 by Amjad Masad
+      
+
+People use Repl.it in a variety of ways; some use it for building and shipping
+applications, while others use it for working on homework, and many others use
+it as a quick prototyping/experimentation tool. Supporting all these use cases
+(and more) is something we care a lot about, but up until now there wasn't an
+easy way to, for example, quickly go back to a project that you continue to work
+on every day.
+
+
+
+
+
+
+
+
+
+        Modular, fast, small: how we built a server-rendered IDE
+      
+
+
+
+
+        Wed Feb 14 2018 by Mason Clayton
+      
+
+At Repl.it our mission is to make programming more accessible, which means our
+coding environment needs to be lightweight, load fast, and work from anywhere in
+the world. However, as with so many software projects that evolve with time, we
+accumulated some bloat (luckily, we haven't included a mail client yet) and
+quite a few ad-hoc hacks to glue everything together.  In this post, we'll go
+over how we designed our new IDE to have a small core (everything is a plugin),
+to be easily customizable (even on the fly), and to server-render.
+
+
+
+
+
+
+
+
+
+        Internet access for all
+      
+
+
+
+
+        Mon Feb 5 2018 by Tim Chen
+      
+
+Repl.it is quickly becoming a tool that's used in everyday programming, and our
+users are building all sorts of amazing programs. One thing that's been missing
+for a long time is the ability to access the internet from repls. Being able to
+call APIs or remote servers is something programmers can't live without. That's
+why we're excited to announce that starting now we're openning internet access
+for all!
+
+
+
+
+
+
+
+
+
+        Pricing update
+      
+
+
+
+
+        Mon Feb 5 2018 by Amjad Masad
+      
+
+At Repl.it our mission is to make programming more accessible. We want to build
+the platform that will empower the next billion programmers to build the future
+of software. To accomplish this we needed to build a sustainable business that
+allows us to grow with our users.
+
+
+
+
+
+
+
+
+
+        Clone Assignments with Replit's Teams for Education
+      
+
+
+
+
+        Tue Jan 30 2018 by Tim Chen
+      
+
+You can now copy and clone an assignment from one classroom to another!  Many teachers have requested this feature, and we are happy to announce that it has been released!
+
+
+
+
+
+
+
+
+
+        Teaching refugees how to code
+      
+
+
+
+
+        Fri Jan 26 2018 by Haya Odeh
+      
+
+At Repl.it our mission is to make programming more accessible. We can’t do this
+alone so it’s great to partner with non-profits and hack clubs that share our
+mission. Re-coded is one of those non-profits, they're
+teaching programming in the refugee camps in Iraq and Turkey. Today I’d like to share
+with you their story of how they found Repl.it useful in overcoming logistical challenges.
+
+
+
+
+
+
+
+
+
+        Your websites hosted on Repl.it
+      
+
+
+
+
+        Mon Jan 22 2018 by Amjad Masad
+      
+
+People in our community build awesome games, apps, and websites on Repl.it's web
+programming environment, but until now they didn't have any easy way of sharing
+these creations with other people.
+
+
+
+
+
+
+
+
+
+        Repl History
+      
+
+
+
+
+        Mon Dec 11 2017 by Amjad & Faris Masad
+      
+
+At Repl.it we focus on simplicity, speed, and, most importantly,
+reliability. If you're using Repl.it as your primary or secondary IDE we want
+you to be confident that the time you invest working on your code will never go
+to waste.
+
+
+
+
+
+
+
+
+
+        New in Repls: autosave, custom urls, and more
+      
+
+
+
+
+        Sun Nov 12 2017 by Haya Odeh
+      
+
+We are always excited about launching new features and sharing with you, our
+dear users, what we’ve been up to. For the past few months, Amjad, Mason and I
+have been working hard and last night we quietly launched the new repl
+features. These features required a lot of infrastructure and data changes which
+is always tricky to execute. We ran into some technical difficulties last night
+with the data migration but was able to bring the site back up and things have
+been running relatively smoothly since then.
+
+
+
+
+
+
+
+
+
+        A Few Updates in the Workspace
+      
+
+
+
+
+        Fri Sep 8 2017 by Mason Clayton
+      
+
+We strive to make the workspace as useful as possible while keeping it intuitive
+and approachable. We get a crazy number of requests for features every day, not
+to mention our own ideas. It becomes a challenging balance between feature creep
+and simplicity. Lately we've added a few of these features that we hope you'll
+find useful and, if not, you won't even notice they're there.
+
+
+
+
+
+
+
+
+
+        Two Stories from Our Community
+      
+
+
+
+
+        Wed Aug 23 2017 by Haya Odeh
+      
+
+Like any other startup, we go through ups and downs. However, we try to
+keep a positive energy, and you, my friends, contribute to that by sending your love,
+support, and thanks everyday. Above all, you inspire us with stories of how
+our product helped you learn, teach, and even develop a new skill to land a
+better job.
+
+
+
+
+
+
+
+
+
+        Your Repl.it Profile
+      
+
+
+
+
+        Wed Jul 5 2017 by Amjad Masad, Haya Odeh, and Mason Clayton
+      
+
+We're constantly surprised and delighted by the creativity of people in our
+community. Whether it be games, animations, utilities, or simply snippets to
+answer Stackoverflow questions -- it's always fascinating to see! However, we
+haven't done a good job giving credits to authors for their creations.
+
+
+
+
+
+
+
+
+
+        One more console
+      
+
+
+
+
+        Thu Jun 1 2017 by Amjad Masad
+      
+
+Debugging web projects on Repl.it can
+be frustrating. Until today, there
+was no easy way to view your errors and console logs (unless you open your
+browsers' developer tools). But that's changing because we're introducing our new tabbed
+console view for environments that has graphics output (like Web and Python Turtle).
+
+
+
+
+
+
+
+
+
+        Changelog (of imports and turtles)
+      
+
+
+
+
+        Tue May 30 2017 by Amjad Masad
+      
+
+Some changes and fixes we make don't deserve their own blogpost. So we thought a
+good way to keep you up-to-date is to collect however many that could be of
+interest and write a "Changelog".
+
+
+
+
+
+
+
+
+
+        Check out my Repl!
+      
+
+
+
+
+        Mon May 29 2017 by Haya Odeh
+      
+
+The label "sessions" is very near and dear to my heart. I vividly remember how
+Amjad came up with the name and why. After we learned that people would like to
+create accounts on Repl.it, we were trying to figure out what was the main value
+proposition for creating an account. Of course, it was saving code! But what do
+you call a list of code projects saved on your account?
+
+
+
+
+
+
+
+
+
+        Introducing Kotlin REPL
+      
+
+
+
+
+        Thu May 18 2017 by Amjad Masad
+      
+
+On the heels of Google
+announcing
+native Kotlin support on Android yesterday, we thought it'd be cool to get a
+Kotlin REPL up so that people can try it.
+
+
+
+
+
+
+
+
+
+        React Native
+      
+
+
+
+
+        Tue Apr 25 2017 by Alek Hurst
+      
+
+We have discontinued support for react native
+
+
+
+
+
+
+
+
+
+        Model solutions
+      
+
+
+
+
+        Fri Apr 21 2017 by Vitaly Pavlenko
+      
+
+There is a special moment in learning: when a student runs their code against
+the unit tests and finally sees all of them turn green. This moment of
+enlightenment means the student has just managed to create their own working
+solution to a difficult problem, and has made a step towards becoming a great
+programmer! Wouldn't it be cool to further enhance the student's knowledge by
+showing the student different approaches to tackle the same problem?
+
+
+
+
+
+
+
+
+
+        Require any npm package
+      
+
+
+
+
+        Tue Mar 28 2017 by Amjad Masad
+      
+
+Last year we introduced support for importing any Python package from
+PyPi and -- although we don't have perfect support for all
+packages -- it turned out to be a very popular feature. That's why today we're
+excited to continue the roll-out for the rest of our platform starting with
+web-based languages. 
+
+
+
+
+
+
+
+
+
+        Building Towards a Holistic Development Service
+      
+
+
+
+
+        Mon Mar 27 2017 by Amjad Masad
+      
+
+Software development is one of the first -- if not the first -- examples of what
+J. C. Licklider called the Man-Computer
+Symbiosis. A
+"cooperative interaction" between people and computers where the person is
+concerned in what may be classified as the creative aspect of the work such as
+setting the goals, formulating the hypothesis and evaluating the results while
+the computer does all the "routinizable work".
+
+
+
+
+
+
+
+
+
+        YouTube tutorials using Repl.it
+      
+
+
+
+
+        Mon Mar 20 2017 by Amjad Masad
+      
+
+EDIT - This article is now outdated
+If you're looking for up-to-date videos about Replit, the best place to loook is our Youtube channel. The videos below may be inaccurate, or missing. 
+
+We've been seeing more and more coding video tutorials using YouTube and
+Twitch.tv. Today we're sharing some of our favorite YouTube videos that uses
+Repl.it 
+
+
+
+
+
+
+
+
+
+        Start Coding with Clojure on Replit
+      
+
+
+
+
+        Fri Mar 3 2017 by Amjad Masad
+      
+
+Earlier this week we introduced Haskell support. And now, as promised,
+we're continuing to add more functional languages. So today we're excited to introduce
+Clojure. A Lisp dialect that runs on top of the Java
+Virtual Machine with a focus on immutability. 
+
+
+
+
+
+
+
+
+
+        Start Coding with Haskell on Replit
+      
+
+
+
+
+        Mon Feb 27 2017 by Mason Clayton
+      
+
+We heard your requests for Haskell and today we're excited to finally announce
+Haskell as yet another language we support. We've decided to put our focus on
+adding more functional languages, starting with Haskell, so you can expect more
+very soon.
+
+
+
+
+
+
+
+
+
+        Collaborate with Other Teachers in your Classrooms
+      
+
+
+
+
+        Wed Feb 15 2017 by Alek Hurst
+      
+
+Hey teachers, we've noticed that you have been teaching up a storm in your Replit classrooms, and with this feature we want to turn those storms into educational hurricanes! To do so, we implemented teacher collaboration, which allows you to add an additional teacher to your Replit classrooms. This additional teacher can do almost everything you can do, excluding a couple of small destructive things...
+
+
+
+
+
+
+
+
+
+        Enable Assignment Dependencies with Teams for Education
+      
+
+
+
+
+        Fri Jan 27 2017 by Haya Odeh
+      
+
+
+
+
+
+
+
+
+
+
+        Infinite Loops
+      
+
+
+
+
+        Mon Jan 23 2017 by Amjad Masad
+      
+
+At Repl.it we aim to make the full power of programming easily accessible for
+everyone. That's why when we designed our code execution service we decided that
+we would not timebox users' programs or sessions. 
+
+
+
+
+
+
+
+
+
+        Reorder Assignments with Teams for Education
+      
+
+
+
+
+        Thu Jan 19 2017 by Haya Odeh
+      
+
+At Repl.it our mission is to make programming more accessible, and the best way
+we found to achieve this is to support, you, the teachers on the ground doing
+working with students. That's why we want to make sure you control the student
+experience and today we're making it possible to control the assignments order
+from your classroom dashboard.
+
+
+
+
+
+
+
+
+
+        Live File Updates
+      
+
+
+
+
+        Fri Dec 23 2016 by Mason Clayton
+      
+
+Today we're excited to release a feature which shows any files your program
+creates directly inside the REPL. And any time that file changes it will be
+updated live in the editor. This can be anything from a text file to a gif.
+
+
+
+
+
+
+
+
+
+        Python Package Search
+      
+
+
+
+
+        Fri Dec 2 2016 by Amjad Masad
+      
+
+We recently made it possible to import any package from
+PyPi. However, people who missed the announcement didn't know this was
+possible. There was also no good way to search and explore packages.
+
+
+
+
+
+
+
+
+
+        Introducing Step Debugging for Python
+      
+
+
+
+
+        Mon Nov 28 2016 by Amjad Masad
+      
+
+Debug your Python3 programs from your browser
+At Repl.it, our goal is to make programming more accessible, and as part of this
+we aim to provide the full power of popular programming environments with no
+setup time. And I don't think it's an understatement to say that debugging is
+the majority of what we, as programmers, do. 
+
+
+
+
+
+
+
+
+
+        Learning Devops & AWS on the Job: Building and Scaling a Service
+      
+
+
+
+
+        Mon Nov 14 2016 by Amjad Masad
+      
+
+Or, what I wish you I knew before building Repl.it's code execution service
+
+
+
+
+
+
+
+
+
+        Introducing Pylint Support
+      
+
+
+
+
+        Sat Nov 12 2016 by Amjad Masad
+      
+
+Today, we're excited to introduce
+lint support for Python3.
+Where previously you had to run your code, look at the console for an error,
+find the line number of the error and then find that line in your editor. Now,
+we'll show you errors and potential mistakes live as you type!
+
+
+
+
+
+
+
+
+
+        from PyPi import *
+      
+
+
+
+
+        Tue Oct 25 2016 by Amjad Masad
+      
+
+Import any Python Package
+At Repl.it, our goal is to make programming more accessible, and as part of this
+we aim to provide the full power of popular programming environments with no
+setup time. And no modern programming language is complete without third-party
+packages. 
+
+
+
+
+
+
+
+
+
+        Introducing Turtle Graphics For Python
+      
+
+
+
+
+        Tue Oct 4 2016 by Amjad Masad
+      
+
+Ever since the LOGO programming
+language educators
+have been using Turtle Graphics
+to demonstrate the power of programming to their students while making it fun and
+interesting.
+
+
+
+
+
+
+
+
+
+        Set Assignment Due Dates with Teams for Education
+      
+
+
+
+
+        Fri Sep 30 2016 by Faris Masad
+      
+
+On Wednesday we announced assignment scheduling, and today we're releasing another date related feature—due dates. It's no secret that students can procrastinate, so sometimes it's useful to have deadlines for the assignments as a reminder.
+
+
+
+
+
+
+
+
+
+        Scheduled Assignments
+      
+
+
+
+
+        Wed Sep 28 2016 by Amjad Masad
+      
+
+Today, we're introducing scheduled assignments. Teachers using Repl.it
+Classroom can now schedule
+assignments to be published in the future. You can imagine working on your
+assignment, schedule a publish date, go on vacation, and still have your
+students receive their assignments at the right time.
+
+
+
+
+
+
+
+
+
+        Vagueness to Clarity
+      
+
+
+
+
+        Thu Jul 28 2016 by Haya Odeh
+      
+
+
+Simple design is not only how the product looks like, but more importantly, how
+the product functions; it’s about creating the easiest and simplest path for the
+user to accomplish their goal. Usually, simple design comes from complex
+requirements and a lot of ideas — in order to break it down I usually go through
+a process that I call Vagueness to Clarity
+
+
+
+
+
+
+
+
+
+        Every Project Should Have Its Own REPL
+      
+
+
+
+
+        Thu Jul 21 2016 by Amjad Masad
+      
+
+It's no secret we're big fans of REPLs. We believe that immediate access to the
+programming environment accelerates learning and is generally more
+productive. REPLs cut out the middleman -- no need to build UIs or scripts for
+every possible action you might want to take -- just talk to the interpreter
+directly.
+
+
+
+
+
+
+
+
+
+        Evalbot: a bot that speaks code
+      
+
+
+
+
+        Sat Jul 2 2016 by Faris Masad
+      
+
+Arguments over programming language semantics, standard library behavior, or
+syntax can now be simply and immediately settled within the chatroom by talking
+to Evalbot. It is a bot that can speak over 10 programming languages and is
+ever-present on Messenger and can be added to your team chat on Slack.
+
+
+
+
+
+
+
+
+
+        View Student Performance with Classroom Overview
+      
+
+
+
+
+        Wed Jun 29 2016 by Haya Odeh
+      
+
+Before we decided to build repl.it classroom, we paid a visit to one of the schools using us in the classroom. I felt excited and anxious at the same time; I was introduced to the teacher and students in the class, and then my job started as designer observing and paying attention to every single detail.
+
+
+
+
+
+
+
+
+
+        Distributed Websocket Rate Limiting
+      
+
+
+
+
+        Sun Jun 26 2016 by Amjad Masad
+      
+
+Rate limiting is standard
+practice for services offering an API. It's used for both protecting against bad
+actors, for example, attempting
+DOS attacks and to
+simply enforce limits on the service. There are many resources on the web on
+how to implement a rate limiter in your favorite language/stack. However, I
+couldn't find anything on how to rate limit Websocket connections (they differ in that they are persistent connections).
+
+
+
+
+
+
+
+
+
+        API Docs
+      
+
+
+
+
+        Fri Jun 24 2016 by Amjad Masad
+      
+
+[Update Oct 2022: We have retired our API, we are excited by our previous work but we do not have the resources to support this at the moment.]
+
+
+
+
+
+
+
+
+
+        Autocomplete Your Code with Replit
+      
+
+
+
+
+        Sat Jun 18 2016 by Faris Masad
+      
+
+Autocomplete plays a big role in how we use software, imagine a world where you have to type full search terms without predictions into google search, ugh, the savagery! Many developers employ this technology when writing code in order to increase their productivity. So we decided to implement this feature to help you become the power user you want to be.
+
+
+
+
+
+
+
+
+
+        Hello World
+      
+
+
+
+
+        Tue Jun 14 2016 by Amjad Masad
+      
+
+We're excited to launch this new part of our site.
+
+
+
+
+
+
+
+
+
+        A Swift REPL
+      
+
+
+
+
+        Tue Jun 14 2016 by Amjad Masad
+      
+
+In this age of containers it's much easier to run arbitrary code
+in the cloud. The harder parts are scaling the service, making it reliable, and
+—as in this case— creating cool and useful experiences. When we looked at
+existing Swift REPL implementations on the web we found that none
+delivered a stateful and interactive environment. Just an editor with a run
+button.
+
+
+
+
+
+
+
+
+
+
+Aw, there aren't any posts in this category yet 😔
+
+
+
+
+
+
+
+
+Legal
+Terms and services
+Privacy
+Subprocessors
+DPA
+US Student DPA
+
+
+Replit
+Blog
+About
+Jobs
+Teams
+Pricing
+
+
+Handy links
+Create a repl
+Docs
+Status Page
+Python Packages
+Import From Glitch
+
+
+Social media
+Facebook
+Twitter
+Tiktok
+Instagram
+
+
+
+Languages
+
+Clojure
+Haskell
+Kotlin
+QBasic
+Forth
+LOLCODE
+BrainF
+Emoticon
+Bloop
+Unlambda
+CoffeeScript
+Scheme
+APL
+Lua
+Ruby
+Roy
+Python
+Node.js
+JavaScript
+Deno (beta)
+Golang
+C++
+C
+C#
+F#
+HTML, CSS, JS
+Rust
+Swift
+Python (with Turtle)
+Basic (beta)
+R
+Bash
+Crystal
+Julia
+Elixir
+Nim
+Dart
+Reason Node.js
+Tcl
+Erlang
+TypeScript
+Pygame
+Love2D
+Emacs Lisp (Elisp)
+PHP Web Server
+SQLite
+Java
+PHP CLI
+Pyxel
+Raku
+Scala (beta)
+Nix (beta)
+
+
+
+    Copyright © 2023 Replit, Inc. All rights reserved.
+  
+
+
+
+
+
+

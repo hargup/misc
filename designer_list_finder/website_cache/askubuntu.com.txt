@@ -1,0 +1,1309 @@
+
+
+
+Ask Ubuntu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UbuntuCommunityAsk!DeveloperDesignHardwareInsightsJujuShopMore ›AppsHelpForumLaunchpadMAASCanonical 
+
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products.
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Ask Ubuntu
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            Ask Ubuntu Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+Ask Ubuntu is a question and answer site for Ubuntu users and developers. It only takes a minute to sign up.
+Sign up to join this community
+
+
+
+
+
+
+
+                    Anybody can ask a question
+                
+
+
+
+
+
+
+                    Anybody can answer
+                
+
+
+
+
+
+
+                    The best answers are voted up and rise to the top
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Home
+                
+
+
+
+
+
+Public
+
+
+ Questions
+
+
+
+
+
+
+                    Tags
+                
+
+
+
+
+
+
+
+                    Users
+                
+
+
+
+
+
+
+
+                    Companies
+                
+
+
+
+
+
+
+
+                    Unanswered
+                
+
+
+
+
+
+
+Teams
+
+Stack Overflow for Teams
+        – Start collaborating and sharing organizational knowledge.
+        
+        
+Create a free Team
+Why Teams?
+
+
+
+Teams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Create free Team
+                
+
+
+
+
+
+
+
+
+
+Teams
+Q&A for work
+Connect and share knowledge within a single location that is structured and easy to search.
+
+                    Learn more about Teams
+                
+
+
+
+
+
+
+
+
+
+
+
+                Explore our questions
+            
+
+
+        Ask Question
+    
+
+
+
+
+bootnetworkingcommand-line14.04driversdual-bootapt16.0412.04server more tags
+
+
+
+
+            Active
+
+1            Bountied
+
+            Hot
+
+            Week
+
+            Month
+
+
+
+
+
+
+
+
+
+0
+votes
+
+
+1
+answer
+
+
+3
+views
+
+
+
+
+How to enable fingureprint login in ubuntu 22.04
+
+
+
+securityfingerprint-readerunlock
+
+
+ 
+
+
+
+
+
+Subash
+
+
+66
+
+
+
+answered 1 min ago
+
+
+
+
+
+
+
+
+3
+votes
+
+
+1
+answer
+
+
+7k
+views
+
+
+
+
+extundelete - failed to read-only open device "/dev/sdb": Error code 2133571347
+
+
+
+mountdata-recoveryrecovery-mode
+
+
+ 
+
+
+
+
+
+CommunityBot
+
+
+1
+
+
+
+modified 8 mins ago
+
+
+
+
+
+
+
+
+1
+vote
+
+
+1
+answer
+
+
+30
+views
+
+
+
+
+Visual studio code in ubuntu
+
+
+
+20.04visual-studio-code
+
+
+ 
+
+
+
+
+
+Huy Nguyen
+
+
+203
+
+
+
+modified 15 mins ago
+
+
+
+
+
+
+
+
+0
+votes
+
+
+0
+answers
+
+
+9
+views
+
+
+
+
+How to Persist Options rotate in Resolv.conf in a dynamically generated file
+
+
+
+networkingdnsresolv.confsystemd-resolved
+
+
+ 
+
+
+
+
+
+muru
+
+
+194k
+
+
+
+modified 17 mins ago
+
+
+
+
+
+
+
+
+1
+vote
+
+
+0
+answers
+
+
+13
+views
+
+
+
+
+WiFi periodically switches between 2.4GHz and 5GHz
+
+
+
+wirelessnetwork-managerwpa-supplicant
+
+
+ 
+
+
+
+
+
+Henry
+
+
+111
+
+
+
+modified 1 hour ago
+
+
+
+
+
+
+
+
+2
+votes
+
+
+2
+answers
+
+
+12k
+views
+
+
+
+
+Error installing Ubuntu Server 18.04: Invalid Poolname
+
+
+
+serverpartitioninghard-drive
+
+
+ 
+
+
+
+
+
+CommunityBot
+
+
+1
+
+
+
+modified 1 hour ago
+
+
+
+
+
+
+
+
+0
+votes
+
+
+1
+answer
+
+
+12
+views
+
+
+
+
+Google-chrome crash with cannot find org.freedesktop.portal.Settings.Read method
+
+
+
+google-chrome
+
+
+ 
+
+
+
+
+
+Tango
+
+
+1
+
+
+
+answered 1 hour ago
+
+
+
+
+
+
+
+
+0
+votes
+
+
+0
+answers
+
+
+9
+views
+
+
+
+
+Ubuntu 23.10 video freezes if full screen on HDMI monitor
+
+
+
+videohdmi
+
+
+ 
+
+
+
+
+
+calabash
+
+
+243
+
+
+
+asked 1 hour ago
+
+
+
+
+
+
+
+
+0
+votes
+
+
+0
+answers
+
+
+5
+views
+
+
+
+
+Ubuntu 23.10 video freezes playing videos full screen with any player on HDMI connected monitor
+
+
+
+videohdmi
+
+
+ 
+
+
+
+
+
+calabash
+
+
+243
+
+
+
+asked 1 hour ago
+
+
+
+
+
+
+
+
+0
+votes
+
+
+0
+answers
+
+
+5
+views
+
+
+
+
+Loop through file extension Annotate add EXIF Rename and Copy
+
+
+
+command-linebashscriptsconvertannotation
+
+
+ 
+
+
+
+
+
+Off Grid
+
+
+51
+
+
+
+asked 2 hours ago
+
+
+
+
+
+
+
+
+33
+votes
+
+
+ 3
+answers
+
+
+29k
+views
+
+
+
+
+Modifying the color of grep
+
+
+
+command-linegrep
+
+
+ 
+
+
+
+
+
+muru
+
+
+194k
+
+
+
+modified 2 hours ago
+
+
+
+
+
+
+
+
+3
+votes
+
+
+1
+answer
+
+
+7k
+views
+
+
+
+
+No Network Connection - ifconfig shows only lo - lshw -c network says *-network unclaimed
+
+
+
+networkingwirelessdriversinternetethernet
+
+
+ 
+
+
+
+
+
+CommunityBot
+
+
+1
+
+
+
+modified 2 hours ago
+
+
+
+
+
+
+
+
+0
+votes
+
+
+0
+answers
+
+
+24
+views
+
+
+
+
+Capture One Wine Windows 10 Anniversary Update
+
+
+
+22.04wine
+
+
+ 
+
+
+
+
+
+Thomas Ward♦
+
+
+72.6k
+
+
+
+modified 2 hours ago
+
+
+
+
+
+
+
+
+0
+votes
+
+
+1
+answer
+
+
+83
+views
+
+
+
+
+Ubuntu 22.04 desktop computer would not boot due to mount issue
+
+
+
+bootgrub2usbmountdependencies
+
+
+ 
+
+
+
+
+
+Nishnabe
+
+
+124
+
+
+
+answered 3 hours ago
+
+
+
+
+
+
+
+
+Browse more Questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Hot Network Questions
+        
+
+
+
+
+                    What is the simplest proof that the density of coprime pairs does not go to zero?
+                
+
+
+
+                    RTX 3070 TI not recognized
+                
+
+
+
+                    Why are Coulomb forces on two charges the same?
+                
+
+
+
+                    Is there an easier way to prove the Fundamental Theorem of Algebra for polynomials with real coefficients?
+                
+
+
+
+                    Is scientific method entirely based on statistics (statistical inference)?
+                
+
+
+
+                    Should I endorse someone on arXiv who emailed me randomly?
+                
+
+
+
+                    Show actual math source code in pdf
+                
+
+
+
+                    Do Boltzmann brain thought experiments suggest literally anything can form randomly?
+                
+
+
+
+                    Is there an individual competitive sport based on kicking an object with the feet?
+                
+
+
+
+                    How can I make code that is both DRY and fast where intermediate values in a calculation may or may not be needed?
+                
+
+
+
+                    What's my score?
+                
+
+
+
+                    Olive Garden: "The cheese keeps coming 'til you say 'when'"
+                
+
+
+
+                    Explain chord progression
+                
+
+
+
+                    Is it legal to collect payment for event entertainment services up front in case they cancel?
+                
+
+
+
+                    Is it a good idea to visit Marrakesh and the high Atlas in mid October 2023, after the earthquake?
+                
+
+
+
+                    Plotting the Mandelbrot set efficiently
+                
+
+
+
+                    How can we meet aliens in an underpopulated galaxy?
+                
+
+
+
+                    GTK bindings for Fortran
+                
+
+
+
+                    Does Japan have any reason to ever repay its debt?
+                
+
+
+
+                    Order the cities, then find which one is not described
+                
+
+
+
+                    Why does Sinclair BASIC have all of the characters twice in the token table?
+                
+
+
+
+                    Sci-fi first-person shooter set in the future: father dies saving kid, kid is saved by a captain, final mission is to kill the president
+                
+
+
+
+                    Symbiotic brain
+                
+
+
+
+                    Laid off from work but the undeserving one was not. Fight for it?
+                
+
+
+
+            more hot questions
+        
+
+
+
+
+            Recent questions feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Recent questions feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ask Ubuntu
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2023 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2023.9.13.43626
+
+
+
+
+                Ubuntu and the circle of friends logo are trade marks of Canonical Limited and are used under licence.
+            
+
+
+
+
+
+
+
+
+
+
+
+                        Your privacy
+                    
+
+                        By clicking “Accept all cookies”, you agree Stack Exchange can store cookies on your device and disclose information in accordance with our Cookie Policy.
+                    
+
+
+                            Accept all cookies
+                        
+
+                            Necessary cookies only
+                        
+
+
+
+                            Customize settings
+                        
+
+
+
+
+
+ 
+
+
+

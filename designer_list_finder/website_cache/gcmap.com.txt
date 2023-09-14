@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Great Circle Mapper
+
+
+
+
+
+
+
+
+
+
+
+
+
+Great Circle Mapper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FAQ
+Featured Maps
+More
+Home
+
+
+
+
+ Quick Usage Guide
+
+
+Every page on the Great Circle Mapper has a text-entry box at the top with a choice of actions:
+
+
+
+
+
+Action
+Description
+Example
+
+
+
+Map paths
+SFO-NRT-SIN,SFO-HKG-SIN
+
+
+
+Map ranges
+9380nm@LHR
+
+
+Calculate path distances
+LHR-SYD,LHR-HKG-SYD
+
+
+
+Search for locations by name
+Chicago
+
+
+
+Detailed information related to a code
+ORD
+
+
+
+
+
+ Featured Map: Hurricane Idalia Versus Tampa
+
+
+
+30 August 2023 – Permalink – Archives of Featured Maps
+
+
+
+Although Hurricane Idalia's path is west of Florida's peninsula,
+that's not good news since the hurricane gains energy over the waters of the
+Gulf of México, which means the most energetic parts of the hurricane are
+to the east of its path. That puts
+Tampa International Airport
+squarely in the hurricane's wrath. In response, the airport closed to
+commercial operations beginning at 12:01 am Tuesday.
+
+After the closure on Tuesday, Southwest operated five ferry flights to
+Chicago Midway and
+Dallas Love Field
+(two flights to each) and to
+Atlanta and
+Houston Hobby.
+
+A bit later in the day, freight dogs operated five flights out of Tampa:
+Atlas flew to Cincinnati,
+UPS flew to
+Louisville and
+Philadelphia,
+and FedEx Express flew to
+Memphis and
+Indianapolis.
+The last departures appear to have been medevac Lear Jets, escaping to
+Ft. Lauderdale
+plus one to
+Grand Turk.
+(A few helicopter flights departed TPA but returned, hopefully to secure hangars.)
+
+Today's Featured Map shows Tuesday's flights to escape Tampa ahead of the
+hurricane.
+
+
+References and additional information:
+
+Hurricane Idalia – National Hurrican Center (29 August 2023)
+Tampa International Airport
+
+Tampa International Airport to close early Tuesday ahead of potential major hurricane (28 August 2023)
+Answers to common questions about TPA's Idalia response (28 August 2023)
+
+Departures: Tampa Intl Airport (Tampa, FL) [KTPA] – FlightAware
+Southwest Airlines
+Atlas Air
+UPS
+FedEx Express
+
+
+
+
+ 
+
+
+
+
+Information on this site may not be accurate or current and is not valid for flight planning or navigation. No warranty of fitness for any purpose is made or implied. Flight planning and navigation should only be done using official charts.
+
+Copyright © 1996-2023
+Karl L. Swartz.
+All rights reserved.
+The Great Circle Mapper name and logo are trademarks of the Great Circle Mapper.
+All other trademarks mentioned herein belong to their respective owners.
+Please see credits for attributions and further copyright information.
+
+   
+  
+
+
+

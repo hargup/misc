@@ -1,0 +1,535 @@
+
+
+
+Beautiful Public Data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+About
+Subscribe
+
+
+
+
+
+Sign in
+Subscribe
+
+
+
+
+
+
+
+
+A curated selection of visually interesting datasets collected by local, state and federal government agencies. By Jon Keegan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cars
+
+
+ Featured
+
+
+                    All of the 8,291 License Plates in America
+                
+
+States now offer a vast menu of personalized plate options for a dizzying array of organizations, professions, sports teams, causes and other groups.
+
+
+Aug 21, 2023
+9 min read
+
+
+
+
+
+
+
+
+
+
+
+
+USGS
+
+
+                    Mapping Volcano Eruptions With Drones
+                
+
+Drones have become an essential tool to map, measure and observe the extremely dangerous environments surrounding volcanic eruptions.
+
+
+May 23, 2023
+7 min read
+
+
+
+
+
+
+
+
+
+
+
+
+NASA
+
+
+ Featured
+
+
+                    Here’s All the Rocks We Hauled Back From the Moon
+                
+
+The 12 human beings who walked on the Moon collected, catalogued and returned 842 pounds of lunar rock and soil. Each sample has been meticulously documented in NASA's Lunar Sample Catalog.
+
+
+May 2, 2023
+6 min read
+
+
+
+
+
+
+
+
+
+
+
+
+NOAA
+
+
+                    1,000 Photos of Dolphin Fins
+                
+
+Scars, scratches and wounds abound in these photos as encounters with unknown creatures and boat propellers leave their marks, imprinting a story of close escapes and cheating death.
+
+
+Apr 10, 2023
+5 min read
+
+
+
+
+
+
+
+
+
+
+
+
+DOE
+
+
+                    The Mirror Fusion Test Facility
+                
+
+A decade-long effort to build a machine to unlock the promise of nuclear fusion fell victim to budget constraints and competing science, and was shut down the day it was dedicated. It was never turned on.
+
+
+Mar 27, 2023
+7 min read
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Special Database 18: 3,248 Mugshots Used for Training Image Recognition Systems
+                
+
+The National Institute of Standards and Technology (NIST) has maintained a dataset of mugshot photos of 1,573 people for decades, including 175 minors, until we asked about them.
+
+
+Mar 18, 2023
+10 min read
+
+
+
+
+
+
+
+
+
+
+
+
+FAA
+
+
+                    Pilot Manual for a 1940's U.S. Navy Blimp
+                
+
+This 122 page manual contains all of the operating instructions and technical details needed to pilot this sleek, silver, 250 foot long, weaponized anti-submarine dirigible.
+
+
+Feb 13, 2023
+4 min read
+
+
+
+
+
+
+
+
+
+
+
+
+NTIA
+
+
+                    The United States Frequency Allocation Chart
+                
+
+This crazy, beautiful chart illustrates the incredible complexity of managing one of our nation’s most crucial – and invisible – national assets: the radio spectrum.
+
+
+Feb 6, 2023
+8 min read
+
+
+
+
+
+
+
+
+
+
+
+
+FHWA
+
+
+ Featured
+
+
+                    The Style Guide for America’s Highways: The Manual on Uniform Traffic Control Devices
+                
+
+Driving across America, you will encounter a wide variety of cultures, landscapes, people and animals. But the one consistent thing that will stay the same from Maine to California are the signs you pass on the highway. That is because America’s roads and highways have a big, fat style guide.
+
+
+Jan 9, 2023
+7 min read
+
+
+
+
+
+
+
+
+
+
+
+
+USGS
+
+
+                    Mapping the Sea Floor
+                
+
+USGS research vessels equipped with cameras, sonar and scanners created a map of 125 square miles of the sea floor off Cape Ann, MA.
+
+
+Dec 29, 2022
+5 min read
+
+
+
+
+
+
+
+
+
+
+
+
+NHTSA
+
+
+                    Vehicle Crash Test Films from the 1970's and 1980s
+                
+
+Deep in the public archives of the NHTSA, there are thousands of films of some classic (and some ugly) 70’s and 80’s cars being smashed into smithereens.
+
+
+Nov 26, 2022
+5 min read
+
+
+
+
+
+
+
+
+
+
+
+
+LIDAR
+
+
+                    Visualizing Rivers and Floodplains with USGS Data
+                
+
+Using USGS elevation data to visualize stunning views of the flow of water through rivers and floodplains.
+
+
+Nov 7, 2022
+5 min read
+
+
+
+
+
+
+
+
+
+
+
+
+Space
+
+
+                    A Rover's First 590 Days* on Mars
+                
+
+I downloaded 60,000 images to experience what NASA's Perseverance rover has been seeing since landing there in Feb. 2021.
+
+
+Oct 20, 2022
+5 min read
+
+
+
+
+
+
+
+
+
+
+
+
+Photologs
+
+
+                    Utah Highway LiDAR Scans
+                
+
+Utah's Department of Transportation uses state-of-the-art 3-D laser scanners to capture the surfaces and area surrounding 15,000 miles of its roads.
+
+
+Oct 3, 2022
+5 min read
+
+
+
+
+
+
+
+
+
+
+
+
+Weather
+
+
+ Featured
+
+
+                    The GOES-16 Weather Satellite
+                
+
+Satellites used to observe weather are so ubiquitous it is easy to take them for granted. GOES-16 is worthy of your attention.
+
+
+Sep 27, 2022
+6 min read
+
+
+
+
+
+
+
+
+
+
+
+
+Pillbox
+
+
+                    The Pillbox Database
+                
+
+The National Library of Medicine's Pillbox dataset contained 8,693 photographs of pills, with an accompanying database of drug information. It was built to help with the identification of unknown pills.
+
+
+Sep 19, 2022
+5 min read
+
+
+
+
+
+
+
+
+
+
+
+
+Photologs
+
+
+                    Photologging Vans
+                
+
+These sequences are from New York and Connecticut’s state photolog archives, which I obtained through public records requests. Almost every state’s highway departments had highway photolog programs, some dating back as early as 1961. These sequences were captured by specially tricked out vans. The earliest used 16mm film,
+
+
+Sep 15, 2022
+3 min read
+
+
+
+
+
+
+
+
+
+
+
+
+Photologs
+
+
+ Featured
+
+
+                    Highway Photologs
+                
+
+Highway departments all around the country had "photolog" programs, some dating back as early as 1961. Each year, specially tricked out vans would drive each mile of state road snapping photos to document the status of roadways.
+
+
+Sep 10, 2022
+4 min read
+
+
+
+
+
+
+Page 1 of 1
+
+
+
+
+
+
+Beautiful Public Data © 2023
+
+
+Sign up
+Instagram
+Mastodon
+YouTube
+
+
+Powered by Ghost
+
+
+
+
+
+
+
+

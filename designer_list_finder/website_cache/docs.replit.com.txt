@@ -1,0 +1,17 @@
+
+
+
+
+
+Home | Replit Docs
+
+
+
+
+
+
+
+Skip to main contentDocsChangelogExtensionsctrlKSign UpWelcome to Replit DocsctrlKIDEPower UpsExtensionsDeploymentsMobileCyclesBountiesAITutorialsHandy LinksGetting StartedLearn more about what Replit is and how to start creating.TutorialsIn this series of tutorials, you'll go from beginner to expert in coding with Replit. While these lessons are designed to be taken in order, they each make sense on their own too, so feel free to jump in wherever looks the most interesting to you.SecretsSensitive information, such as credentials and API keys, should be separate from your code. This way, you can share your code without giving other users access to your personal data or linked accounts.DeploymentsWeb pages written in HTML, CSS, and JavaScript can be deployed on Replit. HTML/CSS/JS repls are given a unique URL that can be shared with your friends, family, peers, and clients.DatabasesReplit Databases, PostgreSQL, and SQLite.Installing PackagesReplit will install most available Python and Javascript packages using the universal package manager.Helpful ResourcesPost a BountyWatch your project come to life with the help of Replit's top creators.Create a ReplWhether it's a website, a game, or something else, make something great today with Replit!Community HubGet involved in Replit's community events, opportunities, and platforms.Earn CyclesCycles are virtual tokens used to purchase extra compute power and functionality.Still need help?Ask ForumThe Ask Forum is a place for the Replit community to ask and answer questions, report bugs, and and request features.Replit SupportGet in touch with a team member to help you out.
+
+
+

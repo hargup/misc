@@ -1,0 +1,1308 @@
+
+
+
+Ask Different
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 183 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products.
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Ask Different
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            Ask Different Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+Ask Different is a question and answer site for power users of Apple hardware and software. It only takes a minute to sign up.
+Sign up to join this community
+
+
+
+
+
+
+
+                    Anybody can ask a question
+                
+
+
+
+
+
+
+                    Anybody can answer
+                
+
+
+
+
+
+
+                    The best answers are voted up and rise to the top
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Home
+                
+
+
+
+
+
+Public
+
+
+ Questions
+
+
+
+
+
+
+                    Tags
+                
+
+
+
+
+
+
+
+                    Users
+                
+
+
+
+
+
+
+
+                    Companies
+                
+
+
+
+
+
+
+
+                    Unanswered
+                
+
+
+
+
+
+
+Teams
+
+Stack Overflow for Teams
+        – Start collaborating and sharing organizational knowledge.
+        
+        
+Create a free Team
+Why Teams?
+
+
+
+Teams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Create free Team
+                
+
+
+
+
+
+
+
+
+
+Teams
+Q&A for work
+Connect and share knowledge within a single location that is structured and easy to search.
+
+                    Learn more about Teams
+                
+
+
+
+
+
+
+
+
+
+
+
+                Explore our questions
+            
+
+
+        Ask Question
+    
+
+
+
+
+macosiphonemacbook-proiosterminalkeyboardmacipaditunesicloud more tags
+
+
+
+
+            Active
+
+2            Bountied
+
+            Hot
+
+            Week
+
+            Month
+
+
+
+
+
+
+
+
+
+0
+votes
+
+
+1
+answer
+
+
+740
+views
+
+
+
+
+gpg-agent running but command line tools missing
+
+
+
+terminalcommand-linegpg
+
+
+ 
+
+
+
+
+
+CommunityBot
+
+
+1
+
+
+
+modified 7 mins ago
+
+
+
+
+
+
+
+
+0
+votes
+
+
+0
+answers
+
+
+4
+views
+
+
+
+
+Is the scientific calculator no longer available from control center as accessed from the lock screen?
+
+
+
+ioscontrol-centerlockscreen
+
+
+ 
+
+
+
+
+
+Lexible
+
+
+439
+
+
+
+asked 44 mins ago
+
+
+
+
+
+
+
+
+2
+votes
+
+
+1
+answer
+
+
+66
+views
+
+
+
+
+Music occasionally pauses playback when using AirPlay. (Mac mini M1)
+
+
+
+musicairportapple-siliconairplay
+
+
+ 
+
+
+
+
+
+CommunityBot
+
+
+1
+
+
+
+modified 1 hour ago
+
+
+
+
+
+
+
+
+3
+votes
+
+
+ 1
+answer
+
+
+446
+views
+
+
+
+
+Changing Notification Center preferences programatically or from the command line
+
+
+
+notificationsautomationsystem-prefsdefaultssqlite
+
+
+ 
+
+
+
+
+
+Alexander
+
+
+8,193
+
+
+
+modified 1 hour ago
+
+
+
+
+
+
+
+
+0
+votes
+
+
+1
+answer
+
+
+976
+views
+
+
+
+
+No Administrator Account Found: Recovery Mode
+
+
+
+securityrecoverymonterey
+
+
+ 
+
+
+
+
+
+CommunityBot
+
+
+1
+
+
+
+modified 2 hours ago
+
+
+
+
+
+
+
+
+5
+votes
+
+
+6
+answers
+
+
+961
+views
+
+
+
+
+MacOS: Catching up on updates: Skip or go straight to latest?
+
+
+
+macoscatalinamontereyventura
+
+
+ 
+
+
+
+
+
+JL Peyret
+
+
+1,042
+
+
+
+modified 2 hours ago
+
+
+
+
+
+
+
+
+1
+vote
+
+
+0
+answers
+
+
+90
+views
+
+
+
+
+How to analyse an iOS 8.2 Messages misbehaviour?
+
+
+
+iphoneiossms
+
+
+ 
+
+
+
+
+
+bmike♦
+
+
+231k
+
+
+
+modified 2 hours ago
+
+
+
+
+
+
+
+
+0
+votes
+
+
+1
+answer
+
+
+67
+views
+
+
+
+
+Does a Diagnostics & Usage entry imply an app was installed?
+
+
+
+iossettings
+
+
+ 
+
+
+
+
+
+bmike♦
+
+
+231k
+
+
+
+modified 2 hours ago
+
+
+
+
+
+
+
+
+3
+votes
+
+
+0
+answers
+
+
+80
+views
+
+
+
+
+Is there available software for MacOS to test iPad functions through USB or other interface?
+
+
+
+ipadnetworkwifiipados
+
+
+ 
+
+
+
+
+
+bmike♦
+
+
+231k
+
+
+
+modified 2 hours ago
+
+
+
+
+
+
+
+
+1
+vote
+
+
+1
+answer
+
+
+2k
+views
+
+
+
+
+iOS diagnostics test gives you new problems?
+
+
+
+iphoneiosipadsafari
+
+
+ 
+
+
+
+
+
+bmike♦
+
+
+231k
+
+
+
+modified 2 hours ago
+
+
+
+
+
+
+
+
+0
+votes
+
+
+1
+answer
+
+
+3k
+views
+
+
+
+
+Found in diagnostics on an iPhone 6s Plus. Any idea what it means?
+
+
+
+iphoneios
+
+
+ 
+
+
+
+
+
+bmike♦
+
+
+231k
+
+
+
+modified 2 hours ago
+
+
+
+
+
+
+
+
+0
+votes
+
+
+0
+answers
+
+
+167
+views
+
+
+
+
+How to read lsaw file?
+
+
+
+ioslogs
+
+
+ 
+
+
+
+
+
+bmike♦
+
+
+231k
+
+
+
+modified 2 hours ago
+
+
+
+
+
+
+
+
+6
+votes
+
+
+2
+answers
+
+
+12k
+views
+
+
+
+
+How to find the current temperature of an iPhone's CPU?
+
+
+
+iphoneioscputemperature
+
+
+ 
+
+
+
+
+
+bmike♦
+
+
+231k
+
+
+
+modified 2 hours ago
+
+
+
+
+
+
+
+
+1
+vote
+
+
+1
+answer
+
+
+39
+views
+
+
+
+
+Troubleshooting international SIM connection issues on iPhone
+
+
+
+iphoneiosnetworkcellular-datasim
+
+
+ 
+
+
+
+
+
+bmike♦
+
+
+231k
+
+
+
+modified 2 hours ago
+
+
+
+
+
+
+
+
+Browse more Questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Hot Network Questions
+        
+
+
+
+
+                    Olive Garden: "The cheese keeps coming 'til you say 'when'"
+                
+
+
+
+                    Find overlapping polygons within the same layer with QGIS
+                
+
+
+
+                    Plotting the Mandelbrot set efficiently
+                
+
+
+
+                    Laid off from work but the undeserving one was not. Fight for it?
+                
+
+
+
+                    'Rescuers had to wade waist-deep in floodwater.' Why not 'Rescuers had to wade in waist-deep floodwater.'?
+                
+
+
+
+                    How does a reduction in potential energy in a chemical bond release energy
+                
+
+
+
+                    Can you wear a magic spell component?
+                
+
+
+
+                    Why does Sinclair BASIC have all of the characters twice in the token table?
+                
+
+
+
+                    Is “文化” borrowed from Japanese?
+                
+
+
+
+                    How to repair scratched cabinet door
+                
+
+
+
+                    Is Daern’s Instant Fortress considered an extra dimensional space?
+                
+
+
+
+                    Is there an easier way to prove the Fundamental Theorem of Algebra for polynomials with real coefficients?
+                
+
+
+
+                    How do we prove that POVMs are the most general measurements?
+                
+
+
+
+                    how do we create funny segwit v1 taproot bech32[m] addresses?
+                
+
+
+
+                    Toilet laws for Transgender people in Japan
+                
+
+
+
+                    How can I handle regenerative braking when the lithium-ion battery is full?
+                
+
+
+
+                    Schengen visa for non-EU citizen traveling to EU country for marriage with an EU citizen?
+                
+
+
+
+                    Is it legal to collect payment for event entertainment services up front in case they cancel?
+                
+
+
+
+                    The nameless horror
+                
+
+
+
+                    Make single-dollar equation wrap
+                
+
+
+
+                    Explaining Sigma-Notation
+                
+
+
+
+                    Time Complexity of Linear Search vs Brute Force
+                
+
+
+
+                    When redirecting top to a file, why does cat command on that file display output of multiple top attempts?
+                
+
+
+
+                    What is the meaning of "received" in Colossians 2:6?
+                
+
+
+
+            more hot questions
+        
+
+
+
+
+            Recent questions feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Recent questions feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ask Different
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2023 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2023.9.13.43626
+
+
+
+
+                Apple is a trademark of Apple Inc., registered in the US and other countries. This site is not affiliated with or endorsed by Apple Inc. in any way.
+            
+
+
+
+
+
+
+
+
+
+
+
+                        Your privacy
+                    
+
+                        By clicking “Accept all cookies”, you agree Stack Exchange can store cookies on your device and disclose information in accordance with our Cookie Policy.
+                    
+
+
+                            Accept all cookies
+                        
+
+                            Necessary cookies only
+                        
+
+
+
+                            Customize settings
+                        
+
+
+
+
+
+ 
+
+
+

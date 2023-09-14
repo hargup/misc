@@ -1,0 +1,71 @@
+
+
+
+
+
+
+Augustus development builds
+
+
+
+
+Augustus development builds
+Here you'll find the latest development builds for Augustus. These builds may be unstable.
+
+
+
+Platform
+File
+File size
+
+
+
+
+Windows
+augustus-3.2.0.660-eee1fc62-windows.zip
+3.64 MB
+
+
+Linux AppImage
+augustus-3.2.0.660-eee1fc62-linux.AppImage
+19.52 MB
+
+
+Linux 64-bit binaries
+augustus-3.2.0.660-eee1fc62-linux-x86_64.zip
+1.50 MB
+
+
+macOS
+augustus-3.2.0.660-eee1fc62-mac.dmg
+16.30 MB
+
+
+PS Vita
+augustus-3.2.0.660-eee1fc62-vita.vpk
+14.51 MB
+
+
+Nintendo Switch
+augustus-3.2.0.660-eee1fc62-switch.nro
+22.01 MB
+
+
+Android APK
+augustus-3.2.0.660-eee1fc62-android.apk
+22.30 MB
+
+
+Emscripten
+augustus-3.2.0.660-eee1fc62-emscripten.html
+19.54 MB
+
+
+Game Assets
+assets-3.2.0.660-eee1fc62-development.zip
+10.83 MB
+
+
+
+
+

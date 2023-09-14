@@ -1,0 +1,1181 @@
+
+
+
+
+
+Home | PyCon Africa 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home (current)
+
+
+
+
+            About
+            
+
+
+
+About Us(current)
+Platform(current)
+
+
+
+Speakers (current)
+
+
+Schedule (current)
+
+
+Blog
+
+
+Code of Conduct (current)
+
+
+
+
+            Sponsor
+            
+
+
+
+Sponsor Us
+Our Sponsors
+
+
+
+2019
+
+
+Register
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12
+Days
+
+
+01
+Hours
+
+
+52
+Minutes
+
+
+52
+Seconds
+
+
+
+PyCon Africa
+
+
+
+
+
+
+
+When
+4th - 8th Aug, 2020
+
+
+
+
+
+
+
+
+
+Where
+Online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PyCon Africa 2020 will be Online
+PyCon Africa is the gathering of the Pan African Python Community.
+We had the very first edition in 2019 and while the conference cannot take place in person this year, we would still be having it online making it PycOnline Africa 2020!
+
+
+
+
+
+
+
+
+
+
+Important
+              |
+Timelines
+
+
+
+
+
+
+
+Day 1
+4th Aug
+
+
+
+
+
+
+Day 2
+5th Aug
+
+
+
+
+
+
+Day 3
+6th Aug
+
+
+
+
+
+
+Day 4
+7th Aug
+
+
+
+
+
+
+Day 5
+8th Aug
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+“
+                            
+                            Physical distancing… is absolutely essential, but it doesn’t mean that socially, we have to disconnect.…
+                            We want people to still remain connected, so find ways to do that, find ways through the internet and social media 
+                            to remain connected, because your mental health going through this is just as important as your physical health.
+                            
+                            ”
+
+
+
+Dr Maria Van Kerkhove
+— Infectious disease epidemiologist and WHO COVID-19 technical lead
+
+
+
+
+
+
+
+
+
+
+Hello 
+                Everyone!
+
+                  The Pycon Africa team is very excited to announce that Pycon Africa 2020 will be held online this 
+                  year! We are grateful for your support as we make this change in the interest of protecting the 
+                  health and safety of our community. 
+                
+ 
+                  We are excited to continue the Pycon tradition of sharing knowledge and bringing our community 
+                  together. Throughout the 4th - 8th of August, you can expect talks from speakers from across Africa 
+                  and the world, interactive sessions with fellow community members and collaborative projects that you are invited to join.
+                
+ 
+                  We realise that internet access and stability in Africa is still inequitable, and therefore most of 
+                  our content, with a few exceptions, will be pre-recorded not live. This also gives community members 
+                  from around the world the ability to enjoy Pycon Africa 2020, at your own convenience.   
+              
+ 
+                Our call for proposals is open immediately and will close on the 5th of June. We look forward to 
+                receiving your talk submission. Our sponsorship prospectus is also open and you can find it here. 
+                We would love your support for this event! Finally, to stay up to date, follow our social media pages 
+                on Twitter and Facebook.   
+                All my very best,
+                Marlene Mhangami
+—  Conference Chair
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our Schedules are up!
+ 
+            Pycon Africa is going virtual in August 2020! 
+            Click on the link below to view our full schedule
+          
+
+ 
+            View Schedule
+            
+
+
+
+
+
+
+
+
+
+Our
+              |
+Speakers
+
+
+
+
+
+
+
+
+                      Joannah Nanjekye
+                    
+KEYNOTE SPEAKER
+
+Python Core Developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      Lorena Mesa
+                    
+KEYNOTE SPEAKER
+
+Chair - The Python Software Foundation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      Adekanmbi Olubayo
+                    
+KEYNOTE SPEAKER
+
+Convener Data Science Nigeria
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      William Hakizimana
+                    
+KEYNOTE SPEAKER
+
+CTO Export Abroad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                View more speakers
+              
+
+
+
+
+
+
+
+
+
+Our
+              |
+Panelist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scott Hanselman
+Partner Program Manager
+Session: 
+                            Technical content creation and personal productivity.
+                          
+
+
+
+Session: 
+                              Python and Linux for Windows.
+                            
+
+
+
+
+                                Scott Hanselman is a former professor, former Chief Architect in finance, now speaker, consultant, father, diabetic, and Microsoft employee. He is a failed stand-up comic, a cornrower, and a book author.
+                              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aniedi Udo-Obong
+Support Manager
+Panel Session: The Future of Open Source in Africa
+
+
+
+Aniedi Udo-Obong is a developer, product manager, open source evangelist with over 10 years experience 
+                        working with startups in HR, media, finance, education & logistics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Paul Everitt
+Developer Advocate
+Panel Session: Entrepreneurship and Python
+
+
+
+
+ 
+                        Paul is the PyCharm Developer Advocate at JetBrains. Before that, Paul was a co-founder of Zope Corporation, taking the first open source application server through $14M of funding. Paul has bootstrapped both the Python Software Foundation and the Plone Foundation. Prior to that, Paul was an officer in the US Navy, starting www.navy.mil in 1993.
+
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Edidiong Asikpo
+Software Engineer
+Panel Session: The Future of Open Source in Africa
+
+
+
+
+                        Edidiong Asikpo is a software engineer from Akwa Ibom, Nigeria. She is a passionate professional with multi-faceted skills and experience spanning across Software Engineering, Developer Relations, community building, technical writing, and Open Source contributions.
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reuven M. Lerner
+Python trainer
+Panel Session: Entrepreneurship and Python
+
+
+
+
+ 
+                        Reuven Lerner is a full-time Python trainer. In a given year, he teaches courses at companies in the United States, Europe, Israel, India, and China — as well as to people around the world, via his online courses, including Weekly Python Exercise.
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Daniel Madalitso Phiri
+Developer Relations
+Panel Session: The Future of Open Source in Africa
+
+
+
+Daniel Madalitso Phiri is a Developer Advocate, Builder of Wacky things, Disk Jockey, Lorde superfan and Community Builder from Lusaka, Zambia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trey Hunner
+Developer Advocate
+Panel Session: Entrepreneurship and Python
+
+
+
+
+ 
+                        Trey Hunner helps Python developers level-up their skills through his weekly Python skill-building service, Python Morsels. He also helps teams turn experienced developers into experienced Python developers through on-site and remote Python trainings.
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Akintunde Sultan
+Developer Avocado
+Panel Session: The Future of Open Source in Africa
+
+
+
+ 
+                        Ambassador at GrantfortheWeb -  Working with the team from Mozilla, Coil and Creative Common to foster the adoption of Web monetization in Africa
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bob Belderbos
+Software developer / Co-founder PyBites
+Panel Session: Entrepreneurship and Python
+
+
+
+
+ 
+                        Bob is a software developer and co-founder of PyBites. He is passionate about writing software, 
+                        quality code and helping other people grow their careers using Python. 
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frank Tamre
+Software Engineer
+Panel Session: The Future of Open Source in Africa
+
+
+
+
+I worked at Intel as an Applications Engineer. I consult on various Android projects both as a developer and as a systems architect. I then co-founded one of the first coding boot camps in Africa - Moringa School. Then started EarlyCamp that trains young children aged 4-17 years old how to solve problems with technology. Lead organizer at droidconke, KotlinKenya and Android254 - the largest Android developer community in Africa. A chef, reader and swimmer when not programming or teaching."
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Matt Harrison
+Corporate trainer and consultant
+Panel Session: Entrepreneurship and Python
+
+
+
+
+ 
+                        Matt runs MetaSnake, a Python training and consulting company. He has authored many books on Python and ran the local use group for 5 years.
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Julian Sequeira
+Global Project Manager
+Panel Session: Entrepreneurship and Python
+
+
+
+
+
+                        Julian is a self-taught Python programmer. Coming from a career in Enterprise grade servers and Data Centres he made the transition to Python Programming using the "learn by teaching" methodology. Creating PyBites with his best friend has not only taught him what he knows about Python but has also sparked his passion for the Entrepreneur world. You'll find Julian coaching people in Python, Careers and Mindset all while cracking terrible dad jokes.
+
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              PyCon Africa will be organized into four distinct tracks, namely PyData, Web / DevOps, General Python, and Python Community.
+           
+
+
+
+PyData
+
+                    The topics of interest for PyData include, but are not limited to:
+                    Numerical and Scientific Computations Machine Learning Text Mining and Natural language Processing Data mining and Analytics Big Data Data visualization tools and libraries Reproducible Research Linked Data and Semantic Web
+
+
+
+
+
+
+
+
+
+Web / Devops
+
+                     The topics of interest for Web/DevOps include, but are not limited to:
+
+                    Frameworks (Django, Flask, Pyramid, etc) Background Tasks (Celery, etc) WSGI Orchestration (Ansible, Fabric, etc) Continuos Integration Core & Internals Testing Enterprise
+                    
+                    
+
+
+
+General Python
+
+                      Suggested topics for this track include, but are not limited to:
+
+                      Python libraries and extensions Databases Documentation Open Source Python projects Packaging 
+                      Issues Programming Tools Project Best Practices
+                    
+
+
+
+
+
+
+
+
+Python Community
+
+                      
+                      Diversity in the Python Community, Organising a Conference or Meetup
+                      
+
+
+
+
+
+
+
+
+
+2019
+              |
+Highlights
+PyCon Africa 2019 was the first-ever pan-African meeting of the Python programming community, 
+              and took place in Accra, Ghana from the 6th - 10th August. It included five days of workshops, talks, sprints and events 
+              such as a Django Girls tutorial.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View our Sponsors making this possible
+
+
+
+
+
+
+
+
+
+
+PyCon Africa is organised by a multi-national 
+              team of volunteers on behalf of the global Python programming community. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

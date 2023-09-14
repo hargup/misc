@@ -1,0 +1,502 @@
+
+
+
+Ellie - Your AI Email Assistant. Sign up today for free!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Pricing
+
+
+Demo
+
+
+
+
+          ðºð¸ English
+        
+          ð«ð· FranÃ§ais
+        
+          ðªð¸ EspaÃ±ol
+        
+          ð¨ð³ ä¸­æ
+        
+          ð·ðº Ð ÑÑÑÐºÐ¸Ð¹
+        
+          ð©ðª Deutsch
+        
+
+Downloads
+
+
+
+
+
+
+
+
+          Meet Ellie, your AI email assistant
+          
+
+
+
+
+          Ellie learns from your writing style and crafts replies as if they were written by you. Powered by GPT-4.
+        
+
+
+
+
+
+
+
+
+
+
+
+Install for free
+
+
+
+
+
+v1.6.3 Available for Chrome and Firefox
+
+
+Purchase licence
+
+
+
+
+Try a demo
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rated 4 out of 5
+7000+ installs on the Chrome Web Store and Firefox Add-ons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Ellie has made everything so much easier.
+
+- Mathias Laurvig
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          I love this extension. Ellie helps me churn through email responses.
+
+- Richard Brus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Ellie saves me time every morning answering emails.
+
+        
+- James Potter
+
+
+
+
+
+
+
+Ellie understands context
+Ellie takes context from the email thread to craft intelligent replies.We promise you'll be blown away by Ellie's responses!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ellie knows exactly what I want to say, and the exact right way to say it.
+
+            
+- Jared
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          We provided Ellie with a pdf containing our 2022 sales information so that it can now answer emails about our taxes.
+        
+
+
+Teach Ellie anything!
+
+          Ellie can learn any information you provide, and use that information in it's replies.
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Ellie saves me so much time, it's now my favourite productivity tool!
+
+- Victor M
+
+
+
+
+
+
+
+          Check out our demo of Ellie that has been trained to understand
+          all about how Ellie works!
+        
+Try the demo
+
+
+
+
+Ellie is multilingual
+
+          Ellie will reply in any language to match the email being replied to. 
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              I struggled to compose formal emails in English, but now Ellie writes them and saves me SO much time! ð¤©
+
+            
+- Julie Berteaux
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tailor Ellie's reply
+
+          You can provide extra context to Ellie for the perfect reply for every email. 
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              With Ellie I can answer every email and not waste any time.
+
+            
+- Joan
+
+
+
+
+
+
+FAQ
+
+
+
+Does Ellie read my emails?
+
+
+                No, Ellie doesn't access your emails. You can provide Ellie with some example email data so that the AI will match your style better, and when replying to a thread Ellie will read the most recent replies so that it can generate some context and create the most relevant reply.
+
+              
+
+
+What browsers are supported?
+
+
+                Ellie is available as a Chrome or Firefox Extension. Visit the downloads page for more information.
+
+              
+
+
+What email clients are supported?
+
+
+                So far Gmail and Fastmail are fully supported, but you can use the toolbar popup to generate a reply to emails in other clients. We'll roll out full support for other web-based clients soon.
+
+              
+                Visit the help to learn how to use the popup for Outlook, Apple Mail and more.
+
+              
+
+
+Why is there a limit on the number of replies?
+
+
+                Sorry! Training AI and generating content costs a fair amount of money. We're a small team without funding so we have to charge for our work!
+
+              
+                You can sign up for one of our paid plans to get more replies!
+
+              
+
+
+ Why did you make this?
+
+
+                We think that there is a power imbalance in email. Although its one of the most useful inventions of all time, as a single email user, you have no control over who can email you, or what they can put in front of you to briefly grab your attention.
+
+              
+                There's almost no penalty for sending mass-emails to as many people as possible, most of which are a complete waste of time and energy.
+
+              
+                At least by using Ellie we can claw a small amount of power back, by automating our replies to these automated emails, so that they can no longer monopolise our time.
+
+              
+                Others are also using Ellie to overcome reply anxiety, or as a tool to help with dyslexia or language & grammar skills.
+
+              
+                If you're using Ellie in an interesting way, please let us know! We'd love to hear about it!
+
+              
+
+
+How does teaching Ellie new information work?
+
+
+                You can provide Ellie with documents or URLs. Ellie will read the documents and crawl the URLs to learn the information.
+
+              
+                If Ellie thinks that some of the information that it has learned is relevant to the email it's currently replying to, then it will intelligently include that information in it's reply.
+
+              
+
+
+I don't want you to read my private emails!
+
+
+                We believe everyone has a fundamental right to the privacy of their data (and have built a product already on that premise).
+
+              
+                Your email replies are only used by Ellie to generate a response. We don't store the email data and promise to never share, sell, or do anything shady with your data.
+
+              
+                The reason we can promise this is because we're independent developers, with no investment or other outside funding. We survive by building cool products and getting cool people to pay for them, and don't need to sacrifice our ethics!
+
+              
+
+
+Who are you!?
+
+
+                Nice to meet you! We are Danielle and James, two nomad developers travelling the world on our small sailboat and building cool stuff!
+
+              
+
+
+Can we write a story about Ellie?
+
+
+                If you're a member of the press and want to chat, send us an email!
+
+
+
+
+
+
+
+
+Ellie
+
+      Powered by OpenAI, learns your writing style and replies to emails as if you wrote them.
+    
+
+      This web page was written in HTML by hand! Not by an AI, but translations were done by GPT-3 ;)
+
+    
+
+Privacy Policy â¢
+      Terms of Service â¢
+      Help â¢
+      Downloads â¢
+      
+        Releases
+      
+
+
+
+Forgot your licence key
+Manage your subscription
+
+        Need help? Email us hi@tryellie.com
+
+
+
+
+

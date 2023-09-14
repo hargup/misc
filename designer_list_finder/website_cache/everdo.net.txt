@@ -1,0 +1,311 @@
+
+
+
+
+
+
+
+
+Best GTD App for Getting Things Done on Linux and Cross-Platform - Everdo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Download
+Pricing
+Forum
+Blog
+Documentation
+Sync
+
+
+
+
+
+
+
+
+
+
+
+Download
+Pricing
+Forum
+Blog
+Docs
+Sync
+
+
+
+
+
+
+
+Take control of your work and life with Everdo -
+                    a powerful cross-platform GTD app with focus on privacy
+
+Download for Windows
+Download for MacOS
+Download for Linux (AppImage)
+
+Windows
+Windows 32-bit
+MacOS
+AppImage
+Deb
+Pacman
+Snapcraft
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           Filter your tasks by Time and Energy estimates to find the optimal next actions.
+                        
+
+
+
+
+
+
+                            Organize and keep track of your projects.
+                        
+
+
+
+
+
+
+                           Partition your tasks by domain or Area of Responsibility.
+                        
+
+
+
+
+
+
+                           Easily create checklists within your actions.
+                        
+
+
+
+
+
+
+                            Capture ideas and new action items instantly.
+                        
+
+
+
+
+
+
+                            Flexible tag-based filtering.
+                        
+
+
+
+
+
+
+                            Switch between the Dark and Light themes.
+                        
+
+
+
+
+
+
+                            The Next Actions list can be either combined or partitioned by Project.
+                        
+
+
+
+
+
+
+                           Use the Focus list to keep track of actions that need most attention.
+                        
+
+
+
+
+
+
+                            Search and navigate easily with the keyboard.
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What makes Everdo special?
+
+
+Built specifically for GTD
+
+                            GTD (Getting Things Done) by David Allen is a proven method for productivity. 
+                            We designed Everdo to make Getting Things Done easy and sustainable. 
+                            It has all the tools needed to follow the method, including projects, next actions lists, 
+                            contexts, time and energy labels, areas, and more.
+                        
+Learn more about GTD features in Everdo
+
+
+Clean and beautiful design
+
+                        We believe that using your productivity tools should be pleasant in order to be sustainable. 
+This is why we treat UI design as the highest priority.
+We have spent countless hours to ensure that the user interface looks good and has no
+clutter or distractions.
+                    
+Learn more about Everdo UI design
+
+
+Low-friction user experience
+
+                        When you are in the flow, every second counts.
+A productivity app should not get in the way.
+Everdo emphasizes usability features aimed to simplify navigation, and reduce the number of unnecessary clicks.
+                    
+Learn more about how Everdo achieves low friction
+
+
+Data privacy and ownership
+
+                       Your tasks and projects may be your most valuable and sensitive personal information.
+This is why Everdo is designed to keep your data on your device and 
+provide an optional end-to-end encrypted sync service for online syncing.
+                    
+Learn more about how Everdo stores data and achieves privacy
+
+
+Offline-first standalone apps
+
+                        You shouldn't depend on an internet connection or a web browser or a cloud server 
+                        for something as fundamental as managing your tasks.
+                        Everdo is always available on your devices, no matter where you are.
+                    
+More on the benefits of standalone apps
+
+
+Cross-platform
+
+                        Everdo does not lock you into an OS vendor or mobile platform. It works on Windows, Linux, macOS, Android, and iOS.
+                        You won't have to migrate data to a different app just because you got a computer with a different operating system.
+                    
+Learn more about supported platforms and distributions
+
+
+Flexible sync options
+
+                        For maximum privacy Everdo lets you sync your devices over the local network without depending on a cloud service.
+                        At the same time, we provide an end-to-end encrypted sync service, making online sync seamless and ensuring
+                        that your data is never stored in a readable form outside your device.
+                    
+Learn more about Everdo sync
+
+
+Product with a vision
+
+                            We truly want to create a better product by focusing on user experience, 
+                            privacy, and good design.
+                            We want Everdo to be a tool to simplify your life while keeping you in control. The app
+                            that you can finally stick to and hopefully the last GTD app you will ever need.
+                    
+Learn more about Everdo mission and values
+
+
+
+
+
+
+
+
+
+Everdo
+
+Overview
+User Manual
+
+
+
+Legal
+
+License Agreement
+Privacy Policy
+Refund Policy
+
+
+
+Get in Touch
+
+Forum
+
+
+
+
+
+info@everdo.net
+
+
+
+Copyright © 2017
+                        Intellation Ltd
+GTD® and Getting Things Done® are registered trademarks of the David Allen Company. Everdo is not affiliated with or endorsed by the David Allen Company.
+
+
+
+
+
+
+
+
+

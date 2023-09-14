@@ -1,0 +1,202 @@
+
+
+
+
+
+
+Say It With Bots! — Say It With Bots!  documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 
+  
+
+
+Preparation
+          →
+        
+
+
+
+
+
+Say It With Bots!Â¶
+This tutorial was prepared for PyCon US 2020. Youâre free to follow along from
+whereever you are.
+This documentation lives at: https://github-app-tutorial.readthedocs.io/
+
+
+
+Welcoming Contributions to Your ProjectÂ¶
+In this tutorial weâll be building a GitHub bot that will automatically
+greet contributors to your project. The bot will be built as a GitHub App which
+can then be installed to your GitHub repositories.
+We will be building a GitHub bot that can:
+
+say thanks to the maintainer who installed your bot
+say thanks to new contributors who made pull requests to your repository
+
+
+
+About meÂ¶
+My name is Mariatta. I live in Vancouver, Canada where I work as a Software Engineer
+for Zapier. In my free time, I help with PyLadies globally and locally in Vancouver,
+Iâm one of the co-founders of PyCascades conference, and I also contribute to open source.
+Iâm a Python Core Developer. I help maintain Core Pythonâs GitHub bots:
+bedevere and
+miss-islington.
+In this tutorial, weâll be using the same tools and technologies used by Core Pythonâs
+team to build their bots.
+If you have any feedback or questions about this tutorial, please file an issue.
+
+E-mail: mariatta@python.org
+Twitter: @mariatta
+Mariatta on GitHub
+Sponsor Mariatta
+
+
+
+Stay in touchÂ¶
+I love hearing how you did! If you had taken this tutorial, learned something new
+from it, or if youâve built something cool after this tutorial, Iâd love to hear
+about it. You can share it with me either through twitter, email, or even as
+an issue on GitHub.
+
+
+
+Code of ConductÂ¶
+PyCon US Code of Conduct applies
+and will be enforced.
+
+
+LicenseÂ¶
+CC-BY-SA 4.0.
+
+
+AgendaÂ¶
+
+
+Preparation
+GitHub Bots: What and Why
+Gigdethub
+Resources
+GitHub API using Command Line
+Building a GitHub App
+Responding to Webhook Events
+Whatâs Next?
+Git Cheat Sheet
+
+
+
+
+
+                 
+  
+
+
+Preparation
+          →
+        
+
+
+
+
+
+
+
+Say It With Bots!
+GitHub App Tutorial using Python, gidgethub, and aiohttp
+
+
+
+
+
+Sponsor @Mariatta
+Follow @mariatta 
+Table of Contents
+
+Say It With Bots!
+Welcoming Contributions to Your Project
+About me
+Stay in touch
+
+
+Code of Conduct
+License
+Agenda
+
+Navigation
+
+Preparation
+GitHub Bots: What and Why
+Gigdethub
+Resources
+GitHub API using Command Line
+Building a GitHub App
+Responding to Webhook Events
+Whatâs Next?
+Git Cheat Sheet
+
+
+Related Topics
+
+Documentation overview
+Next: Preparation
+
+
+
+
+Quick search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      ©2020, Mariatta Wijaya.
+      
+      |
+      Powered by Sphinx 1.8.5
+      & Alabaster 0.7.12
+      
+      |
+      Page source
+
+
+
+
+

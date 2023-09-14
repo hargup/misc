@@ -1,0 +1,792 @@
+﻿
+
+
+
+100+ professional tools for Excel, Outlook, Google Sheets and Docs
+
+
+
+
+
+
+
+
+
+
+
+Solve 300+ daily tasks in Excel
+Ablebits Ultimate Suite
+
+A comprehensive set of 70+ time-saving tools that cover over 300 use cases: merge tables and combine worksheets, find and remove duplicates, concatenate and split strings, trim spaces and clean data, compare two sheets for matches and differences, built custom-tailored formulas, and a lot more! Whatever task you are faced with, you'll find the tool to accomplish it quickly and flawlessly.
+						
+Free download
+								14-day fully functional version for desktop Excel included in Microsoft 365 and Excel 2021 – 2016Read more
+
+
+
+
+
+
+
+
+
+Smart way to handle routine emails
+Shared Email Templates for Outlook
+
+Using your own bank of fully customizable adaptive templates, you can create a professional looking email response in no time.
+						Use your templates individually or share with your colleagues, access from any device and all your Microsoft accounts and without limits.
+						Personalize repetitive emails to the fullest extent possible and enjoy an improved engagement rate!
+						
+Free download
+								Get for free from Microsoft AppSourceRead more
+
+
+
+
+
+
+
+
+
+Mail Merge for Outlook
+Bulk but trusted emails from your Outlook mailbox
+
+If you often send flyers, newsletters, business proposals, or holiday greetings to your personal contacts,
+						Mail Merge is just the thing. To save your time, it comes with customizable templates and adaptive layouts.
+						You can launch your email campaign immediately or postpone it if needed. Try this tailored solution for your personal email events.
+						Enjoy the benefits and find no drawbacks ;)
+						
+Free download
+								Get for free from Microsoft AppSourceRead more
+
+
+
+
+
+
+
+
+
+Power Tools for Google Sheets
+A complete collection of tools for simpler work with spreadsheet data
+
+Power Tools takes the burden of monotonous repetitive work in spreadsheets off your shoulders. 40+ features will streamline multiple routine operations in Google Sheets: remove duplicates, merge cells and tables, sum by color, combine sheets, perform advanced search and replacement, split names, and much more. Keep a list of your favorite tools and re-apply them to any cells any time.
+						
+Free downloadRead more
+
+
+
+
+
+
+
+
+
+1/4
+
+
+
+
+
+Products
+
+
+Windows
+Ultimate Suite for Excel
+Shared Email Templates for Outlook
+Mail Merge for Outlook
+Mac OS
+Text Toolkit for Excel
+Shared Email Templates for Outlook
+Mail Merge for Outlook
+Office 365
+Text Toolkit for Excel
+Shared Email Templates for Outlook
+Mail Merge for Outlook
+Google Workspace
+Add-ons for Sheets
+Add-ons for Docs
+
+
+
+
+
+Ultimate Suite
+70+ professional tools for Microsoft Excel
+
+With these time-saving tools that collectively have over 300 useful features, you can automate most of your daily tasks in Excel and increase your productivity
+							at least by 50%! It's many years of our experience with Office development embodied in the perfect code of solutions that work flawlessly on all Excel versions
+							and all data sets.
+						
+
+
+Merge Excel worksheets
+Compare sheets for differences
+Remove duplicates
+Merge cells in Excel
+Calculate dates and times
+
+
+Pick date from drop-down calendar
+Trim extra spaces
+Count characters and words
+Convert text to number
+See all tools
+
+
+Works for:   Windows
+
+Read more
+Free download
+
+
+
+
+Shared Email Templates
+Easy customizable adaptive templates for teams and individuals
+
+Do not waste your time on typing the same replies to repetitive emails. Compose your response just once, save it as a template and reuse whenever you want.
+						
+
+
+Quickly reply to repetitive emails
+Share your templates with colleagues
+Personalize your replies with macros
+Attach files and images automatically
+Create dynamic templates with fillable fields
+
+
+Create gorgeous html-based designs
+Send out personalized bulk mailings
+Set up company and team wide signatures
+Run on PC, Mac, Windows tablet
+Protect your privacy with encryption
+
+
+Works for:   Windows•macOS•Outlook Online
+
+Read more
+
+
+
+
+Mail Merge
+Ideal for newsletters, proposals, and greetings addressed to your personal contacts
+
+
+							Mail Merge is a time-saving approach to organizing your personal email events. It offers:
+						
+
+
+Customizable and adaptive mail merge templates
+Personalized merge fields depending on the recipient or context
+
+
+Dynamic attachments and images
+Mailing lists based on Excel tables
+"Send immediately" and "send later" scheduling
+
+
+Works for:   Windows•macOS•Outlook Online
+
+Read more
+
+
+
+
+Text Toolkit for Excel
+35+ handy options to make your text cells perfect
+
+
+							Instead of building formulas or performing intricate multi-step operations, start the add-in and have any text manipulation accomplished with a mouse click.
+						
+
+
+Trim extra spaces
+Convert text to numbers
+Count characters and words
+Change letter case
+Extract text or numbers
+Remove text by its position
+Add the same text to selected cells
+Split cells by symbol, string, or mask
+
+
+Replace unwanted characters
+Eliminate leading zeros
+Clean non-printing characters
+Swap text in your cells
+Find, extract, replace, and remove strings by means of regular expressions
+Merge columns, rows, or cells into one
+Combine rows by duplicates
+
+
+Works for:   macOS•Excel Online
+
+Read more
+
+
+
+Add-ons for Google Sheets
+
+40+ tools to boost your Google Sheets
+This smart package will ease many routine operations and solve complex tedious tasks in your spreadsheets.
+								Read more       
+								Free download
+
+
+
+
+Remove duplicates automatically
+Merge multiple Google sheets
+Manage multiple tabs at once
+Sum and count colored cells
+Combine sheets
+
+
+Add, replace, extract, remove substrings
+Create reusable table styles
+Combine duplicate rows
+Find & replace data
+See all tools
+
+
+
+
+Add-ons for Google Docs
+
+Search & Navigate
+Search within headings, bookmarks, images, tables, or text, and use your document outline for quick navigation.
+
+
+Doc Tools
+Handy time-savers for your work with documents: change case, spell numbers, sort lists and tables, adjust font size and highlighting.
+
+
+Styles for Google Docs
+Get 12 professional style sets for your Google Docs to change the look of your headings and text in a click.
+
+
+
+
+
+
+
+
+Real Ablebits reviews from our customers
+
+
+
+
+Above and beyondBought the Ultimate Suite several years ago and found it absolutely indispensable for analyzing production data on information security control assessments as well as concepting a quantitative risk analysis approach based on this assessment data. Had to reinstall the suite on a new computer recently and had to give it another go because I didn't have a license for the latest version. Filled out the survey on why I uninstalled it (before installing the previous version) and customer service reached out with a free upgrade. Wow! Who does that? Great company, great tools, great customer service!
+Bryan Cline, 1-Aug-23
+Perfect softwareIt has been my experience that it is remarkably rare that software surprises the user by simply doing, beautifully and simply, precisely what you hope it will. The Ablebits Ultimate Suite add-in for Excel is such a software. It has become an indispensable part of how I manage large Excel data files.
+Jody Chafee, 18-Jul-23
+Ablebits is a must-have Excel toolkit for everyoneI have been using this tool for over 2 years now. This is a must have & a very hand tool for Excel users. I am glad I found this tool for my bulk action edits, multi-page edits / scrolls, and multi data / table edits in Excel. I don't think there is any other Excel tool that comes close to Ablebits. The best part is the support you receive from the team - Ekaterina has been very prompt in her response to any questions you have on the tool. Definitely recommend.
+Matt A, 7-Jun-23
+Ablebits support is second to none!I've been using the Ablebits Excel add-in for a few years and it has helped me to quickly respond to ad hoc enquiries from my Executive team on many occasions. I use it so often I sometimes forget that it's not part of Excel! I recently had to submit a support request and was astonished at the responsiveness of their team. Absolutely first class and the problem was resolved by their initial response. 
+Craig Dennis, 1-Jun-23
+Buy this product! It's worth every penny!Great tool that's been saving me a ton of time. I used to have to merge several cells manually and then also merge/unmerge sheets and pivot tables. This tool singlehandedly fixed all of my problems and turned what would have been an 8-hour process into a 1-hour process. If you're on the fence, buy it - definitely worth the investment.
+Kevin Jacobs, 16-May-23
+Professional solutions!Been using this for years and am always excited to find they already have a solution mapped out! Had an issue and had to reload Excel…emailed customer service…and WOW!! Super fast answer and was re-installed and ready to go within minutes!!! These professionals are the definition of good business!!
+Douglas, 11-May-23
+I wouldn't be able to do my job without Ablebits!I wouldn't be able to do my job without Ablebits! Managing data from two different systems and maintaining accuracy in planning conferences of 1000+ people is done efficiently and easily with Ablebits. I'm not all that technical and am able to find helpful shortcuts for cleaning up data for reporting and typesetting and all sorts of projects where accuracy is key.
+Julie Barie, 9-May-23
+Fantastic program at a reasonable priceI downloaded the trial version of Ablebits and I was blown away by all of the useful features so I purchased it immediately. I often have to combine multiple spreadsheets (up to 20) into a single one and Ablebits makes it a breeze. This feature alone made it worth the money and I will use the delete blank cells and rows every day!
+Cliff, 28-Apr-23
+A+ product and service teamA few weeks ago, I was working with some consultants that were using Ablebits. I was fascinated with how fast they were getting through my data. I immediately went to the website and downloaded the free trial. The product has so many shortcuts, I love not having to type in formulas for some of the transactions I do. Download was easy and purchase even easier. Customer service followed up immediately to ensure my key activated properly. A+ product and service team.
+T Shaner, 18-Apr-23
+5 Stars from me. Great add-in that I use dailyIf you're looking for a way to streamline your work in Excel, look no further than Ablebits.com. Their Excel add-in is an absolute game-changer. From basic formatting to complex formulas, this add-in has everything you need to take your Excel skills to the next level. It's user-friendly making it the perfect tool for both beginners and experienced users.
+Derek Balfe, 10-Apr-23
+Need Excel, you will want Ablebits Ultimate SuiteExcellent support when needed, though the interface and online help is easy to understand and review. The details in the online help are some of the best descriptions, instructions, and insights on the many ways to work with Excel. Ablebits continues to improve and develop a rock solid add-in with clean tips and helpful details. I have used it for years and will continue to as long as I need Excel I will want Ablebits Ultimate Suite.
+Kory Hirak, 7-Apr-23
+Time saver and excellent support makes Ultimate Suite a no-brainerI have been using Ablebits Ultimate Suite for Excel for over 5 years. The product has been an absolute time saver as well as a productivity hack for me. I have recommended this tool to my colleagues who spent a lot of time working with Excel data and reports. Whenever I had an issue or a question, the support team has always been prompt to assist me. I will be a lifelong customer/subscriber of this product.
+Santosh, 22-Mar-23
+Hooked on this productI've been using the excel add-on program Ablebits for over a decade. It is an absolute must-have tool for me. Over the years I've shown it to many co-workers who also get hooked on how much easier it makes worksheet tasks. Combining data from other worksheets and duplicate remover are the 2 features I use the most.
+Vicki R, 16-Mar-23
+I've been using the Ablebits product for several yearsI've been using the Ablebits Excel product for several years. It is a lifesaver since my life revolves around data and spreadsheets. With the variety of tools and ease of use, there are no tasks I haven't been able to accomplish. Also, their customer service has always been very responsive and provide great answers, plus additional tips, or information.
+Lynette, 1-Mar-23
+AbleBits automated my entire Excel lifeAbleBits Ultimate has an endless amount of features that I'm still figuring out after 6 months of use. I got tired of adding in formulas myself, multi step processes to try and merge tables, and the dreaded formatting issues I always had to deal with. Everything in AbleBits completes the automations with wizards and easy to use features. Thank you for everything and will continue to recommend this add on to everyone!
+Andrew Binno, 20-Feb-23
+Ablebits Ultimate Suite turns Excel into what it should have always beenAblebits Ultimate Suite turns Excel into what it should have always been. I've had this product for about 5 years and won't use Excel without it. I frequently need to take data from multiple sources and coalesce it into large import files. The Merge Table function is a gamechanger for these tasks. The Substring functions are also an exceptional piece of kit for streamlining data. There's a limit to Excel's data management capabilities, but the Ultimate Suite tools take it to a whole new level.
+Rick Polete, 8-Feb-23
+Inexpensive with TONS of value!I have been an ablebits user for many years, and while sometimes people tell me you can do everything it does natively in excel - ablebits makes it EASY. I can consolodate and combine things using a natural language, I can see the results of something before I do it. It is an inexpensive tool that is incredibly valuable!
+Debbie Foster, 29-Jan-23
+Fantastic Outlook add-inI rely upon this small add-in every single day! Shared Email Templates makes repetitive tasks so quick and with the ability to create macros, sending out meeting minutes and agendas is a breeze. I could not use Outlook anymore without this program. Don't hesitate, add this to your software portfolio today.
+Kent Carle, 18-Jan-23
+Can't live without itI love the program, and I can't imagine using Excel without it! We do a lot of database management in excel and Ultimate Suite saves us endless time. I use it a lot for merging columns, trimming spaces, merging spreadsheets, converting casing. The program pays for itself. Thank you for all your efforts and support.
+Julie Bradley, 17-Jan-23
+Ablebits occupies a unique place for Excel usersAblebits occupies a unique place for Excel users as there is no comparable product out there. I have found the duplicate remover and merge duplicates modules particularly useful. It is very user-friendly and the support response has been rapid and helpful when I have contacted them. There is so much information on their website explaining how to achieve outcomes in Excel. Highly recommended!
+Barry Beiles, 16-Jan-23
+Outstanding product and supportThis product is a major productivity boost for anyone who sends a lot of email messages. There is quite a bit of redundancy in the messages that we send; Shared Email Templates allows us to build customized responses using the mini-templates that we have created within the tool. Everything is macro-enabled; even the macros are macro-enabled. So instead of shuttling back and forth between your message and the add-in, it pops up mini-forms that you fill with the information to be populated to the message.
+Robert M. Warfield, 13-Jan-23
+Absolutely worth every penny!!!I use Ablebits Ultimate Suite in Excel everyday and the amount of time saved is amazing. Things that used to take 10 or 15 minutes now can be done in under a minute with this add-in. HIGHLY recommended! Customer service is quick and the staff is very knowledgeable and courteous.
+Dave, 30-Dec-22
+Just one great product and a great company!I have been using Ablebits since 2016 and it has been a most useful tool. And if that isn't enough, their support should be the model for all customer support throughout the industry. Over the years I have had problems or questions and they have resolved all quickly and politely without making you feel belittled. Just one great product and a great company!
+Don Scarpetti, 23-Dec-22
+Superb way to have common text and attachmentsWe often send out the same attachments or common information to those that our charity supports. This add in makes it easy for everyone to put them into their emails and be sure they have the right version and not need to go looking for it.
+David Cornish, 22-Dec-22
+A wonderful feeling to be amazed by a productI paid for the personal edition out of my salary for my own use. It was not purchased by my organization, and I truly think that this is money well spent. I have not had one moment of regret – just the opposite. Each time that I use AbleBits I experience pleasure that I have spent my money wisely and am getting more value for my money than I could have thought possible. What a wonderful feeling to be amazed by a product each time that I use it even after daily using it for over a year.
+Deon van Niekerk, 17-Dec-22
+The Ablebits Excel add-in is an absolute must have If you find yourself working with spreadsheets even a couple times a day then you need to stop what you are doing and buy this add in! The Ablebits Excel add in is an absolute must have. I have been using it for years now and can’t even start to quantify how many hours, days, weeks, this has saved me. Adding to the awesome product is an awesome support team. Anytime I’ve ever had a problem or question they are prompt to reply providing nothing but useful information.
+Dave Tarantelli, 16-Dec-22
+The software is the real dealI can't tell you how many times I was scratching my head on something I needed to do in Excel and would suffer through a cumbersome way to do it, then I found Ablebits. More often than not, they have an elegant and easy solution for what I need to do. They have saved me countless hours and headaches. Their customer support is top notch too - very quick and HELPFUL. These folks are the real deal. The software is the real deal.
+Christopher Rotolo, 15-Dec-22
+Best Email Templates SolutionWe've been using Shared Emails Template consistently over the last few months and can already see the increase in productivity and decrease in communication errors by the team members. We're now in the phase of implementing it to other departments within the company, so we're really glad we've found Shared Email Templates. The support team is always extremely helpful and there was nothing we couldn't find a solution to, thanks team!
+Fernando Fraga, 6-Dec-22
+Great product - even better serviceThe Ablebits Excel addin is a real time saver. If you are doing anything complex with data sets in Excel and want to do things like de-dupe, check and cross-reference, this is a game changer. Well worth the money. Above that, the service is really excellent. Send an email and you get a reply pretty much within the hour. Very impressed and can't recommend enough.
+Alan Perestrello, 28-Nov-22
+It's a lifesaver!I have been using the ultimate suite for a few years and its a lifesaver!! I use it all the time to merge sheets and it saves me so much time! The support is also excellent. They are in a different time zone than I am (I am EST) but I always hear back in less than 24 hours. The price is reasonable and the product is good. I highly reccomend it!
+Lauri Pantos, 28-Nov-22
+I would be lost without itI use Ablebits add on for excel several times per day and would be lost without it. For us it is especially useful for highlighting duplicates, removing duplicates, comparing tables, comparing sheets, deleting blank cells. It does much more than that, but these are the most popular uses here. It is well worth installing. Thanks!
+Marc Lajoie, 28-Nov-22
+Fantastic toolLoving this app. It has made my work life much easier. I had a little trouble at first understanding the macros and datasets (trying to do nested macros) but now I've got it sorted and very happy. Support is also fantastic and respond in a timely manner. Thanks.
+Jane Kerr, 26-Nov-22
+Ablebits has saved me countless hours!Ablebits has saved me countless hours! Every time I confront a repetitive task in Excel, I look to my Ablebits tool bar for a solution. I almost always find that the geniuses at Ablebits have developed a seamlessly integrated Excel solution. I'm still discovering powerful tools in this awesome collection of widgets.
+PJ Kuyper, President, Platino Educa USA, 25-Nov-22
+Always well within 24 hoursBesides the fact that this is impressive software that just works as you’d expect it to work (no overpromising and underdelivering), what’s even more impressive is the support that has Ablebits has given me over the years. I’ve very seldom had to call on support (usually trivial admin matters) but when I have, their responses have been comprehensive and always well within 24 hours. Well done Ablebits!
+Leon Cronjé, 21-Nov-22
+A life and time saving tool with great customer service!A life and time saving tool with great customer service! I have used Ablebits for quite a few years and have been truly blessed by it. I take it with me with every new computer refresh I go through, and customer service is always able to provide me with any assistance that I need, hassle free. A product could be good, but when they have great customer service, they are deserving of a five star.
+Paul Gittens, 11-Nov-22
+Can't go without itI have been using AbleBits since probably 2008. First with their free version and then I purchased their paid version a few years ago. I just upgraded again. The program makes it so much easier to trim spaces and perform other tasks in Excel. I'd say I probably use their Excel add-in at least weekly if not daily. I recommend them for your Excel needs.
+Alisha Benish, 7-Nov-22
+It is a game changer!I refuse to use Excel without Ablebits Ultimate Suite! It is a game changer! Compared to similar tools in the market, Ablebits is more user friendly and easier to understand than the others. And if you need help, their service support team is top notch and insanely fast to respond. You don't need to be an Excel geek to use this product, but you will feel like one if you do!
+Eric F Carr, 5-Nov-22
+Abelbits is a very useful programAbelbits is a very useful program. I use it constantly for the state function,Pivot table, transposing key columns, compare, consolidating spreadsheets, and duplicate remover. Customer support is very friendly and responds quickly especially when needing to do a new installation of a PC or upgrading. I highly recommend this product.
+J Amsterdam, 26-Oct-22
+I highly recommend the Ablebits Ultimate SuiteI'm a business coach and number crunching is not something I do a lot. Therefore there must be a lot more value in Ablebits suite than I will ever use. I find that the tools I wish were in Excel are all in the Suite and the level of support by the Ablebits team has been very quick, thorough and complete. I highly recommend the Ablebits Ultimate Suite.
+Adam Pressman, 25-Oct-22
+We discovered a gold mine!When we discovered Ablebits 10 years ago, we discovered a gold mine! It provides a simple, straightforward way to work with multiple spreadsheets and excel files without having to figure out formulas. When something happens in our system and we "lose" Ablebits, my staff nearly panics until we can get it back up and running. We consider this an essential tool in performing many, many tasks in our jobs.
+Rebecca D. Becker, 25-Oct-22
+This app could not be more perfectThis app could not be more perfect. It is super convenient, especially for business users that have to go through the trouble of copying and pasting the same/similar responses on a daily basis. The macros are ESPECIALLY the best part of this Add-In. Customer support is also very efficient and quick so your to-do list is not delayed.
+Johnson, Mykyia, 24-Oct-22
+Would recommend it to anyone who works with ExcelWe have been using the Ultimate Suite for a year and really appreciate the time it has saved us in getting our lists ready for our updates. I could not believe how fast AbleBits got back to us. They are very fast to help you with a problem and showing you how to take care of it. They are very knowledgeable with their product. I would recommend them to anyone who works with Excel a lot.
+Judy Groom, 20-Oct-22
+Save hours of your lifeThis product very literally saves me HOURS in time compiling or updating information from several Excel sheets or files into one using just one matching column, and cleaning into a usable endproduct. There are so many features that simplify otherwise timeconsuming and tedious tasks that it makes working without the Add-In seem impossible. Highly recommended!
+Pennelope (Penney) Blakely Kunkle, 18-Oct-22
+Ablebits makes magicAblebits is the "magic" that I use each week to help me accomplish nearly all of the tasks for which I am assigned. In a few simple clicks of a trackpad, I can create spreadsheets that help us review our impact and identify ways to continue to improve. The process is so easy and customer support has been critical; helping me make the most of this incredible tool!
+Tracey Miller, 11-Oct-22
+I have found the Ablebits app and website to be extremely usefulMy work requires that I write financial reports exceeding 200 pages based on analyses done in Excel. I have found the Ablebits app and website to be extremely useful. Some specific tools I have found useful are the "find broken links," select by color," visualize, "formula translator" (beta version), "spell number," and, best of all, the most reliable workbook manager I've ever used.
+James F Joyner III, 25-Sep-22
+One word. PERFECTOne word. PERFECT. I have always had problems having to update my templates and then EVERYONE had to copy what I had from a google drive document just to update their own. Too much room for errors on top of wasted time. This literally solved ALL OF OUR PROBLEMS. The time saved is great on top of the room for error is gone. Everyone can access the same templates without hassle now. I suggest this whether you're a single person needing.
+Raymond, The Tattoo Industry, 23-Sep-22
+Extremely useful add-in with extensive functionalityI purchased and installed Ablebits for Excel. I have found it to be extremely useful in supplementing the capabilities of Excel – the functionality is very extensive. More importantly, I have found the support from Ablebits to be invaluable – patient and thorough. I definitely recommend Ablebits if you want to push the limits of your use of Excel.
+Doug Walters, 20-Sep-22
+Ablebits Ultimate Suite for Excel is invaluable if you work with spreadsheetsAblebits Ultimate Suite for Excel is well worth the money. This add on has saved me countless hours of work with just a couple of the features. I have to take client lists which are often not in the format I need and make them fit into the format we use. This is invaluable for merging spreadsheets with duplicate values, as well as merging multiple cells into useable data. You will not regret this purchase.
+Jodi V., 20-Sep-22
+The best add-in for anyoneThe Ablebits Ultimate Suite for Excel is without question the best add-in for anyone using spread sheets! Great tech support, no glitches, works fantastically well - and it really is useful. Lots of features that should be built-in to the platform and aren't. I've used it for years with terrific results. Thanks!
+Jeff Garris, 19-Sep-22
+Email TemplatesThis is the most useful tool for me and the amount of time it saves is unbelievable. I can't believe I went so long without - retyping the same responses dozens of times a day! Ekaterina is so helpful to our team! UPDATE: My templates started to give me trouble (I believe it was my computer rather than the templates). I reached out to Ekaterina and she fixed the issue for me within minutes - it was something wrong with my computer, and she was still able to fix it and get me back up and running! I am incredibly thankful to have her as a support system and she is an amazing asset to Microsoft.
+Molly Brennan, 25-Aug-22
+Exceptional product and serviceExceptional Product and Service: I have used Ablebits for several years, solving incredibly difficult problems in Excel, problems well beyond my coding and formula development skills, and each time, Ablebits provided an easy-to-use solution. And, when I needed help, response time was practically instantaneous, not an AI chatbot, but a real person who solves real problems.
+Michael Toney, 24-Aug-22
+Excellent product and support!Being a user of the "Ultimate Suite" since 2016 and processing 100'000s of datasets, I am utmost convinced of the product. And what is also excellent: is the support. Every question asked was answered very quickly and competently. You provided a free upgrade unasked - stunning! Thank you, Ablebits team, for your excellent product and support!
+Daniel Klaus, 17-Aug-22
+It is a productivity multiplier!Since first installing Ablebits Ultimate Personal over 18 months ago, I have learned a whole new level of data management. It is a potent tool that's very easy to learn and use. It is a productivity multiplier!! Likewise, the Ablebits Support Team is highly professional, rapid responders, and helpful, a rare treat these days!
+Jess Fowler, 12-Aug-22
+If that's not good service, I don't know what isWho wants to learn VBA? I know I didn't when I was forced to learn it. Then came Ablebits, and I can never go back. Imagine someone giving you a flip phone now, in 2022. That's what it's like living without Ablebits. I had an issue where it was crashing in Excel, and I was distraught. After sending my feedback, I was greeted with an email and an updated key for the latest release, before I even made it that far in my troubleshooting. If that's not good service, I don't know what is. Can you guys just run all of our other vendors?
+Jason Velez, 11-Aug-22
+My Excel life changed a lot… for the better!I believe it was around 2007-2008 when I discovered Ablebits and its table merge add-on. Since then, my "Excel life" changed a lot… for the better! I use it alongside other tools in the Ultimate Suite on a regular basis and have licensed it for people in my BD team. It is an invaluable tool!"
+Marco Antonio Gonçalves, 10-Aug-22
+Excellent Add-on!My company needed a template system for responding to online orders in a consistent and efficient way. We searched around and finally found this product. It is exactly what we needed. It is highly customizable, looks great, has excellent integration with Outlook and my employees love it! It is easy to use, easy to set up and easy to manage. I highly recommend this product to anyone that has a need for consistent and professional communication with email.
+Greg Steadman, 9-Aug-22
+Well worth the price of admissionWell worth the price of admission. If you're doubting it, try it out. Even uninstalling is a breeze. I got this recommended from a co-worker for helping clean up duplicate data and manage complex editing. Went for the free trial, and was blown away. Better still, I had some trouble reinstalling things when my system got wiped. Support was on top of the issue fast and had me going again in a hurry. Incredible stuff.
+Grant, 1-Aug-22
+Ultimate Suite is a treasure chest of useful toolsUltimate Suite is a treasure chest of useful tools. I bought the it for the "Merge Tables tool", and it is worth the purchase price just for that. The other features I use are too numerous to mention. Ablebits makes a breeze of many tasks that would take a LOT of time to do using just formulas. It has revolutionized my work flow. And customer service is excellent.
+Mark Newbold, 28-Jul-22
+The best tools. Exactly what I neededAblebits Excel tools were exactly what I needed. We even recently updated to the newest version. Before finding Ablebits, I would have to spend two to three hours comparing two different workbooks each month. Not to mention the time I would have to spend combining cells with multiple lines of text. Ablebits has saved me time effort and I'm very grateful.
+Emily Brown, 26-Jul-22
+AbleBits has been a huge time saverAbleBits has been a huge time saver for cleaning up client-provided lists. With just a simple click we can quickly and efficiently trim spaces, split names, standardize case, and combine related sheets. Plus it's great to know there are so many other powerful tools in the software that are available whenever we need it.
+Martin Weinberg, Founder, MarketGenesis, 17-Jul-22
+That one program has given me years of convenience It's been years since I was desperate to be able to do additional functions in MS Excel and could not figure out how. I did an internet search - found Ablebits and that one program has given me years of convenience. I own my own business which always has been remote and using our CRM and our client's databases all depend on MS Excel to add data. I don't know what I would have done without this program. Customer Support even now is the best I have experienced. Thank you all for being there for me when other companies don't care.
+Liz Kaminski, 15-Jul-22
+Ablebits is a dream come true for any Excel user Ablebits is a dream come true for any Excel user working with data. I have used AbleBits for many years and thanks to regular updates the product has become a fantastic, time saving tool that no Excel user dealing with large data can do without. Your support deserve a special mention as it is prompt and always available.
+Ilse Assmann, 7-Jul-22
+This add-in is really valuable for a very reasonable costAblebits Ultimate Suite for Microsoft Excel has been a time-saver and an excellent addition for my large data requirements. Rarely do I find a product that warrants spending on Excel, but this add-in is really valuable for a very reasonable cost. It installed like a charm, is intuitive, and I found customer service to be very responsive and helpful.
+James Kennedy, 6-Jul-22
+We couldn't imagine being without this tool!Managing and working with data has never been easier once we began utilizing Ablebits! The tool eliminates the need to learn complex excel formulas and provides straightforward tools to significantly increase our efficiency. What used to take a day now takes one hour. It's easy to use and the support the Ablebits team provides is high quality. We couldn't imagine being without this tool!
+Pat Rorabeck, 28-Jun-22
+Shared Email Templates User for 3+ yearsThis is the best template add-in that I have used. It is above the rest. This add-in has helped my team and I tremendously making our jobs MUCH MORE enjoyable. I cannot say enough good things about the add-in and customer service support. I highly recommend this to anyone that needs more automation and organization.
+Melissa Samaras, 13-Apr-22
+Just want to say that I LOVE your Ultimate Suite Excel add-onJust want to say that I LOVE your Ultimate Suite Excel add-on and would have quit my job had a colleague not recommended it to me. It has exceeded every expectation. I also want to give a shout out to someone named Ekaterina Pechyonkina, who was a tremendous help to me when I needed to migrate (same root word as migraine) from a desktop PC to a laptop. Please know that both your product and your people are making life better for those of us working with information. Thank you!!
+Steve Cameron , 25-Mar-22
+Easy to use and share with my teamMy organisation has heaps of standardized letters and it had been super difficult to update them with every team member. Now, with a shared template system, we can update it once and ensure everyone is using the correct letter with the most recent updates. The support team for this app were great to deal with when I had a subscription issue. Replied to my query the next business day and had the exact solution ready to go. 5/5.
+Adam Cahill, 11-Jan-22
+Love this appWe were trying to figure out how we could create more consistency in our communication to our managers. It always seemed that our emails were off by a few words. One would get updated and not everyone had the updated email. With Shared Email Templates, we don't have to worry about that anymore. All of our communication is consistent and changes are made efficiently. We are so glad that we found this. Thank you!
+Anissa Kennedy, 7-Oct-21
+The best and most useful add in available with good Customer ServiceFor a whole year I was moving between CRM's that offer template messages and other services but non of them were of use. I needed something that I can use from a sentence base, and to have it as a seamless experience with my outlook. This app is SOOOO on spot and SOOO helpful it is literally unbelievable. Click on the side bar and choose the email/paragraph/or sentence you want to put into the email. Incredible. I have my whole team working with these templates and productivity skyrocketed. I also had a small bug in the messaging, I sent a contact request explaining it, and it got solved within the hour. I want to personally thank the developers and CS for such a great experience.
+Hershel Glueck, 20-Jul-21
+Ablebits for Excel!! All the add-ons you will ever need!I use Ablebits at least twice a day in my work, and use it all the time for personal finances. At the point when I change occupations, one of the main things I do is get my new boss to hack up the truly sensible expense of this important programming, and I’ve paid for it myself more than once. It spares time and disappointment over and over… My colleagues believe I’m a wizard. All things considered, I’m only a strict client of Ablebits.
+Noah Henderson, 24-Jun-21
+The makes working with my team SO easy! And they have AWESOME supportShared email templates has saved me countless hours of having to update templates for each team member individually. It's a low-cost way to have professional templates in a central place where you only have to edit once and it updates for all team members. You can even paste HTML and it maintains the formatting. I ran into a couple of support issues and their support team was amazing. I used the chat available on the main Ablebits website and got a response right away with confirmation that my issue would be forwarded to the developers and then they replied by email so I didn't have to keep the chat window open. Also with my last support issue the CEO actually responded to me himself and helped me resolve the issue. This is definitely worth the small cost.
+Tiffany Weber, 16-Mar-21
+In the first 30 minutes of using Ablebits, I have already found at least ten different tools that will save me hours each monthI consider myself a high-level Excel user and often find myself reaching the outer limits of what Excel is capable of without some convoluted workaround, VBA, or writing a Python program. In the first 30 minutes of using Ablebits, I have already found at least ten different tools that will save me hours each month. I work with a lot of complex and very messy datasets, and Merge Two Tables, Combine Sheets, Merge Duplicates, Split Table, Trim Spaces, Change Case, etc. will make my life SO much easier. I am a very satisfied customer.
+Bryant Phillips, 19-Feb-21
+Your Ablebits are truly amazingYour Ablebits are truly amazing, and better than Unix sed or awk, that is if my 73-year old memory is accurate, which is debatable! HA! It took fantasy football to get me to really explore the capabilities of Ablebits. I’ve won my league three of the last six years! I warned those whippersnappers that a retired IT guy with spreadsheet skills was going to be a problem!
+Greg, 5-Dec-20
+Ablebits has allowed us to reduce timescale from hour to around 5-10 minutesPRS use third party applications to share internal spreadsheets with a digital app based system to our staff & clients. The system primarily uses CSV format. We use Ablebits for ease of combining these type documents. Previously this task was undertaken manually (taking up to 1 hour per task). Ablebits has allowed us to reduce this timescale to around 5-10 minutes. In addition, the Ablebits team are extremely helpful & very quick to respond to queries.
+Thomas Savine, 23-Nov-20
+This software is by far the best I have ever purchasedIn my line of work, this software is by far the best of any software/addon I have ever purchased/used. There is no close competition. My personality is such I don’t recommend any product/store, etc. Your product is the exception. I have recommended this product to a few and they have come back and thanked me.Keep up the good work.
+Gary Loar, 21-Jul-20
+This product changed my working and investing experienceAs a macro strategist and investor I deal in a large volume of data which I translate to a significant number of charts which I use then to interpret macro-economic trends, markets and investment opportunities. My challenge was how could I handle the large volume of charts in way that allowed me to update, modify and review them in an efficient way. I then found Ablebits suite for Microsoft Excel. This product changed my working and investing experience. The suite I started with and now the Ultimate Suite (2020 edition) provide a flawless experience. This is a terrific product at a great price. I recommend it unreservedly.
+Tony Brinker, 23-Jun-20
+Ablebits offers amazing services!Their Ultimate Site is perfect for novice and advanced Excel users. Thanks to their Ultimate Suite, I can perform a number of data tasks at a click of the button! It's perfect for data cleaning. And, their staff is very prompt and responsive. Trust me, this is an add on and company that won't disappoint.
+Lanita Warner, 27-Apr-20
+Fantastic programThe Ablebits Data Merge Tables add- on is a fantastic program. It facilitates my projects for sure saving numerous hours of drudgery not to mention reducing the chance of error in manually importing data. I would definitely recommend it to anyone who needs to pull data from one Excel file to another. It's worth every penny! I love it.
+Dr. Douglas Boyd Ph.D., 16-Sep-14
+KUDOS to you guys for solving a problem that our IT department doesn't understandAfter our IT department thought they know how the sales department should function and destroyed some data files. With the help of Able Bits I was able to regenerate my database in just a few short clicks. This was AWESOME. KUDOS to you guys for solving a problem that even our IT department doesn't understand. As a leader in the sales department I need my data to grow sales.
+Erik Peterson, 24-Jun-14
+AbleBits suite has really helped me when I was in a crunch!Having AbleBits suite has really helped me when I was in a crunch! It was intuitive and really saved me time on my job! Now that the crunch is over, I'm finding there are other capabilities in the suite that I was not really aware of initially, (I originally only needed the easy merge capability). And those other features will / are valuable time savers as well. Thanks for the product!
+Nelda Fink, 26-Mar-14
+I love the program, and I can't imagine using Excel without it!Thank you for your commitment to Ultimate Suite. I love the program, and I can't imagine using Excel without it! Ultimate Suite saves me many hours of effort with the projects I manage within Excel. The program paid for itself the first day I used it. You and your team have created a really great set of tools for use within Microsoft Excel. Thank you, thank you, thank you!!!
+Robert Madsen, 3-May-13
+It is like having an expert at my shoulder helping me…I really feel that Ablebits has people like me in mind with your software development. It is like having an expert at my shoulder helping me work more effectively and efficiently. Now I have more time to goof off at work - none the wiser. Uh, that last statement is not really true - I will just have a lot less stress because things will go so much smoother.
+Linda Shakespeare
+
+
+New blog posts
+
+
+
+How to extract word from string in Excel: first, last, Nth, and more
+Have you ever faced the challenge of extracting specific words from text within an Excel cell? Getting the first or last word can be relatively easy using built-in Excel functions. However, extracting an arbitrary word from the middle of a sentence can be much more complex.
+
+
+
+
+
+Beyond words: comprehensive guide on styling text in Google Docs
+In this blog post, we delve into the various techniques and features available to customize your Google Docs. Follow these tips and tricks to be well on your way to creating documents that convey your content effectively and look polished and visually captivating.
+
+
+
+
+
+Adding second axis in Excel: chart with two X or Y axes
+In Excel graphs, you're used to having one horizontal and one vertical line to display your data. But things can get a bit tricky when you're dealing with different types of data, like numbers and percentages, or when you want to compare two sets of data that don't quite match up in terms of time or size. This is where a second axis comes into play.
+
+
+
+
+
+How to extract first line in Excel cell
+In the world of data analysis, Excel stands as a powerful tool that offers various features to optimize complex tasks. One such task is extracting specific content from a cell, a technique that can prove invaluable in managing and presenting data efficiently.
+
+
+
+
+
+Compare Sheets for Google Sheets – V1.1. What's new?
+The updated version of the Compare Sheets collection for Google Sheets is out with 2 new add-ons on board. Meet your future spreadsheet sidekicks in this brief overview.
+
+
+
+
+
+How to omit the first line in Excel cell
+When dealing with multi-line data in Excel, you may come across scenarios where you need to omit the first line of text from a cell. This could be to remove headers or unnecessary information from imported data, clean up data for analysis, or simply extract relevant information.
+
+
+
+
+
+Power Tools for Google Sheets – V1.17. What's new?
+This major upgrade carries a few greatly anticipated features and a couple of improvements.
+
+
+Check more related articles
+
+
+
+
+Excel: featured articles
+
+
+Merge Excel sheets into one - consolidate data or copy sheets 
+Excel VLOOKUP - tutorial with formula examples 
+Combine Excel files into one - with VBA or special tool
+Compare two Excel sheets - with formulas and tools
+Compare 2 columns in Excel - for matches and differences
+Merge columns in Excel - without losing data
+
+
+Convert text to number - in 6 different ways
+Create calendar in Excel - drop-down and printable
+CONCATENATE in Excel - combine cells and columns
+Remove spaces between words - 3 quick ways
+Merge 2 or more tables - with formulas and Power Query
+
+
+
+
+Outlook: featured articles
+
+
+Outlook email templates - 10 quick ways to create and use
+Mail Merge in Outlook - send personalized bulk email
+
+
+Email templates with fillable fields - text, calendar, dropdown
+How to make Outlook signature - create, add and change
+
+
+
+
+Google Sheets: featured articles
+
+
+Merge data from duplicate rows - based on unique column
+Compare data in two Google sheets - for matches and differences
+
+
+SUMIF in Google Sheets - tutorial with formula examples
+Google Sheets VLOOKUP - tutorial with formula examples
+
+
+
+
+
+
+
+
+ Poland helps Ukraine! To support Ukraine and save lives, please visit this page.
+	
+
+
+
+
+Products
+
+
+
+Windows
+Ultimate Suite for Excel
+Shared Email Templates for Outlook
+Mail Merge for Outlook
+Link Checker for Word
+Mac Os
+Text Toolkit for Excel
+Shared Email Templates for Outlook
+Mail Merge for Outlook
+Outlook Online
+Shared Email Templates for Outlook
+Mail Merge for Outlook
+Google Workspace
+Add-ons for Google Sheets
+Add-ons for Google Docs
+
+
+
+Ultimate Suite
+70+ professional tools for Microsoft Excel
+This comprehensive set of time-saving tools covers over 300 use cases to help you accomplish any task impeccably without errors or delays.
+
+
+Merge multiple worksheets
+Compare sheets for differences
+Remove duplicates
+Merge cells in Excel
+Calculate dates and times
+
+
+Combine sheets by column headers
+Trim extra spaces
+Count characters and words
+Convert text to number
+See all tools
+
+
+Works for:   Windows
+Read more about Ultimate Suite
+
+
+Shared Email Templates
+Reply to routine emails faster than ever
+Do not waste your time on composing repetitive emails from scratch in a tedious keystroke-by-keystroke way. Type your response just once, save it as a template and reuse whenever you want.
+
+
+Quick replies for routine emails
+Fully customizable templates
+Gorgeous html-based designs
+Dynamic templates with fillable fields
+
+
+Comfortable template sharing
+Custom-tailored bulk mailings
+Company and team-wide signatures
+Easy user and team management
+
+
+Works for:   Windows•macOS•Outlook Online
+Read more about Shared Email Templates
+
+
+Link Checker for Microsoft Word
+Manage links in your document with ease
+Find all links in your document, get them verified, correct invalid ones and remove unnecessary entries with a click to keep your document neat and up to date.
+
+
+Search for all link types
+Define link states
+
+
+Edit multiple hyperlinks at a time
+Sort and filter links by different criteria
+
+
+Works for:   Windows
+Read more about Link Checker
+
+
+Text Toolkit for Excel
+35+ handy options to make your text cells perfect
+Instead of building formulas or performing intricate multi-step operations, start the add-in and have any text manipulation accomplished with a mouse click.
+
+
+Trim extra spaces
+Convert text to numbers
+Count characters and words
+Change letter case 
+Extract text or numbers
+Remove text by its position
+Split cells by symbol, string, or mask
+
+
+Replace unwanted characters
+Eliminate leading zeros
+Swap text in your cells
+Find, extract, replace, and remove strings by means of regexes
+Merge columns, rows, or cells into one
+Combine rows by duplicates
+
+
+Works for:   macOS•Excel Online
+Read more about Text Toolkit
+
+
+
+40+ tools to boost your Google Sheets
+This smart package will ease many routine operations and solve complex tedious tasks in your spreadsheets.
+Read more about Power Tools
+Try it for free
+
+Add-ons for Google Sheets
+
+Merge Sheets
+Function by Color
+Remove Duplicates
+Compare Sheets
+Substring Batch Toolkit
+Table Styles
+Advanced Find and Replace
+See all products
+
+
+
+Add-ons for Google Docs
+
+Search & Navigate
+Doc Tools
+Styles for Google Docs
+
+
+
+Mail Merge
+Ideal for newsletters, proposals, and greetings addressed to your personal contacts
+Mail Merge is a time-saving approach to organizing your personal email events. It offers:
+
+
+Customizable and adaptive mail merge templates
+Personalized merge fields depending on the recipient or context
+
+
+Dynamic attachments and images
+Mailing lists based on Excel tables
+"Send immediately" and "send later" scheduling
+
+
+Works for:   Windows•macOS•Outlook Online
+Read more about Mail Merge
+
+
+
+
+
+Downloads
+
+Current versions
+Archived versions
+
+
+Documentation
+Support
+
+Contact support service
+Report a bug
+Frequently asked questions
+
+
+Blog
+About us
+Purchase
+
+Buy online
+Customer reviews
+Purchasing FAQ
+Licensing FAQ
+Get a Formal Quote
+Purchase Orders
+Trusted resellers
+License Agreement (EULA)
+
+
+
+
+
+
+
+
+Ultimate Suite for Excel
+Shared Email Templates for Outlook
+Power Tools for Google Sheets
+Downloads
+Documentation
+Support
+Blog
+About us
+Purchase
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+Privacy policy  	Cookies policy  	Cookie settings  	Terms of use   Legal   Contact us
+Copyright © 2003 – 2023 Office Data Apps sp. z o.o.
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+

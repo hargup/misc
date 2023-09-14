@@ -1,0 +1,75 @@
+
+
+
+
+Daniel Compton
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Daniel Compton
+
+Articles 
+                - Snippets
+                - About 
+                - Work With Me 
+                - Projects
+
+
+
+
+
+WelcomeI’m Daniel Compton, a software developer living in New Zealand.
+I mostly write about Clojure, open source funding, and software development.
+Recent Articles
+
+
+Penny Wise and Cloud Foolish 
+
+
+Reviewing DisplayLink for macOS and the ALogic DX3 
+
+
+Understanding DisplayLink, multiple displays, and M1 Macs 
+
+
+Read more Articles
+Recent Snippets
+
+
+Why does Google Cloud Storage need Turbo Replication? 
+
+
+Fixing Chrome DevTools warning "Using unsafe HTTP verb" 
+
+
+What's the difference between http2and3 and http3 in Cloudfront? 
+
+
+Read more Snippets
+Site Feed
+
+    You can subscribe by
+
+
+RSS
+
+
+
+

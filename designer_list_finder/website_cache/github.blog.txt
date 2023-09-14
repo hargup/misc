@@ -1,0 +1,632 @@
+
+
+
+
+
+
+
+
+
+The GitHub Blog - Updates, ideas, and inspiration from GitHub to help developers build and design software.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+Blog
+
+
+EngineeringProductSecurityOpen SourceEnterpriseChangelogCommunityEducationCompanyPolicy 
+Enterprise trial
+Contact sales
+
+
+
+
+
+Search by Keyword
+
+
+
+
+					Search				
+
+
+
+
+
+
+
+
+
+
+
+
+
+Security
+CodeQL team uses AI to power vulnerability detection in codeLearn how GitHub’s CodeQL leveraged AI modeling and multi-repository variant analysis to discover a new CVE in Gradle.
+
+
+
+Walker Chabbott & Florin Coada
+September 12, 2023
+
+
+
+
+
+Engineering
+GitHub Availability Report: August 2023In August, we experienced two incidents that resulted in degraded performance across GitHub services. 
+
+
+Jakub Oleksy
+September 13, 2023
+
+
+
+Community
+Apply now for GitHub Universe 2023 micro-mentoringAs part of our ongoing commitment to accelerate human progress through Social Impact initiatives, we’re offering students 30-minute, 1:1 micro-mentoring sessions with GitHub employees ahead of Universe.
+
+
+Camaley Jennings
+September 13, 2023
+
+
+
+Engineering
+How to build an enterprise LLM application: Lessons from GitHub CopilotThe team behind GitHub Copilot shares its lessons for building an LLM app that delivers value to both individuals and enterprise users at scale. 
+
+
+Shuyin Zhao
+September 6, 2023
+
+ 
+
+
+
+
+
+Community
+Getting started with edge computingEdge computing practitioners answer your questions about when and why to build applications at the edge.
+
+
+Klint Finley
+September 1, 2023
+
+
+
+Engineering
+Optimize your GitHub Codespaces costs with upgraded virtual machinesSee how much more you can get out of GitHub Codespaces by taking advantage of the improved processing power and increased headroom in the next generation of virtual machines.
+
+
+Craig Peters
+August 31, 2023
+
+
+
+
+
+Latest posts
+
+
+
+Engineering
+Why Rust is the most admired language among developersRust continues to top the charts as the most admired and desired language by developers, and in this post, we dive a little deeper into how (and why) Rust is stealing the hearts of developers around the world.
+
+
+Sara Verdi
+August 30, 2023
+
+
+
+Enterprise
+GitHub Enterprise Server 3.10 is now generally availableCustomers using GHES can now ensure secure development is a top priority with enhanced security and compliance controls for their repositories.
+
+
+David Jarzebowski & Melody Mileski
+August 29, 2023
+
+
+
+Engineering
+10 things you didn’t know you could do with GitHub ProjectsLearn how to optimize your usage of GitHub Projects to plan and track your work from idea to production.
+
+
+Kedasha Kerr
+August 28, 2023
+
+
+
+Community
+Game Bytes · August 2023Game Bytes is our monthly series taking a peek at the world of gamedev on GitHub—featuring game engine updates, game jam details, open source games, mods, maps, and more. Game on!
+
+
+Lee Reilly
+August 25, 2023
+
+ 
+
+
+
+Changelog
+View all changes
+
+
+
+
+
+
+
+GitHub Actions - Updates to GITHUB_REF and github.ref
+September 13, 2023
+
+
+
+
+
+Self-Serve Enterprise can grant sponsorships permission to organization
+September 12, 2023
+
+
+
+
+
+CSV export functionality for the organization-level risk and coverage pages on the Security tab
+September 12, 2023
+
+
+
+
+
+Dependency review support for dependency submission results
+September 8, 2023
+
+
+
+
+View all changes
+
+
+
+
+
+Engineering
+
+GitHub Availability Report: August 2023In August, we experienced two incidents that resulted in degraded performance across GitHub services. 
+
+
+
+Jakub Oleksy
+September 13, 2023
+
+How to build an enterprise LLM application: Lessons from GitHub CopilotThe team behind GitHub Copilot shares its lessons for building an LLM app that delivers value to both individuals and enterprise users at scale. 
+
+
+Shuyin Zhao
+
+Optimize your GitHub Codespaces costs with upgraded virtual machinesSee how much more you can get out of GitHub Codespaces by taking advantage of the improved processing power and increased headroom in the next generation of virtual machines.
+
+
+Craig Peters
+
+Why Rust is the most admired language among developersRust continues to top the charts as the most admired and desired language by developers, and in this post, we dive a little deeper into how (and why) Rust is stealing the hearts of developers around the world.
+
+
+Sara Verdi
+
+ 
+
+
+Community
+
+Apply now for GitHub Universe 2023 micro-mentoringAs part of our ongoing commitment to accelerate human progress through Social Impact initiatives, we’re offering students 30-minute, 1:1 micro-mentoring sessions with GitHub employees ahead of Universe.
+
+
+
+Camaley Jennings
+September 13, 2023
+
+Getting started with edge computingEdge computing practitioners answer your questions about when and why to build applications at the edge.
+
+
+Klint Finley
+
+Game Bytes · August 2023Game Bytes is our monthly series taking a peek at the world of gamedev on GitHub—featuring game engine updates, game jam details, open source games, mods, maps, and more. Game on!
+
+
+Lee Reilly
+
+AI-powered impact: GitHub Social Impact’s year aheadHow GitHub Social Impact is working with nonprofit organizations, employees, and more to create positive, lasting change in global communities.
+
+
+Sidney Espinosa
+
+ 
+
+
+
+Trending stories
+
+1How to build an enterprise LLM application: Lessons from GitHub CopilotThe team behind GitHub Copilot shares its lessons for building an LLM app that delivers value to both individuals and enterprise users at scale. 
+
+
+Shuyin Zhao
+
+2CodeQL team uses AI to power vulnerability detection in codeLearn how GitHub’s CodeQL leveraged AI modeling and multi-repository variant analysis to discover a new CVE in Gradle.
+
+
+Walker Chabbott & Florin Coada
+
+3Raising the bar for software security: GitHub 2FA begins March 13On March 13, we will officially begin rolling out our initiative to require all developers who contribute code on GitHub.com to enable one or more forms of two-factor authentication (2FA) by the end of 2023. Read on to learn about what the process entails and how you can help secure the software supply chain with 2FA.
+
+
+Laura Paine & Hirsch Singhal
+
+4How to use GitHub Copilot: Prompts, tips, and use casesIn this prompt guide for GitHub Copilot, two GitHub developer advocates, Rizel and Michelle, will share examples and best practices for communicating your desired results to the AI pair programmer. 
+
+
+Rizel Scarlett & Michelle Mannering
+
+5How to build a CI/CD pipeline with GitHub Actions in four simple stepsA quick guide on the advantages of using GitHub Actions as your preferred CI/CD tool—and how to build a CI/CD pipeline with it.
+
+
+Brian Douglas
+
+6Research: quantifying GitHub Copilot’s impact on developer productivity and happinessWhen the GitHub Copilot Technical Preview launched just over one year ago, we wanted to know one thing: Is this tool helping developers? The GitHub Next team conducted research using a combination of surveys and experiments, which led us to expected and unexpected answers.
+
+
+Eirini Kalliamvakou
+
+
+
+
+
+
+Product
+
+GitHub Enterprise Server 3.10 is now generally availableCustomers using GHES can now ensure secure development is a top priority with enhanced security and compliance controls for their repositories.
+
+
+
+David Jarzebowski & Melody Mileski
+August 29, 2023
+
+10 things you didn’t know you could do with GitHub ProjectsLearn how to optimize your usage of GitHub Projects to plan and track your work from idea to production.
+
+
+Kedasha Kerr
+
+A faster way to manage version updates with DependabotNow, you can group multiple version updates in a single pull request.
+
+
+Eric Tooley
+
+A guide to designing and shipping AI developer toolsGitHub’s design experts share 10 tips and lessons for designing magical user experiences for AI applications and AI coding tools. 
+
+
+Nicole Choi
+
+A checklist and guide to get your repository collaboration-readyIn the world of software development, collaboration can make the difference between a brittle last-minute release and a reliable, maintainable, pain-free project. Whether you’ve been coding for a day or a decade, your colleagues are there to help strengthen your work. But they can only help if you’ve given them the tools to do so.
+
+
+Jon Peck
+
+Introducing code referencing for GitHub CopilotToday, we’re announcing a private beta of GitHub Copilot with code referencing that includes a filter to detect code suggestions matching public code on GitHub.
+
+
+Ryan J. Salva
+
+Smarter, more efficient coding: GitHub Copilot goes beyond Codex with improved AI modelWe're thrilled to announce two major updates to GitHub Copilot code Completion's capabilities that will help developers work even more efficiently and effectively.
+
+
+Shuyin Zhao
+
+ 
+
+
+Security
+
+CodeQL team uses AI to power vulnerability detection in codeLearn how GitHub’s CodeQL leveraged AI modeling and multi-repository variant analysis to discover a new CVE in Gradle.
+
+
+
+Walker Chabbott & Florin Coada
+September 12, 2023
+
+A faster way to manage version updates with DependabotNow, you can group multiple version updates in a single pull request.
+
+
+Eric Tooley
+
+mTLS: When certificate authentication is done wrongIn this post, we'll deep dive into some interesting attacks on mTLS authentication. We'll have a look at implementation vulnerabilities and how developers can make their mTLS systems vulnerable to user impersonation, privilege escalation, and information leakages.
+
+
+Michael Stepankin
+
+Hardening repositories against credential theftSome best practices and important defenses to prevent common attacks against GitHub Actions that are enabled by stolen personal access tokens, compromised accounts, or compromised GitHub sessions.
+
+
+Matthew Masarik
+
+Nine years of the GitHub Security Bug Bounty programIt was another record year for our Security Bug Bounty program! We're excited to highlight some achievements we’ve made together with the bounty community in 2022!
+
+
+Jill Moné-Corallo
+
+Enhanced push protection features for developers and organizationsIntroducing two new secret scanning push protection features that will enable individual developers to protect all their pushes and organizations to gain insights and trends across their repositories.
+
+
+Zain Malik & Courtney Claessens
+
+Four tips to keep your GitHub Actions workflows secureResearchers from Purdue and NCSU have found a large number of command injection vulnerabilities in the workflows of projects on GitHub. Follow these four tips to keep your GitHub Actions workflows secure.
+
+
+Jaroslav Lobacevski & Kevin Backhouse
+
+ 
+
+
+Open Source
+Game Bytes · August 2023Game Bytes is our monthly series taking a peek at the world of gamedev on GitHub—featuring game engine updates, game jam details, open source games, mods, maps, and more. Game on!
+
+
+
+Lee Reilly
+August 25, 2023
+
+AI-powered impact: GitHub Social Impact’s year aheadHow GitHub Social Impact is working with nonprofit organizations, employees, and more to create positive, lasting change in global communities.
+
+
+Sidney Espinosa
+August 23, 2023
+
+Highlights from Git 2.42Another new release of Git is here! Take a look at some of our highlights on what's new in Git 2.42.
+
+
+Taylor Blau
+August 21, 2023
+
+Release Radar · July 2023 EditionAfter the last Release Radar, I promised the next one wouldn't be far away, so here it is. This is the low down on some of the best open source…
+
+
+Michelle Mannering
+August 15, 2023
+
+Enhanced push protection features for developers and organizationsIntroducing two new secret scanning push protection features that will enable individual developers to protect all their pushes and organizations to gain insights and trends across their repositories.
+
+
+Zain Malik & Courtney Claessens
+August 9, 2023
+
+
+
+
+
+EnterpriseGitHub Enterprise Server 3.10 is now generally availableCustomers using GHES can now ensure secure development is a top priority with enhanced security and compliance controls for their repositories.
+
+
+David Jarzebowski & Melody Mileski
+
+GitHub Availability Report: July 2023In July, we experienced one incident that resulted in degraded performance across GitHub services.
+
+
+Jakub Oleksy
+
+A checklist and guide to get your repository collaboration-readyIn the world of software development, collaboration can make the difference between a brittle last-minute release and a reliable, maintainable, pain-free project. Whether you’ve been coding for a day or a decade, your colleagues are there to help strengthen your work. But they can only help if you’ve given them the tools to do so.
+
+
+Jon Peck
+
+EducationIntroduction to SELinuxSELinux is the most popular Linux Security Module used to isolate and protect system components from one another. Learn about different access control systems and Linux security as I introduce the foundations of a popular type system.
+
+
+Kevin Stubbings
+
+How I used GitHub Copilot to build a browser extensionHere’s how, in seven steps, I built my first browser extension with GitHub Copilot—and my three major takeaways about learning and pair programming in the age of AI. 
+
+
+Rizel Scarlett
+
+Building a more inclusive GitHub Global CampusEvery student and teacher deserves the same access to GitHub Education offerings. We’ve enlisted GitHub’s Accessibility team to help identify areas for improving inclusivity.
+
+
+Arelia Jones
+
+PolicyHow to get AI regulation right for open sourceSharing our coalition paper to inform the final negotiation of the EU AI Act.
+
+
+Peter Cihon
+
+No cyber resilience without open source sustainabilityHave your say to protect open source in the EU.
+
+
+Mike Linksvayer
+
+Developers need the right to challenge junk patentsThe United States Patent and Trademark Office (USPTO) recently proposed rule changes that will make it harder to challenge low quality patents. Without the ability to quickly and efficiently challenge wrongly granted patents, innovation and developers suffer.
+
+
+Mike Linksvayer
+
+CompanyBuild for today, transform for tomorrow at GitHub Universe 2023Get tickets to our global developer and customer event for 30% off during our Super-Early Bird special, only for a limited time. 
+
+
+Jeimy Ruiz
+
+Exploring developer happiness, inclusion, and productivity at GitHub’s Design ConferenceAs a design organization, we have the opportunity to make a significant impact on designing the platform for all developers. How does the emergence of creative AI impact our work? How can we achieve an inclusive experience for a spectrum of all abilities? What does designing for developer happiness look like? 
+
+
+Amanda Swan
+
+A developer's guide to prompt engineering and LLMsPrompt engineering is the art of communicating with a generative AI model. In this article, we’ll cover how we approach prompt engineering at GitHub, and how you can use it to build your own LLM-based application. 
+
+
+Albert Ziegler & John Berryman
+
+
+
+
+
+
+
+
+
+
+ Subscribe to The GitHub Insider
+Discover tips, technical guides, and best practices in our monthly newsletter for developers.
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+                  Yes please, I’d like GitHub and affiliates to use my information for personalized communications, targeted advertising and campaign effectiveness. See the GitHub Privacy Statement for more details.              
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductFeaturesSecurityEnterpriseCustomer StoriesPricingResourcesPlatformDeveloper APIPartnersAtomElectronGitHub DesktopSupportDocsCommunity ForumTrainingStatusContactCompanyAboutBlogCareersPressShop
+
+
+
+
+
+
+
+
+
+
+GitHub on Twitter
+
+
+
+
+
+
+
+GitHub on Facebook
+
+
+
+
+
+
+
+GitHub on YouTube
+
+
+
+
+
+
+
+GitHub on Twitch
+
+
+
+
+
+
+
+GitHub on TikTok
+
+
+
+
+
+
+
+GitHub on LinkedIn
+
+
+
+
+
+
+
+GitHub’s organization on GitHub
+
+
+
+
+© 2023 GitHub, Inc.
+
+Terms
+
+
+Privacy
+
+
+
+
+
+
+
+
+
+
+

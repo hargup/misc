@@ -1,0 +1,201 @@
+
+
+
+Dion Almaer's Home Page
+
+
+
+
+
+
+
+Dion Almaer's Home Page
+
+
+
+
+
+
+
+
+
+
+class Dion extends Person {
+  // My Blogs
+  public String getBlog() { return "http://almaer.com/blog"; }
+  public String getAjaxian() { return "http://ajaxian.com"; }
+  public String getOpenWebPodcast() { return "http://openwebpodcast.com"; }
+
+  // teh social
+  public String getTwitter() { return "http://twitter.com/dalmaer"; }
+  public String getFriendFeed() { return "http://friendfeed.com/dion"; }
+  public String getLinkedIn() { return "http://www.linkedin.com/in/dalmaer"; }
+  public String getFacebook() { return "http://facebook.com/dalmaer"; }
+  public String getFlickr() { return "http://flickr.com/dalmaer"; }
+  public String getEmail() { return "[email protected]"; }
+
+  // My Stuff
+  public String getResume() { return "http://almaer.com/dion/cv"; }
+  public String getBook() { return "http://www.pragprog.com/titles/ajax"; }
+  public String getArticles() { return "http://almaer.com/dion/articles/"; }
+  public String getTools() { return "http://almaer.com/dion/tools/"; }
+
+  // private (password required)
+  private String getEmily() { return "http://almaer.com/dion/personal/private/emily"; }
+  private String getWedding() { return "http://almaer.com/dion/personal/private/wedding"; }
+  private String getInlaws() { return "http://almaer.com/dion/personal/private/rock"; }
+  private String getRedbook() { return "http://almaer.com/dion/personal/red_book"; }
+  private String getOldPhotos() { return "http://almaer.com/dion/personal/private/photos"; }
+
+  private static Dion instance = null; // singleton pattern forevah!
+  protected Dion() {}
+  public static Dion getInstance() {
+    if (instance == null) instance = new Dion();
+    return instance;
+  }
+}
+    
+
+function Dion() {
+
+  // My Blogs
+  this.blog       = function() { window.location = 'http://almaer.com/blog'; }
+  this.ajaxian    = function() { window.location = 'http://ajaxian.com'; }
+  this.owp        = function() { window.location = 'http://openwebpodcast.com'; }
+
+  // teh social
+  this.twitter  = function() { window.location = 'http://twitter.com/dalmaer'; }
+  this.ff       = function() { window.location = 'http://friendfeed.com/dion'; }
+  this.linkedin = function() { window.location = 'http://linkedin.com/in/dalmaer'; }
+  this.facebook = function() { window.location = 'http://facebook.com/dalmaer'; }
+  this.flickr   = function() { window.location = 'http://flickr.com/dalmaer'; }
+
+  // My Stuff
+  this.resume   = function() { window.location = 'http://almaer.com/dion/cv'; }
+  this.mybook   = function() { window.location = 'http://www.pragprog.com/titles/ajax'; }
+  this.articles = function() { window.location = 'http://almaer.com/dion/articles'; }
+  this.tools    = function() { window.location = 'http://almaer.com/dion/tools'; }
+  this.email    = function() { window.location = 'mailto:[email protected]'; }
+
+  // Private (password required)
+  function emily()     { window.location = that.emily; } 
+  function wedding()   { window.location = that.wedding; }
+  function inlaws()    { window.location = that.inlaws; }
+  function redbook()   { window.location = that.redbook; }
+  function oldphotos() { window.location = that.oldphotos; }
+
+  var that = this;
+}
+    
+
+use Class::Struct;
+struct Person => {
+  blog => '$',
+  # ...
+};
+
+my $dion = Person->new(
+  # My Blogs
+  blog       => 'http://almaer.com/blog',
+  ajaxian    => 'http://ajaxian.com',
+  owp        => 'http://openwebpodcast.com',
+
+  # teh social
+  twitter  => 'http://twitter.com/dalmaer',
+  ff       => 'http://friendfeed.com/dion',
+  linkedin => 'http://linkedin.com/in/dalmaer',
+  facebook => 'http://facebook.com/dalmaer',
+  flickr   => 'http://flickr.com/dalmaer',
+
+  # My Stuff
+  resume   => 'http://almaer.com/dion/cv',
+  mybook   => 'http://www.pragprog.com/titles/ajax',
+  articles => 'http://almaer.com/dion/articles',
+  tools    => 'http://almaer.com/dion/tools',
+  email    => 'mailto:[email protected]',
+
+  # Private (password required)
+  _emily => 'http://almaer.com/dion/personal/private/emily',
+  _wedding => 'http://almaer.com/dion/personal/private/wedding',
+  _inlaws => 'http://almaer.com/dion/personal/private/rock',
+  _redbook => 'http://almaer.com/dion/personal/red_book',
+  _oldphotos => 'http://almaer.com/dion/personal/private/photos'
+);
+    
+
+class Person < ActiveRecord::Base
+  acts_as_blogger
+  acts_as_technology
+  acts_as_family
+end
+
+dion = Person.create(
+  # My Blogs
+  :blog       => 'http://almaer.com/blog',
+  :ajaxian    => 'http://ajaxian.com',
+  :owp        => 'http://openwebpodcast.com',
+
+  # teh social
+  :twitter  => 'http://twitter.com/dalmaer',
+  :ff       => 'http://friendfeed.com/dion',
+  :linkedin => 'http://linkedin.com/in/dalmaer',
+  :facebook => 'http://facebook.com/dalmaer',
+  :flickr   => 'http://flickr.com/dalmaer',
+
+  # My Stuff
+  :resume   => 'http://almaer.com/dion/cv',
+  :mybook   => 'http://www.pragprog.com/titles/ajax',
+  :articles => 'http://almaer.com/dion/articles',
+  :tools    => 'http://almaer.com/dion/tools',
+  :email    => 'mailto:[email protected]',
+
+  # Private (password required)
+  :_emily => 'http://almaer.com/dion/personal/private/emily',
+  :_wedding => 'http://almaer.com/dion/personal/private/wedding',
+  :_inlaws => 'http://almaer.com/dion/personal/private/rock',
+  :_redbook => 'http://almaer.com/dion/personal/red_book',
+  :_oldphotos => 'http://almaer.com/dion/personal/private/photos'
+)
+    
+
+My Blogs
+
+About Me
+Welcome to my home page. All of the good stuff is on my blog
+Type in a number between 1 and 5, or click on a tab for pure geekiness!
+
+
+My Blog ← Where I blog about technology in general, and personal thoughts
+Ajaxian ← All things Ajax
+Open Web Podcast ← Alex Russell, John Resig, and I; chatting about all things Web
+
+teh social
+
+Twitter ← Follow my pratteling
+FriendFeed ← Follow more pratteling
+LinkedIn ← Very professional
+Facebook ← Do you scrabulous?
+Flickr ← Photos are good.
+
+My Stuff
+
+My Resume ← Or as we call it in the motherland, my CV
+My Book ← Pragmatic Ajax
+Articles ← Back when we had hard copy magazines
+Random Tools ← Old old code
+
+Private (password required)
+
+Emily ← Emily online
+Our Wedding ← Reliving the glory
+The Red Book ← My old mates did a very nice thing when I left England
+The Rocks ← The in-laws
+Old Photo Albums ← Before Flickr
+Old Journal ← There was a before blogging?
+
+
+
+
+
+
+

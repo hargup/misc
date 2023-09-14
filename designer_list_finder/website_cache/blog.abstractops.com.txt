@@ -1,0 +1,448 @@
+
+
+
+
+
+AbstractOps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Go to AbstractOps.com ↗
+Home
+Blog
+Product KB
+State Registration Guide
+
+
+
+
+
+Sign in
+
+
+
+ Subscribe
+
+
+
+
+
+
+
+
+
+
+Latest — Jul 28, 2023
+
+Why Product doesn’t matter for Product-Market Fit
+
+This is a work-in-progress concept and post. Feedback welcome, just DM me on Twitter!
+
+I know this is a controversial statement – almost nonsensical – especially for the CEO of a software startup. I swear, I'm not having a seizure. Bear with me.
+
+It's especially weird because the world doesn't seem to
+
+15 min read
+
+
+
+
+
+
+More issues
+
+
+
+
+Prelude: the Circuit Diagram for Startup Operations
+
+🎶Check out the entirety of Composed: the startup operating guide ↗️.
+
+
+This first post in Composed covers the lay of the land: What are all the jobs-to-be-done in operating a startup?
+
+
+In order to make high-quality decisions, you first have to understand the landscape.
+
+
+So we've codified every notable department, function,
+
+Jul 24, 2023
+1 min read
+
+
+
+ 
+
+
+Announcing Composed: The Startup Operating Guide
+
+A startup should spend all its time innovating on your Product, GTM, or core Biz Ops (business model / moat). These things are its secret sauce. It should not be innovating on Finance tools, HR software, or Legal templates. They are critical to scaling, but they're also all solved problems.
+
+
+🧪But
+
+Jul 24, 2023
+3 min read
+
+
+
+ 
+
+
+What's Broken About Compensation Today
+
+Compensation is a complicated topic for both companies and candidates alike. There’s a number of factors to take into consideration when creating (and when evaluating) an employment offer: experience, role / title, benefits, location, company size, cash vs. equity split…
+
+It gets particularly complicated when candidates are trying to compare
+
+Jun 24, 2023
+5 min read
+
+
+
+ 
+
+
+Startup Financing, 2023 Edition
+
+Terminology and norms for funding rounds are constantly shifting. Every couple of years, we try to publish our read on the startup / VC / fundraising market based on:
+
+ * Angel investments we make (100+ in the last 8 years)
+ * Norms we observe amongst customers (150+ startups in the last 3 years)
+ * Ear
+
+Jun 23, 2023
+4 min read
+
+
+
+ 
+
+
+Podcast: Remote Work, and Building Fast Teams
+
+Have you ever wondered what could be achieved if we reduced the administrative burden for businesses? This is our mission at AbstractOps, which Hari discusses with Adam Nathan, Cofounder & CEO at Almanac.
+
+Jun 15, 2023
+4 min read
+
+
+
+ 
+
+
+May Newsletter
+
+💡Want to see all of our new updates in action? Join us for a webinar on Wednesday June 14th at 2PM EST - register here.
+
+
+🇺🇸 State Compliance
+
+
+Even better pricing for Starter customers
+
+Many of our Starter customers only needed us to register or manage a few states, but they
+
+Jun 5, 2023
+3 min read
+
+
+
+ 
+
+
+Business License Registration and Renewal in San Francisco: A Step-by-Step Guide
+
+In San Francisco, all businesses operating within the city limits are generally required to obtain a business license. This includes businesses located in San Francisco, businesses located outside the city but conducting business activities within San Francisco, and businesses that have remote employees working in the city. This license must
+
+May 24, 2023
+1 min read
+
+
+
+ 
+
+
+Dealing with a Deluge of Email
+
+The sheer email volume you deal with as a startup leader is nuts.
+
+In the first year (May 2019 – May 2020), I received nearly 8,000 emails.
+
+In the last year, May 2022 – May 2023: I received ~21,000 emails(!).
+
+You want to see growth in your revenue and customers,
+
+May 10, 2023
+3 min read
+
+
+
+ 
+
+
+April Newsletter
+
+🚀 What’s New
+
+💡We've shipped nearly 200 improvements, features, and bug fixes in the last 2 months 🤯.
+
+Bi-weekly status digests with open + recent items; Ability to process deregistrations, zero-filings, mailing / name / DBA updates right in the platform; and proactive compliance monitoring & auto-resolution of snail mail and email for Core customers.
+
+Apr 29, 2023
+4 min read
+
+
+
+ 
+Load more issues
+
+
+
+About
+
+
+
+AbstractOps
+The Art & Science of Company-Building: Finance, People, Legal, Operations, and more.
+
+
+
+Sign up now to get access to the library of members-only issues.
+
+
+
+
+
+ [email protected]
+
+Subscribe
+
+
+
+
+Featured
+
+
+
+
+Why Product doesn’t matter for Product-Market Fit
+
+This is a work-in-progress concept and post. Feedback welcome, just DM me on Twitter!
+
+I know this is a controversial statement – almost nonsensical – especially for the CEO of a software startup. I swear, I'm not having a seizure. Bear with me.
+
+It's especially weird because the world doesn't seem to
+
+Jul 28, 2023
+15 min read
+
+
+
+ 
+
+
+Announcing Composed: The Startup Operating Guide
+
+A startup should spend all its time innovating on your Product, GTM, or core Biz Ops (business model / moat). These things are its secret sauce. It should not be innovating on Finance tools, HR software, or Legal templates. They are critical to scaling, but they're also all solved problems.
+
+
+🧪But
+
+Jul 24, 2023
+3 min read
+
+
+
+ 
+
+
+Payroll Tax Registration Guide
+
+Every time you hire in a new state, you have to open payroll tax accounts. Here's the down-low on what to expect.
+
+Apr 29, 2023
+1 min read
+
+
+
+ 
+
+
+Topics
+
+
+Blog
+
+                                        20 issues
+                                    
+
+
+Compensation
+
+                                        1 issue
+                                    
+
+
+Composed
+
+                                        1 issue
+                                    
+
+
+Equity
+
+                                        1 issue
+                                    
+
+
+Fundraising
+
+                                        6 issues
+                                    
+
+
+HR
+
+                                        1 issue
+                                    
+
+
+KB
+
+                                        12 issues
+                                    
+
+
+Launch
+
+                                        2 issues
+                                    
+
+
+Newsletters
+
+                                        4 issues
+                                    
+
+
+Payroll Tax
+
+                                        1 issue
+                                    
+
+
+People
+
+                                        1 issue
+                                    
+
+
+Podcast
+
+                                        1 issue
+                                    
+
+
+Resources
+
+                                        0 issues
+                                    
+
+
+Support
+
+                                        1 issue
+                                    
+
+
+Valuation
+
+                                        5 issues
+                                    
+
+
+
+
+
+
+
+
+
+
+Subscribe to AbstractOps
+Don’t miss out on the latest issues. Sign up now to get access to the library of members-only issues.
+
+
+
+
+
+ [email protected]
+
+Subscribe
+
+
+
+
+
+
+
+                AbstractOps © 2023
+            
+
+
+
+Powered by Ghost
+
+
+
+
+
+
+

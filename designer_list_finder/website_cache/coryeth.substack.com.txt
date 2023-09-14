@@ -1,0 +1,109 @@
+
+
+
+
+
+
+
+
+
+
+
+
+cory.eth (@cory_eth) | Cory Gabrielsen | Substack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cory.eth (@cory_eth)SubscribeSign inHomeArchiveAboutShare this publicationcory.eth (@cory_eth)coryeth.substack.comCopy linkFacebookEmailNotesOthercory.eth (@cory_eth)musings, technology, avatarsBy Cory Gabrielsen · Launched 2 years agoSubscribeNo thanksBy registering you agree to Substack's Terms of Service, our Privacy Policy, and our Information Collection NoticeShare this postOne Shot 2 Shot coryeth.substack.comCopy linkFacebookEmailNotesOtherOne Shot 2 Shot three shots, four shots, all I hear is gunshotsCory GabrielsenMar 7, 2023Share this postOne Shot 2 Shot coryeth.substack.comCopy linkFacebookEmailNotesOtherShareIn the words of Eminem,     One shot, two shot, three shots, four shots, all I hear is gunshotsToday I will tell you how this relates to Large-Language Models (LLMs) like ChatGPT.We will also write code together. Everyone with interest in LLMs should write code.Zero-shot promptingOne common way to interact with an LLM is to ask it to “complete” text.#!/usr/bin/env python3
+import openai
+import sys
+
+openai.api_key = "YOUR_API_KEY"
+
+prompt = sys.argv[1]
+
+response = openai.Completion.create(
+    engine="text-davinci-003",
+    prompt=sys.argv[1],
+    temperature=0,
+    max_tokens=100,
+)
+
+output = response.choices[0].text
+print(f"{prompt}{output}")You can get an OpenAI API Key at https://platform.openai.com/account/api-keys then install python and run this code like so,# install, create venv
+apt-get install python3-venv
+python3 -m venv venv
+source venv/bin/activate
+
+pip install openai
+
+./example.py "The last word of this sentence is"This outputs:The last word of this sentence is sentence.The prompt is a zero-shot prompt. Zero-shot prompting is a technique used in natural language processing (NLP) to generate a response to a query without any prior training data. It is based on the idea that a model can be trained to recognize patterns in language and generate a response based on those patterns. The model is trained on a set of data that contains examples of the type of query it is expected to respond to. The model then uses this data to generate a response to a query that it has not seen before.This technique is as powerful as it is intuitive. The italicized text above was written using a zero-shot prompt.$ ./example.py "Zero-shot prompting is"  
+Zero-shot prompting is a technique used in natural language processing (NLP) to generate a response to a query without any prior training data. It is based on the idea that a model can be trained to recognize patterns in language and generate a response based on those patterns. The model is trained on a set of data that contains examples of the type of query it is expected to respond to. The model then uses this data to generate a response to a query that it has not seen before.SubscribeK-shot Prompting1-shot, 2-shot, and more generally, k-shot prompting is when you give the LLM examples within the instruction prompt and then the LLM is expected to follow the format of those examples to complete the prompt.For instance, we can do a 1-shot prompt for Pokémon evolution lines:$ ./example.py "bulbasaur -> ivysaur -> venasaur
+charmander"
+bulbasaur -> ivysaur -> venasaur
+charmander -> charmeleon -> charizardThey’re as flexible as they are brittle. If we change one letter and capitalize the C in Charmander, the completion will capitalize Charmeleon and Charizard.$ ./example.py "bulbasaur -> ivysaur -> venasaur
+Charmander"
+bulbasaur -> ivysaur -> venasaur
+Charmander -> Charmeleon -> CharizardA 2-shot prompt has two examples.$ ./example.py "bulbasaur -> ivysaur -> venasaur
+charmander -> charmeleon -> charizard
+squirtle"     
+bulbasaur -> ivysaur -> venasaur
+charmander -> charmeleon -> charizard
+squirtle -> wartortle -> blastoiseAgain the model outputs exactly what we would expect. A reasonable human and the model would answer this prompt exactly the same.Gen-1 Pokémon maxis click buttonSharePeculiaritiesThese examples were so neat and intuitive and powerful, please author don’t tell me there are exceptions.Author: There are exceptions.$ ./example.py "roses are red
+violets are"
+roses are red
+violets are blue
+sugar is sweet
+and so are youSo is this a 0-shot or 1-shot prompt? Is “roses are red” the first example, or is it just a substring of a 0-shot prompt?Well, it turns out its just like your opinion man. Since the last line follows the classic poem structure, I would say that the model interpreted the prompt as a 0-shot. Which is a bit different than whether the human input intended for it to be a 0-shot or 1-shot.We can modify our initial prompt to differentiate the output grammar. If we use a comma instead of a newline, we get a different format for the poem and an exclamation mark!$ ./example.py "roses are red, violets are"
+roses are red, violets are blue
+
+Sugar is sweet, and so are you!As a human, we say “these are the same thing”, but as a computer we can measure the 4-character difference in punctuation and capitalization.The roses/violet structure is embedded deep into the model, so any small perturbation of the original prompt will always yield output in the form of a poem.If we move out of the latent space around roses/violet, we can see the LLM re-interpret the grammatical structure and output a single-word completion.$ ./example.py "stop signs are red. traffic cones are"
+stop signs are red. traffic cones are orange.We can use this to modify our earlier 0-shot prompt for the roses poem and replace it with a prompt more easily interpreted as a sequence of examples.$ ./example.py "stop signs are red. traffic cones are orange. roses are red. violets are"
+stop signs are red. traffic cones are orange. roses are red. violets are blue.Even written with newlines, it will complete with just “blue”.$ ./example.py "stops signs are red
+traffic cones are orange
+roses are red
+violets are"
+stops signs are red
+traffic cones are orange
+roses are red
+violets are blueSo I would call this a 3-shot prompt.you made it this far, so subscribeSubscribeReflectionsWords are fun.They don’t fit into definitions the same way mathematical structures do..Follow @cory_eth on Twitter for further musings.Share this postOne Shot 2 Shot coryeth.substack.comCopy linkFacebookEmailNotesOtherSharePreviousLoading more posts…© 2023 Cory GabrielsenPrivacy ∙ Terms ∙ Collection notice Start WritingGet the appSubstack is the home for great writing
+
+
+
+
+
+
+
+
+
+
+
+
+        This site requires JavaScript to run correctly. Please turn on JavaScript or unblock scripts
+    
+
+
+

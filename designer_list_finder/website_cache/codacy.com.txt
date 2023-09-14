@@ -1,0 +1,464 @@
+
+
+Codacy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Codacy | Home
+
+
+
+
+
+
+
+
+
+
+
+
+Codacy Pioneers Open Source Fellowship: Applications open!  
+          
+         Apply Now  
+
+
+
+
+
+
+
+
+
+
+Products
+
+Quality
+Pulse
+
+
+
+Resources
+
+Codacy Pioneers
+Blog
+Documentation
+Community
+
+
+
+About us
+
+About Codacy
+Careers
+Security
+Privacy Policy
+Cookies
+Terms of Service
+
+
+Pricing
+Login
+Start free
+Book demo
+
+
+
+
+
+
+
+
+EFFORTLESS CODE QUALITY  for DEVELOPERS
+Build clean, secure code efficiently and fearlessly
+
+
+Start free
+      
+                        
+Book demo
+
+
+
+
+
+
+
+
+ 
+
+Merge clean, secure code and skip the rework
+
+Enforce coding standards on every Pull Request 
+ Monitor, maintain and expand unit test coverage 
+ Find and fix security vulnerabilities before the build
+
+
+
+View details
+
+
+
+  
+
+
+
+
+
+
+ 
+Track and  optimize  engineering performance
+
+Data-driven insights using DORA metrics
+ Find and fix performance bottlenecks 
+ Benchmark goals across teams and projects
+
+
+ View details 
+
+
+  
+
+
+
+
+
+
+
+
+
+
+Codacy finds code issues.AI helps you fix them.
+AI suggested fixes that developers can apply directly in their Git workflows.
+
+
+
+
+
+
+
+
+
+Seamless integrations across the SDLC and support for 40+ ecosystems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LOVE CODE & what it can do for our CUSTOMERS 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+41% increase incode coverage
+
+
+                               "When we started measuring things, on average, we were at 23% coverage of the 25-30 applications that were covered. Since then, that has grown; we now have 80 applications with test coverage, and the average test coverage has gone up to 64%"
+                            
+Tobias SjöstenHead of Software Engineering
+
+
+
+
+
+
+
+
+
+60% decrease intech support time
+
+
+                                "A lot of our YouTube publishing pipeline is now covered through this. (...) it hit 70% code coverage across those pieces, and we've reduced our tech support time by about 60%"
+                            
+
+
+Scott Anderson
+
+                                Senior VP of Product & Engineering
+                            
+
+
+
+
+
+
+
+
+
+
+
+ISO 27001compliance made easy
+
+
+                                "This certification tells our clients we are compliant with good security practices and that they are audited yearly (...) By using the [Codacy] tool we can fulfill that requirement and prove to the auditor, and it's a big help for our developers."
+                            
+
+Tim van Loosbroek
+
+                                Head of Infrastructure and Security
+                            
+
+
+
+
+
+
+
+
+
+
+
+lot of visibility  into the quality
+
+
+                                "We tried Codacy for about a month. And we liked it immediately because it was a lot easier to set up. It gave us a lot of visibility into the quality of the code and all the tools it had for code linting and static analysis. (…) We knew that it [Codacy] was a keeper."
+                            
+
+    Nuno Cunha
+
+                        
+DevOps Team Lead
+                            
+
+
+
+
+
+
+
+
+
+
+
+Codacy helps us with  the code analysis
+
+
+                         "Putting Bandit in the local machine is good, but we need something that’s on the server so that when they do the review, code quality is automatically checked. So Codacy helps us with the static code analysis of the review."
+                            
+
+Kader Kawsar
+
+                               Heading up Software Data and Engineering
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now SOC 2 Type 2 Certified
+Codacy is committed to your data security
+Read more 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get IN TOUCH
+
+
+
+
+
+By submitting, you agree to receive emails from Codacy. To learn how Codacy handles your information, please see our privacy policy.
+
+
+
+
+Let's talkCODE
+Have questions? Want to know how Codacy can help your team? Let one of our team members reach out and help.
+
+
+
+
+
+
+
+
+
+ 
+Sign up to receive our newsletter 
+
+
+
+
+
+
+
+
+About us
+
+About Codacy
+Careers
+Security
+Privacy Policy
+Cookies
+Terms of Service
+
+
+
+
+
+
+
+
+Products
+
+Quality
+Pulse
+
+
+Pricing 
+
+
+
+
+
+
+Resources
+
+Codacy Pioneers
+Blog
+Documentation
+Community
+
+
+
+
+
+
+
+
+Stay connected
+
+Community
+
+           
+
+
+
+2023 CODACY - AUTOMATED CODE REVIEW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,929 @@
+
+
+
+
+
+
+
+
+
+
+
+
+The Full Stack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+Follow us on
+
+
+
+
+
+
+Twitter
+
+and
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            The Full Stack
+          
+
+
+
+            
+              Home
+            
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Initializing search
+          
+
+
+
+
+
+
+
+
+
+
+
+
+    The Full Stack Website
+  
+
+
+
+
+
+
+
+
+
+
+        
+  
+    
+  
+  Home
+
+      
+
+
+
+        
+  
+    
+  
+  LLM Bootcamp
+
+      
+
+
+
+        
+  
+    
+  
+  Deep Learning Course
+
+      
+
+
+
+        
+  
+    
+  
+  Blog
+
+      
+
+
+
+        
+  
+    
+  
+  Cloud GPUs
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    The Full Stack
+  
+
+
+
+
+
+
+    The Full Stack Website
+  
+
+
+
+
+
+
+
+    Home
+  
+
+
+
+
+
+
+
+    LLM Bootcamp
+  
+
+
+
+
+
+
+
+
+            LLM Bootcamp
+          
+
+
+
+
+
+
+    Spring 2023
+  
+
+
+
+
+
+
+
+
+            Spring 2023
+          
+
+
+
+
+    Launch an LLM App in One Hour
+  
+
+
+
+
+
+    LLM Foundations
+  
+
+
+
+
+
+    Learn to Spell: Prompt Engineering
+  
+
+
+
+
+
+    Augmented Language Models
+  
+
+
+
+
+
+    Project Walkthrough: askFSDL
+  
+
+
+
+
+
+    UX for Language User Interfaces
+  
+
+
+
+
+
+    LLMOps
+  
+
+
+
+
+
+    What's Next?
+  
+
+
+
+
+
+    Reza Shabani: How to train your own LLM
+  
+
+
+
+
+
+    Harrison Chase: Agents
+  
+
+
+
+
+
+    Fireside Chat with Peter Welinder
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Deep Learning Course
+  
+
+
+
+
+
+
+
+
+            Deep Learning Course
+          
+
+
+
+
+
+
+    FSDL 2022
+  
+
+
+
+
+
+
+
+
+            FSDL 2022
+          
+
+
+
+
+    Lecture 1: Course Vision and When to Use ML
+  
+
+
+
+
+
+    Lab Overview
+  
+
+
+
+
+
+    Lecture 2: Development Infrastructure & Tooling
+  
+
+
+
+
+
+    Lab 4: Experiment Management
+  
+
+
+
+
+
+    Lecture 3: Troubleshooting & Testing
+  
+
+
+
+
+
+    Lab 5: Troubleshooting & Testing
+  
+
+
+
+
+
+    Lecture 4: Data Management
+  
+
+
+
+
+
+    Lab 6: Data Annotation
+  
+
+
+
+
+
+    Lecture 5: Deployment
+  
+
+
+
+
+
+    Lab 7: Web Deployment
+  
+
+
+
+
+
+    Lecture 6: Continual Learning
+  
+
+
+
+
+
+    Lab 8: Model Monitoring
+  
+
+
+
+
+
+    Lecture 7: Foundation Models
+  
+
+
+
+
+
+    Lecture 8: ML Teams and Project Management
+  
+
+
+
+
+
+    Lecture 9: Ethics
+  
+
+
+
+
+
+    Project Showcase
+  
+
+
+
+
+
+    Course Announcement
+  
+
+
+
+
+
+
+
+
+
+    Older
+  
+
+
+
+
+
+            Older
+          
+
+
+
+
+
+
+    FSDL 2021
+  
+
+
+
+
+
+
+
+
+            FSDL 2021
+          
+
+
+
+
+    Synchronous Online Course
+  
+
+
+
+
+
+    Course Projects Showcase
+  
+
+
+
+
+
+    Lecture 1: DL Fundamentals
+  
+
+
+
+
+
+    Lab 1: Setup and Introduction
+  
+
+
+
+
+
+    Notebook: Coding a neural net
+  
+
+
+
+
+
+    Lecture 2A: CNNs
+  
+
+
+
+
+
+    Lecture 2B: Computer Vision
+  
+
+
+
+
+
+    Lab 2: CNNs and Synthetic Data
+  
+
+
+
+
+
+    Lecture 3: RNNs
+  
+
+
+
+
+
+    Lab 3: RNNs
+  
+
+
+
+
+
+    Lecture 4: Transformers
+  
+
+
+
+
+
+    Lab 4: Transformers
+  
+
+
+
+
+
+    Lecture 5: ML Projects
+  
+
+
+
+
+
+    Lecture 6: MLOps Infrastructure & Tooling
+  
+
+
+
+
+
+    Lab 5: Experiment Management
+  
+
+
+
+
+
+    Lecture 7: Troubleshooting Deep Neural Networks
+  
+
+
+
+
+
+    Lecture 8: Data Management
+  
+
+
+
+
+
+    Lab 6: Data Labeling
+  
+
+
+
+
+
+    Lecture 9: AI Ethics
+  
+
+
+
+
+
+    Lab 7: Paragraph Recognition
+  
+
+
+
+
+
+    Lecture 10: Testing & Explainability
+  
+
+
+
+
+
+    Lab 8: Testing & CI
+  
+
+
+
+
+
+    Lecture 11: Deployment & Monitoring
+  
+
+
+
+
+
+    Lab 9: Web Deployment
+  
+
+
+
+
+
+    Lecture 12: Research Directions
+  
+
+
+
+
+
+    Lecture 13: ML Teams and Startups
+  
+
+
+
+
+
+    Panel Discussion: Do I need a PhD to work in ML?
+  
+
+
+
+
+
+
+
+
+    FSDL 2021 (Berkeley)
+  
+
+
+
+
+
+    FSDL 2020 (UW)
+  
+
+
+
+
+
+    FSDL 2019 (Online)
+  
+
+
+
+
+
+    FSDL 2019 (Bootcamp)
+  
+
+
+
+
+
+    FSDL 2018 (Bootcamp)
+  
+
+
+
+
+
+
+
+
+
+
+
+    Blog
+  
+
+
+
+
+
+    Cloud GPUs
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+News, community, and courses for people building AI-powered products.
+
+
+        Free LLM Bootcamp Available Now!
+      
+
+
+
+
+
+Building an AI-powered product is much more than just training a model or writing a prompt.
+
+The Full Stack brings people together to learn and share best practices across the entire lifecycle of an AI-powered product:
+          from defining the problem and picking a GPU or foundation model to production deployment and continual learning
+          to user experience design.
+      
+
+
+
+
+
+
+
+Get up to speed on the latest in AI-powered apps with the new Large Language Models Bootcamp.
+
+
+          Learn best practices and tools for building applications powered by LLMs.   Cover the full stack from prompt engineering and LLMops to user experience design.
+        
+
+
+
+
+
+
+Build an AI-powered application from the ground up in our Deep Learning Course.
+
+        You've trained your first (or 100th) model, and you're ready to take your skills to the next level.
+      
+
+          Join thousands from UC Berkeley,
+          University of Washington, and all over the world
+          and learn best practices for building AI-powered products from scratch with deep neural networks.
+      
+
+
+
+
+We are excited to share this course with you for free.
+
+      We have more upcoming great content.
+      Subscribe to stay up to date as we release it.
+    
+
+
+
+
+
+          Enter
+        
+
+
+
+
+        We take your privacy and attention very seriously and will never spam you.
+      
+I am already a subscriber
+
+
+
+
+
+
+
+
+
+
+
+
+      The Full Stack, 2023
+    
+  
+  
+    Made with
+    
+      Material for MkDocs
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

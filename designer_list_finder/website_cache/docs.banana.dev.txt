@@ -1,0 +1,36 @@
+
+
+
+
+
+
+Getting Started in a Few Minutes - Banana Docs
+
+
+
+
+
+
+
+
+
+
+
+
+
+Banana DocsHomeBlogDiscordSign InSearch⌃KLinksGetting Started in a Few MinutesCore ConceptsPotassium - your model's serverModelsSDKsBuild SystemGitHub IntegrationResourcesBanana UsecasesQuickstart templatesHow to Get SupportBillingSecretsV1 LegacyPowered By GitBookGetting Started in a Few MinutesAfter this guide you'll have a simple BERT model in prod.Important: Advanced CustomizationsYour app may more complex than this tutorial. If your app:Pipes more than 1Mb data in or out per callNeeds more than 5 minutes for inferenceRuns multiple modelsYou'll want to refer to the Configuring Potassium documentation.Setting up a dev environmentInstall the Banana CLI with pip.pip3 install banana-cliRun the init command to create your "Potassium app"banana init hello-worldcd hello-worldThis downloads boilerplate and installs dependencies. If you get an error such as "command not found: banana ", you probably haven't added the Python package bin location to your PATH variable.
+
+If that's the case, on Mac try something like: 
+
+export PATH="/Users/<me>/Library/Python/3.9/bin:$PATH"Your directory will now contain these files:​​A freshly created potassium project runs a Huggingface BERT model, for sake of example.Calling your model locallyWithin your hello world potassium project, enter your virtual environment. ./venv/bin/activate... and start the dev server!python3 app.pyYou should see:------Starting server 🍌Running init()...Serving on http://localhost:8000------​Now open up a different terminal and hit the server with a simple cURL POST requestcurl -X POST \ -H "Content-Type: application/json" \ -d '{"prompt": "Software developers start with a Hello, [MASK]! script."}' \    http://localhost:8000/​Boom! 🎉 you just ran an inference on a BERT model on your local machine!{ "outputs": { "score": 0.8281897306442261, "sequence": "software developers start with a hello, world! script.", "token": 2088, "token_str": "world" }}Using the Banana SDKcURL request are cool & you can continue to use them but as a convenience layer we'll use this opportunity to demonstrate the use of Banana's SDKs.We'll be using the Python SDK for this example. You may find alternative SDKs here.​Although OK while testing, you should create a new directory for the following code, not to mix together your app's client and model's server files.If you're still in the virtual environment from the first step in this guide, deactivate itdeactivateCreate a new directorycd ../mkdir banana-clientcd banana-clientCreate a new Python virtual environment in that new directorypython3 -m venv venv. ./venv/bin/activate​Install the Python SDK with pippip3 install banana-devThe python client must be version 5.0.0 or aboveCreate a file called client.py with the following code:client.pyfrom banana_dev import Client​# Create a reference to your model on Bananamy_model = Client(    api_key="YOUR_API_KEY", # Found in dashboard    model_key="YOUR_MODEL_KEY", # Found in model view in dashboard    url="http://localhost:8000", # Pointed to your local instance of potassium)​# Specify the model's input JSONinputs = { "prompt": "Software developers start with a Hello, [MASK]! script",}​# Call your model's inference endpoint on Bananaresult, meta = my_model.call("/", inputs)print(result)This code is what will call your model in a production environment on Banana's GPUs. For local testing, we set the url to http://localhost:8000 - this will be a different URL for your deployed model.Lastly, we run the client codepython3 client.pywhich prints the same as our cURL output from before:{ "outputs": { "score": 0.8281897306442261, "sequence": "software developers start with a hello, world! script.", "token": 2088, "token_str": "world" }}Awesome! Now it's time to deploy to Banana's serverless GPUs. ​Deploying to BananaIt's time to get off localhost!You'll need a Github account to deploy, so set one up if you don't already have one.​Pushing to githubFirstly, create a new repo in the Github UI. It may be private or public. Leave it empty.From within your Potassium App directory, initialize a git project and push to remote# Add recent changesgit add .git commit -m "first changes"​# Set upstream to the Github Repo you createdgit remote add origin https://github.com/USER_NAME/REPO_NAME.gitgit branch -M main​# Pushgit push -u origin main​Connect your account to bananaLog into Banana and follow the onboarding if you're a new user. You'll be asked to connect your github, choose the repositories you want Banana to seeGo back to the Banana dashboard and click New Model -> Deploy from GithubSelect the model you want to deploy, and you can click into it and watch the build progressOnce built, the model will have "Deployed" status​Call it in prod!We'll slightly modify our client.py file from before to call our deployed model.1.Find your api_key on the Home page and add it to your client.py
+
+
+2.Find your model_key by clicking into the model, and add it to client.py
+
+
+3.Find your model url by clicking into the model, and add it to client.py as https://<url-slug>.run.banana.dev
+And fire off your first call!python3 client.pyOnce the call returns, the replica will remain warm a bit before shutting down.​Now go bananas!!You've made a production call to a custom BERT model on Banana!But this is just the beginning. We encourage you to read Banana Usecases & Configuring Potassium, and explore our app and other docs in the sidebar to see all you can do with Banana!​​Next - Core ConceptsPotassium - your model's serverLast modified 13d agoOn this pageSetting up a dev environmentCalling your model locallyUsing the Banana SDKDeploying to BananaNow go bananas!!
+
+
+
+

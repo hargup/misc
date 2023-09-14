@@ -1,0 +1,788 @@
+
+
+
+
+
+
+
+Piekniewski's blog – On limits of deep learning and where to go next with AI.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+Piekniewski's blog
+On limits of deep learning and where to go next with AI.
+
+
+
+Primary Menu
+Main site
+Blog home
+About
+ 
+
+
+
+
+
+
+The Atom of Intelligence
+
+Posted 5 months agoApril 17, 2023 by Filip Piekniewski 
+
+
+ 
+
+Back in a very distant past, perhaps over 2 billion years ago, a wonderful thing happened: a strand of nucleic acid found itself encapsulated in a little protein bubble, along with a few other ingredients sufficient for it to replicate. This in fact may have happened millions of times before, each time dying out after a few generations. But one such bubble that appeared that day in the primordial sea was going to survive, this was the one which was going to make it and launch an incredible evolutionary process lasting until this day. A process that managed to create incredibly complex beings including you and me. 
+As soon as this bubble of life started to replicate, the process "guiding" its evolution "noticed" that there are effectively two aspects of control necessary for survival:
+
+Internal control regulating the expression of genetic code and other internal reactions - we call this process metabolism today.
+External control regulating interaction of the bubble with the surrounding environment - we call the process behavior today.
+
+Initially both control mechanisms were likely only tuned at a generational level, not so much at the level of life of an individual, but clearly an evolutionary pressure to … Read more...  
+
+Posted in General, Machine learningTagged AI, Brain, Feedback control, Physical intelligenceLeave a comment 
+
+
+
+Ai Reflections
+
+Posted 5 months agoApril 9, 2023 by Filip Piekniewski 
+
+
+ 
+
+Statisticians like to insist that correlation should not be confused with causation. Most of us intuitively understand this actually not a very subtle difference. We know that correlation is in many ways weaker than causal relationship. A causal relationship invokes some mechanics, some process by which one process influences another. A mere correlation simply means that two processes just happened to exhibit some relationship, perhaps by chance, perhaps influenced by yet another unobserved process, perhaps by an entire chain of unobserved and seemingly unrelated processes. When we rely on correlation, we can have models that are very often correct in their predictions, but they might be correct for all the wrong reasons. This distinction between weak, statistical relationship and a lot stronger, mechanistic, direct, dynamical, causal relationship is really at the core of what in my mind is the fatal weakness in contemporary approach in AI. 
+The argument
+Let me role play, what I think is a distilled version of a dialog between an AI enthusiast and a skeptic like myself: AI enthusiast: Look at all these wonderful things we can do now using deep learning. We can recognize images, generate images, generate reasonable answers to questions, this is … Read more...  
+
+Posted in Machine learningTagged AI, Deep Learning, GPT 1 Comment 
+
+
+
+AI psychosis
+
+Posted 7 months agoFebruary 7, 2023 by Filip Piekniewski 
+
+
+ 
+
+For some reason, people love to be scared. People also love to spook other people, that gives them the sense of advantage, power. And in the hyper-stimulated era of social media and numerous dopamine shots per hour this dynamics takes on a completely new scale. It turns into a psychotic rumbling between complete and unquestionable excitement only to turn in minutes to fear mongering utter dystopia. This has been going on with Artificial Intelligence over the last decade and it became almost painfully absurd. Social media "influencers" ride this bipolar mania to their advantage while normal people are being fed completely unrealistic view of reality - both far too optimistic and ridiculously dystopian. Much like with food - put a load of sugar, and to balance it out throw a ton of salt and the thing tastes better. Is horrible for health but does taste better. In this blog for quite a few years now I was trying to smuggle in some healthy diet for a change. Call out the hype, discuss outstanding problems and possible solution. So let's dig in and digest some salad and veggies. 
+First of all, let's just not use the word A.I. A.I. is a … Read more...  
+
+Posted in Machine learning 1 Comment 
+
+
+
+Science, dogma and mysteries.
+
+Posted 8 months agoJanuary 14, 2023 by Filip Piekniewski 
+
+
+ 
+
+I was raised in a rational family, with strong belief in science. When I got my masters degree a was pretty much convinced that we generally know everything about the world and that science is more or less a complete endeavor. By the time I got my PhD however, my confidence dropped quite significantly. Now almost 13 years after my PhD defense, my view is that science is actually a rather fragile thread we use to hold together and explain various mysteries in the world. And that is not to say science is not the right method - it is! But I now view science as any other social activity, being influenced by zeitgeist, politics, fashion, financing and often stuck in a dogma, no different than the dogma that threatened Galileo or Copernicus. In fact in many ways, contrary to popular belief, I believe todays science is a lot more dogmatic than in the early XX century and probably worse than it's been during the enlightenment. Let me discuss a few areas where in my opinion the mainstream science is stuck in a dogma and let me highlight some interesting alternative theories that may be able to challenge the status … Read more...  
+
+Posted in General, ScifiTagged dogma, Science 1 Comment 
+
+
+
+What actually is statistics?
+
+Posted 9 months agoDecember 9, 2022 by Filip Piekniewski 
+
+
+ 
+
+In the modern era of computers and data science, there is a ton of things discussed that are of "statistical" nature. Data science essentially is glorified statistics with a computer, AI is deeply statistical at its very core, we use statistical analysis for pretty much everything from economy to biology. But what actually is it? What exactly does it mean that something is statistical? 
+The short story of statistics
+I don't want to get into the history of statistical studies, but rather take a birds eye view on the topic. Let's start with a basic fact: we live in a complex world which provides to us various signals. We tend to conceptualize these signals as mathematical functions. A function is the most basic way of representing a fact that some value changes with some argument (typically time in physical world). We observe these signals and try to predict them. Why do we want to predict them? Because if we can predict a future evolution of some physical system, we can position ourselves to extract energy from it when that prediction turns out accurate [but this is a story for a whole other post]. This is very fundamental, but in principle … Read more...  
+
+Posted in General, Machine learning 1 Comment 
+
+
+
+Farcical Self-Delusion
+
+Posted December 18, 2021December 19, 2021 by Filip Piekniewski 
+
+
+ 
+
+It's time for another post in the Tesla FSD series, which is a part of a general self driving car debacle discussed in this blog since 2016 [1,2,3,4,5,6,7]. In summary, the thesis of this blog is that AI hasn't reached the necessary understanding of physical reality to become truly autonomous and hence the contemporary AI contraptions cannot be trusted with important decisions such as those risking human life in cars. In various posts I go into detail of why I think that is the case [1,2,3,4,5,6] and in others I propose some approaches to get out if this pickle [1,2,3]. In short my claim is that our current AI approach is at the core statistical and effectively "short tailed" in nature, i.e. the core assumption of our models is that there exist distributions representing certain semantical categories of the world and that those distributions are compact and can be efficiently approximated with a set of rather "static" models. I claim this assumption is wrong at the foundation, the semantic distributions, … Read more...  
+
+Posted in Machine learningTagged AI, FSD, Self driving cars, Tesla 7 Comments 
+
+
+
+Brain computer confusion
+
+Posted November 17, 2021November 17, 2021 by Filip Piekniewski 
+
+
+ 
+
+There is a never ending discussion, which very concisely can be summarized in this tweet below:
+And frankly any time I see similar exchanges (and I see a lot of them) I get mildly irritated. Let me get to the essence. 
+Computer analogy
+Computers have been undoubtably the shaping invention of the recent century and hence they have became a strong theme in our culture. Since the theory on which computers have been built is a branch of mathematics, by definition an abstract discipline, computers have also had a major impact on philosophy. We learned for example that everything we can write an equation for can be in principle calculated on a computer. This leads to somewhat profound philosophical consequences summarized as follows:
+
+Stuff we can write equations for is in principle computable
+We can write equations for physical interactions of molecules
+Everything is made of molecules
+Hence everything is computable
+Hence in principle we could simulate an entire brain in a computer
+And since we can in principle simulate a Turing machine in a brain, hence brains and computers have to be equivalent
+Furthermore, in principle we could simulate entire Universe
+Hence universe must be a computer too 
+
+When … Read more...  
+
+Posted in Machine learningTagged AI, Autonomy, Brain, Computer, SingularityLeave a comment 
+
+
+
+Ai mid 2021. Self driving car meets reality.
+
+Posted May 12, 2021May 15, 2021 by Filip Piekniewski 
+
+
+ 
+
+The pandemic has largely overwhelmed the news cycle over the past year and hence influencing and largely deflating the AI hype train. There were a few developments though which I'd consider significant. Some of them very well predicted by articles in this blog, and some surprising. Let's jump right in. 
+Million Robotaxis in wonderland
+
+Since it is 2021 after all, the most immediate AI flop is related to Tesla robotaxis or rather lack thereof. Elon Musk promised that Tesla would achieve L5 autonomy by the end of 2020 back in April 2019 when he needed to raise money [and reiterated in April 2020]. The famous autonomy day was pumping hype and showing limited demos available to some guests of the show. These demonstration rides were no different from the demo shown in 2016 (as it later turned out, recorded eventually after many failed attempts). In fact Elon Musk claimed in 2016 that self driving problem is essentially solved, here a quote from this interview :
+This was later followed by various promises of autonomous coast to coast drive by the end of 2017, later pushed and eventually canceled altogether. To be fair, Musk wasn't the only silicon valley … Read more...  
+
+Posted in Machine learningTagged AI, Autonomous vehicles, Self driving cars 7 Comments 
+
+
+
+AI Update, Late 2020 - dumpster fire
+
+Posted December 30, 2020January 5, 2021 by Filip Piekniewski 
+
+
+ 
+
+2020 is a very strange year and a dumpster fire in many respects. Everything is still holding together but it feels like the news we get are just progressively more absurd. Similarly is the case with AI where a slow motion train wreck is progressing eliminating more and more hyped up companies and researchers. There are still areas where money is pouring into the field, but it feels like it's a far cry of what it was during the peak hype a few years ago. I fully expect a shift from private to more public money, as the government are always late in the hype cycle. So there could still be more waste to come, though there is a feeling of decline in the air. Anyway let's jump into a few highlights of the recent months. 
+DeepMind Alpha Fold
+DeepMind has been rather quiet and even popular press noticed a significant decrease in the level of hype, but recently they managed to show some progress on protein folding problem. This problem is of high practical importance in biology so at least it's good to see that the company uses their incredible resources on something that we all may eventually … Read more...  
+
+Posted in Machine learning 5 Comments 
+
+
+
+AI - the no bullshit approach
+
+Posted June 8, 2020June 8, 2020 by Filip Piekniewski 
+
+
+ 
+
+Intro
+Since many of my posts were mostly critical and arguably somewhat cynical [1], [2], [3], at least over the last 2-3 years, I decided to switch gears a little and let my audience know I'm actually a very constructive, busy building stuff most of the time, while my ranting on the blog is mostly a side project to vent, since above everything I'm allergic to naive hype and nonsense. 
+Nevertheless I've worked in the so called AI/robotics/perception for at least ten years in industry now (and prior to that having done a Phd and a rather satisfying academic career), I've had a slightly different path than many working in the same area and hence have a slightly unusual point of view. For those who never bothered to read the bio, I was excited about connectionism way before it was cool, got slightly bored by it and got drawn into more bio-realistic/neuroscience based models, worked on that a few years and got disillusioned, then worked on robotics for a few years, got disillusioned by that, went on and got a DARPA grant to build the predictive vision model (which summarized all I learned about … Read more...  
+
+Posted in Machine learningTagged AI, Computer Vision, Deep Learning, Expert systems, Hybrid Models 2 Comments 
+
+
+
+DeflAition
+
+Posted April 13, 2020April 23, 2020 by Filip Piekniewski 
+
+
+ 
+
+I've started contemplating this post in mid February 2020 while driving back from Phoenix to San Diego, a few miles after passing Yuma, while staring into the sunset over San Diego mountains on the horizon hundred miles ahead. Since then the world had changed. And by the time you'll read this post a week from now (early April 2020) world will have changed again. And by the summer of 2020 it will have changed several times over. I won't go here too much into the COVID-19 situation, since I'm not a biologist, my personal opinion though it that it is a real deal, it's a dangerous disease spreading like wildfire, something we have not really seen since the Spanish Flu of 1918. And since our supply chains are a lot more fragile, our lifestyles a lot more lavish and everybody is levered up, it has all the chances of causing an economic havoc unlike anything we've seen in the past two centuries. With that out of the way, let's move to AI, as certainly the economic downturn will have a huge impact there.
+(not)OpenAI
+Let's start with the article in technology review that came out in February going deeper inside … Read more...  
+
+Posted in Machine learningTagged AI, AI Winter, Self driving cars 3 Comments 
+
+
+
+Autonomous vehicle safety myths and facts, 2020 update.
+
+Posted March 1, 2020March 1, 2020 by Filip Piekniewski 
+
+
+ 
+
+California DMV disengagements reports are out for 2019, and it is time to plot some data. 
+As usual, these number are not really measuring reliably the safety of AV's and there are plenty ways to game them, or overreport. Please refer to my last years post for a deeper discussion (and  2017 post here, 2018 post here) on why these numbers are essentially flawed. Nevertheless these are the only official numbers we get, the only glimpse of transparency into this giant corporate endeavor called the "self driving car". 
+
+First the disclaimer - this data came from
+ 
+
+California DMV disengagement reports for years 2019, 2018, 2017, 2016 and 2015
+Insurance Institute for Highway Safety fatality data.
+RAND driving to safety report.
+Bureau of Transportation Statistics
+
+ 
+all which is easily verifiable. And so here comes the plot everyone is waiting for (click to enlarge):
+
+
+And as usual a quick commentary:
+First of all, the only players who really have a number anywhere in the vicinity of interesting are Waymo, Cruise and Baidu. I'll discuss Baidu later, since their sudden jump in performance seems a bit extraordinary. Nevertheless even Waymo and Cruise disengagements are still approximately … Read more...  
+
+Posted in Machine learningTagged Autonomous vehicles, Self driving cars 2 Comments 
+
+
+
+The musings of a transformer
+
+Posted November 25, 2019November 25, 2019 by Filip Piekniewski 
+
+
+ 
+
+Earlier last week I posted a poll on twitter asking If my readers would like me to post a GPT generated article. The votes were very evenly distributed:
+
+The remainder of this article is generated using GPT-2 network (using this site) primed on bits of my other articles to covey some of the style. The images were generated by https://app.generative.photos/ from RosebudAI - a recent hot startup in the AI space. When done reading, please consider future historians analyzing the outburst of AI in 2010-2020 and decide if they'd be impressed or will they be like "WTF were they thinking back then!?". 
+ 
+
+ 
+The study was done in the summer of 2014, but there have been so many recent news stories about Uber (and similar companies) and the impact it has had on public safety, ”We're very happy” to add to the body of knowledge we've accumulated.
+What can we learn about the state of public transportation?Our findings indicate that if public transportation is to be made safe, “we have to build the systems on a much higher level”, and that this will require substantial change from the traditional public-sector perspective. We've discussed the problems in the above graphic:
+In … Read more...  
+
+Posted in Machine learning 1 Comment 
+
+
+
+AI update, late 2019 - wizards of Oz
+
+Posted November 18, 2019November 19, 2019 by Filip Piekniewski 
+
+
+ 
+
+ 
+It's been 7 months since my last commentary on the field, and as it became  regular appearance in this blog (and in fact many people apparently enjoy this form and keep asking for it), it is a time for another one.  For those new to the blog, here we generally strip the AI news coverage out of fluff and try to get to the substance, often with a fair dose of sarcasm and cynicism. The more pompous and grandiose the PR statement, the more sarcasm and cynicism - just to provide some balance in nature. The field of AI never fails to deliver on pompous and grandiose fake news hence I predict there will be a material for this blog for many years to come. Now that the introductory stuff is behind and you've been warned, let us go straight to what happened in the field since May 2019. 
+Self driving cars
+As time goes, more and more cracks are showing on the self driving car narrative. In June, one of the prominent startups in the competition - Drive.ai got acqui-hired by Apple, reportedly days before it would have ran out of cash. For those not … Read more...  
+
+Posted in Machine learningTagged AI, AI Winter, Autonomous vehicles, Self driving cars 9 Comments 
+
+
+
+Reviewing Rebooting AI
+
+Posted October 29, 2019November 3, 2019 by Filip Piekniewski 
+
+
+ 
+
+Welcome back. First of all, apologies for not posting as frequently as I used to. As you might imagine, blogging is not my full time job and I'm currently extremely involved in a very exciting startup (something I'm going to write about soon). On weekends and evening I'm busy with 7mo infant to help care for and altogether that leaves me with very little time. But I'll try to make it better soon, since a lot is going on in the AI space and signs of cooling are visible now all over the place.
+In this post I'd like to focus on the recent book by Gary Marcus and Ernest Davis, Rebooting AI. Let's jump in.
+ 
+If you are a person who is not necessarily deeply involved in recent (recent 10 years or so) developments in AI and instead you've been building your image of the field based on flashy PR statements by various big companies (including Google, Facebook, Intel, IBM and numerous smaller players) - this is a book for you. The first part of the book goes thoroughly through various press releases and "revolutionary" products and tracks how these projects either spectacularly or quietly failed. 
+Reading the first … Read more...  
+
+Posted in Machine learning 3 Comments 
+
+
+Posts navigation
+Older posts
+
+
+
+
+Basic info I’m proposing a new machine learning meta-architecture for learning forward models. The architecture is called Predictive Vision Model (PVM). In this blog I present my thoughts on how PVM relates to deep learning and the global AI landscape. Occasionally I’ll blog about my sysadmin projects and sci-fi.
+See a short bio note here.
+
+Follow 
+Follow @filippie509
+Donate 
+
+
+
+
+
+
+
+
+
+Recent Posts
+
+
+The Atom of Intelligence
+
+
+Ai Reflections
+
+
+AI psychosis
+
+
+Science, dogma and mysteries.
+
+
+What actually is statistics?
+
+
+Farcical Self-Delusion
+
+
+Brain computer confusion
+
+
+Ai mid 2021. Self driving car meets reality.
+
+
+AI Update, Late 2020 - dumpster fire
+
+
+AI - the no bullshit approach
+
+
+DeflAition
+
+
+Autonomous vehicle safety myths and facts, 2020 update.
+
+
+The musings of a transformer
+
+
+AI update, late 2019 - wizards of Oz
+
+
+Reviewing Rebooting AI
+
+
+Civilization from scratch
+
+
+AI circus, mid 2019 update
+
+
+Deep learning and shallow data
+
+
+A brief story of Silicon Valley's affair with AI
+
+
+Autonomous vehicle safety myths and facts, 2019 update
+
+
+Fooled by data
+
+
+Elon and the collective
+
+
+AI winter - update
+
+
+Deep learning - the "why" question.
+
+
+Mathematical foundations of neuroscience
+
+
+Some fun numbers about the human brain
+
+
+2017 PVM talk at UC Merced
+
+
+Autopsy of a deep learning paper
+
+
+Rebooting AI - postulates
+
+
+AI winter - Addendum
+
+
+AI winter is well on its way
+
+
+Are black holes really so black?
+
+
+Some new ideas for AI benchmarks
+
+
+Autonomous vehicle safety myths and facts, 2018 update
+
+
+Electric shock
+
+
+Mt. intelligence
+
+
+Optimality, technology and fragility.
+
+
+When the tail is bigger than the dog
+
+
+The paradox of reproducibility in statistical research
+
+
+Problems with measuring performance in Machine Learning
+
+
+Silent immobility
+
+
+Autonomous car safety myths and facts
+
+
+Intelligence confuses the intelligent
+
+
+Inside of a nebula
+
+
+The complexity of simplicity - balancing on the Occam's razor
+
+
+Who will figure out intelligence?
+
+
+The meta-parameter slot machine
+
+
+Give me a dataset to train, and I shall move the world
+
+
+Self made time capsule, part 2.
+
+
+Self made time capsule, part 1
+
+
+PVM on the GPU (dev update)
+
+
+What would an autonomous car do?
+
+
+Outside the box
+
+
+Can a deep net see a cat?
+
+
+Scaling up AI
+
+
+
+
+Search for:
+
+
+
+Archives
+
+April 2023
+February 2023
+January 2023
+December 2022
+December 2021
+November 2021
+May 2021
+December 2020
+June 2020
+April 2020
+March 2020
+November 2019
+October 2019
+July 2019
+May 2019
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+February 2018
+December 2017
+November 2017
+October 2017
+September 2017
+July 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+August 2016
+July 2016
+May 2016
+April 2016
+
+Categories
+
+General
+
+Machine learning
+
+Scifi
+
+Sysadmin
+
+
+Meta
+
+Log in
+Entries feed
+Comments feed
+WordPress.org
+
+
+
+
+
+
+Proudly powered by WordPress
+ | 
+						Theme: sosimple by Fernando Villamor Jr..		
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading Comments...
+
+
+
+ 
+
+
+Write a Comment...
+
+
+
+
+Email
+
+
+
+Name
+
+
+
+Website
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,644 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zapier Community | Ask, Learn, Share, Connect | Zapier Community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Get Going
+          
+
+
+
+
+
+
+About Zapier Community
+New to our Community? Get to know more about our space and how to make the most of your time here.
+          
+
+            Code of Conduct
+          
+
+            Community FAQ's
+          
+
+            Zapier Common Questions
+          
+
+            What to Expect
+          
+
+Get Started With Zapier
+ New to Zapier? We have got you covered with our Zapier 101 Resources.
+          
+Zapier Essentials
+
+
+
+
+
+
+
+
+          Get Help
+          
+
+
+
+
+
+
+Get Support
+Have a question? Let's get you an answer! 
+          
+
+            How Do I...?
+          
+
+            Troubleshooting
+          
+
+            Code & Webhooks
+          
+
+            Developer Zone
+          
+
+Other Help Resources
+ Wait, there's more! Check out these Community sourced spaces for additional resources.
+          
+
+            Zapier Help Center
+            
+
+
+
+
+            Hire an Expert
+            
+
+
+
+
+
+
+
+          Learn & Share
+          
+
+
+
+
+
+
+Zapier Reading
+All of our best learning resources can be found here. 
+          
+
+            Featured Articles
+          
+
+            Show & Tell
+          
+
+            AI Hub
+          
+
+            Zapier Apps Hub
+          
+
+Learning Groups
+ Excited to meet other builders? Check out our interest areas full of doers, dreamers, and in-betweeners.
+          
+
+            User Groups
+          
+
+Other Learning Resources
+ Some of our favorite additional ways to upskill your Zapier knowledge.
+          
+
+            Zapier Learn
+            
+
+
+
+
+            Zapier Blog
+            
+
+
+
+
+            Zapier Webinars
+            
+
+
+
+
+
+
+
+            What's New
+          
+
+
+
+
+
+
+Product Updates
+Check out what is new and upcoming with Zapier with our regular product updates.
+          
+
+Product Updates
+
+
+Early Access Program
+ Want to join Early Access? Learn more here.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Look as good as Zapier makes you feel with our new swag storefront.1 day ago
+
+
+
+
+
+
+
+
+We're really glad you're here.Search Community, Help Docs & Learn to get automating:
+
+
+
+
+Choose your adventure:
+
+
+
+
+ Get StartedLet's show you around Get HelpFind answers to your questions Product DocumentationAccess Zapier help docs Zapier LearnLevel up with Zapier courses
+
+
+
+
+Outpace ordinary at ZapConnect 2023Last year, ZapConnect brought together industry leaders and customers like you for a half-day of automation exploration. Now ZapConnect is back—and once again, you can see how to propel your business from ordinary to extraordinary. Join us at ZapConnect to:  Learn: Attend build-along sessions showing you how to take advantage of all that Zapier offers.  Grow: Review ways to streamline your lead funnel to increase sales.  Explore: Watch how other automators scale their Zaps and automate entire systems.  Discover: Move faster (and smarter) with new Zapier products and the power of AI.  When: September 28, 2023 | 9:00 a.m.- to 2:30 p.m. PT/12:00 p.m.-5:30 p.m. ETReserve your spot!
+
+
+
+
+See what's new at Zapier:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ AI Resource HubLearn about how to harness the power of AI and Zapier. Zapier Apps Resource HubSee all the best resources about our "by Zapier" apps.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Answer some recent questions:Aaim277New How Do IDelete Row in MySQLI am connecting bitrix24 with MySQL for deals management, how can I delete data row in my MySQL when the delete event is triggered from bitrix24? because previously I only found events for create and search in mysql events00A2 minutes agoQQDCCANew TroubleshootingCan I get Square cutomer information on a New Order or New Payment?I think I’m having the same problem as the person was here: I’m new to Zapier and I just wanted to update/add user info in MailChimp whenever someone placed an order on a specific item.I tried using the default template “Add or Update Mailchimp subscribers from new square transactions”:https://zapier.com/apps/mailchimp/integrations/square/66942/add-or-update-mailchimp-subscribers-from-new-square-transactionsBut when I try to find the sqaure customer data and map it to the MailChimp fields, it just says “no data”. Is it not possible to get the customer data from a Square transaction?00Q20 minutes agoKkenitafarmsBeginner TroubleshootingGoogle Tasks error: The app returned “The Auth is expired”I have quite a few zaps utilizing Google Tasks, however I just tried creating another and I get the error “The Auth is expired” when trying to select an account. I have tried reconnecting it but to no avail. I have tried a couple other Google accounts as well and they all give me the same error. Is this an issue with Google Tasks at the moment or am I missing something?212F53 minutes agoRobertN2186Beginner How Do ICreate recurring events from a form submissionHi all, I want to create some recurring events from a calendar submission. ObjectiveWhen someone submits a form on my site, I want to take the day/time that the form was submitted and create recurring events from the Monday following the form submission.  Current StatusI used some date formatters and a lookup table to take the form submission date and create an event on the Monday following the form submission. I have been able to create a subsequent event using additional date formatters based on the original event. Where I need helpCurrently I am trying to automate the process of creating more subsequent events. I would like to just be able to create some kind of loop and specify the number of times to repeat in order to create 1 years worth of recurring events. For context, the recurrence will be weekly, biweekly, and monthly; I’m hoping that I can use the same solution for all and provide a different date formatter and number of loops for each case.  ToolsWebflow: Form submissionsA032 hours agoTheBishopAGBeginner TroubleshootingMapping Google Lead Form Questions to Action Fields in ZapHi, I’m trying to map the “Qualifying Questions” that I added to my Google Lead Forms, to my Zap/Google Spreadsheet, but the “Qualifying Questions” (and multiple choice) fields don’t appear in the Action Fields in the Zap, so I can’t assign them to the columns in my Google Spreadsheet. Any help would be appreciated.28T6 hours agoKkgeary1252New How Do IRandomize Survey Responses - Publish on Website I am looking to embedd a one question survey on my website, then randomize all the answers to show just one (publicly) with a shuffle button to randomize again. Is this doable with Zapier?I have been looking for solutions on website plugins, Wordpress forums, etc. and have yet to find something. 00K7 hours agoHispanic008Beginner TroubleshootingWe hit an error adding your new account - twitterv2When I try to connect the twitter account to zapier it gives me an error message.attached image:  017 hours agoDZieglerNew How Do IHow can I contact Zapier Support directly when unable to troubleshoot a Zap error?What email address do you use when you need to contact Zapier support directly? What are other options when you cannot troubleshoot an error on one of our Zaps?I’ve tried to go through the contact form but have never had any success. I’ve tried using contact@zapier.com but received a response that the email address is no longer in service.Thank you!047 hours agoPPunkertje1995New TroubleshootingNo playlists found Spotify is contected.I don't understand why i cant see any spotify playlist while i do have playlist. Also made special new one for zap. Its also connected. But the playlist option say there no options available.I want a rss feed to add the tracks from the feed to a playlist to keep up with new songs. Here is a screenshot of the no options available for playlist  0167 hours agoAandreajordanNew How Do ISend e mail when a specific cell reach a specific valueHi I managed to create a Zap that create a draft email when rows are updated on a oogleSheet file. It works pretty fine. I wuld like to tune it a little bit.Actually I want the email to be created only when value of  cell D2 falls below zero. In the google Sheet i put a formula that says … IF( D2 is greater than 0, False, “D2”) In this way zap doesen’t gets triggered at every change of data but if the value of D2 falls  below 0 ZAP gerts triggered, but it happens also when D2 raise again from zero. (i.e friend top up their credit of a car we are using toghether)Can you suggest a way so that  zap is triggered only when value falls below zero?I cannot think of anything.Thanks027 hours agoHi there!
+ My name is Lisa Orr and I’m a product manager at Zapier. We recently launched App Extensions a new tool that lets you build a custom action in the Editor.We’re looking for users to join the App Extensions beta program, so if you want to learn more about building custom actions that fit exactly what you need, let’s chat.Schedule time with meI want to hear from you!Zapier Early Access ProgramGive your feedback and help shape Zapier's future product roadmap.Start testing new products 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powered by GainsightTerms & Conditions
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pricing
+
+
+Help
+
+
+Developer Platform
+
+
+Press
+
+
+Jobs
+
+
+Zapier for Companies
+
+
+Transfer
+
+
+
+
+
+
+
+
+
+
+Follow us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zapier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            ©
+            2023
+            Zapier Inc.
+          
+
+
+
+
+
+                Manage cookies
+              
+
+
+Legal
+
+
+Privacy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Sign up
+    
+
+        Already have an account? Login
+
+
+Use your Zapier credentials 
+
+            Log in with Zapier
+        
+
+
+
+
+
+
+Log in to the Community
+Use your Zapier credentials 
+
+            Log in with Zapier
+        
+
+
+Enter your username or e-mail address. We'll send you an e-mail with instructions to reset your password.
+
+
+
+
+
+
+                            Username or e-mail
+            
+            
+                                
+
+
+
+
+
+
+
+        Send
+    
+Back to overview
+
+
+
+
+
+Scanning file for viruses.
+Sorry, we're still checking this file's contents to make sure it's safe to download. Please try again in a few minutes.
+OK
+
+
+This file cannot be downloaded
+Sorry, our virus scanner detected that this file isn't safe to download.
+OK
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

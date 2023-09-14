@@ -1,0 +1,175 @@
+
+
+
+
+
+
+
+
+
+carbonOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Home
+      
+
+
+        Blog
+      
+
+
+        Source 
+
+
+
+        Forum 
+
+
+
+        Support
+      
+
+
+
+      Download
+    
+
+
+
+
+
+          This site may not function entirely correctly with JavaScript disabled.
+        
+
+
+
+
+    This website is still heavily WIP. Many links will lead to 404s.
+    If you'd like to contribute, please go here
+
+carbonOS
+An open operating system designed from the ground-up to be intuitive and robust.
+
+
+
+
+
+
+
+
+
+      Download
+    
+
+
+
+
+
+Intuitive
+carbonOS is designed to be minimal and
+            intuitive. It gets out of your way and lets you focus on your work.
+            Powerful features like system-wide search and the control center
+            make it easy to accomplish quick tasks without opening any other
+            apps. Features like do not disturb and the overview let you separate
+            work and play
+
+
+
+
+
+Perfect Updates, Every Time
+Update your systems confidently! carbonOS's
+            innovative design makes sure that updates are completely safe to
+            install. In fact, updates happen in the background while you're
+            working, and all it takes is a reboot to apply them. If something
+            does somehow go wrong, carbonOS will automatically undo
+            faulty updates! You can also undo updates manually if necessary
+
+
+
+
+
+Keeping You Safe
+carbonOS takes great care to protect you and
+            itself from potentially malicious programs. All system files are
+            locked and read-only, making it difficult for anything to tamper
+            with or hijack the OS.
+            
+
+
+            Apps you install are kept isolated from each other, limiting the
+            impact of any vulnerabilities or malware.
+
+
+
+
+
+Open Source
+carbonOS is an open source project, meaning
+            that anyone can audit, improve, remix, and redistribute its code.
+            This includes security researchers, curious users, or developers
+            looking to extend the system. carbonOS is built on a strong and stable
+            foundation of Free and Open Source software, and we provide the
+            latest technologies the GNU/Linux stack has to offer.
+
+
+
+
+Sponsors
+These kind organizations have made substantial
+            contributions of hardware, server space, or other essential
+            resources to the project. We use these donated resources to develop
+            carbonOS and run all of our infrastructure.
+
+
+
+            The Strnad Fellowship 
+
+
+            Fosshost 
+
+
+            GitLab for Open Source 
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+Brand
+OEM
+Privacy
+Proudly hosted by Fosshost
+© 2018-2023 carbonOS
+
+
+
+
+
+
+

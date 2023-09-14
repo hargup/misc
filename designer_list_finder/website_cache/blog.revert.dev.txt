@@ -1,0 +1,275 @@
+
+
+
+Revert Blog | Insights, stories, and updates from team Revert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+About
+Github
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+Insights, stories and updates from team Revert.
+
+
+
+
+
+
+
+
+
+
+
+Release
+v1.4.0: August updates 🌈
+
+
+You found it! The place where the changes are logged! Congrats!   🥳 Before we begin, a round of applause for our newest contributors who've joined forces to shape the future of B2B integrations with us.  Newest contributors on Revert This month we’re coming at you live and direct with a
+
+
+
+
+
+
+
+
+
+
+
+Jatin Sandilya
+Aug 31, 2023 • 1 min read
+
+
+
+
+
+
+
+
+
+
+
+Release
+Revert: July Updates 💫
+
+
+✨ New integrations, API environments and an updated website ✨ We have been busy shipping out features every week this July. A couple of major updates include Shiny new Pipedrive integrationAPI environments Website 2.0Pipedrive integration : We now support Pipedrive as a part of our suite of CRM integrations. You can add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Allen John, Jatin Sandilya
+Jul 29, 2023 • 1 min read
+
+
+
+
+
+
+
+
+
+
+
+New Feature
+Introducing Custom App Credentials with Granular Scopes 🎉
+
+
+Custom app previewWoot, Woot! New feature alert! 🔈   Want to use your own App? No problem!   We are thrilled to announce that we now support Custom App credentials to be used alongside Revert APIs! Now you can truly white-label an integration without your customers knowing about you using Revert.    Here's how
+
+
+
+
+
+
+
+
+
+
+
+Jatin Sandilya
+Jul 10, 2023 • 1 min read
+
+
+
+
+
+
+
+
+
+
+
+Release
+Revert: June Updates
+
+
+💥 Revert gets better every week 💥  Today, we are sharing a Recap of what we shipped in the past couple of weeks, including big additions like:   • Connections API alongside webhooks that listen to connection events.  • Pagination: All our API endpoints now support pagination by default.  • Added support for Hubspot associations across
+
+
+
+
+
+
+
+
+
+
+
+Jatin Sandilya
+Jun 30, 2023 • 1 min read
+
+
+
+
+
+
+
+
+
+
+
+Announcement
+Revert is going open source  ⭐
+
+
+We’re going open-source!   As we build out our platform we’ve learnt from our early partners that trust and collaboration are of paramount importance in a long term solution like ours.  We think building a platform in open is THE way to go forward and here’s what it
+
+
+
+
+
+
+
+
+
+
+
+Jatin Sandilya
+May 31, 2023 • 1 min read
+
+
+
+
+
+
+
+
+
+
+
+Announcement
+Introducing Revert-v1.0.0. The fastest way to ship native B2B integrations 🎉
+
+
+Having built some of the hardest integrations (cough Salesforce cough) for products we built in the past and gone through the pain of it ourselves, we wished there was a better experience of developing native integrations quickly so we could go back to building our core product.  From our early
+
+
+
+
+
+
+
+
+
+
+
+Jatin Sandilya
+Apr 1, 2023 • 1 min read
+
+
+
+
+
+
+
+
+
+
+Revert Blog | Insights, stories, and updates from team Revert © 2023
+
+
+Get Early Access
+
+
+
+
+
+
+
+
+
+

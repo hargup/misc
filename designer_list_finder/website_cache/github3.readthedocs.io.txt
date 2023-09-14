@@ -1,0 +1,380 @@
+
+
+
+  
+
+
+
+
+github3.py: A Library for Using GitHub’s REST API — github3.py 3.2.0 documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ github3.py
+          
+
+          
+            
+            
+
+
+                latest
+              
+
+
+
+
+
+
+
+
+
+
+Using Two-factor Authentication with github3.py
+Using Tokens for Your Projects
+Gist Code Examples
+Git Code Examples
+GitHub Examples
+Issue Code Examples
+Using Logging with github3.py
+A Conversation With Octocat
+
+
+User Guide for github3.py
+
+
+API Reference
+
+
+Release Notes and History
+
+
+Writing Tests for github3.py
+
+
+
+
+
+
+
+github3.py
+
+
+
+
+
+Docs »
+github3.py: A Library for Using GitHub’s REST API
+
+ Edit on GitHub
+
+
+
+
+
+
+
+github3.py: A Library for Using GitHub’s REST API¶
+Release v3.2.0.
+github3.py is wrapper for the GitHub API written in python. The design of
+github3.py is centered around having a logical organization of the methods
+needed to interact with the API. As an example, let’s get information about a
+user:
+from github3 import login
+
+gh = login('sigmavirus24', password='<password>')
+
+sigmavirus24 = gh.me()
+# <AuthenticatedUser [sigmavirus24:Ian Stapleton Cordasco]>
+
+print(sigmavirus24.name)
+# Ian Stapleton Cordasco
+print(sigmavirus24.login)
+# sigmavirus24
+print(sigmavirus24.followers_count)
+# 4
+
+for f in gh.followers():
+    print(str(f))
+
+kennethreitz = gh.user('kennethreitz')
+# <User [kennethreitz:Kenneth Reitz]>
+
+print(kennethreitz.name)
+print(kennethreitz.login)
+print(kennethreitz.followers_count)
+
+followers = [str(f) for f in gh.followers_of('kennethreitz')]
+
+
+There are several examples of different aspects of using github3.py
+
+
+Using Two-factor Authentication with github3.py
+Using Tokens for Your Projects
+Requesting a token
+
+
+Gist Code Examples
+Listing gists after authenticating
+Creating a gist after authenticating
+Creating an anonymous gist
+
+
+Git Code Examples
+Creating a Blob Object
+Creating a Tag Object
+
+
+GitHub Examples
+Assumptions
+Adding a new key to your account
+Deleting the key we just created
+Creating a new repository
+Create a commit to change an existing file
+Follow another user on GitHub
+Changing your user information
+
+
+Issue Code Examples
+Administering Issues
+Example issue to comment on
+Importing an issue
+
+
+Using Logging with github3.py
+A Conversation With Octocat
+
+
+
+Installation¶
+$ pip install github3.py
+
+
+
+
+User Guide¶
+
+
+User Guide for github3.py
+Getting Started
+Using the Repository APIs
+
+
+
+
+
+
+API Reference Documentation¶
+
+
+API Reference
+Anonymous Functional API
+App and Installation API Objects
+Authorizations API Classes
+Events API Classes
+Gist API Objects
+Git API Classes
+GitHub Object
+Issues API Objects
+Notifications
+Organizations and their Related Objects
+Projects and their Associated Objects
+Pull Requests and their Associated Objects
+Repository API Objects
+Search Results
+Custom Iterator Structures
+Users and their Associated Objects
+Internals
+
+
+
+
+
+
+Version History¶
+
+
+Release Notes and History
+3.x Release Series
+2.x Release Series
+1.x Release Series
+0.x Release Series
+
+
+
+
+
+
+Contributing¶
+All development happens on GitHub. Please remember to add yourself to the
+list of contributors in AUTHORS.rst, especially if you’re going to be
+working on the list below.
+
+Contributor Friendly Work¶
+In order of importance:
+Documentation
+
+I know I’m not the best at writing documentation so if you want to clarify
+or correct something, please do so.
+
+Examples
+
+Have a clever example that takes advantage of github3.py? Feel free to
+share it.
+
+Otherwise, feel free to example the list of issues where we would like help
+and feel free to take one.
+
+
+Running the Unittests¶
+The tests are generally run using tox. Tox can be installed like so
+pip install tox
+
+
+We test against PyPy3 and the following versions of Python:
+
+3.7
+3.8
+3.9
+
+If you simply run tox it will run tests against all of these versions of
+python and run flake8 against the codebase as well. If you want to run
+against one specific version, you can do
+tox -e py39
+
+
+And if you want to run tests against a specific file, you can do
+tox -e py39 -- tests/unit/test_github.py
+
+
+To run the tests, tox uses py.test so you can pass any options or
+parameters to py.test after specifying --. For example, you can get
+more verbose output by doing
+tox -e py39 -- -vv
+
+
+
+
+Writing Tests for github3.py
+Unit Tests
+Mocks
+Example - Testing the Release Object
+
+
+Integration Tests
+Betamax
+Example - Testing the Release Object
+Recording Cassettes that Require Authentication/Authorization
+
+
+
+
+
+
+
+
+
+Contact¶
+
+Twitter: @sigmavirus24
+Private email: graffatcolmingov [at] gmail
+
+
+
+
+
+
+
+Next 
+
+
+
+
+        © Copyright 2012-2021 - Ian Stapleton Cordasco
+      
+        
+          Revision 134b68c3.
+        
+
+
+  Built with Sphinx using a theme provided by Read the Docs. 
+
+
+
+
+
+
+
+
+ Read the Docs
+      v: latest
+      
+
+
+
+Versions
+latest
+stable
+3.2.0
+3.1.2
+3.1.1
+3.1.0
+3.0.0
+2.0.0
+1.2.0
+1.1.0
+1.0.2
+1.0.1
+1.0.0
+develop
+
+
+Downloads
+pdf
+html
+epub
+
+
+On Read the Docs
+
+Project Home
+
+
+Builds
+
+
+
+      Free document hosting provided by Read the Docs.
+
+    
+
+
+

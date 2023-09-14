@@ -1,0 +1,190 @@
+Steamship – SteamshipAboutAbout (opens in a new tab)GitHubGitHub (opens in a new tab)DiscordDiscord (opens in a new tab)GuidebooksAgent GuidebookRequired SkillsGetting StartedCreate Your AgentRun Your AgentDeploy Your AgentShare Your AgentCore ConceptsProject Layoutapy.pyYour AgentMemoryToolsAdd PersonalityAdd PersonalityAdd Configurable PersonalityAdd MoodsPersonality IdeasGenerate ImagesUse DALL-EUse Stable DiffusionUse Google ImagesBundle Image PromptsGenerate Stable Diffusion ImagesGenerate SpeechLearn ThingsLearn from PDFsLearn from YouTubeLearn from UsersAnswer QuestionsUse a Vector DatabaseUse a Fact ListUse Google SearchCustom API EndpointsConnect your AgentEmbed on the WebUse as an APIAdd to SlackAdd to TelegramNext StepsRead SDK DocsJoin CommunityPython SDKIntroductionConfigurationAuthenticationClient LibrariesCLIHTTP APIAgentsPackagesUsing PackagesDeveloping PackagesProject StructurePackage CookbookCollect and query sentimentExtract an outline from markdownModify an existing packageMake a package or plugin user-configurableReceive webhooks from another serviceReturning TextReturning JSONReturning ImagesReturn AudioPluginsUsing PluginsFile ImportersUsingBlockifiersUsingTaggersUsingGeneratorsDalleGpt4EmbeddersTasksDeveloping PluginsPlugin Project StructureFile ImportersBlockifiersGeneratorsTaggersEmbeddersWriting Async PluginsEmbedding Search IndexDeveloper ReferenceCloning a Starter ProjectThe Steamship Manifest filePython Environment SetupAccepting ConfigurationStoring SecretsRunning on LocalhostWriting TestsDeployingMonitoring your instancesDataWorkspacesFilesBlocksTagsQuerying DataPython API Reference (opens in a new tab)Web SDKReact (Beta)CompanyLicenseAuthorsGuidebooksAgent GuidebookRequired SkillsGetting StartedCreate Your AgentRun Your AgentDeploy Your AgentShare Your AgentCore ConceptsProject Layoutapy.pyYour AgentMemoryToolsAdd PersonalityAdd PersonalityAdd Configurable PersonalityAdd MoodsPersonality IdeasGenerate ImagesUse DALL-EUse Stable DiffusionUse Google ImagesBundle Image PromptsGenerate Stable Diffusion ImagesGenerate SpeechLearn ThingsLearn from PDFsLearn from YouTubeLearn from UsersAnswer QuestionsUse a Vector DatabaseUse a Fact ListUse Google SearchCustom API EndpointsConnect your AgentEmbed on the WebUse as an APIAdd to SlackAdd to TelegramNext StepsRead SDK DocsJoin CommunityPython SDKIntroductionSteamship in 30 secondsStart from our Multimodal Agent TemplateConfigurationAuthenticationClient LibrariesCLIHTTP APIAgentsPackagesUsing PackagesDeveloping PackagesProject StructurePackage CookbookCollect and query sentimentExtract an outline from markdownModify an existing packageMake a package or plugin user-configurableReceive webhooks from another serviceReturning TextReturning JSONReturning ImagesReturn AudioPluginsUsing PluginsFile ImportersUsingBlockifiersUsingTaggersUsingGeneratorsDalleGpt4EmbeddersTasksDeveloping PluginsPlugin Project StructureFile ImportersBlockifiersGeneratorsTaggersEmbeddersWriting Async PluginsEmbedding Search IndexDeveloper ReferenceCloning a Starter ProjectThe Steamship Manifest filePython Environment SetupAccepting ConfigurationStoring SecretsRunning on LocalhostWriting TestsDeployingMonitoring your instancesDataWorkspacesFilesBlocksTagsQuerying DataPython API Reference (opens in a new tab)Web SDKReact (Beta)CompanyLicenseAuthorsAbout (opens in a new tab)LightOn This PageSteamship in 30 secondsStart from our Multimodal Agent TemplateIntroductionSteamship
+Steamship is an SDK and hosting platform for AI Agents and Tools.
+Follow our Agent Guidebook for a complete tutorial.
+Steamship in 30 seconds
+
+Build Agents which run in the cloud.
+Use Plugins for common operations like generating text with GPT, converting a CSV to text, or generating an image from text. Steamship manages asynchronicity and retries.
+Store data in Files, Blocks, and Tags. This allows you to query or search it later.
+Deploy as a Package, creating a scalable API for your front end.
+Create as many instances of the Package as you want, each with its own data.
+
+Start from our Multimodal Agent Template
+Clone our starter repository:
+git clone https://github.com/steamship-core/multimodal-agent-starter
+Create a virtual environment and install dependencies:
+python3 -m venv venv
+source venv/bin/activate
+ 
+pip install -r requirements.txt
+pip install -r requirements.dev.txt
+Then run this to use your agent:
+ship run local
+Now that you've interacted with your new agent, you're ready to start modifying it in src/api.py.
+See the Agent Guidebook for details.
+Contents
+
+Agent Guidebook
+Configuration
+
+Authentication
+
+Steamship Configuration File
+Using Multiple Profiles
+Environment Variables
+
+
+Client Libraries
+
+Python Client
+Typescript Client
+
+
+CLI
+HTTP API
+
+Requests
+
+Optional Headers
+Engine Response Format
+
+
+Creating a Package Instance
+Invoking a Package Method
+
+
+
+
+Agents
+
+Agent
+AgentContext
+Tool
+AgentService
+
+
+Packages
+Plugins
+
+File Importers
+Blockifiers
+Taggers
+Generators
+Embedders
+
+
+Data
+
+Workspaces
+
+Creating Workspaces
+
+
+Files
+
+Creating Files Directly
+Making File Data Public
+
+
+Blocks
+
+Creating Blocks
+Making Block Data Public
+
+
+Tags
+
+Ways to use Tags
+Tag Schemas
+Block and File Tags
+
+
+Querying Data
+
+Usage
+Language Description
+
+Unary Predicates
+Binary Predicates
+Binary Relations
+Conjunctions
+Special Predicates
+
+
+
+
+
+
+Embedding Search Index
+Inserting Data
+Querying Data
+Developer Reference
+
+Cloning a Starter Project
+The Steamship Manifest file
+
+Plugin Configuration
+Steamship Registry
+
+
+Python Environment Setup
+Accepting Configuration
+
+Defining and Accepting configuration in your code
+
+
+Storing Secrets
+Running on Localhost
+
+Localhost caveats
+
+
+Writing Tests
+
+Logging
+Throwing Errors
+Manual Testing
+Automated testing
+
+Automated testing setup
+Modifying or removing automated testing
+
+
+
+
+Deploying
+
+Deploying with the Steamship CLI
+Deploying via GitHub Actions
+
+Automated Deployment Setup
+Modifying or disabling automated deployments
+
+
+Troubleshooting Deployments
+
+The deployment fails because the version already exists
+The deployment fails because the tag does not match the manifest file
+The deployment fails with an authentication error
+
+
+
+
+Monitoring your Instances
+
+Monitoring via Web
+
+Logs
+Usage
+Tasks
+
+
+Using Logging in Instances
+Logs Retrieval with ship CLI
+
+
+
+
+License
+Authors
+Join CommunityConfigurationLight© 2023 Steamship, Inc. All rights reserved.

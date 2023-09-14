@@ -1,0 +1,55 @@
+
+
+
+
+
+Filip Hráček’s homepage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Filip Hráček
+Hi, I’m Filip. I’m a pro­gram­ming buff with formal train­ing in jour­nal­ism.
+I worked in Sili­con Valley, now I’m based in Prague.
+I build games, teach pro­gram­ming, explain things,
+and create silly soft­ware experiments.
+Projects
+ Giant Robot Game in development Knights of San Francisco iOS/Android game egamebook.com text game framework Insignificant Little Vermin sword & sorcery adventure Unsure Calculator tool and notation linkcheck link checker @year_progress mastodon bot @year_progress twitter bot Star map 2D self-organizing map conference_darwin evolutionary algorithm for conference schedules 
+Experiments
+ Automatic Donald Trump Markov chain Life-time value calculator Fuzzy logic for web analytics proof-of-concept A.I. eshop cart proof-of-concept Startup namer web app Significant prime number finder web app Font with a story experiment Genetically brewed neural network ship captains experiment DJ notation proposal youtubeology.com research tmzns.com timezones converter YouTube subtitles prettifier web tool Script Prompter web tool Slot machine experiment Lorem ipsumize web tool Calendar linker web tool for Google Calendar docsToBlogger web tool mailto: persistence proof-of-concept Alojz.cz weather NLG system  (in Czech) Stav mobilního webu research  (in Czech) tisicknih.cz book recommendation engine  (in Czech) Github — all other projects 
+
+Social
+ Filip’s newsletter Raindead Games Discord server Mastodon Twitter Github LinkedIn StackOverflow filip.hracekdeletethisifyourenotarobot@gmailthisaswell.com 
+Writing
+ Filip’s newsletter (see above) Articles here on filiph.net/text Self-Improving Developer book Medium  Player agency in an open world, versus combinatorial explosion Skyrim rendered in text How Google builds web frameworks The ‘Hello World’ fallacy Why I’m joining the Dart team, of all places What kills toddlers in the U.S. [scatter plot]   Runtime.cz blog  (in Czech) Vasil.cz collaborative blog  (in Czech) Centrum zábavy free ebook  (in Czech) 
+Public speaking
+ YouTube channel Futuristic UI @ WebExpo 2023 Secrets to Effortless Code Editing in Android Studio Udemy course Quick Start to Game Development in Flutter @ Flutter Vikings 2022 Candid DevRel: The Flutter Boring Show @ DevRelCon SF 2019 Pragmatic State Management in Flutter @ Google I/O 2019 Announcing Flutter 1.0 demo @ Flutter Live 2018 Build reactive mobile apps with Flutter @ Google I/O 2018 Nové technologie mobilního webu @ WebExpo 2015  (in Czech) Přednáška o mobilech @ mDevCamp 2015  (in Czech) TL;DR přehled statistik @ mDevCamp 2014  (in Czech) Tipy a triky pro profesionální uživatele @ mDevCamp 2014  (in Czech) Technologie, o kterých byste měli vědět @ OMG Future 2013  (in Czech) Dart 1.0 @ DevFest Prague 2013  (in Czech) Google BigQuery and other tools for big data @ BigClean 2012 Why Dart? @ dotJS 2012 
+Music
+ Philip Age DJ sets Philip Age tracks 
+About this page
+This page consist of only two resources: the HTML and the picture.
+The ‘appearing’ effect is achieved using the CSS keyframes feature, and it is orchestrated by a compile-time Dart script accessible here.
+You can edit this page on Github.
+
+
+

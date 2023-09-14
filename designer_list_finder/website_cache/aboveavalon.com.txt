@@ -1,0 +1,1146 @@
+
+
+
+
+
+
+
+
+Above Avalon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+Membership
+
+
+Main Feed
+
+
+Daily Updates
+
+
+Daily Podcast 
+
+
+Reports
+
+
+Free Articles
+
+
+Free Podcast
+
+
+
+
+
+Members Lounge
+
+
+Member Archive 
+
+
+Member Login
+
+
+Inside Orchard
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+Membership
+
+
+Main Feed
+
+
+Daily Updates
+
+
+Daily Podcast 
+
+
+Reports
+
+
+Free Articles
+
+
+Free Podcast
+
+
+
+
+
+
+Members Lounge
+
+
+Member Archive 
+
+
+Member Login
+
+
+Inside Orchard
+
+
+
+
+
+
+ © 2010 - 2023Above Avalon LLC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apple’s September 2023 Product Event, A Different Feeling, Not Taking Anything for Granted
+
+
+September 13, 2023
+
+
+
+
+
+Hello everyone. Today’s update will be dedicated to going over the major takeaway from Apple’s iPhone and Apple Watch event/presentation. This will set the stage for talking about the more granular items tomorrow.
+
+
+
+Apple’s September 2023 Product EventMost of the themes that have underpinned new iPhone and Apple Watch features were on display yesterday.Apple’s unique definition of innovation. Instead of positioning new or different as the goal, a feature’s ability to improve one’s life defines Apple’s innovation strategy. While the quantity of new iPhone and Apple Watch HW items announced yesterday won’t jump out as noteworthy, the quality stood out as value-add features that have a good chance of being adopted by tens of millions of users relatively quickly.iPhone line bifurcation (pro vs. non-pro models). By launching features exclusively on the iPhone Pro models and then eventually bringing those features to the rest of the iPhone line, Apple can both createAn Above Avalon membership is required to continue reading this update. Members can read the full update here. An audio version of this update is available to members who have the podcast add-on attached to their membership. More information about the podcast add-on is found here.(Members: Daily Updates are always accessible by logging into Slack. If you haven’t logged into Slack before, fill out this form to receive an invite.)
+
+
+
+Above Avalon Membership
+
+
+
+
+    Subscribe $20/month
+  
+
+
+
+
+    Subscribe $200/year
+  
+
+
+
+Payment is processed and secured by Stripe. Apple Pay and other mobile payment options are accepted. Special Inside Orchard bundle pricing is available for Above Avalon members.More information about Above Avalon membership, including the full list of benefits and privileges, is available here. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+China Reportedly Extends iPhone Ban for Government Officials, Why the China Story Isn't Adding Up, The Huawei Factor
+
+
+September 07, 2023
+
+
+
+
+
+Hello everyone.Today’s update will be dedicated to discussing the latest developments regarding China reportedly requiring more government employees not to use iPhones for work. Given how this story is still developing, we will follow up when appropriate.Before we get to that discussion, one quick item:Virtual Member Meet-up. As with WWDC, there will be a virtual member meet-up following Apple’s presentation. Mark your calendars. Tuesday, September 12th at 5:30 pm ET / 2:30 pm PT. The meet-up will provide an opportunity for members to have conversations in real time about everything Apple announced. In addition to participating in the discussion myself, I moderate the discussion topics. The discussions are made available afterwards for other members to read through in Slack. Any updates/changes related to the virtual meet-up will be shared in Slack, so keep an eye on that space. The meet-up will take place in the #random Slack channel (available here). If you have never joined the Above Avalon team in Slack, you can request an invite here. If you have previously been in the Slack team, your email has already been registered and you can just log in again.
+
+
+
+China Reportedly Extends iPhone Ban for Government OfficialsIn an article published yesterday, here’s Yoko Kubota for the WSJ:“China ordered officials at central government agencies not to use Apple’s iPhones and other foreign-branded devices for work or bring them into the office, people familiar with the matter said.In recent weeks, staff were given the instructions by their superiors in workplace chat groups or meetings, the people said. The directive is the latest step in Beijing’s campaign to cut reliance on foreign technology and enhance cybersecurity, and comes as China seeks to limit flows of sensitive information outside of China’s borders.The move by Beijing could have a chilling effect for foreign brands in China, including Apple. Apple dominates the high-end smartphone market in the country and counts China as one of its biggest markets, relying on it for about 19% of its overall revenue.It wasn’t clear how widely the orders were being distributed, but similar messages were communicated to employees at some central government regulators…Beijing has for years restricted government officials at some agencies from using iPhones for work, but the order has now been widened, the people said. The latest order also signals an intensified effort by Beijing to ensure its rules are strictly enforced.”This article raised more questions than answers for me.An Above Avalon membership is required to continue reading this update. Members can read the full update here. An audio version of this update is available to members who have the podcast add-on attached to their membership. More information about the podcast add-on is found here.(Members: Daily Updates are always accessible by logging into Slack. If you haven’t logged into Slack before, fill out this form to receive an invite.)
+
+
+
+Above Avalon Membership
+
+
+
+
+    Subscribe $20/month
+  
+
+
+
+
+    Subscribe $200/year
+  
+
+
+
+Payment is processed and secured by Stripe. Apple Pay and other mobile payment options are accepted. Special Inside Orchard bundle pricing is available for Above Avalon members.More information about Above Avalon membership, including the full list of benefits and privileges, is available here. 
+
+
+
+
+
+
+Tags: China iPhone ban, China iPhone ban government agencies, China story iPhone, Huawei Mate 60 Pro, SMIC, Huawei Apple, Huawei iPhone, Apple iPhone China ban, China iPhone Tim Cook, China looks to expand iPhone ban
+
+
+
+
+
+
+
+
+
+
+
+
+Spotify 2Q23 Earnings, Spotify’s Podcasting Disappointment, Revisiting Apple Podcasts
+
+
+September 06, 2023
+
+
+
+
+
+We kick things off with Neil’s thoughts on Spotify’s earnings. The discussion then turns to the WSJ’s deep dive into Spotify’s podcasting strategy. We go over three specific problems with the strategy. The update concludes by bringing Apple Podcasts into the mix and looking at the overall podcasting space.
+
+
+
+Hello everyone.One follow-up to yesterday’s update. In late 2022, Apple announced $450M was being spent on U.S. infrastructure to support Emergency SOS via satellite. A majority of the funding is earmarked for Globalstar. The reimbursements that Apple will provide Globalstar for 95% of capital expenditures related to updating its satellite constellation is part of that $450M commitment.
+
+
+
+Spotify 2Q23 EarningsBack at the end of July, Spotify reported 2Q23 earnings. With 3Q23 nearly two-thirds over, we will keep our focus broad. The more interesting topic is found with Spotify and podcasting, which we will discuss shortly.Spotify’s earnings were similar to those of the past few quarters. User growth is exploding higher – thanks to a ramp up in marketing and promotions – while the company treads water financially.The following slide did a good job of summing up Spotify’s current status.An Above Avalon membership is required to continue reading this update. Members can read the full update here. An audio version of this update is available to members who have the podcast add-on attached to their membership. More information about the podcast add-on is found here.(Members: Daily Updates are always accessible by logging into Slack. If you haven’t logged into Slack before, fill out this form to receive an invite.)
+
+
+
+Above Avalon Membership
+
+
+
+
+    Subscribe $20/month
+  
+
+
+
+
+    Subscribe $200/year
+  
+
+
+
+Payment is processed and secured by Stripe. Apple Pay and other mobile payment options are accepted. Special Inside Orchard bundle pricing is available for Above Avalon members.More information about Above Avalon membership, including the full list of benefits and privileges, is available here. 
+
+
+
+
+
+
+Tags: Spotify earnings 2Q23, Spotify podcasting, Apple Spotify podcasting, Apple Podcasts, Daniel Ek, Spotify podcasting strategy
+
+
+
+
+
+
+
+
+
+
+
+
+Globalstar Signs Launch Deal With SpaceX, SpaceX on Apple’s Radar?
+
+
+September 05, 2023
+
+
+
+
+
+Hello everyone. We kick things off with Neil’s thoughts on Globalstar, the satellite operator that Apple is relying on for Emergency SOS via satellite, signing a $64M launch deal with SpaceX. The discussion then turns to answering the question: Does SpaceX’s dominance push Apple to become more hands-on with satellites? Let's jump into today's update.
+
+
+
+Globalstar Signs Launch Deal With SpaceXThe direct-to-device satellite communications space is heating up.Last year, Apple unveiled Emergency SOS via satellite for iPhone 14 and 14 Pro. Apple partnered with satellite operator Globalstar for the feature. Earlier this year, the two companies signed a ~$250M funding deal that boils down to Apple funding Globalstar's efforts to update its dozens of low Earth orbit (LEO) satellites in exchange for making the constellation available to Apple. Meanwhile, SpaceX is working with T-Mobile on providing cell phone users satellite service. AT&T is working with AST SpaceMobile to boost its coverage. Qualcomm has turned to Iridium with Android devices in mind.As for Globalstar updating its constellation, here's SpaceNews:“Globalstar has contracted SpaceX to launch Apple-backed satellites in 2025 to replenish its low Earth orbit (LEO) connectivity constellation.The operator said in an Aug. 30 regulatory filing it will pay a total $64 million to launch the first set of satellites ordered last year from MDA, which is using Rocket Lab to supply chassis for the spacecraft.While the company did not give further details about the launch agreement, its $327 million contract with MDA covered 17 satellites for deliveries anticipated in 2025. The manufacturing contract also includes an option for up to nine additional satellites at $11.4 million each.Apple has agreed to reimburse Globalstar for 95% of the constellation, including manufacturing and launch costs. The smartphone giant is also lending Globalstar $252 million to help cover upfront costs.In return, Apple would use 85% of the new network’s capacity to upgrade satellite services launched last year for its latest iPhone, which can connect with one of Globalstar’s 24 existing satellites for emergency services when cell towers are out of reach.”Even though Globalstar relied on SpaceX to launch a satellite in mid-2022, this new deal will raise the level of awkwardness between the two companies. An Above Avalon membership is required to continue reading this update. Members can read the full update here. An audio version of this update is available to members who have the podcast add-on attached to their membership. More information about the podcast add-on is found here.(Members: Daily Updates are always accessible by logging into Slack. If you haven’t logged into Slack before, fill out this form to receive an invite.)
+
+
+
+Above Avalon Membership
+
+
+
+
+    Subscribe $20/month
+  
+
+
+
+
+    Subscribe $200/year
+  
+
+
+
+Payment is processed and secured by Stripe. Apple Pay and other mobile payment options are accepted. Special Inside Orchard bundle pricing is available for Above Avalon members.More information about Above Avalon membership, including the full list of benefits and privileges, is available here. 
+
+
+
+
+
+
+Tags: globalstar, globalstar LEO satellite, Apple satellites, AAPL satellite, Globalstar SpaceX, Elon Musk, Emergency SOS via satellite for iPhone, Apple satellite globalstar partner
+
+
+
+
+
+
+
+
+
+
+
+
+Apple Considering Supplier Shift for Vision Pro Displays, Vision Pro and China, Thursday Q&A
+
+
+September 01, 2023
+
+
+
+
+
+We kick things off with some news on the Vision Pro supply chain front. While things can certainly change between now and the Vision Pro launch next year, we are getting a better view of what appears to be a challenge manufacturing Vision Pro at scale: OLEDoS (OLED on Silicon) displays. The discussion then goes over Neil’s thoughts on Vision Pro manufacturing and assembly in China. We conclude with the latest installment of Thursday Q&A in which Neil answers the following questions from Above Avalon members:What’s motivating Apple’s deal strategy with live sports?Do you agree that it has become increasingly challenging to estimate installed base totals for key Apple product categories? Will Apple change its approach? Is the lack of disclosure related to antitrust issues?Did Apple change its commentary regarding installed base figures in the last earnings call?
+
+
+
+Apple Considering Supplier Shift for Vision Pro DisplaysHere’s The Information:“When Apple dealt with Chinese manufacturers in the past, it was to buy low-level components such as small metal parts, paper boxes and batteries. For advanced parts such as displays and chips, the iPhone maker turned to firms headquartered in the U.S., Japan, South Korea and Taiwan.Times are changing.Apple is currently testing advanced displays made by two Chinese suppliers for possible inclusion in future models of its Vision Pro mixed-reality headsets, said two people with direct knowledge of the matter. The two suppliers, BOE Technology and SeeYa Technology, are among a crop of Chinese companies that are making high-end technologies, spurred by government policies designed to reduce China’s reliance on foreign tech while also making its homegrown firms more competitive.”The Information’s article suffers from what has unfortunately become a norm in the Apple news sphere: narrative-based writing. A piece of reporting is wrapped in an opinion-based narrative. In this case, the new reporting is BOE Technology and SeeYa Technology working with Apple on a possible future supplier arrangement with Vision Pro in mind. The story used to wrap the reporting in is that Apple is benefiting from Chinese policies put in place to hurt the U.S. It’s quite the stretch. We will talk more about China shortly.An Above Avalon membership is required to continue reading this update. Members can read the full update here. An audio version of this update is available to members who have the podcast add-on attached to their membership. More information about the podcast add-on is found here.(Members: Daily Updates are always accessible by logging into Slack. If you haven’t logged into Slack before, fill out this form to receive an invite.)
+
+
+
+Above Avalon Membership
+
+
+
+
+    Subscribe $20/month
+  
+
+
+
+
+    Subscribe $200/year
+  
+
+
+
+Payment is processed and secured by Stripe. Apple Pay and other mobile payment options are accepted. Special Inside Orchard bundle pricing is available for Above Avalon members.More information about Above Avalon membership, including the full list of benefits and privileges, is available here. 
+
+
+
+
+
+
+Tags: Vision Pro OLEDoS, Vision Pro displays, Vision Pro Sony, Apple Sony Vision Pro, Vision Pro China, Apple unit sales, Apple sports strategy, Apple Vision Pro supply, Vision Pro sales, Vision Pro pricing, Vision Pro revenue
+
+
+
+
+
+
+
+
+
+
+
+
+Amazon Reportedly Interested in ESPN Deal, Apple Vision Pro and Live Sports Consumption, Apple Changes Scorsese Film Release
+
+
+August 30, 2023
+
+
+
+
+
+We kick things off with Neil’s thoughts on Amazon talking with Disney about a potential ESPN deal. The update goes over Disney’s motivation with ESPN, where Big Tech becomes involved, and Apple’s connection. The discussion then turns to how live sports consumption can become a major use case for Apple Vision Pro. We go over two big questions about live sports as immersive experiences. We conclude with Apple changing the theatrical release plan for “Killers of the Flower Moon.”
+
+
+
+Hello everyone. Happy Wednesday. Apple sent invites for its next product event. September 12th at Steve Jobs Theater. New iPhones and Apple Watches are expected.
+
+ 
+
+
+
+View fullsize
+
+
+
+
+
+
+
+
+ 
+
+Let’s jump into today’s update.
+
+
+
+Amazon Reportedly Interested in ESPN DealHere’s The Information:“Amazon has had early talks with The Walt Disney Company about working on the streaming version of ESPN it is developing, said people familiar with the matter. The tech giant could offer the service through one of its streaming offerings, helping to expand its distribution, while possibly also taking a minority stake in ESPN.Such an arrangement could shore up ESPN’s status as the biggest force in sports media, even as declining TV viewership and advertising, combined with rising sports programming costs, have squeezed the sports channel and Disney, its majority owner. It could also reposition the tech behemoth, which has been trying to make a dent in sports streaming, as more friend than foe to ESPN. And it could weaken the sports leagues’ bargaining power.ESPN is considering charging between $20 and $35 a month for the new streaming service, said people familiar with the matter, a potential price range that could make it the most expensive streaming service in the U.S. and add pressure on already-stagnant growth in the streaming sector."The Information went on to say “multiple current and former Disney and ESPN insiders” value ESPN at between $25B and $35B. My first reaction was to wonder if former executives are running with ultra conservative assumptions when coming up with that $25B figure. While we don’t have a whole lot to go off of from a Disney financials perspective, my math (discussed in the July 19th update) pegged ESPN as potentially being valued at anywhere from $40B to $100B depending on one’s assumptions about future performance.While there seems to be a throw everything against the wall and see what happens complex going on with Disney and ESPN, the crux of the situation is somewhat straightforward. An Above Avalon membership is required to continue reading this update. Members can read the full update here. An audio version of this update is available to members who have the podcast add-on attached to their membership. More information about the podcast add-on is found here.(Members: Daily Updates are always accessible by logging into Slack. If you haven’t logged into Slack before, fill out this form to receive an invite.)
+
+
+
+Above Avalon Membership
+
+
+
+
+    Subscribe $20/month
+  
+
+
+
+
+    Subscribe $200/year
+  
+
+
+
+Payment is processed and secured by Stripe. Apple Pay and other mobile payment options are accepted. Special Inside Orchard bundle pricing is available for Above Avalon members.More information about Above Avalon membership, including the full list of benefits and privileges, is available here. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More on Apple’s Photo of Vision Pro in a Developer Lab, EyeSight’s Visual Cues, My EyeSight Theory
+
+
+August 29, 2023
+
+
+
+
+
+Happy Tuesday.Given incoming questions about yesterday’s update, we are going to keep the discussion going. Some members wanted to know more about what was and wasn’t shown in the following image included in Apple’s article drawing attention to the Vision Pro developer labs. Let's jump right in. 
+
+ 
+
+
+
+View fullsize
+
+
+
+
+
+
+
+
+ 
+
+More on Apple’s Photo of Vision Pro in a Developer LabFollowing the Vision Pro unveiling at WWDC, there have been quite a few questions regarding EyeSight. Positioned as one of the device’s marquee features, EyeSight is meant to lower the personal computing barrier found with wearing a computer in front of your eyes.An Above Avalon membership is required to continue reading this update. Members can read the full update here. An audio version of this update is available to members who have the podcast add-on attached to their membership. More information about the podcast add-on is found here.(Members: Daily Updates are always accessible by logging into Slack. If you haven’t logged into Slack before, fill out this form to receive an invite.)
+
+
+
+Above Avalon Membership
+
+
+
+
+    Subscribe $20/month
+  
+
+
+
+
+    Subscribe $200/year
+  
+
+
+
+Payment is processed and secured by Stripe. Apple Pay and other mobile payment options are accepted. Special Inside Orchard bundle pricing is available for Above Avalon members.More information about Above Avalon membership, including the full list of benefits and privileges, is available here. 
+
+
+
+
+
+
+Tags: Vision Pro, Vision Pro EyeSight, EyeSight technology, EyeSight camera, Apple Vision Pro headset, Apple design Vision Pro
+
+
+
+
+
+
+
+
+
+
+
+
+Apple Gives Sneak Peek Inside Apple Vision Pro Labs, Vision Pro Apps vs. Apple Watch Apps
+
+
+August 28, 2023
+
+
+
+
+
+Welcome to a new week. Today’s update takes us to Vision Pro land. Apple is peeling back the cover of its Apple Vision Pro developer labs. We examine Apple’s motivation for hosting the labs. The discussion then turns to key differences between early Apple Watch app development and what we see unfold with Vision Pro app development. Let’s jump right in.
+
+
+
+Apple Gives Sneak Peek Inside Apple Vision Pro LabsHere’s Apple:“As CEO of Flexibits, the team behind successful apps like Fantastical and Cardhop, Michael Simmons has spent more than a decade minding every last facet of his team’s work. But when he brought Fantastical to the Apple Vision Pro labs in Cupertino this summer and experienced it for the first time on the device, he felt something he wasn’t expecting.‘It was like seeing Fantastical for the first time,’ he says. ‘It felt like I was part of the app.'That sentiment has been echoed by developers around the world. Since debuting in early August, the Apple Vision Pro labs have hosted developers and designers like Simmons in London, Munich, Shanghai, Singapore, Tokyo, and Cupertino. During the day-long lab appointment, people can test their apps, get hands-on experience, and work with Apple experts to get their questions answered. Developers can apply to attend if they have a visionOS app in active development or an existing iPadOS or iOS app they’d like to test on Apple Vision Pro.”Included in Apple’s article is one of the first press photos, shown below, of someone wearing and presumably trying out Vision Pro. To date, ABC News has been the only news outlet allowed to film (video and picture) someone wearing Vision Pro. The Vision Pro mini-site on Apple’s webpage has a number of marketing clips/snippets of Vision Pro being worn.
+
+ 
+
+
+
+View fullsize
+
+
+
+
+
+
+
+
+ 
+
+Judging from the visuals shown on the headset’s outward-facing display, the wearer is fully immersed in an experience.These developer labs have been flying under the radar this month.An Above Avalon membership is required to continue reading this update. Members can read the full update here. An audio version of this update is available to members who have the podcast add-on attached to their membership. More information about the podcast add-on is found here.(Members: Daily Updates are always accessible by logging into Slack. If you haven’t logged into Slack before, fill out this form to receive an invite.)
+
+
+
+Above Avalon Membership
+
+
+
+
+    Subscribe $20/month
+  
+
+
+
+
+    Subscribe $200/year
+  
+
+
+
+Payment is processed and secured by Stripe. Apple Pay and other mobile payment options are accepted. Special Inside Orchard bundle pricing is available for Above Avalon members.More information about Above Avalon membership, including the full list of benefits and privileges, is available here. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Peloton’s Ongoing Death Spiral, Sizing up the Digital Fitness Opportunity
+
+
+August 25, 2023
+
+
+
+
+
+Hello everyone. We are getting to the last few CY2Q23 earnings reports. Today’s focus: Peloton.  After going over the key numbers from the quarter, we look at the broader market opportunity found with digital fitness. Let’s jump right in.
+
+
+
+Peloton’s Ongoing Death SpiralFor the past two years, we have been closely following Peloton’s implosion. Early red flags appeared in the company’s Form S-1 filing (IPO). Jump ahead two years and growth metrics began to deteriorate when the company should have been seeing explosive growth figures.The Peloton story eventually shifted from being a possible Apple Fitness+ competitor to offering another look into the still young digital fitness space.Back in May, Peloton unveiled a branding pivot to focus on accessibility (to appeal to more users). New membership tiers for digital fitness classes were also announced. Both came across as not fully thought out. Peloton moved away from its premium workout branding while not moving away from premium product pricing. The result is cognitive dissonance. As for the membership tiers, they are too confusing, limiting, and expensive.Accordingly, it doesn’t come as a surprise that Peloton’s FY4Q23 earnings had every membership-related line item show continued deterioration. An Above Avalon membership is required to continue reading this update. Members can read the full update here. An audio version of this update is available to members who have the podcast add-on attached to their membership. More information about the podcast add-on is found here.(Members: Daily Updates are always accessible by logging into Slack. If you haven’t logged into Slack before, fill out this form to receive an invite.)
+
+
+
+Above Avalon Membership
+
+
+
+
+    Subscribe $20/month
+  
+
+
+
+
+    Subscribe $200/year
+  
+
+
+
+Payment is processed and secured by Stripe. Apple Pay and other mobile payment options are accepted. Special Inside Orchard bundle pricing is available for Above Avalon members.More information about Above Avalon membership, including the full list of benefits and privileges, is available here. 
+
+
+
+
+
+
+Tags: PTOn, PTON, Peloton M&A, Who will buy Peloton?, Peloton sales, Barry McCarthy Peloton, Digital fitness opportunity, Peloton trouble, Peloton Apple Fitness+
+
+
+
+
+
+
+
+
+
+
+
+
+Sonos FY3Q23 Earnings, Sonos Taking Speaker Share, Sonos vs. Apple
+
+
+August 24, 2023
+
+
+
+
+
+Happy Wednesday. For today’s update, we take a closer look at Sonos’ FY3Q23 earnings. The discussion then goes over Sonos taking market share in the speaker categories that the company competes in. We conclude with key differences/similarities between Sonos and Apple.Let’s jump right in today’s update.
+
+
+
+Sonos FY3Q23 EarningsSonos has had a very busy 2023. New speakers (Era 100 and 300), services (Sonos Pro), and partnerships (Apple Music spatial audio) have fulfilled the company’s promise of continuing to move the platform forward. However, Sonos is unable to escape the consumer electronics gadget recession. Sales promotions continue to be needed to maintain speaker sales trends.The following exhibit shows Sonos speaker sales on a TTM (trailing twelve months) basis to remove the seasonality associated with the holidays. The sales decline is becoming more noticeable.An Above Avalon membership is required to continue reading this update. Members can read the full update here. An audio version of this update is available to members who have the podcast add-on attached to their membership. More information about the podcast add-on is found here.(Members: Daily Updates are always accessible by logging into Slack. If you haven’t logged into Slack before, fill out this form to receive an invite.)
+
+
+
+Above Avalon Membership
+
+
+
+
+    Subscribe $20/month
+  
+
+
+
+
+    Subscribe $200/year
+  
+
+
+
+Payment is processed and secured by Stripe. Apple Pay and other mobile payment options are accepted. Special Inside Orchard bundle pricing is available for Above Avalon members.More information about Above Avalon membership, including the full list of benefits and privileges, is available here. 
+
+
+
+
+
+
+Tags: Sonos, Sonos apple, Apple speaker share, HomePod speaker share, Patrick Spence, Sonos market share, Sonos speaker unit sales, Sonos AAPL SONO, Sonos speaker strategy
+
+
+
+
+
+
+
+
+
+
+
+
+Meta’s Ray-Ban Stories Sales Figures Leak, Ray-Ban Stories’ Retention Problem, Ray-Ban Stories vs. Vision Pro
+
+
+August 23, 2023
+
+
+
+
+
+Hello everyone. It’s good to be back. It looks like the news flow was relatively quiet. This will afford us time to catch up on a few items. For today’s update, we take a closer look at the WSJ’s reporting regarding Meta’s Ray-Ban Stories smart glasses. The discussion includes a broader overview of why the devices have such a poor retention problem with users.Today’s email will focus on an update regarding the smart glasses space.
+
+
+
+Meta’s Ray-Ban Stories Sales Figures LeakIn an article published on August 3rd, here’s the WSJ:“The Ray-Ban smart glasses launched by Meta Platforms almost two years ago have struggled to catch on with owners, many of whom appear to be using the devices infrequently, according to internal company data.Less than 10% of the Ray-Ban Stories purchased since the product’s launch in September 2021 are used actively by purchasers, according to a company document from February reviewed by The Wall Street Journal. Meta sold a total of 300,000 of the wearable devices through February, but the company only had about 27,000 monthly active users.The device, an important part of Meta’s hardware strategy, allows users to take photos and listen to music with the frames of their glasses, among other features. It has experienced a 13% return rate, according to the document.Among the top drivers of poor user experience were issues with connectivity, problems with some of the hardware features including battery life, inability for users to import media from the devices, issues with the audio on the product and problems with voice commands for the smart glasses, according to the document.”Meta released Ray-Ban Stories in September 2021 as the world was still engulfed in the pandemic. Travel and work patterns were disrupted while leisure activities hadn’t returned to normal. After an initial burst of media exposure, the buzz surrounding Stories quickly evaporated. There was good reason to assume the product wasn’t selling well.We now have what appears to be our answer. With a $299 starting price, Meta sold 300,000 pairs of Stories in 18 months or so. That isn’t good. We aren’t talking about a HW start-up trying to get in front of consumers. An Above Avalon membership is required to continue reading this update. Members can read the full update here. An audio version of this update is available to members who have the podcast add-on attached to their membership. More information about the podcast add-on is found here.(Members: Daily Updates are always accessible by logging into Slack. If you haven’t logged into Slack before, fill out this form to receive an invite.)
+
+
+
+Above Avalon Membership
+
+
+
+
+    Subscribe $20/month
+  
+
+
+
+
+    Subscribe $200/year
+  
+
+
+
+Payment is processed and secured by Stripe. Apple Pay and other mobile payment options are accepted. Special Inside Orchard bundle pricing is available for Above Avalon members.More information about Above Avalon membership, including the full list of benefits and privileges, is available here. 
+
+
+
+
+
+
+Tags: Meta Ray-Ban Stories, Meta smart glasses, Ray-Ban stories retention, Vision Pro Ray-Ban Stories, Ray-Ban Stories 90%, Zuckerberg smart glasses
+
+
+
+
+
+
+
+
+
+
+
+
+Apple Launches “Pay the Apple Way” Marketing Campaign, Apple and the Pac-12 Implosion
+
+
+August 16, 2023
+
+
+
+
+
+Hello everyone. For today’s update, we look at Apple’s new Apple Pay marketing push. The discussion then turns to craziness in the sports world as Apple finds itself at the center of the Pac-12 implosion.Let’s jump right in.
+
+
+
+Apple Launches “Pay the Apple Way” Marketing CampaignHere’s Marketing Dive:“Apple is doubling down on its fintech ambitions with ‘Pay the Apple Way,’ spotlighting the no-hassle framework of its Pay feature via an expansive campaign that could help market additional payment tools from the company that were unveiled earlier this year. Among the new features is a high-yield savings account for Apple Card users, announced in April, which has since reached over $10 billion in deposits. Apple also began rolling out its buy now, pay later program in March.‘Pay the Apple Way’ is meant to present a solution to the inconveniences of traditional money-dealing like carrying around a bulky wallet, struggling to find the right card and feeling concerned about privacy. Apple is flexing the ease of its Pay feature, which allows payments to be made directly from an Apple device, with a DOOH [digital out-of-home] experience that’s being billed as both dynamic and immersive, per release details. The ads will appear across prominent street and mall placements in London, Birmingham and Manchester in the UK along with Atlanta and Dallas in the U.S., touting straight-forward messages like ‘Your watch is your wallet’ and ‘Pay the secure way.’”In addition to the physical marketing (examples shown below), Apple is also spending money on video advertisements and social media with Apple Pay campaigns on X and TikTok.
+
+
+
+
+
+View fullsize
+
+
+
+
+
+
+
+
+
+
+
+
+View fullsize
+
+
+
+
+
+
+
+
+
+
+This marketing campaign comes as society returns to pre-pandemic behavior in terms of leisure, travel, and spending time out and about. The value found with mobile payments increases as people spend more time out of the home.Apple Pay adoption among merchants has not been an issue outside the U.S. given the proliferation of contactless payments. In the U.S., after years of work to improve merchant adoption, digital payments like Apple Pay are on the verge of finally being described as widely accepted. An Above Avalon membership is required to continue reading this update. Members can read the full update here. An audio version of this update is available to members who have the podcast add-on attached to their membership. More information about the podcast add-on is found here.(Members: Daily Updates are always accessible by logging into Slack. If you haven’t logged into Slack before, fill out this form to receive an invite.)
+
+
+
+Above Avalon Membership
+
+
+
+
+    Subscribe $20/month
+  
+
+
+
+
+    Subscribe $200/year
+  
+
+
+
+Payment is processed and secured by Stripe. Apple Pay and other mobile payment options are accepted. Special Inside Orchard bundle pricing is available for Above Avalon members.More information about Above Avalon membership, including the full list of benefits and privileges, is available here. 
+
+
+
+
+
+
+Tags: Pac-12, Big Ten, Apple Pac-12, Apple Pac-12 implosion, Apple TV+ Pac-12, Pac-12 implosion Apple offer, Pay the Apple Pay marketing, Pay the Apple Way marketing campaign, Pay the Apple Way marketing, Apple Card, Apple Pay revenue, How much does Apple make from Apple Pay?, Apple Pay strategy, Apple services, Apple buy now pay later, Apple Savings
+
+
+
+
+
+
+
+
+
+
+      Prev / Next
+
+
+
+
+
+
+By Neil Cybart
+
+
+
+Daily Updates
+
+
+
+
+
+
+Featured
+
+
+
+
+
+
+
+
+
+
+
+
+Sep 13, 2023
+
+
+
+
+
+Apple’s September 2023 Product Event, A Different Feeling, Not Taking Anything for Granted
+
+
+
+Sep 13, 2023
+
+
+
+
+
+
+
+Sep 13, 2023
+
+
+
+
+
+
+
+
+
+
+
+Sep 7, 2023
+
+
+
+
+
+China Reportedly Extends iPhone Ban for Government Officials, Why the China Story Isn't Adding Up, The Huawei Factor
+
+
+
+Sep 7, 2023
+
+
+
+
+
+
+
+Sep 7, 2023
+
+
+
+
+
+
+
+
+
+
+
+Sep 6, 2023
+
+
+
+
+
+Spotify 2Q23 Earnings, Spotify’s Podcasting Disappointment, Revisiting Apple Podcasts
+
+
+
+Sep 6, 2023
+
+
+
+
+
+
+
+Sep 6, 2023
+
+
+
+
+
+
+
+
+
+
+
+Sep 5, 2023
+
+
+
+
+
+Globalstar Signs Launch Deal With SpaceX, SpaceX on Apple’s Radar?
+
+
+
+Sep 5, 2023
+
+
+
+
+
+
+
+Sep 5, 2023
+
+
+
+
+
+
+
+
+
+
+
+Aug 31, 2023
+
+
+
+
+
+Apple Considering Supplier Shift for Vision Pro Displays, Vision Pro and China, Thursday Q&A
+
+
+
+Aug 31, 2023
+
+
+
+
+
+
+
+Aug 31, 2023
+
+
+
+
+
+
+
+
+
+
+
+Aug 30, 2023
+
+
+
+
+
+Amazon Reportedly Interested in ESPN Deal, Apple Vision Pro and Live Sports Consumption, Apple Changes Scorsese Film Release
+
+
+
+Aug 30, 2023
+
+
+
+
+
+
+
+Aug 30, 2023
+
+
+
+
+
+
+
+
+
+
+
+ReportsApple’s Reality (Headset) Plans Project Titan: Apple’s Transportation AmbitionApple’s Share Buyback: What Comes Next? (Above Avalon Report)HomePod: The Discontinuation That Still Has Unanswered QuestionsThe iPhone MiniShare Buyback 101: An Examination of Apple’s Share Repurchase Strategy
+
+
+
+XNeil CybartAbove Avalon Inside Orchard FacebookAbove AvalonYouTubeNeil Cybart
+
+
+
+
+
+
+
+
+
+
+
+

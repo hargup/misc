@@ -1,0 +1,20 @@
+
+
+
+
+
+DriftDB | DriftDB
+
+
+
+
+
+Skip to main contentDriftDBReact InterfaceIntroductionAPIGitHubDriftDB
+
+
+
+
+DriftDB is a real-time data backend that runs on the edge. Clients connect to it directly over a WebSocket. It supports a number of messaging primitives, including:Publisher / subscriber channels (PubSub)Key/value storage with subscriptionsOrdered streamsAs an example of what it’s capable of, here’s a multiplayer voxel editor in under 200 lines of code.DriftDB is MIT-licensed Rust code. A client library is provided for JavaScript, as well as ergonomic React bindings.We also provide free hosted DriftDB instances. These docs are applicable to both hosted and self-hosted DriftDB instances.Get a free API key for hosted DriftDBUse cases​As a general rule, DriftDB is useful any time you wish you could connect directly from one browser to another, or from a non-web-connected backend (e.g. background task) to a browser. Examples include:Backend for state synchronization in real-time collaborative apps (e.g. a whiteboard or casual multiplayer game)Streaming build logs in real time in a CI/CD systemWebRTC signalingLive Demos​Shared State (code)Counter (code)Tic Tac Toe (code)Voxel Editor (code)Shared Canvas (code)React example​Here’s an example of DriftDB-React in action to synchronize a slider element across multiple clients:import { DriftDBProvider, useSharedState } from 'driftdb-react'function StateDemo() {    // useSharedState is like useState, but synchronized with other clients.    const [slider, setSlider] = useSharedState("slider", 0)    return <div>        <input            type="range"            value={slider}            onChange={e => setSlider(parseInt(e.target.value))}        />    </div>}export default function SliderDemo() {    /*  TODO: fill with a key from jamsocket.live,        or your own hosted DriftDB instance. */    const dbUrl = "https://api.jamsocket.live/db/FILL_ME_IN"    return <div>        <DriftDBProvider api={dbUrl}>            <StateDemo />        </DriftDBProvider>    </div>}All messages in DriftDB belong to a room, and have a key. Rooms and keys are both represented by strings. Rooms are represented by a unique generated string of characters. Keys are chosen by the developer and usually have a meaning in the context of the application. In the example above, slider is the name of the key used for synchronizing the state of the range slider input.The room in the example above depends on whether the user visits the page directly or via a link that includes a room ID. If the user visits the page directly, a new room ID is generated and inserted into the URL. If another user opens the same URL, they will be connected to the same room, and instantly be sharing state. This is not behavior of DriftDB itself, but of the DriftDBProvider React component used as a client.A connection with the server is scoped to a room. Messages to multiple keys (within the same room) are multiplexed over one connection.For more details on DriftDB-React, see the React docs or this four-minute tutorial video.Limitations​DriftDB is intended for use cases where a relatively small number of clients need to share some state over a relatively short period of time. For example, it could be used to build a shared whiteboard, or act as a signaling server for WebRTC. Room state is currently persisted for 24 hours after the last write.DriftDB has a very basic trust model: if you have the room ID, you have write access to all data in the room. This is useful for applications whose multiplayer functionality can be siloed into rooms, where access to each room can be limited to a set of people trusted by the room’s creator.If you want to run arbitrary server-side code for persistence or access control, consider using Plane instead.Learn more​Read more about the React interfaceLearn the APIUse casesLive DemosReact exampleLimitationsLearn moreDocsReact QuickstartCommunityDiscordTwitterGitHubCopyright © 2023 Drifting in Space Corp. Built with Docusaurus.
+
+
+

@@ -1,0 +1,14 @@
+Blip LabsHomeProductCompanyGet startedOpen main menuGrow wallet share with one integrationSeamlessly embed our all-in-one bill management toolkit into your banking app to engage customers, boost revenue, and become top-of-wallet.Trusted by top Fintechs and BanksDrive repeat engagement77% of consumers pay at least one bill manually each month.Capture recurring expensesU.S. households spend an average of $2,046 on monthly bills.Increase loyalty and retention4 out of 5 users expect a view of their bills within their financial app.One Integration,
+Full Suite of Features.We have reimagined traditional bill pay with purpose-built capabilities that delight users and drive your business.Bill IdentificationGet your users onboarded and active from day one by automatically identifying and displaying your users’ bills and liabilities with minimal manual entry.Card SwitchIncrease interchange revenue and push your card top-of-wallet by enabling users to seamlessly switch their card on file at merchants from within your application.Bill PaymentsCapture more wallet-share and banking activity by facilitating payments so users can directly pay bills like debt and utilities using your account.Insightscoming soonDeepen and grow your customer relationship by presenting relevant recommendations and offerings to improve your users’ financial wellness.Save Your Developers TimeSimply drop our white-label module into your app and our built-in flows work out-of-the-box so that you can go live with minimal effort.Single SDK includes all available featuresCustomizable UI components to match your app’s styleSimple API integration to set up an end userRequest our docsBillsTab.tsx<BlipModule
+  apiConfig={{ token: "xxxxx.yyyyy.zzzzz" }}
+  theme={{
+    colorTextPrimary: '#f7c548'
+  }}
+  onEvent={(event) => {
+    if (event.name === "enroll") {
+      console.log(`Enrolled: ${event.enduserOid}`);
+    } else if (event.name === "load") {
+      console.log(`Loaded: ${event.enduserOid}`);
+    }
+  }}
+/>;Let's chat!Contact usPrivacyTerms© Blip Labs Technologies, Inc.;

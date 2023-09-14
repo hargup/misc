@@ -1,0 +1,26 @@
+
+
+2i2cSearch
+Cloud ServiceProjectsAboutTeam and organization
+Mission, values, and strategy
+Right to Replicate
+Origin story
+Jobs at 2i2c
+Collaborate with us
+Donate to 2i2cBlogContact UsdocssupportLight
+Dark
+AutomaticInteractive computing for your community2i2c designs, develops, and operates JupyterHubs in the cloud for communities of practice in research & education. It builds and supports open source infrastructure that serves these communities.Learn about our cloud service
+Our Mission The Managed JupyterHub Service ☁️JupyterHubs in the cloud for your community, managed by 2i2c.The Managed JupyterHubs Service is a federation of JupyterHubs that are designed, configured, and managed by 2i2c. They are built entirely on open source infrastructure, are vendor- and cloud-agnostic, and are designed by and for the research and education community.Managed JupyterHub as a Service2i2c manages cloud infrastructure for JupyterHub so that you can focus on your work.Designed for our communitiesWe have extensive experience in research and education, and design our infrastructure for these communities.The Right to Replicate your infrastructureOur JupyterHubs use entirely open-source and community-driven tools, allowing you to replicate our hubs on your own.Learn about our cloud serviceInnovation in Interactive Computing Infrastructure. 🤝Collaborations with research and education to develop new technology.We collaborate with communities in research and education to drive new development in interactive computing technology that supports our communities.
+Here are a few core tenets of our development model.IntegrateWe leverage pre-existing open source infrastructure developed by communities of peers to solve new problems in research and education.EnhanceWe extend and improve this infrastructure to support our collaborators and the communities we serve.UpstreamWe ensure that the improvements we make are contributed back to open source communities, so that others may benefit from our efforts.Learn about our projectsSupport for open source communities 💗.Core support for open source communities that underlie our infrastructure.In all of the work we do, we live
+our values
+by collaborating with others, using and building open source infrastructure in partnership with communities, and creating technology that makes interactive computing more accessible and powerful for all.Research and education will have a strong foundation of tools to use if those tools are supported by a healthy and strong ecosystem of open communities that create those tools. 2i2c supports many of these communities by investing our time and expertise to provide core development support, community stewardship, and strategic support and leadership.Learn about our open source effortsContactIf you’ve got a question about 2i2c or would like to inquire about 2i2c managed JupyterHubs, reach out via the buttons below:Join our mailing list 📰Send us an email ✉️Donate to 2i2cMuch of the work we do is supported by grants and donations from stakeholders in our community. These resources go towards things like new development of open source technology, maintenance for open source projects, community development efforts, sponsoring hubs for under-resourced communities, and general support for 2i2c in its mission.Fill our the form below to make a donation to 2i2c via its fiscal sponsor,
+Code for Science and Society
+. If you’d rather have a conversation with us first about your donation, please
+send us an email
+.
+© 2023 2i2c. This work is licensed under CC BY 4.0.
+
+
+Published with Wowchemy — the free, open source website builder that empowers creators.
+
+

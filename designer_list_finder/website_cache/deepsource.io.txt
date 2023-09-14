@@ -1,0 +1,62 @@
+DeepSource: The Code Health Platform
+
+
+
+
+PlatformStatic AnalysisFind and fix code quality issuesSASTProactive source code securityIaC AnalysisHarden your infrastrutureSelf-hostingDeploy DeepSource privatelyAutofixâ¢ï¸Auto-remediation you can trustReportsVisualize code health & securityCode CoverageDiscover and fix untested codeIDEIssue detection within your IDEPlatform OverviewDiscover everything our platform can do
+
+CustomersPricing
+
+ResourcesBlogDocumentationTrust ReportCommunityOWASPÂ® Top 10
+
+CompanyAboutJobsSecurityRoadmapChangelogLoginSign upRequest a demo
+
+Request Demo
+
+PlatformStatic AnalysisFind and fix code quality issuesSASTProactive source code securityIaC AnalysisHarden your infrastrutureSelf-hostingDeploy DeepSource privatelyAutofixâ¢ï¸Auto-remediation you can trustReportsVisualize code health & securityCode CoverageDiscover and fix untested codeIDEIssue detection within your IDEPlatform OverviewDiscover everything our platform can do
+
+CustomersPricing
+
+ResourcesBlogDocumentationTrust ReportCommunityOWASPÂ® Top 10
+
+CompanyAboutJobsSecurityRoadmapChangelogLoginSign upRequest a demo
+
+Request DemoRequest a demoWork email address *No. of developers *51 - 200<2525 - 5051 - 200201 - 500501 - 10001000+* Please select required fieldsSubmitThank you! Your submission has been received!Oops! Something went wrong while submitting the form.
+
+
+
+Pick a repository to beginGitHubGitLabBitBucketThank you! Your submission has been received!Oops! Something went wrong while submitting the form.By continuing, you are agreeing to our Terms of Service and Privacy Policy.Read the Ancestry case studyThe Code Health PlatformEverything you need to build maintainable and secure software.Request a demo
+
+
+
+Quickstart in 5 minsStatic AnalysisStatic AnalysisSASTCode CoverageIaC AnalysisAutofixReportsSelf-hostingStatic AnalysisSASTCode CoverageIaC AnalysisAutofixâ¢ï¸ReportsSelf-hostingStatic Code AnalysisAnalyze every pull-request to find and fix code quality issues before you merge to master. No CI setup required.IntegrationsGitHubGitLabBitbucketGoogle Source RepositoriesLanguagesPythonJavaScriptGoRubyC#/.NETScalaSQLJavaPHPRustShellC++Learn moreReplacesSonarQube, Codacy, Code Climate, SemgrepStatic Application Security TestingPrevent hundreds of known security vulnerabilities in your code and stay compliant with industry standards.standardsOWASPÂ® Top 10Mitre CWESANS/CWE Top 25top features< 5% false-positives guaranteedIntegrated secrets scanningPowerful security gatesAdvanced triage and prioritizationLearn moreReplacesCheckmarx, GitHub Advance Security, Semgrep, Snyk Code, Veracode, WhiteSourceCode CoverageMeasure code coverage metrics and discover lines with missing tests on every pull request. Works with all CI systems.integrationsCircle CITravis CIGitHub ActionsJenkinskey featuresDiscover lines not covered in tests and unexecuted testsTrack Line Coverage, Branch Coverage, Condition Coverage and New Code CoverageLearn moreReplacesCodecov, CoverallsInfrastructure-as-code AnalysisPrevent misconfigurations and security vulnerabilities in your infrastructure configuration before deploying to productiontechnologiesAnsibleTerraformDockercloud providersGoogle Cloud PlatformAmazon Web ServicesMicrosoft AzureLearn moreReplacesBridgecrew, LightspinAutofixâ¢ï¸Automatically generate fixes for thousands of code quality and security issues. Designed to be 100% safe.key featuresGenerate pull requests for existing issues in the code base in one click.Fix issues in new pull requests with a new commit without breaking your flow.Learn morecode formattingRun code formatters on every commit and apply changes automatically without breaking your CI builds.ReportsGet a deeper understanding of your organization's code health with powerful insights, security reports, and historical trends.reportsOWASPÂ® Top 10, SANS/CWE Top 25, Code Health Report, Issue Distributionkey featuresShare password-protected public reportsJSON-based API accessOrganization-wide aggregation across hundreds of repositoriesLearn moreSelf-hostingDeploy DeepSource on-prem on your private cloud within minutes, and retain full control of your source code and privacy.integrationsGoogle Cloud PlatformAmazon Web ServicesMicrosoft AzureDigital OceanBare Metalkey featuresOne-click deploy on AWS and GCPCentralized Enterprise Control PanelOne-click upgradesSupport for air gap networkingLearn moreSelf-hostingDeploy DeepSource on-prem on your private cloud within minutes, and retain full control of your source code and privacy.integrationsGoogle Cloud PlatformAmazon Web ServicesMicrosoft AzureDigital OceanBare Metalkey featuresOne-click deploy on AWS and GCPCentralized Enterprise Control PanelOne-click upgradesSupport for air gap networkingLearn moreTRUSTED BY 5,000+ COMPANIES, FROM STARTUPS TO FORTUNE 500sMove fast without breaking thingsMaintainable and secure code helps you ship better products, faster. With DeepSource, developers, security teams, and engineering leaders can take action proactively at every stage.For DevelopersFor DevelopersFor Security Teams For Engineering Leaders For DevelopersFor Security Teams For Engineering LeadersCreate better pull-requests that get merged fasterDeepSource runs static anlaysis on every commit and helps you address code quality and security issues before you can ask your peers for a review.Track and improve code coverage on every commitVisualize line coverage and branch coverage, and discover missing tests. Simply send the coverage report from any CI tool and DeepSource will do the rest.Automatically fix issues with Autofixâ¢ï¸Manually fixing issues can be tedious. With Autofixâ¢ï¸, generate fixes for thousands of issues at once and create a pull-request automatically with the fixes.Put code formatting on autopilotRun popular code formatters like Black, Prettier, go fmt, isort and autopep8 automatically on every commit. DeepSource will apply the changes without you lifting a finger (on a button)."We have used multiple SAST solutions in the past and POC'd many more. DeepSource is one of the few ones that has a manageable false-positive rate. The team has been very responsive working with us, forging a strong working partnership with our product security team."Piero Molino -Senior Software Engineer, UberMaintain compliance with OWASPÂ® and SANS standardsDiscover and fix violations of OWASPÂ® Top 10 and SANS/CWE Top 25 proctively on new pull-requests and existing code. Visualize violations across all repositories in your organization.Harden your infrastructureOur powerful IaC analysis helps you prevent hundreds of security issues and misconfigurations in AWS, GCP, or Azure infrastructure-as-code files.Triage and assign priorities for security vulnerabilitiesNot all issues need to be fixed right away. Assign custom priorities to SAST issues, create ignore rules, and enable developers to take action proactively.Educate developers to prevent obvious security mistakesSecurity is everyoneâs job, but not everyone deeply understands security. Enforcing secrets scanning and mandating security checks enables your team to write secure code.DeepSource helped us adding security checks without making our CI more complex. It caught several security issues that could have been potentially very, very catastrophic.Ramiro Berrelleza -Founder & CEO, OktetoUnderstand your code health from one single dashboardWith in-depth reporting of key metrics, uncover code health trends, identify areas that need the teamâs attention, and track progress every week.Build trust with shareable security reportsEnforce compliance with industry-standard security recommendations like OWASPÂ® Top 10 and SANS/CWE Top 25 and share these reports with stakeholders in a couple of clicks.Reduce onboarding time for new developersSystemize your teamâs coding conventions with rules and quality gates across all repositories, so itâs easier for new developers to start contributing.Increase velocity of shipping softwareCode review automation has been proven to decrease average pull-request merge time by at least 30%. Enable your team to move fast while shipping clean and secure code.DeepSource complements our CI and has help us adopt source code quality as critical part of a larger DevOps strategy. It has been a pleasure to use this product.Lewis McGibbney -Senior Engineer, NASA Jet Propulsion LaboratoryLoved by developers. Trusted by enterprises.Our platform enables thousands of enterprises to manage their code health while providing their developers a pleasant experience.We have used multiple SAST solutions in the past and POC'd many more. DeepSource is one of the few ones that has a manageable false-positive rate. The team has been very responsive working with us, forging a strong working partnership with our product security team.Yash KosarajuDirector of Infrastructure SecurityI'm a big fan of DeepSource. I reviewed quite a few products to better support our engineers and the quality of problems found was far better than Codacy or Code Climate for our Python backend codebase.Adam PietrzyckiEngineeringWe compared it against other tools and DeepSource seemed to find more meaningful things in the code. Since we've adopted it, we've hired more junior-level engineers to focus on the bug risks and security issues DeepSource finds. It finds things our engineers generally miss.John CraftVP of EngineeringDeepSource looks at things that might create a security problem or a performance problem going forward; or if we're violating a best practice. All that gets codified into DeepSource and as developers, for code reviews, now we can focus on higher-order bits.Arpit MohanCo-founder & CEODeepSource is static code analysis for humans. Stop wasting your time setting up and maintaining CLI tools on CI, just use DeepSource.Ruslan KuprieievTeam LeadThanks to DeepSource, all our code quality practices are now automated. It automatically highlights code quality issues and helps us fix them even before someone reviews the code manually â saving a lot of the reviewer's time.Joy Lal ChattarajEngineeringTry DeepSource todayStart managing your codehealth from a single platform.
+
+Request a demo
+
+
+
+Quickstart in 5 minsplatform
+
+Platform Overview PricingStatic AnalysisSASTAutofixâ¢ï¸IaC AnalysisReportsCode CoverageSelf-hostingIDERoadmapChangelogresources
+
+BlogGlossaryGood Code PodcastGood First IssueSpotlightState of Code HealthState of Code HealthState of GoOWASPÂ® Top 10 Whitepapercompany
+
+AboutSecurityTrust ReportJobsPress EnquiriesBrand AssetsTermsPrivacysupport
+
+DocumentationSystem StatusContact SalesCommunity ForumPLATFORMPlatform Overview PricingStatic AnalysisSASTAutofixâ¢ï¸IaC AnalysisReportsCode CoverageSelf-hostingIDERoadmapChangelogresourcesBlogGlossaryGood Code PodcastGood First IssueSpotlightState of Code HealthState of GoOWASPÂ® Top 10 WhitepapercompanyAboutSecurityTrust ReportsJobsPress EnquiriesBrand AssetsTermsPrivacysupportDocumentationSystem StatusContact SalesCommunity Forum
+
+
+
+
+
+
+
+Â© 2023 DeepSource Corp. All rights reserved.By using this website, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. View our Privacy Policy for more information.DenyAccept All 
+
+
+
+
+
+
+
+
